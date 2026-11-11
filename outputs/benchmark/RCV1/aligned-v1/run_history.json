@@ -1,0 +1,72 @@
+[
+  {
+    "stage": "check",
+    "elapsed_seconds": 1.5159999998286366,
+    "success": true
+  },
+  {
+    "stage": "check",
+    "elapsed_seconds": 1.4219999997876585,
+    "success": true
+  },
+  {
+    "stage": "check",
+    "elapsed_seconds": 1.5940000000409782,
+    "success": true
+  },
+  {
+    "stage": "check",
+    "elapsed_seconds": 1.6089999999385327,
+    "success": true
+  },
+  {
+    "stage": "check",
+    "elapsed_seconds": 1.5,
+    "success": true
+  },
+  {
+    "stage": "check",
+    "elapsed_seconds": 1.3910000000614673,
+    "success": true
+  },
+  {
+    "stage": "check",
+    "elapsed_seconds": 1.6410000000614673,
+    "success": true
+  },
+  {
+    "stage": "all",
+    "elapsed_seconds": 293.6099999998696,
+    "success": false
+  },
+  {
+    "stage": "all",
+    "elapsed_seconds": 621.563000000082,
+    "success": false
+  },
+  {
+    "stage": "check",
+    "elapsed_seconds": 1.9839999999385327,
+    "success": true
+  },
+  {
+    "stage": "all",
+    "elapsed_seconds": 1297.9379999998491,
+    "success": false
+  },
+  {
+    "stage": "check",
+    "elapsed_seconds": 1.9219999997876585,
+    "success": true
+  },
+  {
+    "stage": "all",
+    "elapsed_seconds": 101.42200000002049,
+    "success": false
+  },
+  {
+    "stage": "check",
+    "elapsed_seconds": 1.4370000001508743,
+    "success": true
+  }
+]

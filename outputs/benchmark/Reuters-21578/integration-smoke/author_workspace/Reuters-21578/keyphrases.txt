@@ -1,0 +1,186 @@
+0: weather, agriculture, Brazil
+0: cocoa, arrivals, season
+0: agriculture, cocoa, estimate
+0: agriculture, export, cocoa
+0: commodity, price, shipment
+0: agriculture, commodity, trade,
+0: dairy, butter, trade,
+0: economy
+0: commodity, price, agriculture
+0: cocoa, brazil, carnival,
+1: agriculture, prices, reserve
+1: agriculture, commodities, prices
+1: agriculture, farming, crops
+2: grain, oilseed, agriculture
+2: agriculture, grains, exports
+2: agriculture, commodities, trade
+2: commodity, oil, agriculture
+3: stock split, champion products, annual meeting
+3: finance, capital, stock
+4: finance, stock, sale
+4: merger, acquisition, stock
+4: technology, stock, finance
+4: reorganization, license, cost
+4: computer, printer, terminal,
+5: finance, earnings, banking,
+6: earnings, expenses, mattress
+6: acquisitions, earnings, finance
+6: earnings, acquisitions, delay,
+7: earnings, revenue, financial performance
+7: finance, profit, revenue
+7: finance, tax, loss
+8: earnings, revenue, finance
+9: earnings, food processor, quarterly results
+9: earnings, sales, financial performance,
+9: earnings, performance, bottom line
+9: business, acquisitions, economy,
+9: business, finance, food,
+10: agriculture, trade, yemen
+10: trade, agriculture, commerce,
+11: copper, price, mining
+12: stock split, dividend, earnings outlook
+12: dividend, split, finance,
+12: earnings, sales, decline
+12: earnings, restructuring, tax,
+13: finance, earnings, revenue
+13: finance, dividend, stockholders
+14: earnings, revenue, finance
+14: business, finance, results,
+15: housing, sales, real-estate
+15: real estate, tax laws, sales rate,
+16: finance, investment, mutual funds
+17: dividend, finance, record
+18: finance, earnings, technology
+18: finance, dividend, shareholders
+19: earnings, sales, financials
+20: earnings, growth, economy
+20: finance, investment, economy
+21: earnings, loss, financial performance
+21: earnings, restructuring, financial performance,
+22: coffee, export, quota
+22: coffee, trade, production,
+23: shipping, transportation, logistics
+23: bankruptcy, regulation, contract
+24: chemlawn, waste management, arbitrage,
+24: mergers, acquisitions, finance,
+24: chemlawn, waste management, board meeting,
+24: merger, acquisition, finance,
+24: merger, acquisition, customer
+24: business, mergers, acquisitions
+24: finance, stock, earnings
+24: business, competition, gardening,
+25: sugar, imports, quota,
+25: trade, import, quota
+25: agriculture, trade, government
+26: inflation, economy, crisis
+26: economy, inflation, currency,
+26: trade, debt, economy,
+26: trade, exports, imports
+27: foreign reserves, economy, new zealand
+28: trade, shipping, economy
+28: shipping
+29: finance, mortgage, distribution
+30: dividend, finance, record
+31: finance, prospects, subsidiary,
+31: business, finance, economy,
+31: business, economy, finance
+31: revenue, loss, quarterly,
+32: agriculture, trade, grain
+32: grain, corn, agriculture,
+33: finance, investment, money_funds
+33: finance, investment, economy
+34: shipping, freight, trade
+34: commerce, trade, economy,
+34: commerce, trade, economy
+34: agriculture, commodities, trade
+35: sale, gain, tax,
+36: earnings, revenue, finance
+37: finance, earnings, utilities
+37: earnings, sale, utilities,
+38: energy, petrochemical, manufacturing
+39: agriculture, soybean, crush,
+39: agriculture, exports, commodities
+40: dividend, finance, record,
+41: earnings, finance, corporation,
+41: finance, mergers, banks
+41: merger, corporate, finance
+42: coffee, export, proposal
+42: agriculture, policy, distribution
+43: economy, finance, commerce,
+44: business, loans, economy,
+45: None
+46: economy, finance, loans
+46: finance, economy, business,
+47: finance, banking, economy,
+47: finance, banking, economy,
+48: telecom, finance, pesos
+48: finance, currency, pesos
+49: finance, dividend, investment
+50: dividend, finance, record,
+51: dividend, finance, record
+52: finance, dividend, record
+53: finance, stocks, dividend
+54: money supply, fed, economy,
+55: finance, earnings, revenue
+56: finance, banking, economy,
+57: finance, banking, reserves
+58: investment, stock, commission,
+58: finance, stocks, investment
+59: agriculture, commodity, prices
+59: grain, wheat, corn
+59: agriculture, grain, commodity
+59: grain, oat, corn
+59: weather, travel, transportation
+59: economy, finance, business
+59: economy, business, finance
+60: finance, earnings, revenue
+62: economy
+62: economy, finance, deposits
+66: agriculture, cotton, market price
+66: agriculture, commodity, price
+66: commodity prices, cotton, agriculture
+67: agriculture, imports, sugar
+67: international trade, import, allocation
+67: international trade, import quotas, allocation
+67: trade, import, allocation
+68: grain, ship, port
+69: finance, dividend, record
+70: finance, banking, economy
+70: economy
+70: gnp, trade, bop
+70: economy, finance, weather,
+70: finance, economy, stock market,
+70: finance, securities, technology,
+70: economy, finance, banking
+70: banking, lending, finance,
+70: banking, reserves, finance,
+70: None
+71: American Express, Shearson Lehman Brothers, spinoff
+71: stock, finance, dividend
+71: stock market, rumors, finance
+71: finance, stock, executive
+71: spinoff, american express, finance,
+71: finance, investment, securities
+71: finance, mergers, spin-off,
+71: finance, spinoff, american express,
+71: finance, expansion, valuation,
+71: investment, international, mergers_acquisitions
+71: finance, brokerage, travel,
+71: earnings, finance, mergers
+72: economy
+72: economy, finance, money,
+73: dividend, finance, shareholders
+73: finance, dividend, investment
+74: agriculture, hog, pork
+74: agriculture, production, prices
+74: economy, trade, commerce
+75: earnings, steel, canadian dollar,
+75: earnings, profit, demand
+75: revenue, growth, finance,
+76: grain, railroads, milling
+76: trade, transportation, economy,
+77: investment, stake, corporation
+77: investment, stock, acquisition
+78: earnings, revenue, loss
+79: oil, price, reduction,
+79: oil, prices, market

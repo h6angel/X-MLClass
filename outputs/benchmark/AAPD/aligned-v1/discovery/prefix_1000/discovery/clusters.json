@@ -1,0 +1,938 @@
+{
+  "samples": 3667,
+  "seed": 42,
+  "requested_clusters": null,
+  "resolved_clusters": 44,
+  "count_source": "BERTopic clustering stage; notebooks/bertopic.ipynb; excludes noise topic -1",
+  "count_backend": {
+    "library": "sklearn.cluster.HDBSCAN",
+    "min_samples": 21,
+    "fallback_reason": "DLL load failed while importing dist_metrics: 应用程序控制策略已阻止此文件。"
+  },
+  "clusters": [
+    {
+      "cluster": 0,
+      "chunk_count": 206,
+      "examples": [
+        {
+          "document_id": 649,
+          "text": "byzantine attack that blinds any distributed inference network as the quantization alphabet size increases , a tremendous improvement in the security performance of the distributed inference network is observed we also investigate the problem of distributed inference in the presence of resource constrained byzantine attacks in particular , we focus",
+          "keyphrases": "Cryptography and Security, Distributed Systems, Machine Learning"
+        },
+        {
+          "document_id": 649,
+          "text": "our attention on two problems distributed detection and distributed estimation , when the byzantine attacker employs a highly symmetric attack for both the problems , we find the optimal attack strategies employed by the attacker to maximally degrade the performance of the inference network a reputation based scheme for identifying",
+          "keyphrases": "Distributed Systems, Cryptography and Security, Machine Learning and Deep Learning"
+        },
+        {
+          "document_id": 629,
+          "text": ", the number of processes necessary becomes large when the vector dimension is large with the hope of reducing the lower bound on n , we consider two relaxed versions of byzantine vector consensus k relaxed byzantine vector consensus and \\( delta , p \\) relaxed byzantine vector consensus in",
+          "keyphrases": "Distributed Computing, Cryptography and Security, Machine Learning and Artificial Intelligence"
+        }
+      ]
+    },
+    {
+      "cluster": 1,
+      "chunk_count": 217,
+      "examples": [
+        {
+          "document_id": 402,
+          "text": "analysis included show clearly the difficulty of working in point processes with static clusters of size greater than two , when these are defined by proximity criteria",
+          "keyphrases": "Statistics, Clustering, Proximity Criteria"
+        },
+        {
+          "document_id": 363,
+          "text": "regularization the key to the approach is a variational energy that regularizes the inference problem by shrinking the couplings towards zero , while still allowing some large couplings to explain strong correlations the utility of the variational pseudolikelihood approach is illustrated by training an ising model to represent the letters",
+          "keyphrases": "Machine Learning, Statistical Inference, Probabilistic Models"
+        },
+        {
+          "document_id": 969,
+          "text": "that compete with the state of the art for polymorphic music modelling nasmc can be seen as bridging the gap between adaptive smc methods and the recent work in scalable , black box variational inference",
+          "keyphrases": "Music Modeling, Adaptive SMC Methods, Scalable Inference"
+        }
+      ]
+    },
+    {
+      "cluster": 2,
+      "chunk_count": 199,
+      "examples": [
+        {
+          "document_id": 343,
+          "text": "certain shortcomings and needs to be looked upon differently the cmms model presented here overcomes all these shortcomings and adds to the simplicity of implementation because of its tight similarities with certain government services and their functioning the model is used to prototype a state police information grid \\( spig",
+          "keyphrases": "Law Enforcement, Government Services, Information Grid"
+        },
+        {
+          "document_id": 485,
+          "text": "the rapid growth of multimedia consumption has triggered technical , economic , and business innovations that improve the quality and accessibility of content it has also opened new markets , promising large revenues for industry players however , new technologies also pose new questions regarding the legal aspects of content",
+          "keyphrases": "Business and Economics, Law and Government, Computer Science and Technology"
+        },
+        {
+          "document_id": 258,
+          "text": "we analyze properties of apportionment functions in context of the problem of allocating seats in the european parliament necessary and sufficient conditions for apportionment functions are investigated some exemplary families of apportionment functions are specified and the corresponding partitions of the seats in the european parliament among the member states",
+          "keyphrases": "Political Science, Elections and Voting Systems, Mathematical Optimization"
+        }
+      ]
+    },
+    {
+      "cluster": 3,
+      "chunk_count": 95,
+      "examples": [
+        {
+          "document_id": 250,
+          "text": "this paper describes the conversion of a hidden markov model into a finite state transducer that closely approximates the behavior of the stochastic model in some cases the transducer is equivalent to the hmm this conversion is especially advantageous for part of speech tagging because the resulting transducer can be",
+          "keyphrases": "Natural Language Processing, Machine Learning, Data Structures and Algorithms"
+        },
+        {
+          "document_id": 278,
+          "text": "email and \\( 2 \\) classifying messages into latent categories , without requiring users to have defined any folder we report how we have discovered that a set of 6 latent categories \\( one for human and the others for machine generated messages \\) can explain a significant portion of",
+          "keyphrases": "Computer Science, Natural Language Processing, Machine Learning"
+        },
+        {
+          "document_id": 900,
+          "text": "experiment in the biological domain where our pos tagger achieves results comparable to pos taggers specifically trained to this domain",
+          "keyphrases": "Natural Language Processing, Biology, Machine Learning"
+        }
+      ]
+    },
+    {
+      "cluster": 4,
+      "chunk_count": 106,
+      "examples": [
+        {
+          "document_id": 149,
+          "text": "by separating its classical and intuitionistic aspects the intuitionistic aspect of l ukasiewicz logic is captured in an axiom schema , cwc , which asserts the commutativity of a weak form of conjunction this is equivalent to a very restricted form of contraction we show how l ukasiewicz logic can",
+          "keyphrases": "Logic, Formal Systems, Axiomatic Systems"
+        },
+        {
+          "document_id": 149,
+          "text": "correct for intuitionistic l ukasiewicz logic , where only the limited amount of contraction given by cwc is allowed this is in contrast with affine logic for which we show , by appeal to results on semantics proved in a companion paper , that both the gentzen and the glivenko",
+          "keyphrases": "Logic, Semantics, Formal Systems"
+        },
+        {
+          "document_id": 584,
+          "text": "to the logic program and not to the term rewrite system obtained through some transformation we define some variants of acceptability , based on general orderings , and show how they are equivalent to ld termination we develop a demand driven , constraint based approach to verify these acceptability variants",
+          "keyphrases": "Logic Programming, Term Rewriting Systems, Constraint-Based Approaches"
+        }
+      ]
+    },
+    {
+      "cluster": 5,
+      "chunk_count": 214,
+      "examples": [
+        {
+          "document_id": 728,
+          "text": "capacity scaling laws are analyzed in an underwater acoustic network with n regularly located nodes on a square a narrow band model is assumed where the carrier frequency is allowed to scale as a function of n in the network , we characterize an attenuation parameter that depends on the",
+          "keyphrases": "Network Analysis, Scalability, Underwater Acoustic Communication"
+        },
+        {
+          "document_id": 265,
+          "text": "up to now session types have been used under the assumptions of point to point communication , to ensure the linearity of session endpoints , and reliable communication , to ensure send receive duality in this paper we define a session type theory for broadcast communication semantics that by definition",
+          "keyphrases": "Session Types, Broadcast Communication, Formal Methods"
+        },
+        {
+          "document_id": 525,
+          "text": "proposed schemes with several baseline schemes and show the impact of the delay qos requirements , transmit power , and traffic loads on the performances of bs selections for distributed mimo systems",
+          "keyphrases": "Communication Networks, Distributed Systems, Signal Processing"
+        }
+      ]
+    },
+    {
+      "cluster": 6,
+      "chunk_count": 53,
+      "examples": [
+        {
+          "document_id": 257,
+          "text": "more than two channel components , but show that these extensions do not hold in general",
+          "keyphrases": "Signal Processing, Multi-Channel Systems, Information Theory"
+        },
+        {
+          "document_id": 948,
+          "text": "side information gain the known index codes for this broadcast channel enjoy large side information gains , but do not encode all the source messages at the same rate , and do not admit message sizes that are powers of two the index codes proposed in this letter , which",
+          "keyphrases": "Information Theory, Coding Theory, Broadcast Channels"
+        },
+        {
+          "document_id": 814,
+          "text": "it is not obvious whether the lower bound and the upper bound are equivalent even if the channel coding error exponent is known for a class of channels , including the symmetric channels , we apply a game theoretic result to establish the existence of a saddle point and hence",
+          "keyphrases": "Game Theory, Information Theory, Channel Coding"
+        }
+      ]
+    },
+    {
+      "cluster": 7,
+      "chunk_count": 170,
+      "examples": [
+        {
+          "document_id": 167,
+          "text": "roots does converge , even if one has no a priori knowledge as to whether the sequence is monotone or not we show also the n th root of the diagonal ramsey number can be expressed as a product of two factors , the first being a known convergent sequence",
+          "keyphrases": "Number Theory, Combinatorics, Algorithms"
+        },
+        {
+          "document_id": 432,
+          "text": "we consider a special type of integer partitions in which the parts of the form p aq b , for some relatively prime integers p and q , are restricted by divisibility conditions we investigate the problems of generating and encoding those partitions and give some estimates for several partition",
+          "keyphrases": "Number Theory, Combinatorics, Algorithms"
+        },
+        {
+          "document_id": 167,
+          "text": "does the n th root of the diagonal ramsey number converge to a finite limit \\? the answer is yes a sequence can be shown to converge if it satifies convergence conditions other than or besides monotonicity we show such a property holds for which the sequence of n th",
+          "keyphrases": "Number Theory, Combinatorics, Mathematical Analysis"
+        }
+      ]
+    },
+    {
+      "cluster": 8,
+      "chunk_count": 155,
+      "examples": [
+        {
+          "document_id": 537,
+          "text": "a well designed spatial index structure called spatial pyramid we conduct extensive experiments to evaluate the performance of our geo sage model on two real large scale datasets the experimental results clearly demonstrate our geo sage model outperforms the state of the art in the two tasks of both out",
+          "keyphrases": "Computer Vision, Geographic Information Systems, Data Mining"
+        },
+        {
+          "document_id": 710,
+          "text": "radial basis functions network results demonstrating the effectiveness of the proposed technique are provided for numeric remote sensing imagery moreover , the remotely sensed image of oran city in algeria has been classified using the proposed technique to establish its utility",
+          "keyphrases": "Remote Sensing, Image Processing, Machine Learning"
+        },
+        {
+          "document_id": 710,
+          "text": "the problem of supervised classification of the satellite image is considered to be the task of grouping pixels into a number of homogeneous regions in space intensity this paper proposes a novel approach that combines a radial basic function clustering network with a growing neural gas include utility factor classifier",
+          "keyphrases": "Computer Vision, Machine Learning, Remote Sensing"
+        }
+      ]
+    },
+    {
+      "cluster": 9,
+      "chunk_count": 67,
+      "examples": [
+        {
+          "document_id": 468,
+          "text": "we prove that every \\( 6k 2l , 2k \\) connected simple graph contains k rigid and l connected edge disjoint spanning subgraphs this implies a theorem of jackson and jord 'an 4 and a theorem of jord 'an 6 on packing of rigid spanning subgraphs both these results are",
+          "keyphrases": "Graph Theory, Combinatorics, Mathematical Structures"
+        },
+        {
+          "document_id": 197,
+          "text": "circle graphs are intersection graphs of chords in a circle and k polygon graphs are intersection graphs of chords in a convex k sided polygon where each chord has its endpoints on distinct sides the k polygon graphs , for k ge 2 , form an infinite chain of graph",
+          "keyphrases": "Graph Theory, Combinatorics, Geometry"
+        },
+        {
+          "document_id": 234,
+          "text": "the set core \\( g \\) is the intersection of all maximum independent sets of g \\( levit mandrescu , 2002 \\) the number def \\( g \\) v \\( g \\) 2 mu \\( g \\) is the deficiency of g \\( lovasz plummer , 1986 \\) the number",
+          "keyphrases": "Graph Theory, Combinatorics, Mathematics"
+        }
+      ]
+    },
+    {
+      "cluster": 10,
+      "chunk_count": 20,
+      "examples": [
+        {
+          "document_id": 953,
+          "text": "parameter if given the pertinent optimal decomposition to compare boolean width versus rank width or clique width , we first show that for any graph , the square root of its boolean width is never more than its rank width next , we exhibit a class of graphs , the",
+          "keyphrases": "Theoretical Computer Science, Algorithms and Complexity, Graph Theory"
+        },
+        {
+          "document_id": 953,
+          "text": "moreover , any optimal rank decomposition of such a graph will have boolean width theta \\( n \\) , i e exponential in the optimal boolean width a main open problem is to approximate the boolean width better than what is given by the algorithm for rank width hlin v",
+          "keyphrases": "Theoretical Computer Science, Algorithms and Complexity, Graph Theory"
+        },
+        {
+          "document_id": 951,
+          "text": "graphs with pathwidth two , and it can be extended for threshold graphs in contrast , we give a polynomial time algorithm to solve the problem for graphs with pathwidth one thus , this paper gives precise analyses of the problem with respect to pathwidth",
+          "keyphrases": "Graph Theory, Algorithms, Computational Complexity"
+        }
+      ]
+    },
+    {
+      "cluster": 11,
+      "chunk_count": 154,
+      "examples": [
+        {
+          "document_id": 131,
+          "text": "we consider a team of k identical , oblivious , asynchronous mobile robots that are able to sense \\( emph i e , view \\) their environment , yet are unable to communicate , and evolve on a constrained path previous results in this weak scenario show that initial symmetry",
+          "keyphrases": "Multi-Robot Systems, Sensor Networks, Decentralized Control"
+        },
+        {
+          "document_id": 981,
+          "text": "by sharing knowledge between these tasks to accelerate learning and improve performance we implemented and evaluated three rl methods q learning , policy gradient rl , and pg ella on a ground robot whose task is to find a target object in an environment under different surface conditions in this",
+          "keyphrases": "Robotics, Machine Learning, Control Systems"
+        },
+        {
+          "document_id": 568,
+          "text": "regions where the data is scarce the automated approach , the modeling of uncertainty and its relatively low computational cost make of gp fnarx a good candidate for applications in robotics and adaptive control",
+          "keyphrases": "Robotics, Adaptive Control, Uncertainty Modeling"
+        }
+      ]
+    },
+    {
+      "cluster": 12,
+      "chunk_count": 85,
+      "examples": [
+        {
+          "document_id": 695,
+          "text": "in this paper , we propose a non binary belief propagation approach \\( nb bp \\) for detection of m ary modulation symbols and decoding of q ary ldpc codes in large scale multiuser mimo systems we first propose a message passing based symbol detection algorithm which computes vector messages",
+          "keyphrases": "Signal Processing, Error-Correcting Codes, Multiuser Systems"
+        },
+        {
+          "document_id": 137,
+          "text": "with an optimal decoder implemented via linear filtering , significantly faster than the pursuit decoders applied in conventional cs , the error of scs is shown tightly upper bounded by a constant times the best k term approximation error , with overwhelming probability the failure probability is also significantly smaller",
+          "keyphrases": "Signal Processing, Error-Correcting Codes, Probability Theory"
+        },
+        {
+          "document_id": 391,
+          "text": "this work applies earlier results on quasi cyclic \\( qc \\) ldpc codes to the codes specified in six separate ieee 802 standards , specifying wireless communications from 54 mhz to 60 ghz first , we examine the weight matrices specified to upper bound the codes' minimum distance independent of",
+          "keyphrases": "Wireless Communications, Error-Correcting Codes, Quasi-Cyclic Codes"
+        }
+      ]
+    },
+    {
+      "cluster": 13,
+      "chunk_count": 37,
+      "examples": [
+        {
+          "document_id": 487,
+          "text": "lecture notes , and when this is done a reference is obviously provided to the original",
+          "keyphrases": "Quantum Physics, Information Theory, Computational Complexity"
+        },
+        {
+          "document_id": 180,
+          "text": "provide a practical solution to the problem",
+          "keyphrases": "Quantum Physics, Information Theory, Computational Complexity"
+        },
+        {
+          "document_id": 507,
+          "text": "be deserved for further investigation in future",
+          "keyphrases": "Quantum Physics, Information Theory, Computational Complexity"
+        }
+      ]
+    },
+    {
+      "cluster": 14,
+      "chunk_count": 15,
+      "examples": [
+        {
+          "document_id": 855,
+          "text": "denoted as l besides , the csit state varies across users and subbands a tight outer bound is found as a function of the minimum average csit quality between the two users based on the csit states across the subbands , the dof region is interpreted as a weighted sum",
+          "keyphrases": "Communication Systems, Signal Processing, Information Theory"
+        },
+        {
+          "document_id": 246,
+          "text": "we analyze two user single antenna fading interference channels with perfect receive channel state information \\( csi \\) and no transmit csi for the case of very strong interference , we prove that decoding interference while treating the intended signal as noise , subtracting the result out , and then",
+          "keyphrases": "Communication Systems, Signal Processing, Information Theory"
+        },
+        {
+          "document_id": 371,
+          "text": "is of practical interest to have a single transmit scheme that handles different csit scenarios this motivates us to consider a unified approach based on dstc that potentially provides diversity gain with statistical csit and exploits some additional side information if available under individual power constraints at the relays ,",
+          "keyphrases": "Communication Systems, Signal Processing, Information Theory"
+        }
+      ]
+    },
+    {
+      "cluster": 15,
+      "chunk_count": 14,
+      "examples": [
+        {
+          "document_id": 396,
+          "text": "drastically reducing the problem size",
+          "keyphrases": "Quantum Computing, Entanglement, Information Theory"
+        },
+        {
+          "document_id": 467,
+          "text": "ex , has a non elementary lower bound",
+          "keyphrases": "Quantum Computing, Entanglement, Information Theory"
+        },
+        {
+          "document_id": 685,
+          "text": "preserve the operational semantics and termination",
+          "keyphrases": "Quantum Computing, Entanglement, Information Theory"
+        }
+      ]
+    },
+    {
+      "cluster": 16,
+      "chunk_count": 19,
+      "examples": [
+        {
+          "document_id": 411,
+          "text": "show that using such techniques for a typical ofdm signal of 256 subcarriers and 20 reserved tones , the papr can be reduced by approximately 4 5 db with a significant increase in capacity compared to a system which uses all its tones for data transmission and clips to such",
+          "keyphrases": "Signal Processing, Communication Systems, Information Theory"
+        },
+        {
+          "document_id": 205,
+          "text": "through maximal length pseudorandom sequences with long spreading codes the ss signal is evaluated throughout theoretical and simulation based performance analysis , for various types of spreading scenarios , for different carrier frequency offset \\( delta f \\) and signal to interference ratios , in order to derive valuable results",
+          "keyphrases": "Signal Processing, Communication Systems, Information Theory"
+        },
+        {
+          "document_id": 519,
+          "text": "seldom used in real systems when finite constellation signals are applied , the behavior of the secrecy rate becomes very different for example , the secrecy rate depends on phase difference between the input signals with finite constellations , which is not observed with gaussian signals in this paper ,",
+          "keyphrases": "Signal Processing, Communication Systems, Information Theory"
+        }
+      ]
+    },
+    {
+      "cluster": 17,
+      "chunk_count": 147,
+      "examples": [
+        {
+          "document_id": 504,
+          "text": "we consider social peer to peer data management systems \\( pdms \\) , where each peer maintains both semantic mappings between its schema and some acquaintances , and social links with peer friends in this context , reformulating a query from a peer 's schema into other peer 's schemas",
+          "keyphrases": "Data Management, Social Networks, Query Reformulation"
+        },
+        {
+          "document_id": 934,
+          "text": "good performance of our algorithm via numerical examples and real world twitter and memetracker datasets",
+          "keyphrases": "Data Mining, Natural Language Processing, Social Network Analysis"
+        },
+        {
+          "document_id": 541,
+          "text": "introduce are validated on a genuine multiplex data set of indonesian terrorists , where information among 78 individuals are recorded with respect to mutual trust , common operations , exchanged communications and business relationships",
+          "keyphrases": "Criminal Justice, Social Network Analysis, Data Mining"
+        }
+      ]
+    },
+    {
+      "cluster": 18,
+      "chunk_count": 121,
+      "examples": [
+        {
+          "document_id": 510,
+          "text": "t2 in order to realize such a scalable application a new architecture has been developed that fully orbits around language in order to verify the soundness of that architecture a program has been build both architecture and program are called communsens the main purpose of this paper is to list",
+          "keyphrases": "Programming Languages, Computer Architecture, Software Engineering"
+        },
+        {
+          "document_id": 438,
+          "text": "calls to methods in java applications we present a language to express rbac policies on calls to methods in java , a set of design patterns which java programs must adhere to for the policy to be enforced statically , and a description of the checks made by our static",
+          "keyphrases": "Programming Languages, Security, Design Patterns"
+        },
+        {
+          "document_id": 300,
+          "text": "relative correctness is the property of a program to be more correct than another with respect to a given specification whereas the traditional definition of \\( absolute \\) correctness divides candidate program into two classes \\( correct , and incorrect \\) , relative correctness arranges candidate programs on the richer",
+          "keyphrases": "Programming Languages, Software Engineering, Formal Methods"
+        }
+      ]
+    },
+    {
+      "cluster": 19,
+      "chunk_count": 16,
+      "examples": [
+        {
+          "document_id": 374,
+          "text": "c \\) , we propose the combined orthogonal matching pursuit algorithm for coefficient recovery and derive the deterministic sparsity threshold under which recovery of the unique , sparsest coefficient vector is possible we quantify the order complexity of the algorithms , and examine their performance in exact and approximate recovery",
+          "keyphrases": "Signal Processing, Compressed Sensing, Optimization Algorithms"
+        },
+        {
+          "document_id": 325,
+          "text": "compressed sensing is a novel technique where one can recover sparse signals from the undersampled measurements in this paper , a k times n measurement matrix for compressed sensing is deterministically constructed via multiplicative character sequences precisely , a constant multiple of a cyclic shift of an m ary power",
+          "keyphrases": "Signal Processing, Compressed Sensing, Mathematical Optimization"
+        },
+        {
+          "document_id": 411,
+          "text": "this work establishes the design , analysis , and fine tuning of a peak to average power ratio \\( papr \\) reducing system , based on compressed sensing at the receiver of a peak reducing sparse clipper applied to an ofdm signal at the transmitter by exploiting the sparsity of",
+          "keyphrases": "Signal Processing, Compressed Sensing, OFDM"
+        }
+      ]
+    },
+    {
+      "cluster": 20,
+      "chunk_count": 128,
+      "examples": [
+        {
+          "document_id": 776,
+          "text": "iterative methods in this paper , we solve this last drawback in the one dimensional case by presenting non iterative type 4 and 5 nfft methods that just involve three nffts of types 1 or 2 plus some additional ffts the methods are based on exploiting the structure of the",
+          "keyphrases": "Numerical Methods, Signal Processing, Computational Physics"
+        },
+        {
+          "document_id": 36,
+          "text": "effects this model is based on the linearity assumption behind the glm and can be computed using standard gradient based solvers we use the activation patterns computed by our model as input data for encoding and decoding studies and report performance improvement in both settings",
+          "keyphrases": "Machine Learning, Signal Processing, Data Analysis"
+        },
+        {
+          "document_id": 968,
+          "text": "well with the matrix size n in this paper , we propose a preconditioner with broad applicability and with cost mathcal o \\( n \\) for dense matrices , when the matrix is given by a smooth kernel extending the method using the same framework to general mathcal h 2",
+          "keyphrases": "Numerical Analysis, Machine Learning, Signal Processing"
+        }
+      ]
+    },
+    {
+      "cluster": 21,
+      "chunk_count": 51,
+      "examples": [
+        {
+          "document_id": 249,
+          "text": "precision , map \\) that depend only the relative score induced order of the results similarly to many of the ideas proposed in the participating algorithms , we train a linear classifier in contrast with other participating algorithms , we define an additional free variable \\( intercept , or benchmark",
+          "keyphrases": "Information Retrieval, Machine Learning, Computer Science"
+        },
+        {
+          "document_id": 249,
+          "text": "the letor website contains three information retrieval datasets used as a benchmark for testing machine learning ideas for ranking algorithms participating in the challenge are required to assign score values to search results for a collection of queries , and are measured using standard ir ranking measures \\( ndcg ,",
+          "keyphrases": "Information Retrieval, Machine Learning, Ranking Algorithms"
+        },
+        {
+          "document_id": 68,
+          "text": "we propose a new model for rank aggregation from pairwise comparisons that captures both ranking heterogeneity across users and ranking inconsistency for each user we establish a formal statistical equivalence between the new model and topic models we leverage recent advances in the topic modeling literature to develop an algorithm",
+          "keyphrases": "Statistics, Machine Learning, Information Retrieval"
+        }
+      ]
+    },
+    {
+      "cluster": 22,
+      "chunk_count": 19,
+      "examples": [
+        {
+          "document_id": 808,
+          "text": "the resulting estimator , which is based on low variance per sample learning signals , is both simpler and more effective than the nvil estimator proposed for the single sample variational objective , and is competitive with the currently used biased estimators",
+          "keyphrases": "Machine Learning, Statistics, Optimization"
+        },
+        {
+          "document_id": 247,
+          "text": "lasso in a sparse , high dimensional setting the textquotedblleft classical textquotedblright l 2 boosting achieves a slower convergence rate for prediction , but no assumptions on the design matrix are imposed for this result in contrast to rates e g established with lasso we also introduce rules for early",
+          "keyphrases": "Machine Learning, Statistics, Optimization"
+        },
+        {
+          "document_id": 745,
+          "text": ", after observing data , are used to define confidence intervals for the function values , and we sequentially play arms with highest upper confidence bounds we give an efficient implementation of gpts and we adapt previous regret bounds by determining the decay rate of the eigenvalues of the kernel",
+          "keyphrases": "Machine Learning, Statistics, Optimization"
+        }
+      ]
+    },
+    {
+      "cluster": 23,
+      "chunk_count": 6,
+      "examples": [
+        {
+          "document_id": 571,
+          "text": "mathematics of two position codes , one being the anoto code that is the basis of fly paper then , we will present two new codes , one which uses binary wavelets as part of the bijection",
+          "keyphrases": "Coding Theory, Mathematics, Signal Processing"
+        },
+        {
+          "document_id": 176,
+          "text": "and cb codes are reviewed we then determine the maximum size and asymptotic minimal redundancy of pb codes and of codes which are both cb and pb we also propose efficient knuth like encoders and decoders for all these types of balanced codes",
+          "keyphrases": "Coding Theory, Information Theory, Signal Processing"
+        },
+        {
+          "document_id": 859,
+          "text": "binary ldpc codes , they both exhibit drawbacks due to different reasons our goal is to capitalize on the advantages of both families by building codes with binary \\( or small finite set order \\) and non binary parts in their factor graph representation the class of hybrid ldpc codes",
+          "keyphrases": "Coding Theory, Information Theory, Signal Processing"
+        }
+      ]
+    },
+    {
+      "cluster": 24,
+      "chunk_count": 21,
+      "examples": [
+        {
+          "document_id": 584,
+          "text": "the advantage of the approach over standard acceptability is that in some cases , where complex level mappings are needed , fairly simple orderings may be easily generated the advantage over transformational approaches is that it avoids the transformation step all together bf keywords termination analysis , acceptability , orderings",
+          "keyphrases": "Natural Language Processing, Computational Linguistics, Information Retrieval"
+        },
+        {
+          "document_id": 307,
+          "text": "semantically sound our initial experiments provide strong evidence for practical effectiveness of our approach",
+          "keyphrases": "Natural Language Processing, Information Retrieval, Computer Science"
+        },
+        {
+          "document_id": 860,
+          "text": "searching for all occurrences of a pattern in a text is a fundamental problem in computer science with applications in many other fields , like natural language processing , information retrieval and computational biology in the last two decades a general trend has appeared trying to exploit the power of",
+          "keyphrases": "Computer Science, Natural Language Processing, Information Retrieval"
+        }
+      ]
+    },
+    {
+      "cluster": 25,
+      "chunk_count": 81,
+      "examples": [
+        {
+          "document_id": 522,
+          "text": "this paper describes the relationship between trading network and www network from preferential attachment mechanism perspective this mechanism is known to be the underlying principle in the network evolution and has been incorporated to formulate two famous web pages ranking algorithms , pagerank and hits we point out the differences",
+          "keyphrases": "Network Evolution, Preferential Attachment Mechanism, Web Page Ranking Algorithms"
+        },
+        {
+          "document_id": 941,
+          "text": "graphs are used to represent a plethora of phenomena , from the web and social networks , to biological pathways , to semantic knowledge bases arguably the most interesting and important questions one can ask about graphs have to do with their evolution which web pages are showing an increasing",
+          "keyphrases": "Graph Theory, Web Technologies, Information Evolution"
+        },
+        {
+          "document_id": 308,
+          "text": "computing results show the suggested solving scheme provides good network topologies which can be compared with minimum spanning trees",
+          "keyphrases": "Computer Networks, Graph Theory, Algorithms"
+        }
+      ]
+    },
+    {
+      "cluster": 26,
+      "chunk_count": 216,
+      "examples": [
+        {
+          "document_id": 740,
+          "text": "in the recent breakthrough paper by barbulescu , gaudry , joux and thom 'e , a quasi polynomial time algorithm \\( qpa \\) is proposed for the discrete logarithm problem over finite fields of small characteristic the time complexity analysis of the algorithm is based on several heuristics presented in",
+          "keyphrases": "Algorithms, Discrete Mathematics, Theory of Computation"
+        },
+        {
+          "document_id": 416,
+          "text": "disjoint s sets for s 2 , 3 , 4 our algorithms use fast matrix multiplication we show an argument that this is necessary to go below the meet in the middle barrier",
+          "keyphrases": "Algorithms, Discrete Mathematics, Theoretical Computer Science"
+        },
+        {
+          "document_id": 394,
+          "text": "these values it is argued that computability , and thus the limits of mathematics , ought to be determined not solely by mathematics itself but also by physical principles",
+          "keyphrases": "Mathematics, Computability Theory, Physical Principles"
+        }
+      ]
+    },
+    {
+      "cluster": 27,
+      "chunk_count": 94,
+      "examples": [
+        {
+          "document_id": 607,
+          "text": "for the second framework which assumes a partial observation of the dynamics of the system , we propose another abstraction , called the superword encoding , which is suitable to solve the games under that assumption in that framework , we also provide decidability and computability results",
+          "keyphrases": "Computer Science, Game Theory, Information Theory"
+        },
+        {
+          "document_id": 47,
+          "text": "in this technical report we analyse the performance of diffusion strategies applied to the least mean square adaptive filter we configure a network of cooperative agents running adaptive filters and discuss their behaviour when compared with a non cooperative agent which represents the average of the network the analysis provides",
+          "keyphrases": "Signal Processing, Multi-Agent Systems, Game Theory"
+        },
+        {
+          "document_id": 798,
+          "text": "we present two parallel repetition theorems for the entangled value of multi player , one round free games \\( games where the inputs come from a product distribution \\) our first theorem shows that for a k player free game g with entangled value mathrm val \\( g \\) 1",
+          "keyphrases": "Game Theory, Information Theory, Quantum Physics"
+        }
+      ]
+    },
+    {
+      "cluster": 28,
+      "chunk_count": 8,
+      "examples": [
+        {
+          "document_id": 59,
+          "text": "codes and decoding attempts only at certain specified decoding times the penalties of using a finite block length n and a sequence of specified decoding times are studied this paper shows that properly scaling n with the expected latency can achieve the same performance up to constant terms as with",
+          "keyphrases": "Information Theory, Coding Theory, Signal Processing"
+        },
+        {
+          "document_id": 917,
+          "text": "analog signaling and gelfand pinsker coding , where the latter deviates from the operating point of costa 's dirty paper coding",
+          "keyphrases": "Signal Processing, Coding Theory, Information Theory"
+        },
+        {
+          "document_id": 507,
+          "text": "k error linear complexity for 2 n periodic binary sequences as a consequence , we obtain the complete counting functions on the k error linear complexity of 2 n periodic binary sequences as the second descent point for k 3 , 4 this is the first time for the second",
+          "keyphrases": "Information Theory, Coding Theory, Signal Processing"
+        }
+      ]
+    },
+    {
+      "cluster": 29,
+      "chunk_count": 10,
+      "examples": [
+        {
+          "document_id": 567,
+          "text": "sizes , and on artificial data with increasing number of features both experiments demonstrated that smooth rank has critical advantage over the popular methods on the scarce data it does not suffer from overfitting where other methods do",
+          "keyphrases": "Machine Learning, Data Mining, Feature Selection"
+        },
+        {
+          "document_id": 452,
+          "text": "the proposed feature selection method builds a histogram of the most stable features from random subsets of a training set and ranks the features based on a classifier based cross validation this approach reduces the instability of features obtained by conventional feature selection methods that occur with variation in training",
+          "keyphrases": "Machine Learning, Feature Selection, Data Analysis"
+        },
+        {
+          "document_id": 151,
+          "text": "neural networks sequentially build high level features through their successive layers we propose here a new neural network model where each layer is associated with a set of candidate mappings when an input is processed , at each layer , one mapping among these candidates is selected according to a",
+          "keyphrases": "Neural Networks, Feature Extraction, Machine Learning"
+        }
+      ]
+    },
+    {
+      "cluster": 30,
+      "chunk_count": 67,
+      "examples": [
+        {
+          "document_id": 843,
+          "text": "quantum parallelism concept to check the existence of an argument \\( preimage \\) for a given hash value \\( image \\) in the preestablished search space for this purpose , we explain how a non unitary measurement gate can be used to determine if s contains the target value our",
+          "keyphrases": "Quantum Computing, Information Retrieval, Data Structures and Algorithms"
+        },
+        {
+          "document_id": 614,
+          "text": "programmers and big data system designers with the knowledge acquired from this paper",
+          "keyphrases": "Quantum Computing, Information Theory, Computational Complexity"
+        },
+        {
+          "document_id": 440,
+          "text": "terms of the computation time and complexity",
+          "keyphrases": "Quantum Computing, Information Theory, Computational Complexity"
+        }
+      ]
+    },
+    {
+      "cluster": 31,
+      "chunk_count": 33,
+      "examples": [
+        {
+          "document_id": 769,
+          "text": "possible gain of a joint processing of pilot and data symbols we show that the additional information that can be gained by a joint processing is captured in the temporal correlation of the channel estimation error of the solely pilot based channel estimation , which is not retrieved by the",
+          "keyphrases": "Signal Processing, Communication Systems, and Error Correction"
+        },
+        {
+          "document_id": 695,
+          "text": "ldpc codes achieve significantly better performance \\( by about 1 db to 7 db at 10 5 coded ber for various system loading factors with number of users ranging from 16 to 128 and number of bs antennas fixed at 128 \\) compared to using linear detectors \\( e g",
+          "keyphrases": "Signal Processing, Error Correction, Communication Systems"
+        },
+        {
+          "document_id": 681,
+          "text": "errors \\) were implicitly assumed to be independent of each other under non coherent equal gain combining , that is not the case it turns out that the results in 1 hold also true without these approximations , subject to minor modifications only the purpose of this note is to",
+          "keyphrases": "Signal Processing, Error Correction, Communication Systems"
+        }
+      ]
+    },
+    {
+      "cluster": 32,
+      "chunk_count": 63,
+      "examples": [
+        {
+          "document_id": 186,
+          "text": "pecs the symmetric pecs , and the spatially independent pecs with one sided fairness constraints this paper also develops \\( iii \\) a pair of outer and inner bounds of the capacity region for arbitrary 1 to k broadcast pecs , which can be easily evaluated by any linear programming",
+          "keyphrases": "Information Theory, Network Coding, Optimization"
+        },
+        {
+          "document_id": 463,
+          "text": "explicit characterization and computation of the multi source network coding capacity region \\( or even bounds \\) is long standing open problem in fact , finding the capacity region requires determination of the set of all entropic vectors gamma , which is known to be an extremely hard problem on",
+          "keyphrases": "Network Coding, Information Theory, Computation Complexity"
+        },
+        {
+          "document_id": 909,
+          "text": ", for sinr models the competitive ratios of the protocol in comparison to optimal ones in the respective model are between constant and o \\( log 2 m \\) for a network of size m",
+          "keyphrases": "Networking, Information Theory, Theoretical Computer Science"
+        }
+      ]
+    },
+    {
+      "cluster": 33,
+      "chunk_count": 274,
+      "examples": [
+        {
+          "document_id": 869,
+          "text": "femtocell networks are promising for not only improving the coverage but also increasing the capacity of current cellular networks the interference limited reality in femtocell networks makes interference management \\( im \\) the key to maintaining the quality of service and fairness in femtocell networks over the air signaling is",
+          "keyphrases": "Cellular Networks, Interference Management, Over-the-Air Signaling"
+        },
+        {
+          "document_id": 344,
+          "text": "communication complexity , referred to as bandwidth complexity , is related to the frequency bandwidth a designer should collectively allocate to the agents if they were to communicate via a wireless channel , which represents an important constraint for dense robotic networks we prove a lower bound on the bandwidth",
+          "keyphrases": "Communication Complexity, Robotics, Wireless Networks"
+        },
+        {
+          "document_id": 631,
+          "text": "at the source and relays , and devise decentralized low complexity pa algorithms when wireless links are subject to channel path loss and small scale rayleigh fading in particular , aiming at improving the instantaneous rate of multi hop transmission systems with af relaying , we develop \\( i \\)",
+          "keyphrases": "Wireless Communications, Multi-Hop Transmission, Relaying"
+        }
+      ]
+    },
+    {
+      "cluster": 34,
+      "chunk_count": 97,
+      "examples": [
+        {
+          "document_id": 625,
+          "text": "\\( rda \\) , and lasso regression to extract direction sensitive planning information and movement onset in an upper limb 3d isometric force task in a human subject this mode achieves a relatively high true positive force onset prediction rate of 60 within 250ms , and an above chance 36",
+          "keyphrases": "Human-Computer Interaction, Motion Planning, Machine Learning"
+        },
+        {
+          "document_id": 875,
+          "text": "extract exact information of gaze direction finally , through the experiment to prove the proposed method is effective",
+          "keyphrases": "Computer Vision, Human-Computer Interaction, Experimental Design"
+        },
+        {
+          "document_id": 412,
+          "text": "learn a deep convolutional neural network to rank photo aesthetics in which the relative ranking of photo aesthetics are directly modeled in the loss function our model incorporates joint learning of meaningful photographic attributes and image content information which can help regularize the complicated photo aesthetics rating problem to train",
+          "keyphrases": "Computer Vision, Machine Learning, Human-Computer Interaction"
+        }
+      ]
+    },
+    {
+      "cluster": 35,
+      "chunk_count": 28,
+      "examples": [
+        {
+          "document_id": 854,
+          "text": "subject to individual and global power constraints and the design of linear receivers for interference suppression we derive constrained linear minimum mean squared error \\( mmse \\) expressions for the parameter vectors that determine the optimal power levels across the relays and the linear receivers in order to solve the",
+          "keyphrases": "Signal Processing, Communication Networks, Optimization Techniques"
+        },
+        {
+          "document_id": 517,
+          "text": "the senders we seek a maximum subset of links that are feasible in the sinr model namely , the signal received on each link should be larger than the sum of the interferences from the other links we give a constant factor approximation that holds for any length monotone ,",
+          "keyphrases": "Network Optimization, Signal Processing, Approximation Algorithms"
+        },
+        {
+          "document_id": 854,
+          "text": "this work presents joint iterative power allocation and interference suppression algorithms for spread spectrum networks which employ multiple hops and the amplify and forward cooperation strategy for both the uplink and the downlink we propose a joint constrained optimization framework that considers the allocation of power levels across the relays",
+          "keyphrases": "Networking, Optimization, Signal Processing"
+        }
+      ]
+    },
+    {
+      "cluster": 36,
+      "chunk_count": 37,
+      "examples": [
+        {
+          "document_id": 374,
+          "text": "of coefficients under various conditions of noise furthermore , we also obtain their empirical phase transition characteristics we show that the basis pursuit algorithm , with partial non negative constraints , and the proposed greedy algorithm perform better in recovering the unique sparse representation when compared to their unconstrained counterparts",
+          "keyphrases": "Signal Processing, Machine Learning, Optimization"
+        },
+        {
+          "document_id": 854,
+          "text": "the power constraint parameter , which allows the algorithms to avoid problems with local minima a study of the complexity and the requirements for feedback channels of the proposed algorithms is also included for completeness simulation results show that the proposed algorithms obtain significant gains in performance and capacity over",
+          "keyphrases": "Signal Processing, Machine Learning, Optimization"
+        },
+        {
+          "document_id": 480,
+          "text": "superposition of source amplitudes at all hypothetical doas regularizing with an ell 1 norm constraint renders the problem solvable with convex optimization , while promoting sparsity resulting in high resolution doa maps here , the sparse source distribution is derived using maximum a posteriori estimates for both single and multiple",
+          "keyphrases": "Signal Processing, Optimization, Machine Learning"
+        }
+      ]
+    },
+    {
+      "cluster": 37,
+      "chunk_count": 56,
+      "examples": [
+        {
+          "document_id": 777,
+          "text": "is fixed parameter tractable thus , for any k 0 , the satisfiability problem can be solved in polynomial time for any formula f for which there exists a variable set b of size at most k such that for every truth assignment t to b , the formula f",
+          "keyphrases": "Theory of Computation, Algorithms and Data Structures, Formal Languages and Automata Theory"
+        },
+        {
+          "document_id": 956,
+          "text": "of two partitions can be represented by a bipartite graph we demonstrate that both fd and mvd can be represented by bipartite graphs with specific topological properties , which are delineated by partitions of minterms it follows that our algorithms are procedures of constructing those specific bipartite graphs of interest",
+          "keyphrases": "Formal Language Theory, Graph Theory, Algorithms"
+        },
+        {
+          "document_id": 496,
+          "text": "words and their asp lambda formulas however such an approach is not scalable in this paper our focus is on two algorithms that allow one to construct asp lambda formulas in an inverse manner in particular the two algorithms take as input two lambda calculus expressions g and h and",
+          "keyphrases": "Lambda Calculus, Algorithms, Formal Language Theory"
+        }
+      ]
+    },
+    {
+      "cluster": 38,
+      "chunk_count": 8,
+      "examples": [
+        {
+          "document_id": 77,
+          "text": "other system parameters remarkably , our results reveal that a proper amount of noise is helpful to the secrecy transmission capacity",
+          "keyphrases": "Information Theory, Communication Systems, Noise and Random Signals"
+        },
+        {
+          "document_id": 887,
+          "text": "even if stochastic encoding is employed at the sender , the message rate cannot be increased",
+          "keyphrases": "Information Theory, Communication Systems, Signal Processing"
+        },
+        {
+          "document_id": 809,
+          "text": "the spectral efficiency bit energy tradeoff in the low snr regime is analyzed by finding the wideband slope and the bit energy required at zero spectral efficiency practical design guidelines are drawn from the information theoretic analysis the fading channel analysis is conducted for both coherent and noncoherent cases ,",
+          "keyphrases": "Information Theory, Communication Systems, Signal Processing"
+        }
+      ]
+    },
+    {
+      "cluster": 39,
+      "chunk_count": 65,
+      "examples": [
+        {
+          "document_id": 570,
+          "text": "information integration and data warehousing our main result is the identification of a decidable class of first order queries over unary conjunctive views that generalises the decidability of the classical class of first order sentences over unary relations , known as the lowenheim class we then demonstrate how various extensions",
+          "keyphrases": "Information Integration, Data Warehousing, Theory of Computation"
+        },
+        {
+          "document_id": 935,
+          "text": "we study associative memories built on the maximum likelihood principle we derive minimum residual error rates when the data stored comes from a uniform binary source second , we determine the minimum amount of memory required to store the same data finally , we bound the computational complexity for message",
+          "keyphrases": "Machine Learning, Information Theory, Data Structures and Algorithms"
+        },
+        {
+          "document_id": 316,
+          "text": "\\( n \\) which corresponds to the errors of predicting a 0 , i e , xi \\( nu \\) consists of the bits of xi \\( n \\) only at times t such that y t 0 in this paper we compute an estimate on the deviation of the",
+          "keyphrases": "Computer Science, Information Theory, Data Structures and Algorithms"
+        }
+      ]
+    },
+    {
+      "cluster": 40,
+      "chunk_count": 6,
+      "examples": [
+        {
+          "document_id": 651,
+          "text": "need to be used by finding the optimal integer number of training symbols that maximize the channel capacity as a bi product , we show that linear filters are optimal at both the transmitter and receiver",
+          "keyphrases": "Signal Processing, Information Theory, Communication Systems"
+        },
+        {
+          "document_id": 832,
+          "text": "is gaussian we compare our fading paper transmission to an application of dirty paper coding that ignores the partial state information and assumes the channel is fixed at the average fade we show that a gain is easily achieved by appropriately exploiting the information we also consider a cooperative upper",
+          "keyphrases": "Signal Processing, Information Theory, Communication Systems"
+        },
+        {
+          "document_id": 200,
+          "text": "about 0 6 db in 3 times 3 and 4 times 4 mimo systems , the performance of frfd vblast lfb scheme is comparable to the performance of perfect codes the frfd vblast lfb scheme is attractive because 1 \\) ml decoding becomes less complex compared to that of non",
+          "keyphrases": "Signal Processing, Information Theory, Communication Systems"
+        }
+      ]
+    },
+    {
+      "cluster": 41,
+      "chunk_count": 162,
+      "examples": [
+        {
+          "document_id": 383,
+          "text": "can be implemented in a decentralized manner by the users compared to the existing policies , our proposed policies can achieve improvement of up to 130 in large scale deployments",
+          "keyphrases": "Distributed Systems, Networking, and Performance Optimization"
+        },
+        {
+          "document_id": 842,
+          "text": "strongly np hard , we apply a relaxation to the association indicators we propose a low complexity distributed algorithm and prove the convergence in a static environment the numerical result shows that the proposed scheme can significant improve the performance in terms of utilities the performance of d2d communications depends",
+          "keyphrases": "Distributed Computing, Network Performance, Optimization Techniques"
+        },
+        {
+          "document_id": 728,
+          "text": "that the mh scheme is order optimal as the attenuation parameter scales exponentially with sqrt n \\( or faster \\) finally , these scaling results are extended to a random network realization",
+          "keyphrases": "Network Analysis, Scalability, Optimization"
+        }
+      ]
+    },
+    {
+      "cluster": 42,
+      "chunk_count": 7,
+      "examples": [
+        {
+          "document_id": 453,
+          "text": "classify all infinite graphs needing the whole set of vertices in any identifying code new upper bounds in terms of the number of vertices and the maximum degree of a graph are also provided",
+          "keyphrases": "Graph Theory, Combinatorics, Computational Complexity"
+        },
+        {
+          "document_id": 672,
+          "text": "connected graph with minimum degree at least epsilon n has bounded rainbow connectivity , where the bound depends only on epsilon , and the corresponding coloring can be constructed in polynomial time additional non trivial upper bounds , as well as open problems and conjectures are also pre sented",
+          "keyphrases": "Graph Theory, Combinatorics, Computational Complexity"
+        },
+        {
+          "document_id": 883,
+          "text": "introduction , and then try to organize the work into five categories , including \\( strong \\) rainbow connection number , rainbow k connectivity , k rainbow index , rainbow vertex connection number , algorithms and computational complexity this survey also contains some conjectures , open problems or questions",
+          "keyphrases": "Graph Theory, Combinatorics, Computational Complexity"
+        }
+      ]
+    },
+    {
+      "cluster": 43,
+      "chunk_count": 20,
+      "examples": [
+        {
+          "document_id": 209,
+          "text": "we discuss the similarities and differences between training an auto encoder to minimize the reconstruction error , and training the same auto encoder to compress the data via a generative model minimizing a codelength for the data using an auto encoder is equivalent to minimizing the reconstruction error plus some",
+          "keyphrases": "Machine Learning, Data Compression, Generative Models"
+        },
+        {
+          "document_id": 509,
+          "text": "encoding strategies , and the effect of interactive information exchange we begin by considering a directed graph g \\( v , e \\) on the sensor nodes , where the goal is to determine the optimal encoders on each edge which achieve function computation at the collector node our goal",
+          "keyphrases": "Computer Networks, Data Compression, Information Theory"
+        },
+        {
+          "document_id": 743,
+          "text": "a distributed binary arithmetic coder for slepian wolf coding with decoder side information , along with a soft joint decoder the proposed scheme provides several advantages over existing slepian wolf coders , especially its good performance at small block lengths , and the ability to incorporate arbitrary source models in",
+          "keyphrases": "Data Compression, Information Theory, Distributed Systems"
+        }
+      ]
+    }
+  ]
+}

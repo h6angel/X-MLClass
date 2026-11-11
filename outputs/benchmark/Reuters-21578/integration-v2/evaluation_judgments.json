@@ -1,0 +1,74 @@
+{
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"corn\", \"Agriculture\"]": {
+    "raw": "Yes",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"cpi\", \"ECONOMICS\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"earn\", \"Finance\"]": {
+    "raw": "Yes",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"earn\", \"Business\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"income\", \"Finance\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"income\", \"Economy\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"interest\", \"Finance\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"jobs\", \"Business\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"jobs\", \"Economy\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"livestock\", \"Agriculture\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"money-fx\", \"Finance\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"money-supply\", \"Finance\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"money-supply\", \"Business\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"money-supply\", \"ECONOMICS\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"money-supply\", \"Economy\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"retail\", \"Business\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"sorghum\", \"Agriculture\"]": {
+    "raw": "Yes",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"wheat\", \"Agriculture\"]": {
+    "raw": "Yes.",
+    "match": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Information Theory\", \"Coding Theory\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Data Structures and Algorithms\", \"Algorithms & Computation\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Artificial Intelligence\", \"AI and Machine Learning\"]": {
+    "raw": "Yes.",
+    "match": true
+  }
+}

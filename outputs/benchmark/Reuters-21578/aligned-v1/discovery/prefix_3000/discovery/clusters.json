@@ -1,0 +1,2932 @@
+{
+  "samples": 8841,
+  "seed": 42,
+  "requested_clusters": null,
+  "resolved_clusters": 139,
+  "count_source": "BERTopic clustering stage; notebooks/bertopic.ipynb; excludes noise topic -1",
+  "count_backend": {
+    "library": "hdbscan.HDBSCAN",
+    "min_samples": 20
+  },
+  "clusters": [
+    {
+      "cluster": 0,
+      "chunk_count": 179,
+      "examples": [
+        {
+          "document_id": 2919,
+          "text": "U.K. MONEY MARKET GIVEN FURTHER 30 MLN STG HELP The Bank of England said it provided the money market with a further 30 mln stg assistance. This brings the Bank's total help so far today to 120 mln stg and compares with its upward revised estimate that the system would",
+          "keyphrases": "finance, bank, money market"
+        },
+        {
+          "document_id": 2602,
+          "text": "Monday. Alusuisse bearer shares closed at 490 francs yesterday, registered shares at 170 francs and the participation certificates at 45.50.",
+          "keyphrases": "finance, stocks, Swiss,"
+        },
+        {
+          "document_id": 1025,
+          "text": "SWISS OFFERS NEW SERIES OF MONEY MARKET PAPER The Swiss Finance Ministry is inviting tenders for a new series of three-month money market certificates to raise about 150 mln Swiss francs, the Swiss National Bank said. Bids would be due on March 10 and payment on March 12. The last",
+          "keyphrases": "finance, money market, swiss franc,"
+        }
+      ]
+    },
+    {
+      "cluster": 1,
+      "chunk_count": 152,
+      "examples": [
+        {
+          "document_id": 447,
+          "text": "207. The duty for research remains at 3.85 cents per kilo and the replanting duty is also unchanged at 9.92 cents.",
+          "keyphrases": "duty, replanting, coffee,"
+        },
+        {
+          "document_id": 2961,
+          "text": "George Gordon Paton and Co Inc reported. It said cumulative roastings for calendar 1987 now total a 3,295,000 bags, compared with 3,620,000 bags by this time last year.",
+          "keyphrases": "coffee, production, agriculture,"
+        },
+        {
+          "document_id": 2232,
+          "text": "Indonesian farmers are trimming production costs and the AICE is improving its marketing system, Dharyono said. Indonesia's coffee output in 1986/87, ending September 30, is expected to stagnate or fall slightly from last year's level of 360,000 tonnes, he said. He said stocks, at 90,000 tonnes, were about average for",
+          "keyphrases": "agriculture, coffee, production"
+        }
+      ]
+    },
+    {
+      "cluster": 2,
+      "chunk_count": 88,
+      "examples": [
+        {
+          "document_id": 832,
+          "text": "on the Senate floor or in a conference committee with the House of Representatives in the event a similar bill before the House Agriculture Committee is approved by that body. Boschwitz told Reuters that neither he nor the U.S. Agriculture Department had decided whether or how deficiency payments should be",
+          "keyphrases": "agriculture, legislation, deficiency payments"
+        },
+        {
+          "document_id": 588,
+          "text": "payment will be in cash, von Garlem said, but he said this will not markedly upset the 50/50 ratio, since most farmers got advance payments. \"The final certificate payments will be very close to 300 mln dlrs,\" he said. When asked if the Office of Management and Budget had resisted",
+          "keyphrases": "farmers, payment, budget"
+        },
+        {
+          "document_id": 2492,
+          "text": "term 0/92 program as a move to a more permament decoupling plan. Boschwitz plans to introduce a 0/92 plan in the senate. His plan would guarantee a certain deficiency payment to participating farmers, require that idled acreage be put to conservation use only, prohibit haying and grazing on extra idled",
+          "keyphrases": "agriculture, farming, deficiency payment,"
+        }
+      ]
+    },
+    {
+      "cluster": 3,
+      "chunk_count": 117,
+      "examples": [
+        {
+          "document_id": 1694,
+          "text": "that the company would make a weekend announcement.",
+          "keyphrases": "announcement, weekend, company,"
+        },
+        {
+          "document_id": 1329,
+          "text": "SHEARSON HAS 5.4 PCT OF CHICAGO MILWAUKEE &lt;CHG> Shearson Lehman Brothers Inc, the brokerage subsidiary of American Express Co &lt;AXP>, said it has acquired 131,300 shares of Chicago Milwaukee Corp, or 5.4 pct of its total outstanding common stock. In a filing with the Securities and Exchange Commission, Shearson said",
+          "keyphrases": "brokerage, stock, acquisition"
+        },
+        {
+          "document_id": 629,
+          "text": "WALL STREET STOCKS/ANACOMP INC &lt;AAC> Anacomp Inc, one of the most actively traded NYSE issues, rose today as at least one analyst expected earnings to be boosted by its planned acquisition of a micrographics company. Anacomp rose 1/2 to 6-3/4 on volume of 950,000 shares after trading as high as",
+          "keyphrases": "stocks, earnings, acquisition"
+        }
+      ]
+    },
+    {
+      "cluster": 4,
+      "chunk_count": 122,
+      "examples": [
+        {
+          "document_id": 845,
+          "text": "the winter crops must be reseeded, but that creates extra effort in the fields in spring.\" The Soviet Union has previously said nine mln hectares of winter grain will have to be reseeded because of winterkill. A U.S. Department of Agriculture analyst in Washington has said the figure of nine",
+          "keyphrases": "winterkill, reseeding, grain,"
+        },
+        {
+          "document_id": 676,
+          "text": "yield lower than winter crops -- sometimes as much as 30-35 pct lower. Normally winterkill is caused by inadequate snowcover combined with cold temperatures. This winter, however, snowcover in Soviet grain areas has generally been excellent, so the bulk of winterkill, analysts speculate, likely has been due to a very",
+          "keyphrases": "grain, winterkill, snowcover"
+        },
+        {
+          "document_id": 549,
+          "text": "EAST EUROPE WHEAT WINTERKILL POSSIBLE, ACCU SAYS Winter wheat crops in the western Soviet Union, Poland and eastern Czechoslovakia through northern Romania may suffer some winterkill over the next two nights, private forecaster Accu-Weather Inc said. Western USSR winter wheat areas have had only light and spotty snow and winterkill",
+          "keyphrases": "wheat, winterkill, snow"
+        }
+      ]
+    },
+    {
+      "cluster": 5,
+      "chunk_count": 110,
+      "examples": [
+        {
+          "document_id": 2522,
+          "text": "pct of its face value. Nogales said Bolivia will make a single offer to buy back its commercial debt and banks who accepted would be paid the discounted rate in full. Banks which declined the offer would be repaid over 20 to 30 years at interest rates below those fixed",
+          "keyphrases": "None"
+        },
+        {
+          "document_id": 1306,
+          "text": "of prohibited items and speeding up the licensing process, he said. Whitehead said, however, the prefential treatment that comes with most-favored-nation status is out for the moment. U.S. law prohibits most-favored-nation status for countries that restrict emigration and other rights. \"What we have seen so far (in improved rights under",
+          "keyphrases": "None"
+        },
+        {
+          "document_id": 123,
+          "text": "27.52 pct in November and 12.3 pct a year earlier. M-1 grew to an estimated 5.03 billion dlrs against a revised 4.77 billion in November and 4.34 billion in December 1985. Year-on-year private sector credit grew 30.68 pct in December against a revised 22.30 pct in November and 23.2 pct",
+          "keyphrases": "None"
+        }
+      ]
+    },
+    {
+      "cluster": 6,
+      "chunk_count": 264,
+      "examples": [
+        {
+          "document_id": 2820,
+          "text": "mln in crude and refined oil shipments. PDVSA and Union Pacific have sought a line of credit from a group of North American and Japanese banks to finance the new company's working capital, the Venezuelan company said. Under the deal, PDVSA will supply up to 140,000 barrels a day to",
+          "keyphrases": "oil, finance, supply,"
+        },
+        {
+          "document_id": 2449,
+          "text": "be finished in two to three weeks. As a result, oil industry sources suggest that the situation may ease by mid-April.",
+          "keyphrases": "oil, economy, industry,"
+        },
+        {
+          "document_id": 2696,
+          "text": "ORS SEEKS CANADIAN FUNDS FOR HEAVY OIL TEST &lt;ORS Corp> said &lt;Dominion Securities (Alberta) Inc> has been appointed to offer common shares in a new Canadaina company being organized to exploit heavy oil production opportunities in Canada and Western Europe. ORS said the offer for private sale of the stock",
+          "keyphrases": "oil, production, finance"
+        }
+      ]
+    },
+    {
+      "cluster": 7,
+      "chunk_count": 155,
+      "examples": [
+        {
+          "document_id": 1935,
+          "text": "PULITZER PUBLISHING CO &lt;PLTZC> 4TH QTR NET Shr 47 cts vs 40 cts Net 4,258,000 vs 5,942,000 Revs 92.6 mln vs 77.1 mln Avg shrs 8,977,000 vs 15.0 mln Year Shr 1.22 dlrs vs 1.34 dlrs Net 16.4 mln vs 20.0 mln Revs 329.1 mln vs 272.1 mln Avg shrs",
+          "keyphrases": "finance, earnings, revenue"
+        },
+        {
+          "document_id": 1471,
+          "text": "HADSON CORP &lt;HADS> 4TH QTR NET Shr profit four cts vs loss 99 cts Net profit 545,000 vs loss 13.1 mln Revs 75.3 mln vs 37.9 mln Avg shrs 14.8 mln vs 13.1 mln Year Shr profit 34 cts vs profit 34 cts Net profit 4,908,000 vs profit 4,487,000 Revs",
+          "keyphrases": "finance, earnings, revenue"
+        },
+        {
+          "document_id": 1405,
+          "text": "896,000 dlrs in quarter and gains 1,646,000 dlrs vs 1,331,000 dlrs in year. 1986 net both periods excludes tax credit 1,288,000 dlrs.",
+          "keyphrases": "finance, earnings, revenue"
+        }
+      ]
+    },
+    {
+      "cluster": 8,
+      "chunk_count": 181,
+      "examples": [
+        {
+          "document_id": 496,
+          "text": "January contributed to the decline. Besides contracts and orders for plant and equipment, they were building permits, manufacturers' new orders for consumer goods, a change in sensitive materials prices, slower deliveries from vendors and higher average weekly claims for state unemployment insurance. Four of 10 indicators were positive, including stock",
+          "keyphrases": "economy"
+        },
+        {
+          "document_id": 1019,
+          "text": "FRENCH INTERVENTION RATE CUT LIKELY, DEALERS SAY The Bank of France is likely to cut its money market intervention rate by up to a quarter point at the start of next week. This follows a steady decline in the call money rate over the past 10 days and signals from",
+          "keyphrases": "economy"
+        },
+        {
+          "document_id": 1236,
+          "text": "they should buy now instead of paying more later on,\" he said. Lukman, asked about industry reports that Nigeria was being pressured by equity producers for better terms, said it was important to know that terms with them were negotiable, flexible and under constant review, not only when the market",
+          "keyphrases": "economy"
+        }
+      ]
+    },
+    {
+      "cluster": 9,
+      "chunk_count": 100,
+      "examples": [
+        {
+          "document_id": 1331,
+          "text": "its counsel would investigate the matter. Tonight, a spokesman for USAir said the airline had no comment on TWA's lawsuit. USAir did respond, however, to a TWA request to the Department of Transportation for permission to buy up to 51 pct of USAir stock and place the stock in a",
+          "keyphrases": "airline, lawsuit, stock"
+        },
+        {
+          "document_id": 2518,
+          "text": "PRINCEVILLE &lt;PVDC> TO SELL ITS AIR OPERATION Princeville Development Corp and &lt;Aloha Inc>, parent of Aloha Airlines Inc, jointly said they agreed to terms for the sale of Princeville Airways Inc to Aloha. Terms of the agreement were not disclosed. Under the proposed sale, the companies said Aloha would acquire",
+          "keyphrases": "airline, acquisition, princeville"
+        },
+        {
+          "document_id": 2992,
+          "text": "CONTINENTAL AIR HOLDERS TO GET FURTHER PAYMENT Texas Air Corp said under a settlement of class action litigation with &lt;Mutual Shares Corp>, former minority shareholders of Continental Airlines Inc will receive an additional 3.75 dlrs per share. In February, Texas Air acquired the minority interest in Continental that it did",
+          "keyphrases": "airline, settlement, payment"
+        }
+      ]
+    },
+    {
+      "cluster": 10,
+      "chunk_count": 255,
+      "examples": [
+        {
+          "document_id": 381,
+          "text": "UTILICORP &lt;UCU> ACQUIRES DOMINION &lt;D> SUBSIDIARY UtiliCorp United Inc said it has closed the previously announced acquisition of West Virginia Power from Dominion Resources Inc for about 21 mln dlrs.",
+          "keyphrases": "merger, acquisition, utilities"
+        },
+        {
+          "document_id": 401,
+          "text": "CCL UNIT ACQUIRES NESTLE CANADA CAN OPERATIONS &lt;CCL Industries Inc>'s Continental Can Canada Inc unit said it acquired the Wallaceburg, Ontario, metal can making operations of Nestle Enterprises Ltd, wholly owned by &lt;Nestle SA>, of Switzerland. Terms were undisclosed. Continental Can said it would supply Nestle's equivalent can requirements under",
+          "keyphrases": "merger, acquisition, canada"
+        },
+        {
+          "document_id": 490,
+          "text": "between China Entertainment and Lai Sun on their acquisitions of the Hk Hotels stake. \"It is purely coincidence,\" he said. But analysts were not so certain, saying that the Evergo group, which has a reputation as a corporate raider, may team up with Lai Sun Garment for a takeover. Lau",
+          "keyphrases": "mergers, acquisitions, takeover"
+        }
+      ]
+    },
+    {
+      "cluster": 11,
+      "chunk_count": 28,
+      "examples": [
+        {
+          "document_id": 812,
+          "text": "change in value due to currency or interest rate fluctuations until the contract matures. In treatment similar to that agreed in January for balance sheet assets, the credit equivalent will be assigned one of five risk weights between zero and 100 pct, depending on the quality of the counterparty, the",
+          "keyphrases": "finance, credit, risk"
+        },
+        {
+          "document_id": 902,
+          "text": "a counterparty default. \"The potential risk factors are very large relative to what we had expected,\" said a director at one U.K. merchant bank. \"What they are really doing is asking you to capitalize now -- to borrow money now -- to cushion you against risk you might have 10",
+          "keyphrases": "risk, borrowing, financial,"
+        },
+        {
+          "document_id": 812,
+          "text": "remaining maturity of the contract and on collaterals or guarantees to the contract, the plans showed. The proposal showed that collaterals and guarantees would not be recognised in calculating credit equivalent amounts. They would, however, be reflected in the assignment of risk weights. The only guarantees recognised are those given",
+          "keyphrases": "finance, credit, risk"
+        }
+      ]
+    },
+    {
+      "cluster": 12,
+      "chunk_count": 80,
+      "examples": [
+        {
+          "document_id": 2453,
+          "text": "FIRST GRANITE BANCORP INC AGREES TO BE ACQUIRED BY MAGNA GROUP INC FOR STOCK FIRST GRANITE BANCORP INC AGREES TO BE ACQUIRED BY MAGNA GROUP INC FOR STOCK",
+          "keyphrases": "merger, acquisition, finance"
+        },
+        {
+          "document_id": 191,
+          "text": "offer for RMJ when it was sold by Security Pacific Corp &lt;SPC.N> in 1985. RMJ was then valued at about 50 mln dlrs. B and C managing director Peter Goldie said RMJ would be bought at about the same multiple as Exco, suggesting net income of around 16 mln dlrs.",
+          "keyphrases": "merger, valuation, financial"
+        },
+        {
+          "document_id": 2080,
+          "text": "VERSAR &lt;VSR> TO BUY MARIETTA &lt;ML> UNIT Versar Inc said it has agreed in principle to acquire Martin Marietta Corp's Martin Marietta Environmental Systems unit for about 5,300,000 dlrs. Versar said it would use its working capital and an established life of credit to find the purchase, which is subject",
+          "keyphrases": "merger, acquisition, finance"
+        }
+      ]
+    },
+    {
+      "cluster": 13,
+      "chunk_count": 201,
+      "examples": [
+        {
+          "document_id": 1324,
+          "text": "presidents of both countries last July. He said trade last year totalled 1.3 billion dlrs versus 700 mln dlrs in 1985. The accord provided for capital goods trade between the two countries to rise to 2.0 billion dlrs over four years. Argentine wheat exports to Brazil will increase from 1,375,000",
+          "keyphrases": "trade, accord, exports,"
+        },
+        {
+          "document_id": 1220,
+          "text": "difficult to see which is driving which, but undoubtedly the trade equation between the big three is changing. In 1986, Japanese imports and exports with the EC both grew by around 50 pct in dollar terms, five pct in yen. This gave Japan a 16 billion dlr trade surplus. Last",
+          "keyphrases": "trade, imports, exports,"
+        },
+        {
+          "document_id": 2485,
+          "text": "VOLCKER SEES NO CLEARCUT EVIDENCE THAT U.S. TRADE DETERIORATION HAS YET BEEN REVERSED VOLCKER SEES NO CLEARCUT EVIDENCE THAT U.S. TRADE DETERIORATION HAS YET BEEN REVERSED",
+          "keyphrases": "trade, deterioration, reversal"
+        }
+      ]
+    },
+    {
+      "cluster": 14,
+      "chunk_count": 27,
+      "examples": [
+        {
+          "document_id": 825,
+          "text": "issue of objective criteria, U.S. officials said. This bloc represented enough votes among consuming nations to successfully prevent adoption of the producer proposals. However, U.S. sources said West Germany's support was at times qualified and there is some concern that the European Community could come under pressure to be more",
+          "keyphrases": "trade, agriculture, economy"
+        },
+        {
+          "document_id": 2833,
+          "text": "proposal to lower the floor price of 150 cents if the buffer stock, currently 360,000 tonnes, rose to 450,000 tonnes. The proposal, initiated by the U.S., Was withdrawn last night, setting the stage for compromise. Legal drafting of provisions will start next week and formal adoption of the new accord",
+          "keyphrases": "trade, agriculture, economy"
+        },
+        {
+          "document_id": 2729,
+          "text": "seeking an adjustment of the \"lower indicative price\" (set at 150 Malaysian/Singapore cents a kilo in the present pact) if the buffer stock, currently 360,000 tonnes, rises to 450,000 tonnes. The sources said the question of to what extent price adjustments should be automatic remains a problem. Conference chairman Manaspas",
+          "keyphrases": "trade, agriculture, economy"
+        }
+      ]
+    },
+    {
+      "cluster": 15,
+      "chunk_count": 62,
+      "examples": [
+        {
+          "document_id": 1701,
+          "text": "the International Tin Agreement (ITA), were rejected by producers who argued for unchanged INRA terms. The tin pact failed when its buffer stock manager ran out of funds to support prices. Three previous rounds of talks between rubber producers and consumers for a new five-year pact ended without agreement. The",
+          "keyphrases": "tin, rubber, trade,"
+        },
+        {
+          "document_id": 1701,
+          "text": "natural rubber would become more volatile. Calling on delegates to show a sense of purpose and reality, he said, \"There is no reason why we could not put aside differences and come up with a successor agreement.\"",
+          "keyphrases": "rubber, trade, economy"
+        },
+        {
+          "document_id": 2833,
+          "text": "over consumer demands for tighter controls of the buffer stock. The United States, Japan, West Germany, France, Italy and Britain are the major consumers. UNCTAD's latest estimates project an increase of 8.5 pct in rubber prices this year and 4.1 pct in 1988.",
+          "keyphrases": "rubber, trade, economy"
+        }
+      ]
+    },
+    {
+      "cluster": 16,
+      "chunk_count": 16,
+      "examples": [
+        {
+          "document_id": 1922,
+          "text": "billion against 30.3 billion, and with West Germany 40.5 billion against 19.1 billion.",
+          "keyphrases": "economy, trade, finance"
+        },
+        {
+          "document_id": 2675,
+          "text": "less favoured by international investors. And as West Germany last year refused to give in pressure from several EC partners and the United States to cut interest rates to slow the mark's rise, the EMS had to be realigned twice to ease financial and trade strains within the community. Two",
+          "keyphrases": "economy, finance, trade"
+        },
+        {
+          "document_id": 2792,
+          "text": "currencies,\" added a senior corporate trader at one U.K. bank. On February 22, the finance ministers and central bank governors of the U.S., Japan, West Germany, France and the U.K. -- the Group of Five -- plus Canada, signed an accord under which they agreed to cooperate closely to foster",
+          "keyphrases": "economy, finance, trade"
+        }
+      ]
+    },
+    {
+      "cluster": 17,
+      "chunk_count": 278,
+      "examples": [
+        {
+          "document_id": 128,
+          "text": "to the wayward M-1 money supply measure last week, little attention was paid to a steeper-than-anticipated 2.1 billion dlr jump in the week ended February 16. Looking ahead, economists said the Fed will have to tread a fine line between the dollar's progress in the international currency markets and the",
+          "keyphrases": "economy, fed, currency,"
+        },
+        {
+          "document_id": 2249,
+          "text": "freight, insurance and royalties, to the central bank. But bankers said they believed the new controls would be ineffective since businessmen could split up remittances into smaller units or simply remit money through Taiwan's flourishing currency black market. The bankers said the controls, announced on March 6, are a panic",
+          "keyphrases": "economy, money, control,"
+        },
+        {
+          "document_id": 2551,
+          "text": "ease policy, even apart from the slowdown in money growth,\" said Stephen Slifer, economist at Lehman Government Securities Inc. Economists generally expect a modest pickup in monetary growth in March after February's anemic growth rates. However, they stress that money growth will not be strong enough to prevent the Fed",
+          "keyphrases": "economy, money, fed"
+        }
+      ]
+    },
+    {
+      "cluster": 18,
+      "chunk_count": 70,
+      "examples": [
+        {
+          "document_id": 2255,
+          "text": "company said it intends to issue a second interim statement for the six months to July 1987 and to pay a related dividend in early 1988.",
+          "keyphrases": "dividend, finance, statement"
+        },
+        {
+          "document_id": 2105,
+          "text": "pay dividends on its preferred shares and increase the likelihood that it may be able to pay dividends on its common shares, the company said. It did not elaborate on what common share dividends might be paid. The company normally pays quarterly preferred dividends totalling 619,000 dlrs from retained earnings,",
+          "keyphrases": "dividend, earnings, finance,"
+        },
+        {
+          "document_id": 2648,
+          "text": "ESSELTE AB &lt;ESB.ST> 1986 RESULTS Group profit after net interest items 742 mln crowns vs 741 mln. Sales 11.25 billion crowns vs 10.22 billion. Estimated profit per share 10 crowns vs 9.20. Proposed dividend four crowns vs 3.38.",
+          "keyphrases": "finance, results, dividend"
+        }
+      ]
+    },
+    {
+      "cluster": 19,
+      "chunk_count": 36,
+      "examples": [
+        {
+          "document_id": 2429,
+          "text": "DIGIMED CORP 2ND QTR DEC 31 LOSS Shr loss 1.5 cts vs loss five cts Net loss 17,334 vs loss 51,507 Sales 245,560 vs 179,839 Six mths Shr profit four cts vs loss 17 cts Net profit 47,749 vs loss 174,373 Sales 721,937 vs 284,809",
+          "keyphrases": "finance, earnings, loss"
+        },
+        {
+          "document_id": 601,
+          "text": "DISTRIBUTED LOGIC CORP &lt;DLOG> 1ST QTR LOSS Qtr ended Jan 31 Shr loss nine cts vs profit 13 cts Net loss 231,256 vs profit 341,730 Revs 2,793,677 vs 3,676,296",
+          "keyphrases": "finance, earnings, loss"
+        },
+        {
+          "document_id": 1293,
+          "text": "METRO MOBILE CTS INC &lt;MMCT> FIRST QTR LOSS Qtr ends Dec 31 Shr loss 33 cts vs loss 16 cts Net loss 5,632,426 vs loss 2,373,358 Revs 3,277,976 vs 1,535,550 Avg shrs 16.9 mln vs 14.4 mln",
+          "keyphrases": "finance, earnings, loss"
+        }
+      ]
+    },
+    {
+      "cluster": 20,
+      "chunk_count": 45,
+      "examples": [
+        {
+          "document_id": 1945,
+          "text": "OVERMYER CORP &lt;OMCO> REGULAR DIVIDEND Qtly div 10 cts vs 10 cts in prior qtr Payable March 31 Record March 23",
+          "keyphrases": "finance, dividend, record"
+        },
+        {
+          "document_id": 2751,
+          "text": "DESOTO INC &lt;DSO> REGULAR DIVIDEND SET Qtly div 35 cts vs 35 cts previously Pay April 17 Record March 31",
+          "keyphrases": "finance, dividend, record"
+        },
+        {
+          "document_id": 922,
+          "text": "NL INDUSTRIES INC &lt;NL> SETS QTRLY PAYOUT Qtrly div five cts vs five cts qtr Pay April One Record March 16",
+          "keyphrases": "finance, dividend, record"
+        }
+      ]
+    },
+    {
+      "cluster": 21,
+      "chunk_count": 112,
+      "examples": [
+        {
+          "document_id": 592,
+          "text": "mergers and restructuring expenses brought non-recurring expenses to 40,292,000 before tax gains, of which 8,863,000 represented merger costs and 31,429,000 related to restructuring of the combine operations.",
+          "keyphrases": "mergers, restructuring, expenses"
+        },
+        {
+          "document_id": 2205,
+          "text": "that the offer of 145 dlrs per share was inadequate. Taft said the board concluded that the offer failed to recognize fully the future propsects of the company and directed management to explore alternatives including possible financial restructuring.",
+          "keyphrases": "merger, acquisition, financial restructuring,"
+        },
+        {
+          "document_id": 418,
+          "text": "MICROBIO &lt;MRC> PLANS ACQUISITION, FINANCING Microbiological Research Corp said it entered into a letter of intent for a proposed business combination with privately owned &lt;DataGene Scientific Laboratories Inc>, and &lt;Milex Corp> a newly formed company, through a stock swap. It also said it received 100,000 dlrs from the sale of",
+          "keyphrases": "merger, acquisition, financing"
+        }
+      ]
+    },
+    {
+      "cluster": 22,
+      "chunk_count": 68,
+      "examples": [
+        {
+          "document_id": 2990,
+          "text": "sales in Japan in fiscal 1987 will be offset by increased instrument sales in other foreign countries and the United States.",
+          "keyphrases": "sales, japan, foreign,"
+        },
+        {
+          "document_id": 997,
+          "text": "the yen's appreciation during the period. Domestic sales rose 0.4 pct to 274.17 billion yen from a year earlier while exports declined 9.9 pct to 615.04 billion.",
+          "keyphrases": "yen, exports, sales,"
+        },
+        {
+          "document_id": 2233,
+          "text": "JAPANESE CORPORATE EARNINGS RECOVERY PREDICTED Japanese corporate earnings will rise 8.9 pct in fiscal 1987/88 for the first year-on-year increase in three years, partly because of the yen's stable exchange rate, the Nomura research institute said. Sales of all industries are predicted to rise 1.9 pct in the year, which",
+          "keyphrases": "yen, sales, earnings,"
+        }
+      ]
+    },
+    {
+      "cluster": 23,
+      "chunk_count": 129,
+      "examples": [
+        {
+          "document_id": 2686,
+          "text": "SOVIETS RUMORED TO HAVE BOUGHT MORE U.S. CORN The Soviet Union is rumored this morning to have bought up to 1.5 mln tonnes of U.S. corn, export trade sources said. The amount was not confirmed, but the talk was widespread through the trade. Gulf cash barge basis levels jumped two",
+          "keyphrases": "trade, export, corn"
+        },
+        {
+          "document_id": 2370,
+          "text": "Commission would not be able to accept offers from EPAC in a public tender being held today for the import of 80,000 tonnes of corn. Ascensao said the court ruling stated that EPAC's participation in the public tenders violated the clauses of Portugal's EC accession treaty dealing with the gradual",
+          "keyphrases": "EC accession, corn import, public tender,"
+        },
+        {
+          "document_id": 1541,
+          "text": "U.S. corn imports were injurious to Canadian growers. The tribunal upheld a countervailing duty of 84.9 U.S. cents a bushel. \"Farm Bureau specialists went to Ottawa and testified previous U.S. farm programs have actually benefited all foreign producers by reducing the amount of corn grown in the U.S. (and losing",
+          "keyphrases": "corn, trade, agriculture,"
+        }
+      ]
+    },
+    {
+      "cluster": 24,
+      "chunk_count": 251,
+      "examples": [
+        {
+          "document_id": 1192,
+          "text": "ready to move quickly in the acquisition field if the need arises,\" Clements said.",
+          "keyphrases": "acquisition, business, economy,"
+        },
+        {
+          "document_id": 9,
+          "text": "tax reform act alone.\" President Howard Dean said in fiscal 1988 the company will derive benefits of various dairy and frozen vegetable acquisitions from Ryan Milk to the Larsen Co. Dean also said the company will benefit from its acquisition in late December of Elgin Blenders Inc, West Chicago. He",
+          "keyphrases": "business, acquisitions, economy,"
+        },
+        {
+          "document_id": 1971,
+          "text": "1983 but a loss, 171.2 mln, in 1982. Outokumpu acquired two Swedish copper manufacturers in January 1986, &lt;Metallverken Ab> and &lt;Wirsbo Bruks Ab>, that were merged into its copper processing division. The division had a turnover of 3.2 billion markka last year, 42 pct of Outokumpu's group turnover of 7.58",
+          "keyphrases": "business, acquisitions, financial"
+        }
+      ]
+    },
+    {
+      "cluster": 25,
+      "chunk_count": 35,
+      "examples": [
+        {
+          "document_id": 1633,
+          "text": "said the second INRA would allow for an orderly disposal of the accumulated buffer stock of 375,000 tonnes, since the market is now capable of absorbing such releases.",
+          "keyphrases": "agriculture, market, trade"
+        },
+        {
+          "document_id": 1690,
+          "text": "650 marks per tonne free on truck for spot and between 630 and 640 marks for April/Dec. International demand was also slow but some inquiries from Far Eastern buyers were noted in South American producer countries, the sources said. Chile is said to have good catches in northern and southern",
+          "keyphrases": "agriculture, commodity, trade"
+        },
+        {
+          "document_id": 125,
+          "text": "soybean crush rate was reported by the National Soybean Processors Association this afternoon at 21.78 mln bushels, down from the 22 mln bushel plus rate seen over the past two months when crush margins surged to the best levels seen in over a year. Active soymeal export loadings at the",
+          "keyphrases": "agriculture, commodity, trade"
+        }
+      ]
+    },
+    {
+      "cluster": 26,
+      "chunk_count": 22,
+      "examples": [
+        {
+          "document_id": 440,
+          "text": "was now, he replied: \"Below 15.8 (mln barrels per day).\" He did not elaborate. He said there appeared to have been some attempts to manipulate the market, but if all Opec members stick by the cartel's December pricing agreement it would get through present price difficulties. He predicted that prices",
+          "keyphrases": "oil, opec, prices"
+        },
+        {
+          "document_id": 145,
+          "text": "KUWAIT SAYS NO PLANS FOR EMERGENCY OPEC TALKS Kuwait\"s Oil Minister, in remarks published today, said there were no plans for an emergency OPEC meeting to review oil policies after recent weakness in world oil prices. Sheikh Ali al-Khalifa al-Sabah was quoted by the local daily al-Qabas as saying: \"None",
+          "keyphrases": "oil, opec, prices"
+        },
+        {
+          "document_id": 202,
+          "text": "prices, Nazer said Saudi Arabia \"is fully adhering by the ... accord and it will never sell its oil at prices below the pronounced prices under any circumstance.\" Saudi Arabia was a main architect of December pact under which OPEC agreed to cut its total oil output ceiling by 7.25",
+          "keyphrases": "oil, opec, prices"
+        }
+      ]
+    },
+    {
+      "cluster": 27,
+      "chunk_count": 259,
+      "examples": [
+        {
+          "document_id": 2828,
+          "text": "the market, said Kleinwort Benson chief financial economist Sam Kahan. Still, forecasts for first quarter GNP could play a role in the direction of bond prices over the next month. Kahan said his early estimate for first quarter growth is around three pct, due largely to a buildup in inventories",
+          "keyphrases": "economy, growth, inventory,"
+        },
+        {
+          "document_id": 2350,
+          "text": "WHITE HOUSE WELCOMES RETAIL SALES FIGURES The White House welcomed the February retail sales figures showing a 4.1 pct rise, following a slow performance in January. Spokesman Marlin Fitzwater told reporters: \"The February sales growth was broad-based and good news for the economy.\" Commerce Department figures showed a larger than",
+          "keyphrases": "economy, sales, growth,"
+        },
+        {
+          "document_id": 2371,
+          "text": "\"It was a pretty healthy report.\" He noted that building materials rose 1.8 pct in February after falling 1.7 pct in January. General merchandise store sales gained 1.4 pct after a 1.6 pct rise in January. \"There are signs of life in the economy,\" McCarthy said. \"But it's jumping to",
+          "keyphrases": "economy, sales, growth,"
+        }
+      ]
+    },
+    {
+      "cluster": 28,
+      "chunk_count": 195,
+      "examples": [
+        {
+          "document_id": 1704,
+          "text": "Donald Trump. In a filing with the Securities and Exchange Commission, the Chicago-based hotel, casino, gambling and amusement concern also said the anticipated charge against first quarter earnings will not be deductible for federal income tax purposes. Under a February 21 deal, Bally agreed to buy 2.6 mln of the",
+          "keyphrases": "Bally, Trump, tax,"
+        },
+        {
+          "document_id": 335,
+          "text": "1,753,000 Revs 7,472,000 vs 15.3 mln Avg shrs 3,845,438 vs 4,470,275 NOTE: net 1986 includes tax gain carryforward from discontinued operations of Master's Merchandise Group in year prior.",
+          "keyphrases": "finance, revenue, tax"
+        },
+        {
+          "document_id": 2273,
+          "text": "tax rate rose to 32.5 pct from 28.8 pct because of the higher profits and despite write-offs on the losses of new acquisitions. A further increase in tax levels was expected in future. Taxes jumped 51.3 pct to 92 mln francs in 1986 from 61 mln the previous year.",
+          "keyphrases": "tax, profit, acquisition"
+        }
+      ]
+    },
+    {
+      "cluster": 29,
+      "chunk_count": 21,
+      "examples": [
+        {
+          "document_id": 1892,
+          "text": "from the system while below target bankers' balances and a rise in the note circulation would take out 50 mln and 100 mln stg respectively. Partially offsetting these, exchequer transactions would add around 355 mln stg, the Bank added.",
+          "keyphrases": "economy, finance, banking,"
+        },
+        {
+          "document_id": 1917,
+          "text": "that such a plan would work in the United States. \"If the banks thought that that was a suitable way to go, fine. I don't think they ever will.\" He pointed out that banks would swap their Third World loans for capital in the megabank and might then be reluctant",
+          "keyphrases": "banking, finance, economy,"
+        },
+        {
+          "document_id": 2230,
+          "text": "Reflecting the caution in new lending, the amount of advances is showing a declining trend, while the days when banks had ample funds in interest-free current accounts to invest are disappearing as Saudi customers seek a better return on their money. In 1979, the ratio of interest-bearing accounts to current",
+          "keyphrases": "banking, investment, economy,"
+        }
+      ]
+    },
+    {
+      "cluster": 30,
+      "chunk_count": 21,
+      "examples": [
+        {
+          "document_id": 2230,
+          "text": "to risk incurring fresh non-performing loans. And while banks in more liberal financial markets can attempt to diversify away from traditional lending, conservatism in Saudi banking has made it difficult to generate fee income from new investment banking products. One banker said \"Operating earnings in the Kingdom are not good.\"",
+          "keyphrases": "banking, investment, earnings,"
+        },
+        {
+          "document_id": 1134,
+          "text": "to 561.8 mln dlrs from year ago 540.9 mln dlrs. Commerce Bank said improved other income, which rose to 213.6 mln dlrs from year-earlier 170.1 mln dlrs, and net income was partially offset by the increased loan loss provisions, non-interest expenses and income taxes. The bank said first quarter total",
+          "keyphrases": "finance, banking, earnings"
+        },
+        {
+          "document_id": 543,
+          "text": "FIRST FEDERAL SAVINGS &lt;FFKZ> YEAR NET Shr 78 cts vs one dlr Net 1,413,000 vs 1,776,000 Assets 705.3 mln vs 597.3 mln Deposits 495.6 mln vs 493.9 mln Loans 260.0 mln vs 379.7 mln Qtly div six cts vs six cts prior qtr Pay April 1 Record March 6 NOTE:",
+          "keyphrases": "finance, banking, earnings"
+        }
+      ]
+    },
+    {
+      "cluster": 31,
+      "chunk_count": 21,
+      "examples": [
+        {
+          "document_id": 2494,
+          "text": "CORE INDUSTRIES INC &lt;CRI> 2ND QTR FEB 28 NET Shr 20 cts vs 22 cts Net 1,948,000 vs 2,124,000 Sales 40.9 mln vs 41.0 mln Six mths Shr 40 cts vs 50 cts Net 3,864,000 vs 4,835,000 Sales 81.7 mln vs 79.9 mln NOTE: 1986 results include gain on sale",
+          "keyphrases": "earnings, sales, financial performance"
+        },
+        {
+          "document_id": 537,
+          "text": "PHARMACIA FORECASTS HIGHER 1987 EARNINGS Pharmacia AB &lt;PHAB ST> forecast earnings after financial items of one billion crowns in 1987 vs 821.2 mln last year on condition that exchange rates remained at their present parities. Sales would in such circumstances go up to six billion crowns from 3.65 billion in",
+          "keyphrases": "earnings, sales, forecast"
+        },
+        {
+          "document_id": 2682,
+          "text": "CHICAGO RIVET AND MACHINE CO &lt;CVR> 4TH QTR NET Shr 21 cts vs 60 cts Net 156,576 vs 443,404 Sales 5,309,519 vs 5,381,264 Year Shr 1.06 dlrs vs 1.55 dlrs Net 788,220 vs 1,151,330 Sales 22.3 mln vs 23.6 mln",
+          "keyphrases": "earnings, sales, financial performance"
+        }
+      ]
+    },
+    {
+      "cluster": 32,
+      "chunk_count": 16,
+      "examples": [
+        {
+          "document_id": 1223,
+          "text": "We can negotiate them all,\" Samuels added. Ninety-two nations are taking part in the four-year Uruguay round of talks launched in Punta del Este last September. Bargaining in agricultural goods and services (banking, tourism, insurance) is included for the first time as well as manufactured goods.",
+          "keyphrases": "trade, agriculture, economy,"
+        },
+        {
+          "document_id": 1324,
+          "text": "tonnes in 1987 to 2.0 mln tonnes in 1991, the accord said.",
+          "keyphrases": "trade, agriculture, economy,"
+        },
+        {
+          "document_id": 442,
+          "text": "low as 1.00 dlr or even 80 cents a lb this year from around 1.25 dlrs now, they said. A special meeting between importing and exporting countries ended in a deadlock late yesterday after eight days of talks over how to set the quotas. No further meeting to discuss quotas",
+          "keyphrases": "trade, agriculture, economy,"
+        }
+      ]
+    },
+    {
+      "cluster": 33,
+      "chunk_count": 184,
+      "examples": [
+        {
+          "document_id": 2087,
+          "text": "pct, the same stake level First Boston holds in Financiere Credit Suisse.",
+          "keyphrases": "finance, investment, credit"
+        },
+        {
+          "document_id": 2990,
+          "text": "operations it will exhaust all currently available cash and credit facilities in early May 1987. It said this assumes full use of the remaining 1,250,000 dlrs available under a line of credit from Celanese Corp, which requires approval of Celanese Corp &lt;CZ>. The company said its ability to obtain funding",
+          "keyphrases": "finance, credit, funding,"
+        },
+        {
+          "document_id": 1021,
+          "text": "BUNDESBANK LEAVES CREDIT POLICIES UNCHANGED The Bundesbank left credit policies unchanged after today's regular meeting of its council, a spokesman said in answer to enquiries. The West German discount rate remains at 3.0 pct, and the Lombard emergency financing rate at 5.0 pct.",
+          "keyphrases": "credit, discount, financing,"
+        }
+      ]
+    },
+    {
+      "cluster": 34,
+      "chunk_count": 51,
+      "examples": [
+        {
+          "document_id": 93,
+          "text": "never to be as easy as OPEC thought. They may need an emergency meeting to sort out the problems,\" said Daniel Yergin, director of Cambridge Energy Research Associates, CERA. Analysts and oil industry sources said the problem OPEC faces is excess oil supply in world oil markets. \"OPEC's problem is",
+          "keyphrases": "oil, opec, supply,"
+        },
+        {
+          "document_id": 2916,
+          "text": "before the 25th of June when our (next OPEC) meeting will take place as scheduled.\" Nazer said OPEC was producing below 15.8 mln bpd and all members were abiding by its agreements. \"We've heard news every now and then of violations but they were not at all verified,\" he said.",
+          "keyphrases": "opec, oil, production"
+        },
+        {
+          "document_id": 1937,
+          "text": "purchases of OPEC oil and resort to destocking to meet their needs,\" Lukman said. He said the 900,000 bpd shortfall last February was based on the verified figure for 10 out of OPEC's 13 members, adding that Nigeria alone had a shortfall in production of 100,000 bpd. Iraq disassociated itself",
+          "keyphrases": "oil, opec, shortfall"
+        }
+      ]
+    },
+    {
+      "cluster": 35,
+      "chunk_count": 25,
+      "examples": [
+        {
+          "document_id": 2669,
+          "text": "ECHLIN INC &lt;ECH> DIVIDEND INCREASED 12 PCT Qtly div 14 cts vs 12.5 cts in prior qtr Payable April 18 Record April two",
+          "keyphrases": "dividend, finance, record"
+        },
+        {
+          "document_id": 2198,
+          "text": "ROWE FURNITURE CORP &lt;ROWE> SETS QTLY DIVIDEND Qtly div four cts vs four cts prior Pay April 15 Record March 20",
+          "keyphrases": "dividend, finance, record"
+        },
+        {
+          "document_id": 1535,
+          "text": "DOLLAR GENERAL CORP &lt;DOLR> QTLY DIVIDEND Qtly div five cts vs five cts prior Payable April three Reocrd March 20",
+          "keyphrases": "dividend, finance, record"
+        }
+      ]
+    },
+    {
+      "cluster": 36,
+      "chunk_count": 23,
+      "examples": [
+        {
+          "document_id": 1261,
+          "text": "and for the year by eight cts per shr.",
+          "keyphrases": "agriculture, farming, crops"
+        },
+        {
+          "document_id": 1,
+          "text": "Level IV reflects grain entered after Oct 6, 1981 for feedgrain and after July 23, 1981 for wheat. Level V wheat/barley after 5/14/82, corn/sorghum after 7/1/82. Level VI covers wheat entered after January 19, 1984. X-1986 rates. Y-dlrs per CWT (100 lbs). n.a.-not available.",
+          "keyphrases": "agriculture, farming, crops"
+        },
+        {
+          "document_id": 2983,
+          "text": "late in the year to alter the 1987 crop program. Sign-up for spring crops closes the end of this month. Overall, Lyng predicted very little change will be legislated in the 1985 farm bill this year.",
+          "keyphrases": "agriculture, farming, crops"
+        }
+      ]
+    },
+    {
+      "cluster": 37,
+      "chunk_count": 18,
+      "examples": [
+        {
+          "document_id": 1302,
+          "text": "and Exchange Commission's insider trading rules. Last week, Waste Management made a tender offer to acquire ChemLawn for 27 dlrs per share or 270 mln dlrs. ChemLawn said its board was determined that Waste's offer was inadequate and not in the best interest of shareholders, and could \"adversely affect\" the",
+          "keyphrases": "gnp, trade, bop"
+        },
+        {
+          "document_id": 2174,
+          "text": "and got underway in a few isolated areas of northern Buenos Aires. Growers have harvested between 15 and 18 pct of total planted area, up from seven to nine pct a week ago. Estimates of the total volume of the sunflower crop were revised downward in light of the bad",
+          "keyphrases": "gnp, trade, bop"
+        },
+        {
+          "document_id": 1732,
+          "text": "on receipt of 80 pct of the notes.",
+          "keyphrases": "gnp, trade, bop,"
+        }
+      ]
+    },
+    {
+      "cluster": 38,
+      "chunk_count": 110,
+      "examples": [
+        {
+          "document_id": 2652,
+          "text": "Avg shrs 88.9 mln vs 89.1 mln NOTE: 1986 period ended February 23 Prior year amounts restated to reflect discontinued furniture operations Earnings include gains from discontinued operations of 1.5 mln dlrs, or two cts a share in the 1986 quarter and gains of 8.5 mln dlrs, or 10 cts",
+          "keyphrases": "earnings, furniture, operations"
+        },
+        {
+          "document_id": 1982,
+          "text": "SEAMAN FURNITURE CO INC &lt;SEAM> 3RD QTR JAN 31 Shr 64 cts vs 51 cts Net 4,373,000 vs 3,346,000 Sales 59.8 mln vs 45.5 mln Avg shrs 6,808,000 vs 6,600,000 Nine mths Shr 1.57 dlrs vs 1.18 dlrs Net 10.7 mln vs 7,745,000 Sales 167.0 mln vs 123.1 mln",
+          "keyphrases": "finance, earnings, furniture"
+        },
+        {
+          "document_id": 1704,
+          "text": "BALLY &lt;BLY> TO TAKE 17.3 MLN DLR 1ST QTR CHARGE Bally Manufacturing Corp said it expects a charge to earnings in the first quarter of this year of 17.3 mln dlrs as a result of its deal to buy back 2.6 mln of its common shares from real estate developer",
+          "keyphrases": "earnings, charge, shares,"
+        }
+      ]
+    },
+    {
+      "cluster": 39,
+      "chunk_count": 25,
+      "examples": [
+        {
+          "document_id": 2498,
+          "text": "CIRCON CORP &lt;CCON> 4TH QTR Shr loss two cts vs profit 10 cts Net loss 79,000 vs profit 507,000 Revs 10.6 mln vs 2,238,000 12 mths Shr profit two cts vs profit 23 cts Net 89,000 vs 1,130,000 Revs 21.4 mln vs 7,766,000",
+          "keyphrases": "earnings, revenue, financial performance"
+        },
+        {
+          "document_id": 604,
+          "text": "INTERMEDICS INC &lt;ITM> 1ST QTR NET Oper shr 26 cts vs 18 cts Oper net 2,877,000 vs 1,363,000 Revs 44.3 mln vs 40.8 mln Avg shrs 10.9 mln vs 10.5 mln NOTE: prior qtr excludes loss 475,000, or five cts per share, for discontinued operations for the sale of subsidiaries",
+          "keyphrases": "earnings, revenue, operating_performance"
+        },
+        {
+          "document_id": 1402,
+          "text": "PROSPECT GROUP INC &lt;PROSZ> 4TH QTR LOSS Shr loss 10 cts vs loss 50 cts Net loss 1,830,000 vs loss 3,584,000 Revs 40.7 mln vs 26.8 mln Avg shrs 19.2 mln vs 7,115,847 12 mths Shr profit 10 cts vs loss 91 cts Net profit 1,422,000 vs loss 6,195,000 Revs",
+          "keyphrases": "earnings, revenue, financial performance"
+        }
+      ]
+    },
+    {
+      "cluster": 40,
+      "chunk_count": 20,
+      "examples": [
+        {
+          "document_id": 1965,
+          "text": "TENERA LP &lt;TLPZV> SETS INITIAL QUARTERLY TENERA LP said it will make an initial quarterly distribution of 17 cts per unit on April 15 to holders of record March 31. The partnership said the dividend is greater than it had expectd to pay and was warranted by fourth quarter results",
+          "keyphrases": "dividend, results, quarter,"
+        },
+        {
+          "document_id": 1237,
+          "text": "LUCKY STORES INC &lt;LKS> REINSTATES QUARTERLY DIV Qtly div 12.5 cts vs nil Pay April 3 Record March 16 Note: in quarters preceeding 4th qtr, dividend was 29 cts.",
+          "keyphrases": "dividend, finance, quarterly,"
+        },
+        {
+          "document_id": 393,
+          "text": "PEOPLES BANCORPORATION &lt;PEOP> QUARTERLY DIVIDEND Qtly div 25 cts vs 25 cts Pay April 24 Record March 31",
+          "keyphrases": "dividend, finance, quarterly,"
+        }
+      ]
+    },
+    {
+      "cluster": 41,
+      "chunk_count": 15,
+      "examples": [
+        {
+          "document_id": 1679,
+          "text": "six months of the year were 242.0 mln dlrs, more than 15 pct above the 210.1 mln dlrs reported in the same period last year. This was the 12th consecutive quarterly gain, the company said. The company said it expects to release earnings in April.",
+          "keyphrases": "earnings, gain, quarterly"
+        },
+        {
+          "document_id": 967,
+          "text": "net excludes realized investment gains of 449,920 dlrs or 15 cts per share and 897,949 dlrs or 30 cts per share, respectively. 1985 4th qtr oper net also excludes a loss of 42,820 dlrs for carryforward.",
+          "keyphrases": "earnings, investment, quarterly"
+        },
+        {
+          "document_id": 2107,
+          "text": "Rev 108.4 mln vs 75.2 mln NOTE: Third qtr net includes gain from discontinued operations of 3.5 mln dlrs, or 31 cts a share, vs 271,000, or two cts a share, in fiscal 1985's third qtr. Nine months net includes gain from discontinued operations of 3.8 mln dlrs, or 34",
+          "keyphrases": "earnings, financial, quarterly"
+        }
+      ]
+    },
+    {
+      "cluster": 42,
+      "chunk_count": 45,
+      "examples": [
+        {
+          "document_id": 2201,
+          "text": "VENEZUELA TO LEND OIL TO ECUADOR FOR EXPORT venezuela will supply ecuador with an as yet undetermined amount of crude oil to help it meet export commitments, seriously affected by last week's earthquake, energy and mines minister arturo hernandez grisanti said. He gave few details about the deal, but said",
+          "keyphrases": "oil, venezuela, ecuador"
+        },
+        {
+          "document_id": 2556,
+          "text": "oil loan by Venezuela, will be processed at Guayaquil refineries. \"If we had not supplied oil to Ecuador the life of this country would have ground to a halt,\" he said.",
+          "keyphrases": "oil, venezuela, ecuador,"
+        },
+        {
+          "document_id": 2131,
+          "text": "which venezuela has managed to assure markets for some 400,000 barrels of its approximately 1.5 mln bpd exports. Hernandez grisanti told reporters after the cabinet meeting that pdvsa will pay 93 mln dlrs for its half ownership in the champlin refinery - 33 mln dlrs in cash and 60 mln",
+          "keyphrases": "oil, venezuela, pdvsa"
+        }
+      ]
+    },
+    {
+      "cluster": 43,
+      "chunk_count": 99,
+      "examples": [
+        {
+          "document_id": 555,
+          "text": "no idea of the cause of the fighting. An investigation was underway, he said.",
+          "keyphrases": "investigation, fighting, conflict,"
+        },
+        {
+          "document_id": 1874,
+          "text": "the group's pleas to curb its North Sea oil output. The King also urged the world community to help the Palestinians return to their homeland and called for a peaceful end to the Iran-Iraq war. The 6-1/2-year-old war could not be resolved on the battlefield, he said.",
+          "keyphrases": "oil, peace, conflict"
+        },
+        {
+          "document_id": 2303,
+          "text": "SAUDI SUPERTANKER REPORTED HIT BY IRAN OFF UAE Iran attacked the Saudi Arabian supertanker Arabian Sea off the United Arab Emirates last night but the vessel was able to proceed after the incident, Lloyds Shipping Intelligence reported. The 315,695-dwt Arabian Sea had set sail on Tuesday after loading oil at",
+          "keyphrases": "oil, shipping, conflict"
+        }
+      ]
+    },
+    {
+      "cluster": 44,
+      "chunk_count": 14,
+      "examples": [
+        {
+          "document_id": 1543,
+          "text": "would be a private company financed by high yield bonds and bank debt, Nelson said. Narragansett is an investment management company specializing in leveraged buyout transactions. Taft shares climbed 19 to 151-1/2, causing arbitrageurs to say investors believe the bidders may raise their price. Robert M. Bass, who controls 25",
+          "keyphrases": "finance, investment, merger,"
+        },
+        {
+          "document_id": 889,
+          "text": "first stage, closng March 22, it would sell Qintex 900,000 Hal Roach shares at seven U.S. dlrs a share each for a total of 6.3 mln dlrs and Roach will repay H.R.S. 3.3 mln U.S. dlrs of advances. Qintex will also complete the 16.8 mln U.S. dlr buy of 2.4",
+          "keyphrases": "finance, merger, investment,"
+        },
+        {
+          "document_id": 2336,
+          "text": "KNOLL TO BUY AMERICAN SAVINGS &lt;AAA> SHARES American Savings and Loan Association of Florida said &lt;Knoll International Holdings Inc> has offered to purchase 500,000 new shares of American Savings for 10 mln dlrs, and the board has accepted Knoll's offer. Knoll already owns 796,413 shares or 9.9 pct of American",
+          "keyphrases": "finance, investment, merger,"
+        }
+      ]
+    },
+    {
+      "cluster": 45,
+      "chunk_count": 14,
+      "examples": [
+        {
+          "document_id": 2706,
+          "text": "the first quarter of 17.3 mln dlrs as a result of its deal to buy back 2.6 mln of its common shares from real estate developer Donald Trump. Under a February 21 deal, Bally agreed to buy the 2.6 mln of the 3.06 mln shares held by Trump at 24",
+          "keyphrases": "business, finance, merger,"
+        },
+        {
+          "document_id": 2706,
+          "text": "dlrs a share, or 62.4 mln dlrs, plus 6.2 mln dlrs related expenses in exchange for Trump not seeking control of the company for 10 years. The deal also requires Bally to buy Trump's remaining shares for 33 dlrs a share if the stock price does not reach that level",
+          "keyphrases": "business, finance, merger,"
+        },
+        {
+          "document_id": 771,
+          "text": "about 100 mln French francs, doubling the Rossignol group's activities in the boot and stick sectors.",
+          "keyphrases": "business, finance, merger,"
+        }
+      ]
+    },
+    {
+      "cluster": 46,
+      "chunk_count": 11,
+      "examples": [
+        {
+          "document_id": 305,
+          "text": "&lt;FRANKLIN UTILITIES FUND> SETS PAYOUT Qtly div 14 cts vs 14 cts prior Pay March 13 Record March Two",
+          "keyphrases": "finance, dividend, utility"
+        },
+        {
+          "document_id": 948,
+          "text": "LOUISVILLE GAS AND ELECTRIC CO &lt;LOU> DIVIDEND Qtly dividend 65 cts vs 65 cts Pay April 15 Record March 31",
+          "keyphrases": "dividend, finance, utility"
+        },
+        {
+          "document_id": 711,
+          "text": "FLORIDA PUBLIC &lt;FPUT> SPLITS STOCK, UPS DIV Florida Public Utilities Co said its board declared a three-for-two stock split on its common stock. It said holders of record April 15 will receive one additional share May one for each two shares held. The company also said it raised the dividend",
+          "keyphrases": "stock, dividend, utility"
+        }
+      ]
+    },
+    {
+      "cluster": 47,
+      "chunk_count": 21,
+      "examples": [
+        {
+          "document_id": 1497,
+          "text": "major creditors might move to block such a sale, arguing they have a claim on company assets. \"Other creditors generally all want to make sure that something they might be able to get a piece of is not being sold out from under them,\" said analyst Gobert. Another stumbling block",
+          "keyphrases": "business, finance, creditors"
+        },
+        {
+          "document_id": 1516,
+          "text": "U.S. BUSINESS LOANS FALL 618 MLN DLRS IN FEB 25 WEEK, FED SAYS U.S. BUSINESS LOANS FALL 618 MLN DLRS IN FEB 25 WEEK, FED SAYS",
+          "keyphrases": "business, loans, economy,"
+        },
+        {
+          "document_id": 2788,
+          "text": "U.S. BUSINESS LOANS RISE 377 MLN DLRS Business loans on the books of major U.S. banks, excluding acceptances, rose 377 mln dlrs to 279.085 billion dlrs in the week ended March 4, the Federal Reserve Board said. The Fed said that business loans including acceptances increased 484 mln dlrs to",
+          "keyphrases": "business, loans, finance"
+        }
+      ]
+    },
+    {
+      "cluster": 48,
+      "chunk_count": 119,
+      "examples": [
+        {
+          "document_id": 382,
+          "text": "each American Medical share. Wedge said it has no plans to join in an effort to seek control of American Medical, but it would not rule out a future takeover try. Pesch said he did not discuss a joint takeover proposal with the Bass family. Some analysts saw the Wedge",
+          "keyphrases": "takeover, medical, finance"
+        },
+        {
+          "document_id": 1537,
+          "text": "USAIR &lt;U> SEEKS ORDER AGAINST TWA &lt;TWA> USAir Group said it sought the help of the U.S. Department of Transportation in its takeover fight with Trans World Airlines Inc, asking the Department to order TWA to sell its USAir shares. \"What they have done is in direct violation of the",
+          "keyphrases": "takeover, violation, department"
+        },
+        {
+          "document_id": 363,
+          "text": "it was a rare situation that could only be enjoyed - a true bidding war. One said Redstone could begin a tender offer whenever he wanted and if enough people were convinced his proposal was superior to the Viacom management plan, he would have a chance to win. The independent",
+          "keyphrases": "merger, takeover, finance,"
+        }
+      ]
+    },
+    {
+      "cluster": 49,
+      "chunk_count": 34,
+      "examples": [
+        {
+          "document_id": 2999,
+          "text": "required number of votes in Brussels to prevent the tax proposal going forward,\" he said. \"The proposal has been talked of in Brussels for the past 20 years, and dropped every time. What we want now is to kill it once and for all,\" Bennett added. Backing up the soybean",
+          "keyphrases": "tax, brussels, soybean"
+        },
+        {
+          "document_id": 171,
+          "text": "JAPAN BUYS SOME 95,000 TONNES SOYBEANS FROM CHINA Japanese importers bought some 95,000 tonnes of Chinese soybeans late last month for May to September shipment, under the semi-annual trade accords, trade sources said. The FOB premium rose to 13.50 dlrs per tonne, up 2.50 dlrs from the premium for the",
+          "keyphrases": "trade, imports, soybeans"
+        },
+        {
+          "document_id": 2999,
+          "text": "U.S. SOY PRODUCERS THINK EC OILS TAX UNLIKELY American soybean producers are confident the proposed European Community (EC) tax on vegetable oils and fats will be rejected but are leaving nothing to chance, American Soybean Association (ASA) president-elect Wayne Bennett said. Bennett, who is leading one of three soybean producer",
+          "keyphrases": "soybean, oil, tax"
+        }
+      ]
+    },
+    {
+      "cluster": 50,
+      "chunk_count": 18,
+      "examples": [
+        {
+          "document_id": 222,
+          "text": "payable on completion with the balance due by June 30, 1987.",
+          "keyphrases": "business, finance, economy"
+        },
+        {
+          "document_id": 2273,
+          "text": "in January 1986 which had also made some major acquisitions possible last year. Hermann Pohl, general director in charge of economic affairs, said the 2.7 pct decline in group turnover to 5.24 billion francs was due to currency factors. A 5.2 pct negative currency influence was partially offset by growth",
+          "keyphrases": "business, finance, economy"
+        },
+        {
+          "document_id": 1831,
+          "text": "be higher in fiscal 1987 if the important summer season film releases perform well. In addition, its other key business, General Cinema Beverages, is expected to achieve record operating results for the full year, Smith said. The company's superstar video business which rents video cassettes in supermarkets continues to operate",
+          "keyphrases": "business, finance, economy"
+        }
+      ]
+    },
+    {
+      "cluster": 51,
+      "chunk_count": 19,
+      "examples": [
+        {
+          "document_id": 2483,
+          "text": "of its U.S. courier division. \"Basically, (the courier division) is a company that has 450 mln dlrs in revenues. It's a very large company and it's being sold for 50 or 60 mln dlrs,\" said Gardner in a telephone interview with Reuters. Gardner is an official of Kelso Management, a",
+          "keyphrases": "merger, acquisition, finance"
+        },
+        {
+          "document_id": 2294,
+          "text": "FIRST UNION &lt;FUNC> ACQUISITION ADVANCES First Union Corp said shareholders of First North Port Bancorp of Northport, Fla., have approved a merger into First Union for 40 dlrs per share, or about 5,100,000 dlrs. The company said the acquisition is still subject to regulatory approvals and is expected to be",
+          "keyphrases": "merger, acquisition, finance"
+        },
+        {
+          "document_id": 230,
+          "text": "DIAGNOSTIC/RETRIEVAL SYSTEMS INC MAKES 53 MLN DLR BID FOR ROSPATCH CORP DIAGNOSTIC/RETRIEVAL SYSTEMS INC MAKES 53 MLN DLR BID FOR ROSPATCH CORP",
+          "keyphrases": "merger, acquisition, finance"
+        }
+      ]
+    },
+    {
+      "cluster": 52,
+      "chunk_count": 17,
+      "examples": [
+        {
+          "document_id": 151,
+          "text": "SAUDI ARABIA REITERATES COMMITMENT TO OPEC PACT Saudi Arabian Oil Minister Hisham Nazer reiterated the kingdom's commitment to last December's OPEC accord to boost world oil prices and stabilise the market, the official Saudi Press Agency SPA said. Asked by the agency about the recent fall in free market oil",
+          "keyphrases": "OPEC, oil prices, market"
+        },
+        {
+          "document_id": 1091,
+          "text": "lower output was the result \"of member countries' firm determination to defend the organisation's official price of 18 dlrs per barrel, and to refrain from selling any quantity below that price.\" The unnamed official was further quoted as saying that no OPEC meeting was foreseen before the next biannual OPEC",
+          "keyphrases": "oil, opec, prices,"
+        },
+        {
+          "document_id": 887,
+          "text": "the context of a total workforce of 300,000. Prices of North Sea Brent-grade crude dipped to a low of 8.50 dlrs a barrel last July from a peak of over 30 dlrs the previous November. They recovered to around 18 dlrs a barrel after last December's OPEC meeting and Brent",
+          "keyphrases": "oil, opec, prices,"
+        }
+      ]
+    },
+    {
+      "cluster": 53,
+      "chunk_count": 12,
+      "examples": [
+        {
+          "document_id": 1298,
+          "text": "Dakota City, Nebraska, because it said \"it had no alternative to threats by meatpackers to disrupt operations.\" About 2,800 UFCWU members are affected by what the union terms as a lockout. A 3-1/2 year labor contract at the plant expired December 13. Zack said IBP's proposal included elimination of a",
+          "keyphrases": "labor, meatpacking, dispute,"
+        },
+        {
+          "document_id": 2497,
+          "text": "Petroleum Corp, mailed a letter to members of UFCWU Local 222 informing them a lockout imposed by the company on December 14 would be lifted and meatpackers could return to work under Iowa Beef's \"revised, last and best final offer,\" according to Zack. The letter was signed by four managers",
+          "keyphrases": "labor, meatpacking, lockout"
+        },
+        {
+          "document_id": 2531,
+          "text": "disrupt operations. It was unclear whether union meatpackers would return to work. They rejected the company's latest contract offer March 5. Traders said cattle prices advanced at midsession as rumors circulated that the lockout was ending, and gains were further fueled by a noticeable increase in demand for live animals",
+          "keyphrases": "labor, meatpacking, livestock"
+        }
+      ]
+    },
+    {
+      "cluster": 54,
+      "chunk_count": 67,
+      "examples": [
+        {
+          "document_id": 954,
+          "text": "Carlos Calmon said. He told Reuters proposals to reduce Brazil's quota to 25 pct of the world share from 30 pct at present were unacceptable as the country has large stocks and a good harvest is expected. \"Brazil has the capacity to export 20 mln bags this year,\" Calmon added.",
+          "keyphrases": "agriculture, export, harvest"
+        },
+        {
+          "document_id": 1314,
+          "text": "crops developing under near ideal conditions towards record yields. \"We are going to see a very rapid decline, earlier than usual, this year in our (U.S.) exports,\" Loewy said. Tommy Eshleman, economist for the American Soybean Association (ASA), said this year's Brazilian soybean harvest could total 18 mln tonnes, versus",
+          "keyphrases": "agriculture, crops, exports"
+        },
+        {
+          "document_id": 2226,
+          "text": "affected the crop, though it remains to be seen how seriously. Indonesia's main crop is harvested next month. He gave no figure for expected output, except to say it would probably be down a little from 1985/86. He said stocks were about normal at 90,000 tonnes. Kertosastro predicted that exports",
+          "keyphrases": "agriculture, exports, crops"
+        }
+      ]
+    },
+    {
+      "cluster": 55,
+      "chunk_count": 12,
+      "examples": [
+        {
+          "document_id": 1028,
+          "text": "USAIR GROUP REJECTS TRANS WORLD AIRLINES TAKEOVER BID USAIR GROUP REJECTS TRANS WORLD AIRLINES TAKEOVER BID",
+          "keyphrases": "airline, takeover, merger"
+        },
+        {
+          "document_id": 1230,
+          "text": "which was believed to be close to accepting the bid. Today, USAir rejected Icahn's 52 dlr per share offer and said the bid was a last-minute effort to interfere in its takeover of Piedmont. Icahn was unavailable for comment. Piedmont fell one to 68-5/8 on volume of 963,000. TWA was",
+          "keyphrases": "airline, takeover, merger"
+        },
+        {
+          "document_id": 951,
+          "text": "Southern declined comment, but said it stuck with its offer for Piedmont. Norfolk owns about 20 pct of Piedmont and opened the bidding when it said it would propose a takeover of Piedmont. Some analysts said Icahn may be trying to acquire USAir to make his own airline a more",
+          "keyphrases": "airline, takeover, merger"
+        }
+      ]
+    },
+    {
+      "cluster": 56,
+      "chunk_count": 18,
+      "examples": [
+        {
+          "document_id": 2610,
+          "text": "CANADA FEBRUARY UNEMPLOYMENT FALLS TO 9.6 PCT FROM JANUARY 9.7 PCT, STATISTICS CANADA SAID CANADA FEBRUARY UNEMPLOYMENT FALLS TO 9.6 PCT FROM JANUARY 9.7 PCT, STATISTICS CANADA SAID",
+          "keyphrases": "unemployment, canada, economy"
+        },
+        {
+          "document_id": 2996,
+          "text": "CANADA MANUFACTURING UTILIZATION RATE RISES Utilization of Canadian manufacturing capacity rose to 77.2 pct in the fourth quarter of 1986 from 77 pct in the third quarter, Statistics Canada said. \"Although the change was small, this marked the first quarter since the third quarter of 1985 in which the utilization",
+          "keyphrases": "manufacturing, utilization, canada"
+        },
+        {
+          "document_id": 2263,
+          "text": "CANADA JANUARY TRADE SURPLUS 533 MLN DLRS AFTER DECEMBER 965 MLN DLRS SURPLUS CANADA JANUARY TRADE SURPLUS 533 MLN DLRS AFTER DECEMBER 965 MLN DLRS SURPLUS",
+          "keyphrases": "trade, surplus, canada"
+        }
+      ]
+    },
+    {
+      "cluster": 57,
+      "chunk_count": 112,
+      "examples": [
+        {
+          "document_id": 570,
+          "text": "HOME FEDERAL OF THE ROCKIES &lt;HROK> 4TH QTR LOSS Shr loss 2.07 dlrs vs profit 36 cts Net loss 1,088,000 vs profit 187,000 Year Shr loss 12.23 dlrs vs profit 17 cts Net loss 645,000 vs profit 89,000 NOTE: Home Federal Savings and Loan Association of the Rockies. 1986 net",
+          "keyphrases": "finance, loss, savings"
+        },
+        {
+          "document_id": 1196,
+          "text": "Omnilab was losing about 140,000 dlrs a quarter. \"We no longer see a near-term prospect for a reasonable return on our investment,\" Romilly Humphries, S.A.Y. president and chief executive officer said. S.A.Y. said proceeds from the sale would be used to increase the company's market share in automotive products packaging",
+          "keyphrases": "loss, investment, market share"
+        },
+        {
+          "document_id": 1434,
+          "text": "systems supplier reported a loss of 1.2 mln dlrs for the 1986. Graff said \"we invested heavily in 1986, which we believe will result in higher future growth and earnings for the company.\"",
+          "keyphrases": "loss, investment, growth"
+        }
+      ]
+    },
+    {
+      "cluster": 58,
+      "chunk_count": 11,
+      "examples": [
+        {
+          "document_id": 205,
+          "text": "HUTCHISON SEES HIGHER PAYOUT, SATISFACTORY PROFITS Hutchison Whampoa Ltd &lt;HWHH.HK> expects satisfactory profits in 1987 and will pay a higher dividend for the year, chairman Li Ka-shing said. He did not make any specific projections for the company's earnings this year but he said the firm will pay a dividend",
+          "keyphrases": "dividend, profit, finance"
+        },
+        {
+          "document_id": 995,
+          "text": "net profit of more than one billion dlrs for the first time, an increase of 10 to 12 pct. They expect Hang Seng to pay a final dividend of 1.37 dlrs for a total of 1.75 dlrs for the year against 1.60 in 1985. Analysts said that while the use",
+          "keyphrases": "finance, dividend, profit,"
+        },
+        {
+          "document_id": 2906,
+          "text": "TRANSPORT DEVELOPMENT GROUP PLC &lt;TDGL.L> 1986 YEAR Shr 17.15p vs 12.37p Final dividend 5.5p, making 7.5p vs 6.2p Pre-tax profit 39.4 mln stg vs 29.7 mln. Turnover 543.2 mln stg vs 481.5 mln Operating profit 48.2 mln stg vs 38.2 mln Net interest 8.9 mln vs 8.6 mln Tax 14.3",
+          "keyphrases": "finance, dividend, profit"
+        }
+      ]
+    },
+    {
+      "cluster": 59,
+      "chunk_count": 66,
+      "examples": [
+        {
+          "document_id": 1742,
+          "text": "the letter of intent signed with Renault, AMC's controlling shareholder with a 46.2 pct direct stake, includes a provision for Renault to be paid 35 mln dlrs in cash for AMC's finance subsidiary and 200 mln dlrs in the form of an eight pct note. He said he did not",
+          "keyphrases": "finance, merger, automotive,"
+        },
+        {
+          "document_id": 1992,
+          "text": "need of a financial savior because of its losses of more than 800 mln dlrs since 1980 and pressures in France for Renault to cut its backing. The company had said it could not forecast consistent profitability until 1988 at the earliest. In announcing the takeover agreement, Chrysler chairman Lee",
+          "keyphrases": "finance, takeover, automotive,"
+        },
+        {
+          "document_id": 2213,
+          "text": "the turnaround reflected an injection of funds, estimated at around 700 mln dlrs, associated with the previously reported restructuring of the Australian operations of General Motors Corp &lt;GM>. GM used the funds to pay out or take over certain Australian liabilities of its local unit &lt;General Motors-Holden's Ltd>, it said.",
+          "keyphrases": "finance, restructuring, automotive,"
+        }
+      ]
+    },
+    {
+      "cluster": 60,
+      "chunk_count": 16,
+      "examples": [
+        {
+          "document_id": 2230,
+          "text": "Saudi British slashed 1985 profit 91 pct to just 9.1 mln riyals and 1986 accounts due soon are expected to show another low figure. But the bank has traditionally been one of the most conservative in making provisions. Bankers said SAMA has proved it is not prepared to see a",
+          "keyphrases": "finance, profit, banking"
+        },
+        {
+          "document_id": 1933,
+          "text": "risen to 3.1 billion schillings at the end of 1986 from 2.7 billion a year earlier. Schmidt-Chiari made the forecast at a news conference when the bank announced a 1986 consolidated banking group net profit of 496.7 mln schillings for 1986, against 354.5 mln in 1985. Schmidt-Chiari did not elaborate",
+          "keyphrases": "finance, profit, banking"
+        },
+        {
+          "document_id": 2860,
+          "text": "&lt;THE NATIONAL BANK OF NEW ZEALAND LTD> Year to December 31, 1986 Net profit 78 mln N.Z. Dlrs vs 45 mln Pre-tax profit 147 mln vs 88 mln Total assets 7.7 billion vs 6.4 billion Notes - The company is 100 pct owned by Lloyds Bank Plc &lt;LLOY.L>. Results include",
+          "keyphrases": "finance, banking, profit"
+        }
+      ]
+    },
+    {
+      "cluster": 61,
+      "chunk_count": 23,
+      "examples": [
+        {
+          "document_id": 1895,
+          "text": "will not be affected by a drive against \"bourgeois liberalism,\" a phrase meaning Western political ideas, following the dismissal of Communist Party chief Hu Yaobang on January 16. A U.S. Banker said there is no evidence that China's foreign exchange reserves have fallen below the officially stated figure of 10",
+          "keyphrases": "China, politics, economy"
+        },
+        {
+          "document_id": 473,
+          "text": "in China and that Peking will continue to encourage foreign private businesses to invest here. It said Mobil bought 73 mln dlrs of crude oil and oil products from China in 1986 and sold it lubricant and fertiliser, but gave no more details.",
+          "keyphrases": "china, trade, investment,"
+        },
+        {
+          "document_id": 223,
+          "text": "growth in (Hong Kong's) exports is expected to stimulate the demand for industrial buildings.\" Cheung Kong is cash rich and is looking for new projects in the British colony, Li said, noting the firm is interested in a land reclamation project along the Hong Kong harbour and is exchanging views",
+          "keyphrases": "Hong Kong, exports, construction,"
+        }
+      ]
+    },
+    {
+      "cluster": 62,
+      "chunk_count": 11,
+      "examples": [
+        {
+          "document_id": 1501,
+          "text": "DEL LABORATORIES INC &lt;DLI> 4TH QTR NET Shr 16 cts vs 55 cts Net 232,000 vs 814,000 Revs 22.4 mln vs 22 mln Year Shr 2.07 dlrs vs 2.43 dlrs Net 3,108,000 vs 3,670,000 Revs 106.7 mln vs 101.1 mln NOTE: Per share figures adjusted to reflect four-for-three stock split",
+          "keyphrases": "finance, earnings, split"
+        },
+        {
+          "document_id": 1524,
+          "text": "vs 78.3 mln dlrs Avg shrs 3,079,516 vs 3,089,140 NOTE: per share amounts for qtr and year prior have been restated to reflect a six-for-five stock split in August 1986. Revs for qtr include capital gains of 3,049,564 vs 2,010,972, and for year of 9,841,204 vs 5,798,995. Revs for qtr",
+          "keyphrases": "finance, earnings, split"
+        },
+        {
+          "document_id": 2009,
+          "text": "NUTMEG INDUSTRIES INC &lt;NUTM> YEAR JAN 31 NET Shr 14 cts Net 510,917 Sales 12.3 mln NOTE: Share adjusted for five for four stock split in January 1987. Backlog 13.0 mln dlrs vs 3,733,000 dlrs. Company began operating January 27, 1986.",
+          "keyphrases": "finance, earnings, split"
+        }
+      ]
+    },
+    {
+      "cluster": 63,
+      "chunk_count": 92,
+      "examples": [
+        {
+          "document_id": 1613,
+          "text": "last year. Excluding energy exports, the 1987 figure would be two pct, it said. Imports were set to rise by 4.5 pct this year compared with four pct in 1986 in volume terms, the CPB said. The balance of payments would see a sharp decline in the surplus, to six",
+          "keyphrases": "trade, balance of payments, exports"
+        },
+        {
+          "document_id": 1328,
+          "text": "on part of Brazil's foreign debt following a drastic deterioration in the country's trade balance. The head of the National Merchant Marine Authority, Murilo Rubens Habbema, was quoted today as saying that if the strike continued foreign ships could be authorized to transport Brazilian exports. \"Brazil is living through a",
+          "keyphrases": "trade, debt, export"
+        },
+        {
+          "document_id": 864,
+          "text": "any plans for a \"drastic and sudden\" revaluation. Rha is heading a trade mission to 37 U.S. cities. Last year South Korea ran a 4.3 billion dlr trade surplus, including a record 7.1 billion surplus with the U.S. and a 5.5 billion dlr deficit with Japan. Rha told Reuters in",
+          "keyphrases": "trade, surplus, deficit"
+        }
+      ]
+    },
+    {
+      "cluster": 64,
+      "chunk_count": 9,
+      "examples": [
+        {
+          "document_id": 2145,
+          "text": "this moment, we have no thought of retaliation.\" South Korea is a major exporter to the United States of textiles and apparel and electronic goods, such as television sets, video cassette records and personal computers. Its puchases from the United States include electronic testing equipment and grains and cotton. The",
+          "keyphrases": "trade, economy, south-korea"
+        },
+        {
+          "document_id": 2127,
+          "text": "were in goods of the type South Korea normally bought from Japan. Rha leaves today for Ottawa for trade talks with Canadian officials and businessmen. Asked if South Korea would retaliate against U.S. goods if Congress closed U.S. markets to its products, he said \"at this moment, we have no",
+          "keyphrases": "trade, south korea, japan,"
+        },
+        {
+          "document_id": 864,
+          "text": "S. KOREAN TRADE SURPLUS WITH U.S. SEEN FALLING South Korea's record 7.1 billion dlrs trade surplus with the U.S. is bound to diminish as the country switches purchases from Japan in favor of U.S. companies, Trade Minister Woong-Bae Rha said. He rejected suggestions the Korean Won is undervalued, and denied",
+          "keyphrases": "trade, southkorea, economy,"
+        }
+      ]
+    },
+    {
+      "cluster": 65,
+      "chunk_count": 11,
+      "examples": [
+        {
+          "document_id": 2792,
+          "text": "stability of exchange rates around prevailing levels. The agreement was viewed by many in the market as an attempt to put a floor under the dollar after its sizeable two-year decline against major world currencies. And initially, traders indicated their respect for the accord by refraining from pushing the dollar",
+          "keyphrases": "economy, currency, trade"
+        },
+        {
+          "document_id": 1907,
+          "text": "Korea had been gradually appreciating its currency, ruling out a major revaluation. So far this year, the won has gone up by 0.8 pct against the dollar after a 3.34 pct revaluation in 1986. He said South Korea was selecting \"many\" of 122 items on which Washington recently asked Seoul",
+          "keyphrases": "economy, currency, trade"
+        },
+        {
+          "document_id": 1641,
+          "text": "last year, as adherence to OPEC output policy becomes increasingly ragged. It said the dollar is poised to resume its decline in foreign exchange markets, and will lose a further 13 pct on its trade-weighted index this year and five pct in 1988 after last year's 18.4 pct drop. The",
+          "keyphrases": "economy, currency, trade"
+        }
+      ]
+    },
+    {
+      "cluster": 66,
+      "chunk_count": 117,
+      "examples": [
+        {
+          "document_id": 2989,
+          "text": "of trade laws, a key House subcommittee last week approved a toned down version of legislation to require President Reagan to retaliate against foreign countries that follow unfair trade practices. This bill will be the cornerstone of congressional efforts to restore competitiveness of American industries and turn around last year's",
+          "keyphrases": "trade laws, competitiveness, retaliation,"
+        },
+        {
+          "document_id": 2199,
+          "text": "more competitive. House Speaker James Wright, a Texas Democrat, said again today he expects the full House will approve the trade bill by May and that Reagan will accept the final congressional bill. \"I expect whatever is reported (by the Ways and Means Committee) will pass. We will have a",
+          "keyphrases": "trade, congress, economy,"
+        },
+        {
+          "document_id": 2929,
+          "text": "six years in Washington,\" Baldrige said in a weekend television interview. \"I think we'll still be able to get a reasonable trade bill out in spite of that because the whole Congress is trying to work together with the administration, but there is a hardening trade attitude,\" he said. President",
+          "keyphrases": "trade, congress, president"
+        }
+      ]
+    },
+    {
+      "cluster": 67,
+      "chunk_count": 103,
+      "examples": [
+        {
+          "document_id": 2333,
+          "text": "K MART &lt;KM> SAYS RECORD 1986 NET \"TURNING POINT\" K Mart Corp said its record fiscal 1986 net earnings of 582.3 mln dlrs, a rise from 221.2 mln dlrs a year ago, marked a \"major turning point\" for the world's second biggest retailer. K Mart said the earnings rise for",
+          "keyphrases": "earnings, retail, financial"
+        },
+        {
+          "document_id": 2362,
+          "text": "DAYTON HUDSON CORP 4TH QTR OPER SHR 1.24 DLRS VS 1.55 DLRS DAYTON HUDSON CORP 4TH QTR OPER SHR 1.24 DLRS VS 1.55 DLRS",
+          "keyphrases": "earnings, finance, retail"
+        },
+        {
+          "document_id": 500,
+          "text": "F.W. WOOLWORTH CO 4TH QTR SHR 1.78 DLRS VS 1.64 DLRS F.W. WOOLWORTH CO 4TH QTR SHR 1.78 DLRS VS 1.64 DLRS",
+          "keyphrases": "earnings, finance, retail,"
+        }
+      ]
+    },
+    {
+      "cluster": 68,
+      "chunk_count": 13,
+      "examples": [
+        {
+          "document_id": 176,
+          "text": "offer through N.M. Rothschilds. IC Gas said in a statement it noted the SHV tender offer and the terms were being considered. It said a further statement would be made as soon as possible. REUTER...",
+          "keyphrases": "business, finance, mergers_and_acquisitions,"
+        },
+        {
+          "document_id": 494,
+          "text": "UNILEVER IMPROVES IN MOST SECTORS DURING 1986 The Unilever Plc and NV &lt;UN.A> group saw improved performance in almost all sectors during 1986, the Anglo-Dutch group said in its results statement. Very good progress was made last year, while the recent acquisition of Chesebrough-Pond's Inc &lt;CBM.N> was a significant addition",
+          "keyphrases": "business, finance, mergers_and_acquisitions"
+        },
+        {
+          "document_id": 172,
+          "text": "SHV SAYS IT MAKING TENDER OFFER FOR UP TO 33 MLN SHARES IN IC GAS SHV SAYS IT MAKING TENDER OFFER FOR UP TO 33 MLN SHARES IN IC GAS",
+          "keyphrases": "business, finance, mergers_and_acquisitions,"
+        }
+      ]
+    },
+    {
+      "cluster": 69,
+      "chunk_count": 17,
+      "examples": [
+        {
+          "document_id": 163,
+          "text": "in 1986/87. Exports in 1985/86 were 4.67 mln bags. The embassy report says coffee stocks will rise to 1.3 mln tonnes in 1987/88 from 1.15 mln in 1986/87. It bases this on a fall in exports as a result of the \"probable\" re-introduction of quotas by the International Coffee Organisation.",
+          "keyphrases": "coffee, exports,  quotas"
+        },
+        {
+          "document_id": 2757,
+          "text": "recent International Coffee Organisation talks in London, where producers and consumers failed to agree on a re-introduction of export quotas.",
+          "keyphrases": "coffee, export, quotas,"
+        },
+        {
+          "document_id": 628,
+          "text": "ICO PACT UNLIKELY BY AUTUMN - ITALIAN ADVISER The prospects of the International Coffee Organization (ICO) reaching an agreement on coffee export quotas before September appear dim, Alberto Hesse, former president of the European Coffee Federation, said. \"There is no real goodwill in certain delegations to go to quotas,\" Hesse,",
+          "keyphrases": "coffee, export, quotas"
+        }
+      ]
+    },
+    {
+      "cluster": 70,
+      "chunk_count": 11,
+      "examples": [
+        {
+          "document_id": 2147,
+          "text": "PARALAX VIDEO &lt;VIDO> TO BUY AMERICAN VIDEO Paralax Video Enterprises Inc said it signed a definitive agreement to buy &lt;American Video Group Inc> for stock. According to the merger proposal, American Video shareholders will receive about 287,700 restricted Paralax shares, and warrants to buy another 318,600 restricted shares at six",
+          "keyphrases": "merger, video, stock"
+        },
+        {
+          "document_id": 1322,
+          "text": "acquire the 36 pct of Republic Health stock that it does not already own. Terms of Pesch's offer have not been disclosed.",
+          "keyphrases": "merger, acquisition, stock,"
+        },
+        {
+          "document_id": 781,
+          "text": "ALLWASTE &lt;ALWS> TO MAKE ACQUISITION Allwaste Inc said it has agreed in principle to acquire an air-moving and related industrial services company it did not identify for up to 1,400,000 dlrs in common stock.",
+          "keyphrases": "merger, acquisition, stock,"
+        }
+      ]
+    },
+    {
+      "cluster": 71,
+      "chunk_count": 14,
+      "examples": [
+        {
+          "document_id": 2304,
+          "text": "and other trading partners. Taiwan's trade surplus reached a record 15.6 billion dlrs last year, up from 10.62 billion in 1985.",
+          "keyphrases": "trade, surplus, economy"
+        },
+        {
+          "document_id": 1015,
+          "text": "slumping from around 800 mln dlrs to 200 mln, as credits ran out. Poland has a dwindling trade surplus with the West. Last year it was one billion dlrs against a targeted 1.6 billion, official figures show. Acknowledging that sanctions have lost Poland important U.S. Markets -- including agricultural equipment,",
+          "keyphrases": "trade, surplus, economy"
+        },
+        {
+          "document_id": 1907,
+          "text": "largely to a trade surplus with the U.S. Of 7.1 billion dlrs, against a 4.3 billion deficit in 1985. It earlier forecast that its current account surplus could reach eight billion dlrs this year. But the government official said the surplus would be held at around five billion dlrs to",
+          "keyphrases": "trade, surplus, economy"
+        }
+      ]
+    },
+    {
+      "cluster": 72,
+      "chunk_count": 14,
+      "examples": [
+        {
+          "document_id": 1801,
+          "text": "on their stake so far. Cross said he proposed in a letter to Harper and Row that the company be merged into a company Cross is forming. Suggesting that the total cost of completing the merger would be 190 mln dlrs, Cross said he would use 20 mln dlrs of",
+          "keyphrases": "business, merger, finance"
+        },
+        {
+          "document_id": 742,
+          "text": "C.T.C. DEALER EXTENDS BID FOR CANADIAN TIRE C.T.C. Dealer Holdings Ltd said it extended its previously announced offer for 49 pct of &lt;Canadian Tire Corp Ltd> to midnight on March 26. CTC, a group of Canadian Tire dealers, which already owns 17 pct of Canadian Tire, is currently appealing in",
+          "keyphrases": "business, merger, finance"
+        },
+        {
+          "document_id": 174,
+          "text": "52 pct of the voting rights in the company. The Swedish Match deal will cost the Wallenbergs about 400 mln crowns, share analysts said, making it one of the most expensise moves the group has undertaken in the last four years to defend its far-flung interests from outside predators. The",
+          "keyphrases": "business, merger, finance"
+        }
+      ]
+    },
+    {
+      "cluster": 73,
+      "chunk_count": 27,
+      "examples": [
+        {
+          "document_id": 1605,
+          "text": "U.S. TO ALLOW TEMPORARY IMPORTS OF S.A. URANIUM The Treasury Department said it would temporarily permit imports of South African uranium ore and oxide pending clarification of anti-apartheid sanctions laws passed by Congress last fall. The decision was announced late Friday. It applies, until July 1, to uranium ore and",
+          "keyphrases": "trade, sanctions, south_africa"
+        },
+        {
+          "document_id": 1555,
+          "text": "by South Africa's white minority government, prohibited imports of uranium ore and oxide, iron and steel, coal and textiles at the end of 1986.",
+          "keyphrases": "trade, south_africa, economy"
+        },
+        {
+          "document_id": 1551,
+          "text": "by South Africa's white minority government, prohibited imports of uranium ore and oxide, iron and steel, coal and textiles at the end of 1986.",
+          "keyphrases": "trade, south_africa, economy"
+        }
+      ]
+    },
+    {
+      "cluster": 74,
+      "chunk_count": 12,
+      "examples": [
+        {
+          "document_id": 2949,
+          "text": "less. \"But even 2.5 pct would be a fantastic result, when you consider that prices are now free for the first time since 1945,\" commented Develle of Paribas. Other achievements include a major reduction in the state's foreign debts, and a cut in the state budget deficit to 141.1 billion",
+          "keyphrases": "economy, finance, government"
+        },
+        {
+          "document_id": 138,
+          "text": "which market rates should be considered when setting the bureau's deposit rate, the ministry sources said. Coupon rates on new 10-year government bonds, minus 0.1 percentage points, is the likeliest choice, they added.",
+          "keyphrases": "economy, finance, government"
+        },
+        {
+          "document_id": 1707,
+          "text": "FED ADDS RESERVES VIA CUSTOMER REPURCHASES The Federal Reserve entered the U.S. Government securities market to arrange 2.5 billion dlrs of customer repurchase agreements, a Fed spokesman said. Dealers said Federal funds were trading at 6-3/16 pct when the Fed began its temporary and indirect supply of reserves to the",
+          "keyphrases": "economy, finance, government"
+        }
+      ]
+    },
+    {
+      "cluster": 75,
+      "chunk_count": 71,
+      "examples": [
+        {
+          "document_id": 1899,
+          "text": "meeting (in June) to prove they are doing something about the economy to show they deserve a couple of billion dollars.\" The IGGI, which groups 14 industrialised donor countries and four agencies, gave Indonesia 2.5 billion dlrs in soft loans and grants last year.",
+          "keyphrases": "economy, loan, aid,"
+        },
+        {
+          "document_id": 1070,
+          "text": "the area was a \"prisoner of market forces outside the boundaries of this country.\" Wilson, appearing before the committee to discuss the government's spending estimates released earlier this week, said the government is doing what it can in the region, citing more than 3.5 billion dlrs in aid for western",
+          "keyphrases": "aid, government, region"
+        },
+        {
+          "document_id": 2862,
+          "text": "ZAMBIA, IMF TALKS HIT PROBLEMS OVER FOOD SUBSIDIES Zambia's talks with the World Bank and International Monetary Fund (IMF) on a financial rescue package have run into difficulties on the issue of food subsidies, an official newspaper said. The Times of Zambia, which is run by the ruling United National",
+          "keyphrases": "economy, subsidies, aid"
+        }
+      ]
+    },
+    {
+      "cluster": 76,
+      "chunk_count": 198,
+      "examples": [
+        {
+          "document_id": 1880,
+          "text": "60 mln stg from 31.5 mln and would continue at this high level in 1987. The placing of 82.5 mln shares last year raised 160.7 mln stg and enabled shareholders' funds to more than double to 352 mln at year-end. Net borrowings were 20 pct of shareholder's funds and the",
+          "keyphrases": "finance, investment, stock market,"
+        },
+        {
+          "document_id": 1543,
+          "text": "pct of the stock, and American Financial Corp, holder of 15 pct, did not return telephohe calls seeking comment. But Dennis McAlpine, analyst at Oppenheimer and Co, said \"I don't think it's worth 150 dlrs.\" He noted Taft recently agreed to sell a group of independent television stations at a",
+          "keyphrases": "finance, stock, television"
+        },
+        {
+          "document_id": 2253,
+          "text": "against 1.35 billion. British Telecom shares were last quoted at 246-1/2p, level with late yesterday, in the wake of results which were in line with market expectations, dealers said.",
+          "keyphrases": "finance, telecommunication, stock market,"
+        }
+      ]
+    },
+    {
+      "cluster": 77,
+      "chunk_count": 20,
+      "examples": [
+        {
+          "document_id": 2858,
+          "text": "1986. Washington signed a three-year accord with Taipei last year limiting textile export growth to 0.5 pct a year. Siew said the Taiwan dollar had risen by about 15 pct against the U.S. Dollar since September 1985. It surged last week amid indications Washington was seeking a major rise in",
+          "keyphrases": "trade, economy, currency"
+        },
+        {
+          "document_id": 1907,
+          "text": "KOREA PLANS TO OPEN MARKETS TO EASE WON PRESSURE South Korea will further open its market to help cut its trade surplus with the U.S. And to fight off pressure to revalue the won against the dollar, a government spokesman said. The spokesman said Korean trade minister Rha Woong-Bae's stand",
+          "keyphrases": "trade, economy, currency"
+        },
+        {
+          "document_id": 2922,
+          "text": "1986. Washington signed a three-year accord with Taipei last year limiting textile export growth to 0.5 pct a year. Siew said the Taiwan dollar had risen by about 15 pct against the U.S. Dollar since September 1985. It surged last week amid indications Washington was seeking a major rise in",
+          "keyphrases": "trade, economy, currency"
+        }
+      ]
+    },
+    {
+      "cluster": 78,
+      "chunk_count": 50,
+      "examples": [
+        {
+          "document_id": 1714,
+          "text": "barge price to 50 cts a gallon. Traders said the price hike followed higher spot and futures market prices for heating oil.",
+          "keyphrases": "energy, oil, price,"
+        },
+        {
+          "document_id": 2730,
+          "text": "in February, after a 9.8 pct increase in January. \"This shows that the impact of energy prices on inflation is behind us in terms of the move from 15 dlrs to 18 dlrs per barrel,\" said Maria Ramirez of Drexel Burnham Lambert Inc. \"The trend is still 3.5 pct in",
+          "keyphrases": "energy, inflation, oil,"
+        },
+        {
+          "document_id": 2474,
+          "text": "PHILLIPS RAISES CRUDE POSTINGS 50 CTS EFFECTIVE TODAY, WTI TO 17.50 dlrs/bbl PHILLIPS RAISES CRUDE POSTINGS 50 CTS EFFECTIVE TODAY, WTI TO 17.50 dlrs/bbl",
+          "keyphrases": "oil, pricing, energy"
+        }
+      ]
+    },
+    {
+      "cluster": 79,
+      "chunk_count": 180,
+      "examples": [
+        {
+          "document_id": 2360,
+          "text": "the effective date of the merger. Instinet said it expects the merger to become effective as soon as possible after shareholder approval at the special meeting.",
+          "keyphrases": "merger, shareholder, meeting"
+        },
+        {
+          "document_id": 904,
+          "text": "CTS. Dynamics, which now owns 27.5 pct of CTS' outstanding stock, said it agreed to limit its shareholdings to not more than 35 pct of the outstanding shares for a year following the company's 1987 annual meeting. Dynamics said the CTS board will recommend CTS shareholders vote at the 1987",
+          "keyphrases": "merger, shareholding, annual meeting,"
+        },
+        {
+          "document_id": 255,
+          "text": "all Hazleton holders of record February 18. Hazleton shareholders will vote on the proposed merger at a special meeting on March 31.",
+          "keyphrases": "merger, shareholders, meeting"
+        }
+      ]
+    },
+    {
+      "cluster": 80,
+      "chunk_count": 64,
+      "examples": [
+        {
+          "document_id": 932,
+          "text": "of FNMA securities, including the arbitrage gain. Great American recently announced plans to acquire &lt;Capital Savings Bank>, Olympia, Wash., and last year acquired &lt;Home Federal Savings and Loan Association>, Tucson, Ariz., and &lt;Los Angeles Federal Savings Bank>, which resulted in 66 new offices and three billion dlrs in assets. The",
+          "keyphrases": "finance, securities, mergers_acquisitions"
+        },
+        {
+          "document_id": 1189,
+          "text": "parties and the acquisition would be made for promissory notes and common stock.",
+          "keyphrases": "finance, mergers and acquisitions, stocks,"
+        },
+        {
+          "document_id": 2385,
+          "text": "cash. Each share of Orbanco's 100-dlr par value preferred stock will be exchanged for 100 dlrs cash, plus accrued dividends. Orbanco, with one billion dlrs in assests, is the holding company for the Oregon Bank, Orbanco Real Estate Service Co, American Data Service Inc and Orbanco Securities Corp. Security Pacific",
+          "keyphrases": "finance, mergers_and_acquisitions, stock_exchange"
+        }
+      ]
+    },
+    {
+      "cluster": 81,
+      "chunk_count": 10,
+      "examples": [
+        {
+          "document_id": 2039,
+          "text": "a 700p offer for IC Gas ordinary stock but was informed that level was not reached when the deadline expired. \"The tender offer is therefore void,\" it said. SHV also offered 252 pence for every one stg nominal of IC Gas loan stock under the bid, made by &lt;SHV (United",
+          "keyphrases": "business, finance, stock,"
+        },
+        {
+          "document_id": 382,
+          "text": "had majority support. He said, however, there is support for his offer. Pesch would not identify shareholders with whom he held discussions other than the Bass family and the Wedge Group Inc, the only other holder of more than five pct of American Medical stock. Earlier today, Wedge Group, which",
+          "keyphrases": "business, finance, stock,"
+        },
+        {
+          "document_id": 1481,
+          "text": "told Reuters. However, Fulwider said the company would have nothing to say at this time about Soros' disclosure that he may buy up enough additional Fairchild shares to hold as much as 49.9 pct of the company's outstanding stock.",
+          "keyphrases": "business, finance, stock,"
+        }
+      ]
+    },
+    {
+      "cluster": 82,
+      "chunk_count": 11,
+      "examples": [
+        {
+          "document_id": 613,
+          "text": "gain of 1.5 mln dlrs or 35 cts per share in 4th qtr and 5.1 mln or 1.19 dlrs for the year.",
+          "keyphrases": "earnings, finance, quarterly results,"
+        },
+        {
+          "document_id": 891,
+          "text": "dlrs in quarter and 573,000 dlrs in nine mths. Results restated for discontinued operations.",
+          "keyphrases": "earnings, finance, quarterly results,"
+        },
+        {
+          "document_id": 2117,
+          "text": "quarter. For the nine months, the company posted a profit of 244.4 mln dlrs, or 1.78 dlrs a share, compared with a profit of 219.7 mln dlrs, or 1.60 dlrs a share, for the year-ago period. \"Based on the company's performance for the first nine months, we expect to achieve",
+          "keyphrases": "earnings, finance, quarterly results,"
+        }
+      ]
+    },
+    {
+      "cluster": 83,
+      "chunk_count": 40,
+      "examples": [
+        {
+          "document_id": 802,
+          "text": "UNITRODE CORP &lt;UTR> 4TH QTR JAN 31 LOSS Shr loss 13 cts vs profit 10 cts Net loss 1,804,062 vs profit 1,370,063 Revs 33.5 mln vs 40.4 mln 12 mths Shr loss 51 cts vs profit cts Net loss 7,030,235 vs profit 9,163,141 Revs 149.4 mln vs 167.9 mln NOTE:",
+          "keyphrases": "earnings, revenue, loss"
+        },
+        {
+          "document_id": 2396,
+          "text": "EQUITY OIL CO &lt;EQTY> 4TH QTR LOSS Shr loss nine cts vs profit 11 cts Net loss 1,102,592 vs profit 1,364,763 Revs 2,836,508 vs 5,547,121 Year Shr loss six cts vs profit 32 cts Net loss 789,300 vs profit 3,953,822 Revs 11.7 mln vs 21.1 mln NOTE: Per share figures",
+          "keyphrases": "earnings, loss, revenue"
+        },
+        {
+          "document_id": 1190,
+          "text": "the provision against 1986 fourth quarter earnings to 23.5 mln dlrs from 15.5 mln dlrs estimated earlier. Union Texas said its fourth quarter loss was increased to 29.5 mln dlrs from 21.5 mln dlrs reported previously and revenues reduiced to 214 mln dlrs from 228 mln dlrs. Union Texas said",
+          "keyphrases": "earnings, revenue, loss"
+        }
+      ]
+    },
+    {
+      "cluster": 84,
+      "chunk_count": 12,
+      "examples": [
+        {
+          "document_id": 2709,
+          "text": "HELMERICH AND PAYNE INC &lt;HP> INCREASES DIV Qtly div 10 cts vs nine cts Payable June one Record May 15",
+          "keyphrases": "dividend, finance, record,"
+        },
+        {
+          "document_id": 704,
+          "text": "MAUI LAND AND PINAPPLE CO INC QUARTERLY DIVIDEND Qtly div 12-1/2 cts vs 12-1/2 cts Pay March 31 Record Feb 27",
+          "keyphrases": "dividend, finance, record,"
+        },
+        {
+          "document_id": 897,
+          "text": "LIBERTY FINANCIAL GROUP &lt;LFG> REGULAR DIVIDEND Qtly div 12.5 cts vs 12.5 cts in prior qtr Payable March 13 Record February 27",
+          "keyphrases": "dividend, finance, record,"
+        }
+      ]
+    },
+    {
+      "cluster": 85,
+      "chunk_count": 90,
+      "examples": [
+        {
+          "document_id": 1431,
+          "text": "Lynch Europe Ltd, estimated that the government wanted to see the trade-weighted index about 72-73 pct. \"Even after this action over the last few weeks, sterling's only just within striking distance of that range,\" he said. Other analysts agree that the government probably has some broad target range around this",
+          "keyphrases": "trade, sterling, government"
+        },
+        {
+          "document_id": 138,
+          "text": "low of 5.5 pct, effective February 28. The move suggested it had reached agreement with depositors using the bureau, the postal savings system of the Posts and Telecommunications Ministry and the Japan welfare annuity of the Ministry of Health and Welfare, the sources said. These ministries are trying to determine",
+          "keyphrases": "finance, agreement, ministry,"
+        },
+        {
+          "document_id": 2302,
+          "text": "need government approval, along with remittances of more than 10,000 dlrs from any other source.",
+          "keyphrases": "government, approval, remittances"
+        }
+      ]
+    },
+    {
+      "cluster": 86,
+      "chunk_count": 10,
+      "examples": [
+        {
+          "document_id": 1564,
+          "text": "dlrs in assets. It was the fourth federally-assisted merger or acquisition of a troubled savings institution this year, the FHLBB said.",
+          "keyphrases": "gnp, trade, bop, grain, oat, corn, earn, acquisitions, sealy"
+        },
+        {
+          "document_id": 1993,
+          "text": "per ton. It said initial mine output is expected to be about 150 tons of ore daily. St. Joe Gold said the Golden Patricia vein has not been tested at depth or along strike to the east and west and exploration is continuing on the Golden Patricia property and the",
+          "keyphrases": "gnp, trade, bop, grain, oat, corn"
+        },
+        {
+          "document_id": 2659,
+          "text": "Marketing Board in Kampala reported delays in coffee export shipments last January due to congestion on the lake ferries. Coffee accounts for about 95 pct of Uganda's export earnings and last November President Yoweri Museveni ordered all coffee shipments to be carried by rail in order to avoid the higher",
+          "keyphrases": "gnp, trade, bop, grain, oat, corn"
+        }
+      ]
+    },
+    {
+      "cluster": 87,
+      "chunk_count": 69,
+      "examples": [
+        {
+          "document_id": 2376,
+          "text": "be overestimated. Another small drop in already low interest rates could not be expected to cause any significant rise in purchases of consumer or capital goods, it said. The Bundesbank's half-point cuts in the discount and Lombard rates in January have largely exhausted the scope for any further monetary moves,",
+          "keyphrases": "economy, interest, monetary,"
+        },
+        {
+          "document_id": 1911,
+          "text": "the system. The immediate reaction was a hike in interbank interest rates today to 13.75/14.00 pct from yesterday's 13.46 pct average for deposits. Bank of Spain officials said this was an understandable response \"given that the market is short of funds.\" But banking sources noted that a continued rise in",
+          "keyphrases": "interest rates, banking, economy,"
+        },
+        {
+          "document_id": 1031,
+          "text": "lifts restrictions on rates, now limited to six pct on deposits of up to 180 days. The government also enacted a decree cutting to one pct from 13 pct the proportion of total assets which banks must lend at favourable rates to industries classified \"of public interest.\" Some bankers expect",
+          "keyphrases": "banking, interest rates, economic policy,"
+        }
+      ]
+    },
+    {
+      "cluster": 88,
+      "chunk_count": 113,
+      "examples": [
+        {
+          "document_id": 1896,
+          "text": "outlook for crude oil prices was uncertain although it was unlikely there would be any sizeable increase in the near term. However, Ultramar said it was optimistic prices would strengthen over the longer term. Its substantial reserves of crude oil and natural gas put it in a good position to",
+          "keyphrases": "oil, reserves, prices,"
+        },
+        {
+          "document_id": 2073,
+          "text": "foreign buyers had helped push reserve prices in recent months higher. All buyers of U.S. reserves paid a median price of 6.45 dlrs a barrel of oil during the fourth quarter of 1986 for acquisitions, up from 5.33 dlrs in the third quarter and five dlrs in the second quarter,",
+          "keyphrases": "oil, reserves, prices"
+        },
+        {
+          "document_id": 316,
+          "text": "UNOCAL &lt;UCL> UNIT CUTS CRUDE OIL POSTED PRICES Unocal Corp's Union Oil Co said it lowered its posted prices for crude oil one to 1.50 dlrs a barrel in the eastern region of the U.S., effective Feb 26. Union said a 1.50 dlrs cut brings its posted price for the",
+          "keyphrases": "oil, price, union"
+        }
+      ]
+    },
+    {
+      "cluster": 89,
+      "chunk_count": 16,
+      "examples": [
+        {
+          "document_id": 2898,
+          "text": "news agency Visnews yesterday that Saudi output, including Neutral Zone production, was around three mln bpd. The Cyprus-based newsletter also said authoritative Libyan oil sources said Libya was producing 850,000 bpd, compared with its 948,000 bpd quota, and that actual liftings are much lower than that. It said one major",
+          "keyphrases": "oil, production, quota"
+        },
+        {
+          "document_id": 145,
+          "text": "above a ceiling of 15.8 mln bpd agreed in Geneva last December. They named Kuwait and the United Arab Emirates, along with the much smaller producer Ecuador, among those producing above quota. Kuwait, they said, was pumping 1.2 mln bpd. \"This rumour is baseless. It is based on reports which",
+          "keyphrases": "oil, production, quota"
+        },
+        {
+          "document_id": 1315,
+          "text": "0.2 NIGERIA 1.3 1.2 1.2 LIBYA 1.0 1.0 1.0 FOURTH QTR 1986 JANUARY 1987 FEBRUARY 1987 ALGERIA 0.6 0.6 0.6 GABON 0.1 0.2 0.2 VENEZUELA 1.6 1.6 1.6 ECUADOR 0.2 0.2 0.2 INDONESIA 1.3 1.2 1.2 TOTAL 17.3 16.5 16.1 The IEA said while Saudi production stayed below its quota",
+          "keyphrases": "oil, production, quota"
+        }
+      ]
+    },
+    {
+      "cluster": 90,
+      "chunk_count": 89,
+      "examples": [
+        {
+          "document_id": 1868,
+          "text": "analysts said. \"MITI has been moving hot and heavy throughout the industry to get things done,\" said Bache Securities (Japan) associate vice president Peter Wolffe. Last month, MITI told chipmakers to cut production for the January to March period by 10 pct to help dry up inexpensive chips that have",
+          "keyphrases": "trade, economy, industry,"
+        },
+        {
+          "document_id": 1301,
+          "text": "FRANCE, YUGOSLAVIA COMMISSION TO BOOST TRADE France and Yugoslavia agreed to set up a joint economic commission as part of efforts to promote commercial links and industrial cooperation between the two countries. The French Finance Ministry said the commission, to be composed of businessmen, was agreed during talks between Foreign",
+          "keyphrases": "trade, economic, industrial"
+        },
+        {
+          "document_id": 1868,
+          "text": "ECONOMIC SPOTLIGHT - JAPAN PUSHES ITS CHIPMAKERS Japanese microchip makers are being strong-armed into compliance with a U.S.-Japan pact on semiconductors halting predatory pricing and opening Japan's market to foreign chips, industry analysts said. But doubts remain over whether the Ministry of International Trade and Industry (MITI), which is pressuring",
+          "keyphrases": "economy, trade, industry"
+        }
+      ]
+    },
+    {
+      "cluster": 91,
+      "chunk_count": 7,
+      "examples": [
+        {
+          "document_id": 2019,
+          "text": "SIGMA MINES DETAILS GOLD ORE RESERVES &lt;Sigma Mines (Quebec) Ltd>, 65 pct owned by Dome Mines Ltd, said its Sigma Mine had proven and probable reserves at the end of 1986 of 4,902,940 tons, with an average grade of 0.139 ounces of gold a ton. Sigma said the reserves are",
+          "keyphrases": "mining, gold, reserves"
+        },
+        {
+          "document_id": 1589,
+          "text": "approval to proceed, Placer said in a statement. Placer has estimated the epithermal deposit, located on the eastern half of Misima Island off the southeastern coast of Papua New Guinea, contains proven and probable reserves of 62.1 mln tonnes grading 1.35 grams/tonne gold and 20 grams/tonne silver, and exploration is",
+          "keyphrases": "mining, gold, reserves"
+        },
+        {
+          "document_id": 1940,
+          "text": "31, 1988 at an annual rate of about 40,000 troy ounces. The company said the property is estimated to contain over 500,000 troy ounces of gold, and the initial mining project covers only seven of 192 claims, with drill-indicated reserves of 293,000 short tons grading 0.88 troy ounce of gold",
+          "keyphrases": "mining, gold, reserves"
+        }
+      ]
+    },
+    {
+      "cluster": 92,
+      "chunk_count": 36,
+      "examples": [
+        {
+          "document_id": 2216,
+          "text": "recover its investment through product sales, a strategy Iida said could prove popular in the future. In shipping, MHI is fighting back against low-priced South Korean competition by building more technologically advanced carriers to carry liquefied natural gas and other products difficult to transport. Shipbuilders Association officials told Reuters MHI",
+          "keyphrases": "business strategy, shipbuilding, natural gas"
+        },
+        {
+          "document_id": 1896,
+          "text": "Canada's marketing assets. Ultramar said it had also included the estimated cost of a further reorganisation programme, which was partly offset by a withdrawal of surplus funds from U.S. Pension schemes, and a 13.5 mln stg provision for the estimated cost of selling its U.S. Flag shipping operation. The immediate",
+          "keyphrases": "business, finance, shipping"
+        },
+        {
+          "document_id": 1877,
+          "text": "KAUFHOF CONSIDERING TAKING STAKE IN HAPAG-LLOYD West German retail group Kaufhof AG &lt;KFHG.F> is considering taking a stake in shipping and transport group Hapag-Lloyd AG &lt;HPLG.F> but has yet to reach a final decision, a spokesman said in response to queries. Press reports said Kaufhof wanted a stake of up",
+          "keyphrases": "business, investment, shipping"
+        }
+      ]
+    },
+    {
+      "cluster": 93,
+      "chunk_count": 81,
+      "examples": [
+        {
+          "document_id": 1767,
+          "text": "to concentrate our marketing on the pig and live cattle contracts,\" LMFE official Peter Freeman said. \"These two have already shown their effectiveness for hedging, and the trade in both contracts is increasing,\" he added. \"Using the futures market allows better planning and forward price fixing that our industry needs,\"",
+          "keyphrases": "livestock, futures, marketing,"
+        },
+        {
+          "document_id": 719,
+          "text": "of this grade of beef and help calorie-conscious consumers select leaner cuts of meat. Under current rules, the \"good\" grade of meat has less marbling and fat than the \"prime\" or \"choice\" grades, it said. Standards for all of the grades would remain unchanged under the proposal.",
+          "keyphrases": "meat, nutrition, food standards,"
+        },
+        {
+          "document_id": 719,
+          "text": "USDA PROPOSES NAME CHANGES IN BEEF GRADE The U.S. Agriculture Department proposes to rename the \"USDA Good\" grade of beef to \"USDA Select.\" The department said the proposed change is in response to a petition from Public Voice for Food and Health Policy and would present a more positive image",
+          "keyphrases": "agriculture, beef, usda,"
+        }
+      ]
+    },
+    {
+      "cluster": 94,
+      "chunk_count": 192,
+      "examples": [
+        {
+          "document_id": 149,
+          "text": "protect its wealth, have helped us make reasonable estimates for the coming year's revenue on the basis of our assigned quota.\"",
+          "keyphrases": "revenue, quota, wealth"
+        },
+        {
+          "document_id": 1748,
+          "text": "Apollo system, booking all United Airlines flights in Britain and Europe. All Ticket and its subsidiaries will also co-sponsor various events this year including the British Open golf tournament and rowing's Henley Regatta. Its 1986 revenues totaled 12 mln Canadian dlrs.",
+          "keyphrases": "sports, ticketing, revenue"
+        },
+        {
+          "document_id": 751,
+          "text": "higher revenues from the records conversion work, but it now foresees revenues from Southern Bell work at about eight mln dlrs, the same level as last fiscal year. Geonex said Southern Bell will let CAS continue work in progress and it expects to perform mechanized posting and records conversion for",
+          "keyphrases": "revenue, work, progress"
+        }
+      ]
+    },
+    {
+      "cluster": 95,
+      "chunk_count": 21,
+      "examples": [
+        {
+          "document_id": 2770,
+          "text": "mln NOTE: Per share information adjusted for three-for-two stock split on January 31, 1986.",
+          "keyphrases": "finance, stocks, split"
+        },
+        {
+          "document_id": 2723,
+          "text": "vs 209.3 mln Avg shrs 4,127,000 vs 5,439,000 NOTE: Current half net excludes 706,000 dlr loss from discontinued oil and natural gas operations. Share adjusted for three-for-one stock split and recapitalization in December 1985. Prior year net both periods includes pretax charge of 2,300,000 dlrs from recapitalization costs.",
+          "keyphrases": "finance, stocks, split"
+        },
+        {
+          "document_id": 686,
+          "text": "share of 22 cts, adjusted for a three-for-two stock split in May 1986.",
+          "keyphrases": "finance, stocks, split"
+        }
+      ]
+    },
+    {
+      "cluster": 96,
+      "chunk_count": 8,
+      "examples": [
+        {
+          "document_id": 2164,
+          "text": "TRICO &lt;TRO> SETS DATE FOR ACQUISITION VOTE Trico Industries Inc said it set March 31 as the date for a special shareholders meeting for a vote on the proposed acquisition of the company by Paccar Inc &lt;PCAR>. In January the two companies announced an agreement covering a proposed acquisition by",
+          "keyphrases": "merger, acquisition, finance"
+        },
+        {
+          "document_id": 362,
+          "text": "NORTH AMERICAN GROUP &lt;NAMG> BUYS GEORGIA FIRM North American Group Ltd's North American Acquisition Corp said it has a definitive agreement to buy 100 pct of Pioneer Business Group Inc of Atlanta. Terms of the acquisition were not disclosed. Closing of the acquisition is scheduled for April. North American Acquisition",
+          "keyphrases": "merger, acquisition, finance"
+        },
+        {
+          "document_id": 445,
+          "text": "at 4.50 each, it said. The balance will be funded by debt, Battery Group said. The acquisition is subject to the approval of its shareholders. On completion of the share placements, Pratt Group will effectively have 51 pct of Battery's enlarged capital, assuming exercise of all options, it said. Battery",
+          "keyphrases": "merger, acquisition, finance"
+        }
+      ]
+    },
+    {
+      "cluster": 97,
+      "chunk_count": 96,
+      "examples": [
+        {
+          "document_id": 2691,
+          "text": "Costa Rica supervised the slaughter of all Haiti's 1,200,000 pigs under a program to eradicate African swine flu. Today's announcement that Catholic Relief Services (CARITAS) can import 730 Jamaican pigs comes after months of protests by farmers who had owned 90 pct of the slaughtered pigs.",
+          "keyphrases": "agriculture, health, international relations"
+        },
+        {
+          "document_id": 256,
+          "text": "from the FAO. Similar campaigns are needed in Egypt, Yemen, Iraq and Iran.",
+          "keyphrases": "agriculture, campaign, middle-east"
+        },
+        {
+          "document_id": 577,
+          "text": "not identical standards. He also told reporters he hoped the community could deal with another controversial health proposal that would forbid the feeding of hormones to cattle, which is also opposed by the United States. De Croo gave no deals on how he though the issue might be resolved. That",
+          "keyphrases": "agriculture, trade, health,"
+        }
+      ]
+    },
+    {
+      "cluster": 98,
+      "chunk_count": 6,
+      "examples": [
+        {
+          "document_id": 2733,
+          "text": "by 55,000 oil industry employees. Petrobras said in a statement today it had requested the withdrawal of the troops. The situation in the refineries was calm, it said, and the employees had indicated their willingness to negotiate a pay deal. A national seamen's strike, however, continued and marines remained in",
+          "keyphrases": "labor, oil, strike"
+        },
+        {
+          "document_id": 2733,
+          "text": "employ fewer than 200 seamen and union leaders said the vast majority of Brazil's 40,000 seamen were still on strike. The threat of a stoppage by oil industry employees appeared today to be receding. Petrobras said in its statement that the company would meet union leaders for pay talks in",
+          "keyphrases": "labor, strike, oil"
+        },
+        {
+          "document_id": 2733,
+          "text": "BRAZILIAN TROOPS TO LEAVE OIL REFINERIES Brazil's labour troubles eased a little today as the authorities announced they were withdrawing troops from the country's main oil installations occupied three days ago. The troops went in at the request of the state-oil company Petrobras because of the threat of a strike",
+          "keyphrases": "labor, oil, strike"
+        }
+      ]
+    },
+    {
+      "cluster": 99,
+      "chunk_count": 11,
+      "examples": [
+        {
+          "document_id": 2376,
+          "text": "be relatively weak. Bank economists have forecast the economy will either stagnate or contract slightly in the first quarter. Official first-quarter figures are due in early June.",
+          "keyphrases": "economy, growth, forecast"
+        },
+        {
+          "document_id": 2866,
+          "text": "months to the end of March 1988, against 18.2 pct in calendar 1986. \"I predict it will be something between eight and 10 per cent,\" he told a news conference. Lange would not name the forecasting groups.",
+          "keyphrases": "economy, growth, forecast,"
+        },
+        {
+          "document_id": 2086,
+          "text": "CORRECTED - AUSTRIA 1987 GROWTH FORECAST REVISED Austrian gross domestic product growth for this year is likely to be between 0.5 and 1.5 pct, Helmut Kramer, head of the semi-official Institute for Economic Research (WIFO) said. This compared with a two pct growth forecast made by the WIFO last December.",
+          "keyphrases": "economy, growth, forecast"
+        }
+      ]
+    },
+    {
+      "cluster": 100,
+      "chunk_count": 5,
+      "examples": [
+        {
+          "document_id": 1441,
+          "text": "USSR WHEAT BONUS OFFER SAID STILL UNDER DEBATE The Reagan administration continues to debate whether to offer subsidized wheat to the Soviet Union, but would need assurances from the Soviets that they would buy the wheat before the subsidy offer would be made, a senior U.S. Agriculture Department official said.",
+          "keyphrases": "agriculture, trade, politics"
+        },
+        {
+          "document_id": 1316,
+          "text": "Patrick Leahy, a Vermont Democrat, urged Reagan to step up negotiations with the Soviet Union by providing export subsidies to help U.S. farmers.",
+          "keyphrases": "trade, farm, politics,"
+        },
+        {
+          "document_id": 1510,
+          "text": "offer a wheat bonus to the Soviet Union, Lyng said he would be listen but be \"non-committal.\"",
+          "keyphrases": "agriculture, trade, politics"
+        }
+      ]
+    },
+    {
+      "cluster": 101,
+      "chunk_count": 18,
+      "examples": [
+        {
+          "document_id": 2415,
+          "text": "the next two week, when terms would set according to market conditions. He said the issue was meant to boost capital ahead of new investments. Rambaud said the company would pay a 1986 dividend of 5.25 francs, unchanged on 1985. Parent company net profit last year rose to 99.5 mln",
+          "keyphrases": "finance, investment, dividend"
+        },
+        {
+          "document_id": 346,
+          "text": "FRANKLIN MASSACHUSETTS INSURED CUTS PAYOUT Mthly div 6.5 cts vs 6.8 cts prior Pay March 31 Record March 16 NOTE: Franklin Massachusetts Insured Tax-Free Income Fund.",
+          "keyphrases": "finance, investment, dividend"
+        },
+        {
+          "document_id": 354,
+          "text": "FRANKLIN OHIO INSURED TAX-FREE SETS PAYOUT Mthly div 6.1 cts vs 6.1 cts prior Pay March 31 Record March 16 NOTE: Franklin Ohio Insured Tax-Free Income Fund.",
+          "keyphrases": "finance, investment, dividend"
+        }
+      ]
+    },
+    {
+      "cluster": 102,
+      "chunk_count": 11,
+      "examples": [
+        {
+          "document_id": 703,
+          "text": "JONES MEDICAL INDUSTRIES INC &lt;JMED> 4TH QTR NET Shr six cts vs five cts Net 199,037 vs 135,587 Sales 1,594,895 vs 1,368,959 Avg shrs 3.1 mln vs 2.5 mln Year Shr 25 cts vs 19 cts Net 695,398 vs 446,426 Sales 5,785,365 vs 4,520,781 Avg shrs 2.8 mln vs 2.4",
+          "keyphrases": "finance, earnings, medical"
+        },
+        {
+          "document_id": 1166,
+          "text": "AEQUITRON MEDICAL INC &lt;AQTN> 3RD QTR LOSS Period ended January 31 Shr loss five cts vs profit eight cts Net loss 247,100 vs profit 345,300 Sales 4,529,300 vs 3,482,800 Nine mths Shr profit six cts vs profit 18 cts Net profit 261,300 vs profit 793,700 Sales 12.3 mln vs 9,957,200",
+          "keyphrases": "finance, earnings, medical"
+        },
+        {
+          "document_id": 1448,
+          "text": "ROCKY MOUNTAIN MEDICAL CORP &lt;RMEDU> 1ST QTR LOSS Dec 31 Shr loss one ct Net loss 176,639 Revs 150,300 NOTE: Company went public in April 1986.",
+          "keyphrases": "finance, earnings, medical"
+        }
+      ]
+    },
+    {
+      "cluster": 103,
+      "chunk_count": 174,
+      "examples": [
+        {
+          "document_id": 2231,
+          "text": "\"The bid would not have been successful but for the ... Services of Mr Ward,\" MAC attorneys said in the documents submitted in court. \"The payment was, in all the circumstances, reasonable, proper and fully earned.\"",
+          "keyphrases": "legal, payment, success"
+        },
+        {
+          "document_id": 1855,
+          "text": "to its 1986 operations as a result of the Dynamics Corp settlement. The additional expenses include the obligation to reimburse Dynamics Corp, subject to approval of CTS shareholders, a total of 2.1 mln dlrs for Dynamics Corp's expenses and other costs relating to CTS.",
+          "keyphrases": "settlement, expenses, corporate,"
+        },
+        {
+          "document_id": 904,
+          "text": "DYNAMICS CORP &lt;DYA> IN SETTLEMENT WITH CTS &lt;CTS> Dynamics Corp of America said it has reached an agreement with CTS Corp resolving all differences between the two companies. It said as a result of the settlement, CTS's special board committee has stopped soliciting orders to purchase some or all of",
+          "keyphrases": "settlement, corporate, legal"
+        }
+      ]
+    },
+    {
+      "cluster": 104,
+      "chunk_count": 8,
+      "examples": [
+        {
+          "document_id": 220,
+          "text": "pct of NECO's 962,016 common shares. La Roche said he may buy more, and possible all NECO shares. He said the offer and withdrawal rights will expire at 1630 EST/2130 gmt, March 30, 1987.",
+          "keyphrases": "finance, merger, stock,"
+        },
+        {
+          "document_id": 390,
+          "text": "Friday. Purolator's stock slipped 3/8 today to close at 34-3/4. It had been trading slightly higher than the 35 dlr offer on Friday. At least one analyst Friday speculated the company might fetch 38 to 42 dlrs per share. analysts and wall street sources doubted a competitive offer would emerge",
+          "keyphrases": "stock, merger, finance"
+        },
+        {
+          "document_id": 836,
+          "text": "five pct of Comdata stock and Rosewood intends to acquire over 15 pct of Comdata. Comdata said it has not yet reached a definitive agreement with &lt;Mason Best Co> for the previously-announced recapitalization and self-tender offer.",
+          "keyphrases": "finance, merger, stock"
+        }
+      ]
+    },
+    {
+      "cluster": 105,
+      "chunk_count": 83,
+      "examples": [
+        {
+          "document_id": 1228,
+          "text": "later said in reply to an inquiry that the new prices, effective April 1, would range from 31 U.S. cts a pound to about 38 cts. The official said the increase reflected improved market conditions, although he noted the new prices would still be lower than those of three years",
+          "keyphrases": "market, price, condition"
+        },
+        {
+          "document_id": 2193,
+          "text": "Other plants or parts of plants in Pennsylvania, Indiana, Alabama, Ohio and Chicago had been previously idled. \"These operations are not permanently shut down. Improved market conditions for the products from these plants may make it feasible to reopen some of them,\" USX said in the report. \"On the other",
+          "keyphrases": "market, condition, plant"
+        },
+        {
+          "document_id": 595,
+          "text": "measures to stabilise depressed world prices. This week's meeting, which began yesterday, is due to end Friday.",
+          "keyphrases": "commodity, price, economy,"
+        }
+      ]
+    },
+    {
+      "cluster": 106,
+      "chunk_count": 108,
+      "examples": [
+        {
+          "document_id": 1195,
+          "text": "protest at employers' plans to make 800 redundancies from the 4,000-strong workforce by 1990 starting with 350 this year. Meanwhile, the port and transport union, FNV, attacked loss figures given for the port for this year. The figures, issued by accountants on behalf of the SVZ, put total losses for",
+          "keyphrases": "redundancies, port, union"
+        },
+        {
+          "document_id": 2656,
+          "text": "redundancies by 1990, could resume at any time before May 7 if the employers made any moves to re-apply for permission for the redundancies. SVZ labour relations manager Gerrard Zeebregts said they would be meeting their lawyers today with a view to re-applying for this permission next week in the",
+          "keyphrases": "labour, redundancy, legal,"
+        },
+        {
+          "document_id": 2656,
+          "text": "Amsterdam court preventing the sector's employers continuing with current plans for 350 redundancies this year until the court sits again on May 7, Rosenmuller told a meeting of the general cargo sector's 4,000 workers today. The court ruled the employers had made a mistake in the complicated legal procedure for",
+          "keyphrases": "labor, legal, redundancy,"
+        }
+      ]
+    },
+    {
+      "cluster": 107,
+      "chunk_count": 23,
+      "examples": [
+        {
+          "document_id": 2916,
+          "text": "bpd share of OPEC in the market is being shared by other members of OPEC,\" Nazer said. Nazer said OPEC estimated demand for its oil during third quarter this year would be around 16.6 mln bpd. But he said if circumstances changed \"I am sure then the OPEC members will",
+          "keyphrases": "oil, opec, demand,"
+        },
+        {
+          "document_id": 728,
+          "text": "20 mln barrels per day as early as 1989 and up to 24 mln barrels per day by 1993. Although the projected increases in demand for OPEC oil should strengthen world prices, Wellemeyer said he believed the organization would hold its official price below 20 dlrs a barrel for some",
+          "keyphrases": "oil, opec, demand,"
+        },
+        {
+          "document_id": 680,
+          "text": "have mixed opinions about the extent of the current rally. Some believe prices can continue to rise if Saudi Arabia and OPEC hold steady in a refusal to discount. But others said that despite the rally today there were still several fundamental factors, including demand, which could cut the rally",
+          "keyphrases": "oil, opec, demand,"
+        }
+      ]
+    },
+    {
+      "cluster": 108,
+      "chunk_count": 6,
+      "examples": [
+        {
+          "document_id": 1015,
+          "text": "Baka, in talks in Washington last week with the International Monetary Fund (IMF) and World Bank, made it clear that Poland was looking for a lead from the United States. He was quoted by PAP as saying that Poland would meet its financial obligations to the United States, \"but not",
+          "keyphrases": "Poland, finance, United States"
+        },
+        {
+          "document_id": 1015,
+          "text": "saying it takes into account a number of hypothetical losses. Some of them are \"too sophisticated to convert into financial terms,\" one banking source said. But Western economic experts say the effect of sanctions is impossible to calculate. They say it is blurred by the poor performance of Poland's economy,",
+          "keyphrases": "economy, sanctions, poland,"
+        },
+        {
+          "document_id": 1015,
+          "text": "ECONOMIC SPOTLIGHT - POLISH SANCTIONS Poland says U.S. Sanctions have cost its economy 15 billion dlrs and has made clear it wants Washington to take a lead in repairing the damage after lifting remaining restrictions two weeks ago. Polish officials are unable to provide a precise breakdown of the figure,",
+          "keyphrases": "economy, sanctions, poland,"
+        }
+      ]
+    },
+    {
+      "cluster": 109,
+      "chunk_count": 14,
+      "examples": [
+        {
+          "document_id": 1998,
+          "text": "in bank's convertible peseta funds,\" the spokesman said. Convertible peseta funds previously were exempt from reserve requirements. The spokesman said the measure was intended to curb an influx of short-term foreign speculative capital which threatened the government's money supply growth target.",
+          "keyphrases": "finance, economy, government,"
+        },
+        {
+          "document_id": 2244,
+          "text": "factor being the unwinding of a sale and repurchase agreement, with the market having to buy back bills worth 542 mln stg from the Bank. Bills maturing in official hands and the treasury bill take-up would drain 957 mln stg wile exchequer transactions and a note circulation rise would take",
+          "keyphrases": "finance, economy, government,"
+        },
+        {
+          "document_id": 1670,
+          "text": "Mint by standard check or by wire transfer. Awards will be based on whichever method is most cost advantageous to the goverment at the time the awards are determined. The offers will have a minimum acceptance period of 10 calendar days, the Mint said.",
+          "keyphrases": "government, finance, award,"
+        }
+      ]
+    },
+    {
+      "cluster": 110,
+      "chunk_count": 230,
+      "examples": [
+        {
+          "document_id": 1697,
+          "text": "at 1500 hrs EST (2100 gmt) today. Analysts said the market is anticipating a downward revision and much of the bullish impact has been discounted. The estimate, which the USDA has left unchanged since October, should be affected this time by recent evidence of a shortfall in the early and",
+          "keyphrases": "agriculture, grain, market,"
+        },
+        {
+          "document_id": 1819,
+          "text": "1.1 mln dlrs, 1.9 mln pounds of pasta for 408,258 dlrs, 1.4 mln pounds of processed cereal products for 304,043 dlrs, 4.8 mln pounds of corn products for 474,944 dlrs, and 16.3 mln pounds of milled rice for 2.0 mln dlrs.",
+          "keyphrases": "agriculture, food, commodities"
+        },
+        {
+          "document_id": 189,
+          "text": "Cebeco-Handelsraad show. Tapioca usage fell 9.1 pct to 1.4 mln tonnes from 1.6 mln in the first half of the 1985/86 season. Grain usage fell 6.1 pct to 1.1 mln tonnes from 1.2 mln, while soymeal usage fell 10 pct to 967,000 tonnes from 1.1 mln. Cornglutenfeed usage fell 17.8",
+          "keyphrases": "agriculture, grains, commodities"
+        }
+      ]
+    },
+    {
+      "cluster": 111,
+      "chunk_count": 9,
+      "examples": [
+        {
+          "document_id": 1513,
+          "text": "(D-Okla.), sparked sharp controversy with its proposals to implement a 0/92 program for 1987 wheat and 1988 winter wheat. An agreement has been reached to trim the bill back to 1987 wheat, but supporters of a 0/92 feedgrains plan said even that scaled-down version would not be equitable for farmers.",
+          "keyphrases": "agriculture, farming, wheat"
+        },
+        {
+          "document_id": 2594,
+          "text": "BRITISH WHEAT AREA DOWN, MINISTRY CENSUS SHOWS A total of 1.886 mln hectares was sown to wheat in Britain, excluding Northern Ireland, up to December 1, 1986 for the 1987 crop, a Ministry of Agriculture census shows. It compares with 1.925 mln planted in the same period 1985. The barley",
+          "keyphrases": "agriculture, crops, wheat"
+        },
+        {
+          "document_id": 2492,
+          "text": "GLICKMAN PUSHES HARD FOR 0/92 FARM PLAN Implementation of a one-year 0/92 pilot program for wheat and feedgrains was strongly promoted today by the chairman of a key house agriculture subcommittee as a way to cut farm costs and simultaneously give farmers another option when making their planting decisions. \"We",
+          "keyphrases": "farm, wheat, cost"
+        }
+      ]
+    },
+    {
+      "cluster": 112,
+      "chunk_count": 8,
+      "examples": [
+        {
+          "document_id": 951,
+          "text": "financier's USX plan was impacted by the cloud hanging over his adviser, Drexel Burnham Lambert Inc, because of Wall Street's insider trading scandal. Industry sources also predicted USAir might reject the TWA offer on price and financing concerns. \"It's littered with contingencies and it doesn't even have a financing arrangement,\"",
+          "keyphrases": "finance, merger, airline"
+        },
+        {
+          "document_id": 925,
+          "text": "a Norfolk Southern spokesman said. The company's 65 dlr-a-share cash offer for Piedmont stands, he said. In its offer, TWA said as an alternative to a merger with USAir, it would be interested in discussing a three-way combination among USAir, Piedmont and TWA. It said the three-way merger would serve",
+          "keyphrases": "merger, airline, finance"
+        },
+        {
+          "document_id": 908,
+          "text": "TWA &lt;TWA> MAKES MERGER OFFER FOR USAIR &lt;U> Trans World Airlines said it has proposed a cash merger of USAir Group with TWA in which the holders of USAir common would receive 52 dlrs in cash in exchange for their stock. TWA said the offer was made in a letter",
+          "keyphrases": "merger, airline, finance"
+        }
+      ]
+    },
+    {
+      "cluster": 113,
+      "chunk_count": 11,
+      "examples": [
+        {
+          "document_id": 1349,
+          "text": "mln NOTE: Shr figures adjusted for issue of 600,000 shares in October, 1986. Avg shrs not given. Full name is &lt;Peter Miller Apparel Group Inc>.",
+          "keyphrases": "business, finance, stocks"
+        },
+        {
+          "document_id": 1635,
+          "text": "them for Chrysler shares on the same conditions as those they would have had in exchanging them for AMC shares.",
+          "keyphrases": "business, finance, stocks"
+        },
+        {
+          "document_id": 2270,
+          "text": "battle, to engage in aggressive, even manipulative tactics that are immensely damaging to the interest of the shareholders,\" he said. In a clear reference recent events, he said \"those in the City who act for companies or individuals .. Must, I suggest, be ready to accept a full measure of",
+          "keyphrases": "business, finance, shareholders"
+        }
+      ]
+    },
+    {
+      "cluster": 114,
+      "chunk_count": 6,
+      "examples": [
+        {
+          "document_id": 1734,
+          "text": "CITIBANK FOLLOWS U.K. BASE RATE CUT TO 10.5 PCT &lt;Citibank NA> said it has cut its British base lending rate to 10.5 pct from 11 pct, with effect from tomorrow. This move follows similar cuts by four major British clearing banks, led by National Westminster Bank Plc &lt;NWBL.L>. Lower rates",
+          "keyphrases": "finance, banking, interest_rates"
+        },
+        {
+          "document_id": 137,
+          "text": "days 4.35 pct (4.30) 120-150 days 4.38 pct (4.29) 150-180 days unquoted (unquoted) 180-270 days 3.67 pct (unquoted) Over 270 days 4.01 pct (unquoted) Average yen bankers' acceptance rates of city, trust and long-term banks 30 to less than 60 days unquoted (4.13) 60-90 days unquoted (unquoted) 90-120 days unquoted",
+          "keyphrases": "finance, banking, interest_rates"
+        },
+        {
+          "document_id": 2658,
+          "text": "billion stg. The Bank bought 176 mln stg of band two bank bills outright at 10-5/16 pct and 13 mln stg of band one bank bills at 10-3/8 pct. In addition, it bought four mln stg of bills for resale to the market on March 30 and two mln stg",
+          "keyphrases": "finance, banking, interest_rates"
+        }
+      ]
+    },
+    {
+      "cluster": 115,
+      "chunk_count": 171,
+      "examples": [
+        {
+          "document_id": 1454,
+          "text": "COPPER MEETING AGREES GOALS OF STUDY GROUP The world's major copper producing and consuming countries have reached \"a degree of consensus\" on objectives and functions of a future study group aimed at reviewing the world copper market, officials said. Governments represented at a meeting to consider a proposed forum for",
+          "keyphrases": "copper, market, study"
+        },
+        {
+          "document_id": 11,
+          "text": "MAGMA LOWERS COPPER 0.75 CENT TO 66 CTS Magma Copper Co, a subsidiary of Newmont Mining Corp, said it is cutting its copper cathode price by 0.75 cent to 66 cents a lb, effective immediately.",
+          "keyphrases": "copper, price, mining"
+        },
+        {
+          "document_id": 1971,
+          "text": "OUTOKUMPU RESTRUCTURES COPPER DIVISION Finland's mining and metals group Outokumpu Oy &lt;OUTO.HE>, which last week reported a 1986 loss of 83 mln markka after three successive years of profits, said it restructured its key copper processing division in an attempt to rationalize production and improve profitability. Outokumpu's Managing Director Pertti",
+          "keyphrases": "mining, restructuring, copper"
+        }
+      ]
+    },
+    {
+      "cluster": 116,
+      "chunk_count": 62,
+      "examples": [
+        {
+          "document_id": 2951,
+          "text": "1985 net both periods includes 4,952,000 dlr provision for plant closing. 1985 net includes gains on sale of West Los Angeles real estate of 650,000 dlrs in quarter and 1,471,000 dlrs in year. 1986 year net includes gains on sale of West Los Angeles real estate of 9,903,000 dlrs.",
+          "keyphrases": "real estate, sale, closing,"
+        },
+        {
+          "document_id": 533,
+          "text": "January fall brought home sales to a level 1.6 pct below January, 1986, when they were a seasonally adjusted 728,000 units. The average price was a record 127,100 dlrs, surpassing the previous record 119,100 price set in December. The median price of a home in January reached 100,700 dlrs --",
+          "keyphrases": "real estate, home sales, prices"
+        },
+        {
+          "document_id": 533,
+          "text": "the first time the price has exceeded 100,000 dlrs. That compared with a median price of 94,600 dlrs in December and 94,000 dlrs in January a year ago. New homes available on the market in January totaled a seasonally adjusted 362,000 units, unchanged from December and equal to a 6.3",
+          "keyphrases": "real estate, housing market, economy"
+        }
+      ]
+    },
+    {
+      "cluster": 117,
+      "chunk_count": 92,
+      "examples": [
+        {
+          "document_id": 945,
+          "text": "CHINA SUGAR OUTPUT SEEN LOWER -- USDA China's 1986/87 sugar crop has been revised to 5.26 mln tonnes (raw value), down four pct from the previous forecast and five pct below the previous season, the U.S. Agriculture Department said. In its World Production and Trade Report, the department attributed the",
+          "keyphrases": "sugar, china, agriculture"
+        },
+        {
+          "document_id": 2568,
+          "text": "CHINA FACES DILEMMA OVER SUGAR IMPORTS China has to decide if it will increase sugar imports this year to cover falling domestic output and rising demand, in view of market predictions that international sugar prices will remain firm this year, traders and the official press said. He Kang, Minister of",
+          "keyphrases": "china, sugar, imports,"
+        },
+        {
+          "document_id": 2742,
+          "text": "LOW SUGAR PRICES MAY ATTRACT SOVIET/CHINESE Any further decline in raw sugar prices is likely to attract buying from the Soviet Union and China, Woodhouse, Drake and Carey said in their latest weekly market report. Present lower terminal values may be a reflection of the lack of renewed prompt offtake,",
+          "keyphrases": "raw sugar prices, soviet union, china,"
+        }
+      ]
+    },
+    {
+      "cluster": 118,
+      "chunk_count": 8,
+      "examples": [
+        {
+          "document_id": 966,
+          "text": "the restructured common stock. Holders of existing preferred would hold about 35 pct of the new common. Allis-Chalmers said its only alternative to the plan is bankruptcy. The restructuring must be approved by creditors, common and preferred holders,and present and former employees. Allis-Chalmers said a bankruptcy filing \"appears to represent",
+          "keyphrases": "bankruptcy, restructuring, finance"
+        },
+        {
+          "document_id": 2984,
+          "text": "SALANT &lt;QSLT> FILES REORGANIZATION PLAN Salant Corp said it and its Thomson Co Inc and Obion Co Inc subsidiaries have filed a joint reorganization plan with the U.S. Bankruptcy Court and expect to emerge from Chapter 11 bankruptcy in the near future. The company said a hearing on the adequacy",
+          "keyphrases": "bankruptcy, reorganization, finance"
+        },
+        {
+          "document_id": 2980,
+          "text": "excludes charge 9,400,000 dlrs for estimated settlement and expenses connected with Chapter 11 bankruptcy.",
+          "keyphrases": "bankruptcy, settlement, expenses,"
+        }
+      ]
+    },
+    {
+      "cluster": 119,
+      "chunk_count": 89,
+      "examples": [
+        {
+          "document_id": 874,
+          "text": "have estimated the board will recommend cuts of around 20 pct in the initial prices. Farmers receive the initial payment when the grain is delivered to the elevators used by the wheat board. If the wheat board, which markets most of Canada's grain, obtains higher than expected prices on world",
+          "keyphrases": "grain, wheat, prices,"
+        },
+        {
+          "document_id": 2513,
+          "text": "is within the normal grain marketing levels. Johnson recognized current concern over the cost of certificates as compared to cash, but said that critics need to look more closely at the savings caused by certs, noting for example that widespread use of certs in the PIK and Roll marketing technique",
+          "keyphrases": "grain marketing, certificates, cost savings"
+        },
+        {
+          "document_id": 1692,
+          "text": "per-bushel price of 1.492 dlrs, since the current grain catalogs were issued December 1 by CCC. Wheat redemptions totaled 9.6 mln bushels, valued at 23.7 mln dlrs, since December 1. More",
+          "keyphrases": "grain, wheat, prices"
+        }
+      ]
+    },
+    {
+      "cluster": 120,
+      "chunk_count": 5,
+      "examples": [
+        {
+          "document_id": 2922,
+          "text": "TAIWAN SAYS U.S. WANTS TAIWAN DOLLAR TO APPRECIATE The United States wants Taiwan's currency to appreciate faster to reduce Taiwan's trade surplus with the U.S., A senior trade official said. Board of Foreign Trade director Vincent Siew told reporters on Saturday U.S. Officials told him in Washington last week that",
+          "keyphrases": "trade, currency, taiwan"
+        },
+        {
+          "document_id": 2858,
+          "text": "TAIWAN SAYS U.S. WANTS TAIWAN DOLLAR TO APPRECIATE The United States wants Taiwan's currency to appreciate faster to reduce Taiwan's trade surplus with the U.S., A senior trade official said. Board of Foreign Trade director Vincent Siew told reporters on Saturday U.S. Officials told him in Washington last week that",
+          "keyphrases": "trade, currency, taiwan"
+        },
+        {
+          "document_id": 2249,
+          "text": "reaction to U.S. Pressure, which has intensified over the past week, for a faster appreciation of the Taiwan dollar to slow the growth of Taiwan's exports to the U.S. The government has denied local press reports Washington is pressing for an exchange rate of up to 28 dlrs. The Taiwan",
+          "keyphrases": "Taiwan, dollar, exports,"
+        }
+      ]
+    },
+    {
+      "cluster": 121,
+      "chunk_count": 21,
+      "examples": [
+        {
+          "document_id": 186,
+          "text": "American origin, at 314, and 6,000 tonnes of Malaysian rbd palm olein at 347 dlrs, all per tonne cif. Palm oil sellers were disappointed at the light purchase of rbd olein and early trading saw the market ease nearly 10 dlrs under Malaysian refiner and dealer selling. April shipments traded",
+          "keyphrases": "palm oil, rbd olein, trade,"
+        },
+        {
+          "document_id": 2881,
+          "text": "MALAYSIAN CRUDE PALM OIL OUTPUT FALLS IN FEBRUARY Malaysian crude palm oil (cpo) production fell to an estimated 270,400 tonnes in February from an estimated 273,300 tonnes in January and 332,995 in February 1986, the Palm Oil Registration and Licensing Authority (PORLA) said. Cpo stocks fell to an estimated 286,440",
+          "keyphrases": "palm oil, production, stocks"
+        },
+        {
+          "document_id": 2946,
+          "text": "for Indonesia but would not disclose tonnages. Traders said palm oil production in Indonesia this year had been below expectations and current stocks were low. They said licences were issued at the start of the year to import crude palm oil but were subsequently revised to include RBD olein and",
+          "keyphrases": "palm oil, production, import,"
+        }
+      ]
+    },
+    {
+      "cluster": 122,
+      "chunk_count": 12,
+      "examples": [
+        {
+          "document_id": 941,
+          "text": "mln dlrs. After the merger, Viacom will be a subsidiary of National but 17 pct of the company will be in public hands.",
+          "keyphrases": "merger, finance, public ownership"
+        },
+        {
+          "document_id": 2336,
+          "text": "would give Knoll 15 pct ownership in American Savings. American Savings said Knoll also had talks with chairman of the executive committee Shepard Broad and chairman Morris Broad on the purchase of their American Savings shares as well at 20 dlrs each but no agreement was reached. American Savings said",
+          "keyphrases": "finance, merger, ownership"
+        },
+        {
+          "document_id": 225,
+          "text": "the value of the preferred being offered to 8.50 dlrs from 8.00 dlrs a share and raising the ownership in the new company to be held by present Viacom shareholders to 45 pct from 25 pct. MCV called its previous offer, made February 26, the \"final\" proposed revision of its",
+          "keyphrases": "merger, finance, ownership"
+        }
+      ]
+    },
+    {
+      "cluster": 123,
+      "chunk_count": 13,
+      "examples": [
+        {
+          "document_id": 326,
+          "text": "UNISYS CORP &lt;UIS> SETS QUARTERLY Qtly div 65 cts vs 65 cts prior Pay May Seven Record April Seven",
+          "keyphrases": "finance, earnings, tech"
+        },
+        {
+          "document_id": 816,
+          "text": "SYSTEM SOFTWARE ASSOCIATES &lt;SSAX> 1ST QTR NET Periods end January 31, 1987 and 1986 Shr 12 cts vs nine cts Net 507,000 vs 362,000 Revs 5,010,000 vs 3,558,000 NOTE: System Software Associates Inc is full name of company.",
+          "keyphrases": "finance, earnings, tech"
+        },
+        {
+          "document_id": 2386,
+          "text": "DRANETZ TECHNOLOGIES INC &lt;DRAN> YEAR DEC 31 NET Shr 46 cts vs 77 cts Qtly div six cts vs six cts prior Net 2,198,469 vs 3,635,565 Revs 23.1 mln vs 26.0 mln Note: 1986 net includes one-time charge of 249,000 dlrs or five cts a share from discontinuation of Boat",
+          "keyphrases": "finance, earnings, technology"
+        }
+      ]
+    },
+    {
+      "cluster": 124,
+      "chunk_count": 8,
+      "examples": [
+        {
+          "document_id": 1795,
+          "text": "27, and union leaders said they would not return to work unless they received a 275 pct pay rise. Shipowners have offered a 100 pct raise, which the seamen rejected. \"Television reported that the port was operating at full speed, but that's not true,\" a striking seaman told Reuters. \"The",
+          "keyphrases": "None"
+        },
+        {
+          "document_id": 1664,
+          "text": "statement that the Class B shares being sold to Trump represents 73 pct of the combined voting power in Resorts. It said closing is dependent on receipt of necessary regulatory approvals and other matters, and after closing, Trump will tender for remaining Class B shares at the same price.",
+          "keyphrases": "None"
+        },
+        {
+          "document_id": 1126,
+          "text": "EC REJECTS WHEAT EXPORT BIDS, GRANTS BARLEY The European Community's cereal management committee rejected all bids to export free market soft wheat at today's weekly tender, traders said. The committee awarded 123,000 tonnes of free market barley export licences at a maximum export refund of 138.75 Ecus per tonne.",
+          "keyphrases": "None"
+        }
+      ]
+    },
+    {
+      "cluster": 125,
+      "chunk_count": 120,
+      "examples": [
+        {
+          "document_id": 1066,
+          "text": "interest rates. But bankers said the high real interest rates on offer now -- around eight pct for overnight funds -- was attracting money from abroad, strengthening the peseta and making Spanish exports less competitive. The government says industry's competitiveness is also being hit hard by inflation. At 8.3 pct",
+          "keyphrases": "interest rates, inflation, exports"
+        },
+        {
+          "document_id": 2489,
+          "text": "VOLCKER SAYS FED REMAINS CONCERNED ABOUT THE POSSIBILITY OF RENEWED INFLATION VOLCKER SAYS FED REMAINS CONCERNED ABOUT THE POSSIBILITY OF RENEWED INFLATION",
+          "keyphrases": "economy, inflation, fed"
+        },
+        {
+          "document_id": 2522,
+          "text": "added. Nogales said that Bolivia's net international reserves now stood at around 250 mln dlrs, compared to one mln dlrs in disposable funds when the government of Victor Paz Estenssoro took office in August, 1985. Nogales said inflation, which soared to over 20,000 pct a year in the government's first",
+          "keyphrases": "economy, inflation, reserves"
+        }
+      ]
+    },
+    {
+      "cluster": 126,
+      "chunk_count": 8,
+      "examples": [
+        {
+          "document_id": 757,
+          "text": "CASTLE AND COOKE INC &lt;CKE> 4TH QTR LOSS Shr loss 76 cts vs loss 21 cts Net loss 31.9 mln vs loss 3,288,000 Revs 380.2 mln vs 311.5 mln Avg shrs 47.1 mln vs 41.2 mln Year Shr profit 56 cts vs profit 56 cts Net profit 43,925,000 vs profit",
+          "keyphrases": "earnings, finance, loss"
+        },
+        {
+          "document_id": 1514,
+          "text": "ALFIN INC &lt;AFN> 2ND QTR JAN 31 LOSS Shr loss 20 cts vs profit 14 cts Net loss 1,417,000 vs profit 933,000 Revs 5,623,000 vs 5,403,000 Avg shrs 6,957,300 vs 7,115,248 Six mths Shr loss 18 cts vs profit 43 cts Net loss 1,269,000 vs profit 3,079,000 Revs 15.7 mln",
+          "keyphrases": "earnings, finance, loss"
+        },
+        {
+          "document_id": 748,
+          "text": "&lt;WESTAR MINING LTD> 4TH QTR LOSS Shr not given Oper loss 5,900,000 vs profit 9,300,000 Revs 105.3 mln vs 131.2 mln Year Shr not given Oper loss 21.7 mln vs profit 34.7 mln Revs 370.7 mln vs 515.1 mln Note: 67 pct owned by &lt;British Columbia Resources Investment Corp> Note",
+          "keyphrases": "earnings, mining, loss"
+        }
+      ]
+    },
+    {
+      "cluster": 127,
+      "chunk_count": 7,
+      "examples": [
+        {
+          "document_id": 477,
+          "text": "sell its Goldendale smelter in Washington, and port facilities at Portland, Oregon to Columbia Aluminium Corp. Comalco said its extraordinary provision of 27.3 mln dlrs costs for Goldendale losses and closure may be reduced if the sales agreement were completed.",
+          "keyphrases": "business, sale, finance,"
+        },
+        {
+          "document_id": 966,
+          "text": "made \"at substantially reduced levels.\" Allis-Chalmers, once one of the leading farm equipment companies, sold all of its farm equipment operations to Deutz of West Germany for 107 mln dlrs, leaving the company with businesses in lift trucks, air conditioning, fluids handling and solid materials processing. Last year, Allis-Chalmers sold",
+          "keyphrases": "business, sale, finance,"
+        },
+        {
+          "document_id": 2378,
+          "text": "a share bid. It has said it was talking with other parties about selling its business.",
+          "keyphrases": "business, sale, finance,"
+        }
+      ]
+    },
+    {
+      "cluster": 128,
+      "chunk_count": 5,
+      "examples": [
+        {
+          "document_id": 1681,
+          "text": "there is a slim chance the Fed will inject permanent reserves via three-day system repurchase agreements. Federal funds opened at 6-1/16 pct and firmed to 6-1/8 pct in early trading. Funds averaged six pct on Friday.",
+          "keyphrases": "economy, finance, interest_rate,"
+        },
+        {
+          "document_id": 2081,
+          "text": "percentage point reduction in leading banks' base lending rates from 11 pct. Building society and other bank mortgage rates are largely still well above the new base rate level, although last year Lloyds offered a fixed rate of 9.9 pct on certain home loans. A Midland spokesman said his bank",
+          "keyphrases": "economy, finance, interest_rates"
+        },
+        {
+          "document_id": 995,
+          "text": "economy, rose by 15.1 pct against a decline of five pct in 1985. Low interest rates also helped the bank. Interest received on loans was low, with the prime rate at 6.5 pct at end-1986, but interest paid on savings was two pct. Hongkong Bank and Hang Seng Bank control",
+          "keyphrases": "economy, finance, interest_rates"
+        }
+      ]
+    },
+    {
+      "cluster": 129,
+      "chunk_count": 12,
+      "examples": [
+        {
+          "document_id": 1273,
+          "text": "China decreased by 30,000 tonnes for the current season, but increased by 90,000 tonnes for the 1987/88 season, which begins June 1. Net sales of soybeans totalling 274,200 tonnes equaled the preceding week, but were nearly a third below the four week average. Major increases were for Belgium, South Korea,",
+          "keyphrases": "agriculture, trade, commodity,"
+        },
+        {
+          "document_id": 2232,
+          "text": "be reintroduced, producers and consumers at the 75-member ICO have not been able to agree on new guidelines. Brazil and the U.S., The largest consumer, are both refusing to alter their positions. Dharyono said if new quotas are not agreed he believed Indonesia was well placed to survive low prices.",
+          "keyphrases": "agriculture, trade, commodity"
+        },
+        {
+          "document_id": 1872,
+          "text": "JAPAN MAY INCREASE ITS BRAZILIAN SOYBEAN PURCHASES Japanese crushers are likely to buy at least 200,000 tonnes of Brazilian soybeans this year and another 100,000 to 200,000 if quality and shipping conditions are good against 128,089 tonnes in 1986, trade sources said. A Japanese trading house recently bought about 31,000",
+          "keyphrases": "agriculture, trade, commodity"
+        }
+      ]
+    },
+    {
+      "cluster": 130,
+      "chunk_count": 101,
+      "examples": [
+        {
+          "document_id": 1132,
+          "text": "CHRYSLER &lt;C> SETS STOCK SPLIT, HIGHER DIVIDEND Chrysler Corp said its board declared a three-for-two stock split in the form of a 50 pct stock dividend and raised the quarterly dividend by seven pct. The company said the dividend was raised to 37.5 cts a share from 35 cts on",
+          "keyphrases": "stock, dividend, chrysler"
+        },
+        {
+          "document_id": 821,
+          "text": "BROWN-FORMAN &lt;BFDB> TO CHANGE RECORD DATES Brown-Forman Inc said at the suggestion of the American Stock Exchange it has changed the record date for the 28 ct per share quarterly dividend on its Class A and Class B common stock that is payable April One to March 20 from March",
+          "keyphrases": "dividend, record date, stock exchange,"
+        },
+        {
+          "document_id": 2396,
+          "text": "reflect five pct stock dividend paid December 1986.",
+          "keyphrases": "dividend, stock, december"
+        }
+      ]
+    },
+    {
+      "cluster": 131,
+      "chunk_count": 61,
+      "examples": [
+        {
+          "document_id": 2522,
+          "text": "commercial banks. The only traditional way forward was to capitalise interest, which would mean greater bank exposure in Bolivia and greater loss provisions, he added. \"We are confident that the banks are going to be reasonable,\" Nogales said. \"Now they can resolve their problems for once and for all.\" \"The",
+          "keyphrases": "banking, bolivia, economy,"
+        },
+        {
+          "document_id": 2522,
+          "text": "foreign debt by equity swaps or third party buy-backs, but Bolivia would be the first country in the region to make a formal offer to buy back all its commercial bank debt at discounted rates. Nogales said practical and strategic considerations would determine the exact timing of the offer but",
+          "keyphrases": "debt, buyback, bolivia,"
+        },
+        {
+          "document_id": 1866,
+          "text": "had been cut to 50 yuan equivalent, from 150 yuan. The minimum for a current account is 20 yuan equivalent. The paper said depositors could now withdraw all or part of their account, subject to a branch's reserves, instead of only a fixed amount as previously. The paper said deposits",
+          "keyphrases": "bank, withdrawal, deposit,"
+        }
+      ]
+    },
+    {
+      "cluster": 132,
+      "chunk_count": 5,
+      "examples": [
+        {
+          "document_id": 1582,
+          "text": "EC FARM LIBERALISATION SEEN HURTING THAI TAPIOCA Any European Community decision to liberalise farm trade policy would hurt Thailand's tapioca industry, said Ammar Siamwalla, an agro-economist at the Thailand Development Research Institute (TDRI). He told a weekend trade seminar here that any EC move to cut tariff protection for EC",
+          "keyphrases": "trade, policy, agriculture"
+        },
+        {
+          "document_id": 1504,
+          "text": "could damage the future of U.S. feedgrains support for the free trade negotiations, and also negatively impact farm trade reform with other nations, the council said.",
+          "keyphrases": "trade, agriculture, policy,"
+        },
+        {
+          "document_id": 683,
+          "text": "quota, Dauster said. Other delegates said there was more open talking at the ICO and at least differences were not hidden by a bad compromise. Consumer delegates said they had not been prepared to accept the producers' offer to abandon quotas if it proves impossible to find an acceptable basis",
+          "keyphrases": "trade, agriculture, policy"
+        }
+      ]
+    },
+    {
+      "cluster": 133,
+      "chunk_count": 71,
+      "examples": [
+        {
+          "document_id": 2299,
+          "text": "Consumer spending also tailed off in December because of bad weather and smaller-than-normal end-year bonuses, they said. As the government had to buy back some of the coins from retailers because they were unsold, the government's contribution to the economy in the fourth quarter may have been boosted, economists said.",
+          "keyphrases": "consumer spending, government spending, economy"
+        },
+        {
+          "document_id": 1914,
+          "text": "or 9.8 pct above its trough in March 1986. Westpac's chief economist Bob Graham said the consistent upward trend in the leading index emphasised the need for a tough mini-budget in May. \"An untoward increase in consumption spending before the balance of payments improves would have disastrous consequences,\" he said.",
+          "keyphrases": "economy, budget, consumption"
+        },
+        {
+          "document_id": 1639,
+          "text": "asked to pay. The company's largest subsidiary, Georgia Power Co, said the budget for the plant has increased by 6.3 pct, or 522 mln dlrs, to 8.87 billion. However, because of a pledge the made last year to Georgia's Public Service Commission, the increased cost will not be included in",
+          "keyphrases": "budget, increase, utility,"
+        }
+      ]
+    },
+    {
+      "cluster": 134,
+      "chunk_count": 7,
+      "examples": [
+        {
+          "document_id": 2072,
+          "text": "of the proposals. The Caesars World official suggested various forms of payment for Sosnoff's stake, including other securities of the company and cash, he said. Sosnoff did not detail the value of the proposed compensation. Also suggested was a deal involving \"put\" and \"call\" option regarding Sosnoff's Caesars World holdings,",
+          "keyphrases": "business, finance, mergers,"
+        },
+        {
+          "document_id": 1724,
+          "text": "WALL STREET STOCKS/CHRYSLER &lt;C>, AMC &lt;AMO> The proposed 757 mln dlr deal under which Chrysler Corp would acquire American Motors Corp was described by analysts as a reasonable deal for both companies. Ronald Glantz of Montgomery Securities said AMC common stock could be fairly valued at \"just under five dlrs",
+          "keyphrases": "business, finance, mergers,"
+        },
+        {
+          "document_id": 1497,
+          "text": "asset,\" said one analyst who asked not to be named. Dome earlier said it was not considering selling Encor Energy, but reaffirmed the company's 23.3 pct interest in Canadian gold producer Dome Mines Ltd &lt;DM> is up for sale \"at the right price.\" Dome, now negotiating a plan to restructure",
+          "keyphrases": "business, finance, mergers,"
+        }
+      ]
+    },
+    {
+      "cluster": 135,
+      "chunk_count": 168,
+      "examples": [
+        {
+          "document_id": 869,
+          "text": "rate of two mln cubic feet of gas and 304 barrels of condensate. Participants in the new well, along with Sterling, are Trafalgar House Ltd of the U.K. and &lt;Texstar NOrth America Inc.>",
+          "keyphrases": "energy, oil, gas,"
+        },
+        {
+          "document_id": 2408,
+          "text": "SAMSON ENERGY CO LIMITED PARTNERSHIP &lt;SAM> YEAR Net loss 14,144,000 vs loss 863,000 Revs 10.3 mln vs 16.7 mln NOTES: 1986 loss includes write-down of 15.1 mln dlrs in the carrying value of oil and gas properties taken in the first quarter Cash flow from operationswas 6,237,000 dlrs, or 3.01",
+          "keyphrases": "energy, finance, oil_gas"
+        },
+        {
+          "document_id": 38,
+          "text": "&lt;COFAB INC> BUYS GULFEX FOR UNDISCLOSED AMOUNT CoFAB Inc said it acquired &lt;Gulfex Inc>, a Houston-based fabricator of custom high-pressure process vessels for the energy and petrochemical industries. CoFAB said its group of companies manufacture specialized cooling and lubricating systems for the oil and gas, petrochemical, utility, pulp and paper",
+          "keyphrases": "energy, petrochemical, manufacturing"
+        }
+      ]
+    },
+    {
+      "cluster": 136,
+      "chunk_count": 5,
+      "examples": [
+        {
+          "document_id": 930,
+          "text": "PERU SUGAR HARVEST SEEN LOWER -- USDA Sugar production in Peru for the 1986/87 season has been revised to 593,000 tonnes (raw value), down 10 pct from the previous forecast and 21 pct below the 1985/86 harvest, the U.S. Agriculture Department said in its World Production and Trade Report. It",
+          "keyphrases": "agriculture, production, trade"
+        },
+        {
+          "document_id": 2850,
+          "text": "new sector going into massive overproduction and complement proposals to cut cereals and dairy production, rather than a straight forward tax. They say it would not only curb the growth of oils and fats production and prevent imports from filling any vaccum left by a fall in EC output, but",
+          "keyphrases": "agriculture, production, trade"
+        },
+        {
+          "document_id": 1921,
+          "text": "compared with 25.4 mln last year. The increase should result from lower disappearance, as production is expected to fall to 184.0 mln tonnes from 185.7 mln last year, he said. World soybean production in 1987 totalled a record 98.9 mln tonnes, up from 90.6 mln the previous year, Balletto said,",
+          "keyphrases": "agriculture, production, trade,"
+        }
+      ]
+    },
+    {
+      "cluster": 137,
+      "chunk_count": 95,
+      "examples": [
+        {
+          "document_id": 2995,
+          "text": "income almost tripled to 951,000 dlrs or 34 cts a share as sales rose 38 pct to 20.6 mln dlrs. The company, which went public Dec 23, also said it expects to be able to fill back orders from the first two quarters because of improved supply of computer chip",
+          "keyphrases": "income, sales, computer chip"
+        },
+        {
+          "document_id": 450,
+          "text": "Sales 1.88 billion vs 1.78 billion Other income 52.75 mln vs 15.22 mln Shrs 560.61 mln vs same. NOTE - Net is after tax paid 46.85 mln dlrs vs credit 5.02 mln, interest 127.68 mln vs 117.19 mln, depreciation 109.29 mln vs 100.73 mln and minorities 1.50 mln vs loss",
+          "keyphrases": "sales, income, financial"
+        },
+        {
+          "document_id": 244,
+          "text": "WHITTAKER CORP &lt;WKR> 1ST QTR JAN 31 NET Oper shr 17 cts vs 25 cts Qtly div 15 cts vs 15 cts prior Oper net 1,522,000 vs 3,501,000 Sales 98.0 mln vs 86.3 mln NOTE: Prior year net excludes loss from discontinued operations of 1,817,000 dlrs. Company said common shares",
+          "keyphrases": "earnings, sales, finance"
+        }
+      ]
+    },
+    {
+      "cluster": 138,
+      "chunk_count": 94,
+      "examples": [
+        {
+          "document_id": 2605,
+          "text": "Sandoz has insisted that it is adequately insured to cover any liability arising from the accident. The official said the addition to reserves was to cover the \"one pct\" of claims somehow not covered and any voluntary gestures it wanted to compensate for the effects of pollution from the fire.",
+          "keyphrases": "insurance, pollution, liability"
+        },
+        {
+          "document_id": 2270,
+          "text": "responsibility -- even if it entails opprobrium -- for the transactions that may result.\" They \"should exercise the most careful judgment at the outset with respect to the clients for whom they act and the activities contenplated. Those who sow wind cannot expect the whirlwind to visit elsewhere,\" he added.",
+          "keyphrases": "responsibility, judgment, wind"
+        },
+        {
+          "document_id": 2913,
+          "text": "to repair at a cost of about 150 mln dlrs to repair. President Leon Febres Cordero on Friday estimated total damages caused by the quake at one billion dlrs and said that Ecuador as a result would maintain January's suspension of interest payments on its foreign commercial bank debt. Payments",
+          "keyphrases": "disaster, damage, debt"
+        }
+      ]
+    }
+  ]
+}

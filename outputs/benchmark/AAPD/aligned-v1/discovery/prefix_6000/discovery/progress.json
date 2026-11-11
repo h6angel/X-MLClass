@@ -1,0 +1,3757 @@
+{
+  "signature": "9778a901dd3c16cf389b3c95be7ee0ddb030383e35b7a61bc433cbc385683884",
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "named": [
+    {
+      "cluster": 0,
+      "label": "signal processing",
+      "raw": "{\"label\":\"signal processing\"}"
+    },
+    {
+      "cluster": 1,
+      "label": "Open Access (OA) Research",
+      "raw": "{\"label\":\"Open Access (OA) Research\"}"
+    },
+    {
+      "cluster": 2,
+      "label": "Channel Coding and Decoding",
+      "raw": "{\"label\":\"Channel Coding and Decoding\"}"
+    },
+    {
+      "cluster": 3,
+      "label": "Programming Languages and Formal Methods",
+      "raw": "{\"label\":\"Programming Languages and Formal Methods\"}"
+    },
+    {
+      "cluster": 4,
+      "label": "Game Theory",
+      "raw": "{\"label\":\"Game Theory\"}"
+    },
+    {
+      "cluster": 5,
+      "label": "Coding Theory",
+      "raw": "{\"label\":\"Coding Theory\"}"
+    },
+    {
+      "cluster": 6,
+      "label": "Cryptography & Security",
+      "raw": "{\"label\":\"Cryptography & Security\"}"
+    },
+    {
+      "cluster": 7,
+      "label": "Machine Learning",
+      "raw": "{\"label\":\"Machine Learning\"}"
+    },
+    {
+      "cluster": 8,
+      "label": "Medical Imaging and Healthcare Informatics",
+      "raw": "{\"label\":\"Medical Imaging and Healthcare Informatics\"}"
+    },
+    {
+      "cluster": 9,
+      "label": "Coding Theory",
+      "raw": "{\"label\":\"Coding Theory\"}"
+    },
+    {
+      "cluster": 10,
+      "label": "Information Retrieval",
+      "raw": "{\"label\":\"Information Retrieval\"}"
+    },
+    {
+      "cluster": 11,
+      "label": "Computational Complexity",
+      "raw": "{\"label\":\"Computational Complexity\"}"
+    },
+    {
+      "cluster": 12,
+      "label": "Control Systems Engineering",
+      "raw": "{\"label\":\"Control Systems Engineering\"}"
+    },
+    {
+      "cluster": 13,
+      "label": "Quantum Communication and Complexity",
+      "raw": "{\"label\":\"Quantum Communication and Complexity\"}"
+    },
+    {
+      "cluster": 14,
+      "label": "Graph Algorithms and Parameterized Complexity",
+      "raw": "{\"label\":\"Graph Algorithms and Parameterized Complexity\"}"
+    },
+    {
+      "cluster": 15,
+      "label": "Complex Networks",
+      "raw": "{\"label\":\"Complex Networks\"}"
+    },
+    {
+      "cluster": 16,
+      "label": "semi-supervised machine learning",
+      "raw": "{\"label\":\"semi-supervised machine learning\"}"
+    },
+    {
+      "cluster": 17,
+      "label": "coding theory",
+      "raw": "{\"label\":\"coding theory\"}"
+    },
+    {
+      "cluster": 18,
+      "label": "Human-Computer Interaction",
+      "raw": "{\"label\":\"Human-Computer Interaction\"}"
+    },
+    {
+      "cluster": 19,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 20,
+      "label": "Game Theory and Mechanism Design",
+      "raw": "{\"label\":\"Game Theory and Mechanism Design\"}"
+    },
+    {
+      "cluster": 21,
+      "label": "Automata Theory",
+      "raw": "{\"label\":\"Automata Theory\"}"
+    },
+    {
+      "cluster": 22,
+      "label": "Social Network Analysis (SNA)",
+      "raw": "{\"label\":\"Social Network Analysis (SNA)\"}"
+    },
+    {
+      "cluster": 23,
+      "label": "lambda calculus and its applications in computational theory",
+      "raw": "{\"label\":\"lambda calculus and its applications in computational theory\"}"
+    },
+    {
+      "cluster": 24,
+      "label": "Natural Language Processing",
+      "raw": "{\"label\":\"Natural Language Processing\"}"
+    },
+    {
+      "cluster": 25,
+      "label": "Channel Coding & Decoding",
+      "raw": "{\"label\":\"Channel Coding & Decoding\"}"
+    },
+    {
+      "cluster": 26,
+      "label": "Network Bandwidth Estimation",
+      "raw": "{\"label\":\"Network Bandwidth Estimation\"}"
+    },
+    {
+      "cluster": 27,
+      "label": "Coding Theory",
+      "raw": "{\"label\":\"Coding Theory\"}"
+    },
+    {
+      "cluster": 28,
+      "label": "computational geometry",
+      "raw": "{\"label\":\"computational geometry\"}"
+    },
+    {
+      "cluster": 29,
+      "label": "Machine Learning",
+      "raw": "{\"label\":\"Machine Learning\"}"
+    },
+    {
+      "cluster": 30,
+      "label": "Computer Science - Computer Graphics & Multimedia Applications",
+      "raw": "{\"label\":\"Computer Science - Computer Graphics & Multimedia Applications\"}"
+    },
+    {
+      "cluster": 31,
+      "label": "Discrete Optimization",
+      "raw": "{\"label\":\"Discrete Optimization\"}"
+    },
+    {
+      "cluster": 32,
+      "label": "Queueing Theory",
+      "raw": "{\"label\":\"Queueing Theory\"}"
+    },
+    {
+      "cluster": 33,
+      "label": "Hypergraph Theory",
+      "raw": "{\"label\":\"Hypergraph Theory\"}"
+    },
+    {
+      "cluster": 34,
+      "label": "Graph Theory",
+      "raw": "{\"label\":\"Graph Theory\"}"
+    },
+    {
+      "cluster": 35,
+      "label": "space exploration",
+      "raw": "{\"label\":\"space exploration\"}"
+    },
+    {
+      "cluster": 36,
+      "label": "Quantum Algorithms and Complexity",
+      "raw": "{\"label\":\"Quantum Algorithms and Complexity\"}"
+    },
+    {
+      "cluster": 37,
+      "label": "Coding Theory",
+      "raw": "{\"label\":\"Coding Theory\"}"
+    },
+    {
+      "cluster": 38,
+      "label": "optimization algorithms",
+      "raw": "{\"label\":\"optimization algorithms\"}"
+    },
+    {
+      "cluster": 39,
+      "label": "coding theory",
+      "raw": "{\"label\":\"coding theory\"}"
+    },
+    {
+      "cluster": 40,
+      "label": "Graph Theory",
+      "raw": "{\"label\":\"Graph Theory\"}"
+    },
+    {
+      "cluster": 41,
+      "label": "Algorithms and Data Structures",
+      "raw": "{\"label\":\"Algorithms and Data Structures\"}"
+    },
+    {
+      "cluster": 42,
+      "label": "Graph Theory",
+      "raw": "{\"label\":\"Graph Theory\"}"
+    },
+    {
+      "cluster": 43,
+      "label": "Coding Theory",
+      "raw": "{\"label\":\"Coding Theory\"}"
+    },
+    {
+      "cluster": 44,
+      "label": "Statistical Signal Processing",
+      "raw": "{\"label\":\"Statistical Signal Processing\"}"
+    },
+    {
+      "cluster": 45,
+      "label": "Ramsey Theory",
+      "raw": "{\"label\":\"Ramsey Theory\"}"
+    },
+    {
+      "cluster": 46,
+      "label": "Combinatorics",
+      "raw": "{\"label\":\"Combinatorics\"}"
+    },
+    {
+      "cluster": 47,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 48,
+      "label": "Wireless Communication",
+      "raw": "{\"label\":\"Wireless Communication\"}"
+    },
+    {
+      "cluster": 49,
+      "label": "Community Detection Algorithms",
+      "raw": "{\"label\":\"Community Detection Algorithms\"}"
+    },
+    {
+      "cluster": 50,
+      "label": "Complexity Theory",
+      "raw": "{\"label\":\"Complexity Theory\"}"
+    },
+    {
+      "cluster": 51,
+      "label": "Sampling Theory",
+      "raw": "{\"label\":\"Sampling Theory\"}"
+    },
+    {
+      "cluster": 52,
+      "label": "Formal Methods",
+      "raw": "{\"label\":\"Formal Methods\"}"
+    },
+    {
+      "cluster": 53,
+      "label": "Game Theory and Economic Behavior",
+      "raw": "{\"label\":\"Game Theory and Economic Behavior\"}"
+    },
+    {
+      "cluster": 54,
+      "label": "Machine Learning & Data Mining",
+      "raw": "{\"label\":\"Machine Learning & Data Mining\"}"
+    },
+    {
+      "cluster": 55,
+      "label": "Graph Algorithms",
+      "raw": "{\"label\":\"Graph Algorithms\"}"
+    },
+    {
+      "cluster": 56,
+      "label": "Computer Vision and Image Analysis",
+      "raw": "{\"label\":\"Computer Vision and Image Analysis\"}"
+    },
+    {
+      "cluster": 57,
+      "label": "cloud computing",
+      "raw": "{\"label\":\"cloud computing\"}"
+    },
+    {
+      "cluster": 58,
+      "label": "Signal Processing",
+      "raw": "{\"label\":\"Signal Processing\"}"
+    },
+    {
+      "cluster": 59,
+      "label": "signal processing",
+      "raw": "{\"label\":\"signal processing\"}"
+    },
+    {
+      "cluster": 60,
+      "label": "Signal Processing",
+      "raw": "{\"label\":\"Signal Processing\"}"
+    },
+    {
+      "cluster": 61,
+      "label": "Information Theory and Coding",
+      "raw": "{\"label\":\"Information Theory and Coding\"}"
+    },
+    {
+      "cluster": 62,
+      "label": "Graph Theory",
+      "raw": "{\"label\":\"Graph Theory\"}"
+    },
+    {
+      "cluster": 63,
+      "label": "Machine Learning",
+      "raw": "{\"label\":\"Machine Learning\"}"
+    },
+    {
+      "cluster": 64,
+      "label": "Communication Systems",
+      "raw": "{\"label\":\"Communication Systems\"}"
+    },
+    {
+      "cluster": 65,
+      "label": "Algorithms",
+      "raw": "{\"label\":\"Algorithms\"}"
+    },
+    {
+      "cluster": 66,
+      "label": "Network Analysis and Graph Theory",
+      "raw": "{\"label\":\"Network Analysis and Graph Theory\"}"
+    },
+    {
+      "cluster": 67,
+      "label": "Wireless Sensor Networks",
+      "raw": "{\"label\":\"Wireless Sensor Networks\"}"
+    },
+    {
+      "cluster": 68,
+      "label": "Natural Language Processing",
+      "raw": "{\"label\":\"Natural Language Processing\"}"
+    },
+    {
+      "cluster": 69,
+      "label": "Machine Learning",
+      "raw": "{\"label\":\"Machine Learning\"}"
+    },
+    {
+      "cluster": 70,
+      "label": "Control Theory",
+      "raw": "{\"label\":\"Control Theory\"}"
+    },
+    {
+      "cluster": 71,
+      "label": "Database Systems",
+      "raw": "{\"label\":\"Database Systems\"}"
+    },
+    {
+      "cluster": 72,
+      "label": "Graph Theory",
+      "raw": "{\"label\":\"Graph Theory\"}"
+    },
+    {
+      "cluster": 73,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 74,
+      "label": "Complexity Theory",
+      "raw": "{\"label\":\"Complexity Theory\"}"
+    },
+    {
+      "cluster": 75,
+      "label": "Graph Theory",
+      "raw": "{\"label\":\"Graph Theory\"}"
+    },
+    {
+      "cluster": 76,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 77,
+      "label": "Coding Theory",
+      "raw": "{\"label\":\"Coding Theory\"}"
+    },
+    {
+      "cluster": 78,
+      "label": "Statistics and Machine Learning",
+      "raw": "{\"label\":\"Statistics and Machine Learning\"}"
+    },
+    {
+      "cluster": 79,
+      "label": "Numerical Analysis",
+      "raw": "{\"label\":\"Numerical Analysis\"}"
+    },
+    {
+      "cluster": 80,
+      "label": "System Identification",
+      "raw": "{\"label\":\"System Identification\"}"
+    },
+    {
+      "cluster": 81,
+      "label": "Type Theory and Formal Methods",
+      "raw": "{\"label\":\"Type Theory and Formal Methods\"}"
+    },
+    {
+      "cluster": 82,
+      "label": "automata theory",
+      "raw": "{\"label\":\"automata theory\"}"
+    },
+    {
+      "cluster": 83,
+      "label": "Computer Vision",
+      "raw": "{\"label\":\"Computer Vision\"}"
+    },
+    {
+      "cluster": 84,
+      "label": "Time Series Analysis",
+      "raw": "{\"label\":\"Time Series Analysis\"}"
+    },
+    {
+      "cluster": 85,
+      "label": "Parallel Computing",
+      "raw": "{\"label\":\"Parallel Computing\"}"
+    },
+    {
+      "cluster": 86,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 87,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 88,
+      "label": "computational modeling and simulation",
+      "raw": "{\"label\":\"computational modeling and simulation\"}"
+    },
+    {
+      "cluster": 89,
+      "label": "Probabilistic Models and Approximation Algorithms",
+      "raw": "{\"label\":\"Probabilistic Models and Approximation Algorithms\"}"
+    },
+    {
+      "cluster": 90,
+      "label": "Combinatorics",
+      "raw": "{\"label\":\"Combinatorics\"}"
+    },
+    {
+      "cluster": 91,
+      "label": "Decision Making and Optimization",
+      "raw": "{\"label\":\"Decision Making and Optimization\"}"
+    },
+    {
+      "cluster": 92,
+      "label": "Quantum Error Correction",
+      "raw": "{\"label\":\"Quantum Error Correction\"}"
+    },
+    {
+      "cluster": 93,
+      "label": "Coding Theory",
+      "raw": "{\"label\":\"Coding Theory\"}"
+    },
+    {
+      "cluster": 94,
+      "label": "Web Accessibility Research",
+      "raw": "{\"label\":\"Web Accessibility Research\"}"
+    },
+    {
+      "cluster": 95,
+      "label": "Human-Computer Interaction",
+      "raw": "{\"label\":\"Human-Computer Interaction\"}"
+    },
+    {
+      "cluster": 96,
+      "label": "Computer Vision",
+      "raw": "{\"label\":\"Computer Vision\"}"
+    },
+    {
+      "cluster": 97,
+      "label": "Probabilistic Models and Uncertainty Quantification",
+      "raw": "{\"label\":\"Probabilistic Models and Uncertainty Quantification\"}"
+    },
+    {
+      "cluster": 98,
+      "label": "signal processing",
+      "raw": "{\"label\":\"signal processing\"}"
+    },
+    {
+      "cluster": 99,
+      "label": "coding theory and information theory",
+      "raw": "{\"label\":\"coding theory and information theory\"}"
+    },
+    {
+      "cluster": 100,
+      "label": "Recommendation Systems",
+      "raw": "{\"label\":\"Recommendation Systems\"}"
+    },
+    {
+      "cluster": 101,
+      "label": "data stream processing",
+      "raw": "{\"label\":\"data stream processing\"}"
+    },
+    {
+      "cluster": 102,
+      "label": "Image Processing and Computer Vision",
+      "raw": "{\"label\":\"Image Processing and Computer Vision\"}"
+    },
+    {
+      "cluster": 103,
+      "label": "Computer Science - Algorithms and Data Structures",
+      "raw": "{\"label\":\"Computer Science - Algorithms and Data Structures\"}"
+    },
+    {
+      "cluster": 104,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 105,
+      "label": "Graph Theory and Algorithms",
+      "raw": "{\"label\":\"Graph Theory and Algorithms\"}"
+    },
+    {
+      "cluster": 106,
+      "label": "Machine Learning",
+      "raw": "{\"label\":\"Machine Learning\"}"
+    },
+    {
+      "cluster": 107,
+      "label": "Natural Language Processing",
+      "raw": "{\"label\":\"Natural Language Processing\"}"
+    },
+    {
+      "cluster": 108,
+      "label": "Algorithms",
+      "raw": "{\"label\":\"Algorithms\"}"
+    },
+    {
+      "cluster": 109,
+      "label": "Computer Vision & Image Processing",
+      "raw": "{\"label\":\"Computer Vision & Image Processing\"}"
+    },
+    {
+      "cluster": 110,
+      "label": "Software Engineering",
+      "raw": "{\"label\":\"Software Engineering\"}"
+    },
+    {
+      "cluster": 111,
+      "label": "coding theory",
+      "raw": "{\"label\":\"coding theory\"}"
+    },
+    {
+      "cluster": 112,
+      "label": "Signal Processing",
+      "raw": "{\"label\":\"Signal Processing\"}"
+    },
+    {
+      "cluster": 113,
+      "label": "Machine Learning",
+      "raw": "{\"label\":\"Machine Learning\"}"
+    },
+    {
+      "cluster": 114,
+      "label": "Machine Learning",
+      "raw": "{\"label\":\"Machine Learning\"}"
+    },
+    {
+      "cluster": 115,
+      "label": "Network Coding",
+      "raw": "{\"label\":\"Network Coding\"}"
+    },
+    {
+      "cluster": 116,
+      "label": "Communication Networks",
+      "raw": "{\"label\":\"Communication Networks\"}"
+    },
+    {
+      "cluster": 117,
+      "label": "Bioinformatics",
+      "raw": "{\"label\":\"Bioinformatics\"}"
+    },
+    {
+      "cluster": 118,
+      "label": "Information Theory and Coding",
+      "raw": "{\"label\":\"Information Theory and Coding\"}"
+    },
+    {
+      "cluster": 119,
+      "label": "Statistical Physics",
+      "raw": "{\"label\":\"Statistical Physics\"}"
+    },
+    {
+      "cluster": 120,
+      "label": "Signal Processing",
+      "raw": "{\"label\":\"Signal Processing\"}"
+    },
+    {
+      "cluster": 121,
+      "label": "Filter Banks and Wavelets",
+      "raw": "{\"label\":\"Filter Banks and Wavelets\"}"
+    },
+    {
+      "cluster": 122,
+      "label": "Graph Theory",
+      "raw": "{\"label\":\"Graph Theory\"}"
+    },
+    {
+      "cluster": 123,
+      "label": "MIMO Channel Estimation and Compressive Sensing",
+      "raw": "{\"label\":\"MIMO Channel Estimation and Compressive Sensing\"}"
+    },
+    {
+      "cluster": 124,
+      "label": "complexity theory",
+      "raw": "{\"label\":\"complexity theory\"}"
+    },
+    {
+      "cluster": 125,
+      "label": "cryptography",
+      "raw": "{\"label\":\"cryptography\"}"
+    },
+    {
+      "cluster": 126,
+      "label": "Cognitive Radio Networks",
+      "raw": "{\"label\":\"Cognitive Radio Networks\"}"
+    },
+    {
+      "cluster": 127,
+      "label": "Signal Processing",
+      "raw": "{\"label\":\"Signal Processing\"}"
+    },
+    {
+      "cluster": 128,
+      "label": "Statistical Signal Processing",
+      "raw": "{\"label\":\"Statistical Signal Processing\"}"
+    },
+    {
+      "cluster": 129,
+      "label": "Optimization Algorithms in Neural Networks",
+      "raw": "{\"label\":\"Optimization Algorithms in Neural Networks\"}"
+    },
+    {
+      "cluster": 130,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 131,
+      "label": "Machine Learning",
+      "raw": "{\"label\":\"Machine Learning\"}"
+    },
+    {
+      "cluster": 132,
+      "label": "Probability Theory and Stochastic Processes",
+      "raw": "{\"label\":\"Probability Theory and Stochastic Processes\"}"
+    },
+    {
+      "cluster": 133,
+      "label": "Signal Processing and Communications",
+      "raw": "{\"label\":\"Signal Processing and Communications\"}"
+    },
+    {
+      "cluster": 134,
+      "label": "Network Aggregation Algorithms",
+      "raw": "{\"label\":\"Network Aggregation Algorithms\"}"
+    },
+    {
+      "cluster": 135,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 136,
+      "label": "Network Science",
+      "raw": "{\"label\":\"Network Science\"}"
+    },
+    {
+      "cluster": 137,
+      "label": "Linear Programming and Compressed Sensing",
+      "raw": "{\"label\":\"Linear Programming and Compressed Sensing\"}"
+    },
+    {
+      "cluster": 138,
+      "label": "Graph Theory",
+      "raw": "{\"label\":\"Graph Theory\"}"
+    },
+    {
+      "cluster": 139,
+      "label": "Political Science",
+      "raw": "{\"label\":\"Political Science\"}"
+    },
+    {
+      "cluster": 140,
+      "label": "Algorithms and Data Structures",
+      "raw": "{\"label\":\"Algorithms and Data Structures\"}"
+    },
+    {
+      "cluster": 141,
+      "label": "Operating Systems",
+      "raw": "{\"label\":\"Operating Systems\"}"
+    },
+    {
+      "cluster": 142,
+      "label": "Computer Vision and Machine Learning",
+      "raw": "{\"label\":\"Computer Vision and Machine Learning\"}"
+    },
+    {
+      "cluster": 143,
+      "label": "Machine Learning",
+      "raw": "{\"label\":\"Machine Learning\"}"
+    },
+    {
+      "cluster": 144,
+      "label": "signal processing",
+      "raw": "{\"label\":\"signal processing\"}"
+    },
+    {
+      "cluster": 145,
+      "label": "Electrophysiology and Brain-Computer Interfaces",
+      "raw": "{\"label\":\"Electrophysiology and Brain-Computer Interfaces\"}"
+    },
+    {
+      "cluster": 146,
+      "label": "Probability Theory and Statistics",
+      "raw": "{\"label\":\"Probability Theory and Statistics\"}"
+    },
+    {
+      "cluster": 147,
+      "label": "Game Theory",
+      "raw": "{\"label\":\"Game Theory\"}"
+    },
+    {
+      "cluster": 148,
+      "label": "coding theory",
+      "raw": "{\"label\":\"coding theory\"}"
+    },
+    {
+      "cluster": 149,
+      "label": "Error Correction Codes",
+      "raw": "{\"label\":\"Error Correction Codes\"}"
+    },
+    {
+      "cluster": 150,
+      "label": "Graph Theory",
+      "raw": "{\"label\":\"Graph Theory\"}"
+    },
+    {
+      "cluster": 151,
+      "label": "Formal Languages and Automata Theory",
+      "raw": "{\"label\":\"Formal Languages and Automata Theory\"}"
+    },
+    {
+      "cluster": 152,
+      "label": "Game Theory and Algorithmic Game Theory",
+      "raw": "{\"label\":\"Game Theory and Algorithmic Game Theory\"}"
+    },
+    {
+      "cluster": 153,
+      "label": "Machine Learning",
+      "raw": "{\"label\":\"Machine Learning\"}"
+    },
+    {
+      "cluster": 154,
+      "label": "Signal Processing",
+      "raw": "{\"label\":\"Signal Processing\"}"
+    },
+    {
+      "cluster": 155,
+      "label": "Coding Theory",
+      "raw": "{\"label\":\"Coding Theory\"}"
+    },
+    {
+      "cluster": 156,
+      "label": "Graph Theory",
+      "raw": "{\"label\":\"Graph Theory\"}"
+    },
+    {
+      "cluster": 157,
+      "label": "Computer Science - Algorithms and Data Structures",
+      "raw": "{\"label\":\"Computer Science - Algorithms and Data Structures\"}"
+    },
+    {
+      "cluster": 158,
+      "label": "Security and Privacy in Distributed Systems",
+      "raw": "{\"label\":\"Security and Privacy in Distributed Systems\"}"
+    },
+    {
+      "cluster": 159,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 160,
+      "label": "Algorithm Design and Analysis",
+      "raw": "{\"label\":\"Algorithm Design and Analysis\"}"
+    },
+    {
+      "cluster": 161,
+      "label": "Fluid Dynamics",
+      "raw": "{\"label\":\"Fluid Dynamics\"}"
+    },
+    {
+      "cluster": 162,
+      "label": "Machine Learning and Data Mining",
+      "raw": "{\"label\":\"Machine Learning and Data Mining\"}"
+    },
+    {
+      "cluster": 163,
+      "label": "Association Schemes",
+      "raw": "{\"label\":\"Association Schemes\"}"
+    },
+    {
+      "cluster": 164,
+      "label": "cognitive psychology",
+      "raw": "{\"label\":\"cognitive psychology\"}"
+    },
+    {
+      "cluster": 165,
+      "label": "Communication Systems",
+      "raw": "{\"label\":\"Communication Systems\"}"
+    },
+    {
+      "cluster": 166,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 167,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 168,
+      "label": "Graph Algorithms",
+      "raw": "{\"label\":\"Graph Algorithms\"}"
+    },
+    {
+      "cluster": 169,
+      "label": "Multimedia Processing",
+      "raw": "{\"label\":\"Multimedia Processing\"}"
+    },
+    {
+      "cluster": 170,
+      "label": "signal processing",
+      "raw": "{\"label\":\"signal processing\"}"
+    },
+    {
+      "cluster": 171,
+      "label": "Network Anomaly Detection",
+      "raw": "{\"label\":\"Network Anomaly Detection\"}"
+    },
+    {
+      "cluster": 172,
+      "label": "Computer Science - Optimization",
+      "raw": "{\"label\":\"Computer Science - Optimization\"}"
+    },
+    {
+      "cluster": 173,
+      "label": "Machine Learning and Data Analysis",
+      "raw": "{\"label\":\"Machine Learning and Data Analysis\"}"
+    },
+    {
+      "cluster": 174,
+      "label": "Tagged Networks Research",
+      "raw": "{\"label\":\"Tagged Networks Research\"}"
+    },
+    {
+      "cluster": 175,
+      "label": "Multi-Agent Systems",
+      "raw": "{\"label\":\"Multi-Agent Systems\"}"
+    },
+    {
+      "cluster": 176,
+      "label": "Algorithms and Data Structures",
+      "raw": "{\"label\":\"Algorithms and Data Structures\"}"
+    },
+    {
+      "cluster": 177,
+      "label": "signal processing",
+      "raw": "{\"label\":\"signal processing\"}"
+    },
+    {
+      "cluster": 178,
+      "label": "bandit algorithms",
+      "raw": "{\"label\":\"bandit algorithms\"}"
+    },
+    {
+      "cluster": 179,
+      "label": "Information Retrieval",
+      "raw": "{\"label\":\"Information Retrieval\"}"
+    },
+    {
+      "cluster": 180,
+      "label": "Number Theory and Cryptography",
+      "raw": "{\"label\":\"Number Theory and Cryptography\"}"
+    },
+    {
+      "cluster": 181,
+      "label": "Computer Science - Programming and Software Engineering",
+      "raw": "{\"label\":\"Computer Science - Programming and Software Engineering\"}"
+    },
+    {
+      "cluster": 182,
+      "label": "Information Theory and Coding",
+      "raw": "{\"label\":\"Information Theory and Coding\"}"
+    },
+    {
+      "cluster": 183,
+      "label": "Logic and Automated Reasoning",
+      "raw": "{\"label\":\"Logic and Automated Reasoning\"}"
+    },
+    {
+      "cluster": 184,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 185,
+      "label": "Logic and Semantics",
+      "raw": "{\"label\":\"Logic and Semantics\"}"
+    },
+    {
+      "cluster": 186,
+      "label": "Computer Science - Computational Geometry",
+      "raw": "{\"label\":\"Computer Science - Computational Geometry\"}"
+    },
+    {
+      "cluster": 187,
+      "label": "Computer Science - Algorithms and Data Structures",
+      "raw": "{\"label\":\"Computer Science - Algorithms and Data Structures\"}"
+    },
+    {
+      "cluster": 188,
+      "label": "Random Walks and Graph Theory",
+      "raw": "{\"label\":\"Random Walks and Graph Theory\"}"
+    },
+    {
+      "cluster": 189,
+      "label": "neural networks",
+      "raw": "{\"label\":\"neural networks\"}"
+    },
+    {
+      "cluster": 190,
+      "label": "Coding Theory",
+      "raw": "{\"label\":\"Coding Theory\"}"
+    },
+    {
+      "cluster": 191,
+      "label": "Machine Learning",
+      "raw": "{\"label\":\"Machine Learning\"}"
+    },
+    {
+      "cluster": 192,
+      "label": "Graph Theory",
+      "raw": "{\"label\":\"Graph Theory\"}"
+    },
+    {
+      "cluster": 193,
+      "label": "Optimization Algorithms",
+      "raw": "{\"label\":\"Optimization Algorithms\"}"
+    },
+    {
+      "cluster": 194,
+      "label": "Algorithms and Data Structures",
+      "raw": "{\"label\":\"Algorithms and Data Structures\"}"
+    },
+    {
+      "cluster": 195,
+      "label": "Convex Optimization",
+      "raw": "{\"label\":\"Convex Optimization\"}"
+    },
+    {
+      "cluster": 196,
+      "label": "Combinatorial Optimization",
+      "raw": "{\"label\":\"Combinatorial Optimization\"}"
+    },
+    {
+      "cluster": 197,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 198,
+      "label": "Graph Theory",
+      "raw": "{\"label\":\"Graph Theory\"}"
+    },
+    {
+      "cluster": 199,
+      "label": "Natural Language Processing",
+      "raw": "{\"label\":\"Natural Language Processing\"}"
+    },
+    {
+      "cluster": 200,
+      "label": "Computer Vision & Image Processing",
+      "raw": "{\"label\":\"Computer Vision & Image Processing\"}"
+    },
+    {
+      "cluster": 201,
+      "label": "Communication Systems",
+      "raw": "{\"label\":\"Communication Systems\"}"
+    },
+    {
+      "cluster": 202,
+      "label": "Probabilistic Modeling",
+      "raw": "{\"label\":\"Probabilistic Modeling\"}"
+    },
+    {
+      "cluster": 203,
+      "label": "Signal Processing",
+      "raw": "{\"label\":\"Signal Processing\"}"
+    },
+    {
+      "cluster": 204,
+      "label": "Computer Vision and Pattern Recognition",
+      "raw": "{\"label\":\"Computer Vision and Pattern Recognition\"}"
+    },
+    {
+      "cluster": 205,
+      "label": "Computer Science - Artificial Intelligence & Robotics",
+      "raw": "{\"label\":\"Computer Science - Artificial Intelligence & Robotics\"}"
+    },
+    {
+      "cluster": 206,
+      "label": "Algebraic Combinatorics",
+      "raw": "{\"label\":\"Algebraic Combinatorics\"}"
+    },
+    {
+      "cluster": 207,
+      "label": "Probabilistic Graphical Models",
+      "raw": "{\"label\":\"Probabilistic Graphical Models\"}"
+    },
+    {
+      "cluster": 208,
+      "label": "Graph Theory",
+      "raw": "{\"label\":\"Graph Theory\"}"
+    },
+    {
+      "cluster": 209,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 210,
+      "label": "Cryptography",
+      "raw": "{\"label\":\"Cryptography\"}"
+    },
+    {
+      "cluster": 211,
+      "label": "Massive MIMO",
+      "raw": "{\"label\":\"Massive MIMO\"}"
+    },
+    {
+      "cluster": 212,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 213,
+      "label": "Graph Theory",
+      "raw": "{\"label\":\"Graph Theory\"}"
+    },
+    {
+      "cluster": 214,
+      "label": "Coding Theory and Information Theory",
+      "raw": "{\"label\":\"Coding Theory and Information Theory\"}"
+    },
+    {
+      "cluster": 215,
+      "label": "Nutrition Science",
+      "raw": "{\"label\":\"Nutrition Science\"}"
+    },
+    {
+      "cluster": 216,
+      "label": "Natural Language Processing",
+      "raw": "{\"label\":\"Natural Language Processing\"}"
+    },
+    {
+      "cluster": 217,
+      "label": "Combinatorial Optimization",
+      "raw": "{\"label\":\"Combinatorial Optimization\"}"
+    },
+    {
+      "cluster": 218,
+      "label": "Graph Algorithms",
+      "raw": "{\"label\":\"Graph Algorithms\"}"
+    },
+    {
+      "cluster": 219,
+      "label": "Optimization Algorithms",
+      "raw": "{\"label\":\"Optimization Algorithms\"}"
+    },
+    {
+      "cluster": 220,
+      "label": "Software Engineering",
+      "raw": "{\"label\":\"Software Engineering\"}"
+    },
+    {
+      "cluster": 221,
+      "label": "Machine Learning",
+      "raw": "{\"label\":\"Machine Learning\"}"
+    },
+    {
+      "cluster": 222,
+      "label": "Quantum Information Theory",
+      "raw": "{\"label\":\"Quantum Information Theory\"}"
+    },
+    {
+      "cluster": 223,
+      "label": "Signal Processing",
+      "raw": "{\"label\":\"Signal Processing\"}"
+    },
+    {
+      "cluster": 224,
+      "label": "Optimization Algorithms",
+      "raw": "{\"label\":\"Optimization Algorithms\"}"
+    },
+    {
+      "cluster": 225,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 226,
+      "label": "Concurrency and Parallelism",
+      "raw": "{\"label\":\"Concurrency and Parallelism\"}"
+    },
+    {
+      "cluster": 227,
+      "label": "Coding Theory",
+      "raw": "{\"label\":\"Coding Theory\"}"
+    },
+    {
+      "cluster": 228,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 229,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 230,
+      "label": "Algebraic Structures and Models",
+      "raw": "{\"label\":\"Algebraic Structures and Models\"}"
+    },
+    {
+      "cluster": 231,
+      "label": "Communication Systems",
+      "raw": "{\"label\":\"Communication Systems\"}"
+    },
+    {
+      "cluster": 232,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 233,
+      "label": "signal processing",
+      "raw": "{\"label\":\"signal processing\"}"
+    },
+    {
+      "cluster": 234,
+      "label": "public-key cryptography",
+      "raw": "{\"label\":\"public-key cryptography\"}"
+    },
+    {
+      "cluster": 235,
+      "label": "Number Theory and Cryptography",
+      "raw": "{\"label\":\"Number Theory and Cryptography\"}"
+    },
+    {
+      "cluster": 236,
+      "label": "Algebraic Geometry",
+      "raw": "{\"label\":\"Algebraic Geometry\"}"
+    },
+    {
+      "cluster": 237,
+      "label": "Signal Processing",
+      "raw": "{\"label\":\"Signal Processing\"}"
+    },
+    {
+      "cluster": 238,
+      "label": "Computer Science Research Topics",
+      "raw": "{\"label\":\"Computer Science Research Topics\"}"
+    },
+    {
+      "cluster": 239,
+      "label": "Algebraic Topology",
+      "raw": "{\"label\":\"Algebraic Topology\"}"
+    },
+    {
+      "cluster": 240,
+      "label": "Number Theory",
+      "raw": "{\"label\":\"Number Theory\"}"
+    },
+    {
+      "cluster": 241,
+      "label": "coding theory",
+      "raw": "{\"label\":\"coding theory\"}"
+    },
+    {
+      "cluster": 242,
+      "label": "Computer Networks",
+      "raw": "{\"label\":\"Computer Networks\"}"
+    },
+    {
+      "cluster": 243,
+      "label": "Computer Vision",
+      "raw": "{\"label\":\"Computer Vision\"}"
+    },
+    {
+      "cluster": 244,
+      "label": "Game Theory and Control",
+      "raw": "{\"label\":\"Game Theory and Control\"}"
+    },
+    {
+      "cluster": 245,
+      "label": "Machine Learning",
+      "raw": "{\"label\":\"Machine Learning\"}"
+    },
+    {
+      "cluster": 246,
+      "label": "Human-Computer Interaction",
+      "raw": "{\"label\":\"Human-Computer Interaction\"}"
+    },
+    {
+      "cluster": 247,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 248,
+      "label": "Vision and Perception",
+      "raw": "{\"label\":\"Vision and Perception\"}"
+    },
+    {
+      "cluster": 249,
+      "label": "Algorithms and Complexity",
+      "raw": "{\"label\":\"Algorithms and Complexity\"}"
+    },
+    {
+      "cluster": 250,
+      "label": "Computer Architecture",
+      "raw": "{\"label\":\"Computer Architecture\"}"
+    },
+    {
+      "cluster": 251,
+      "label": "signal processing",
+      "raw": "{\"label\":\"signal processing\"}"
+    },
+    {
+      "cluster": 252,
+      "label": "Networks & Communications",
+      "raw": "{\"label\":\"Networks & Communications\"}"
+    },
+    {
+      "cluster": 253,
+      "label": "Graph Coloring and Embedding",
+      "raw": "{\"label\":\"Graph Coloring and Embedding\"}"
+    },
+    {
+      "cluster": 254,
+      "label": "Sparse Learning",
+      "raw": "{\"label\":\"Sparse Learning\"}"
+    },
+    {
+      "cluster": 255,
+      "label": "Computer Vision",
+      "raw": "{\"label\":\"Computer Vision\"}"
+    },
+    {
+      "cluster": 256,
+      "label": "Natural Language Processing",
+      "raw": "{\"label\":\"Natural Language Processing\"}"
+    },
+    {
+      "cluster": 257,
+      "label": "Natural Language Processing (NLP)",
+      "raw": "{\"label\":\"Natural Language Processing (NLP)\"}"
+    },
+    {
+      "cluster": 258,
+      "label": "Animal Training Systems",
+      "raw": "{\"label\":\"Animal Training Systems\"}"
+    },
+    {
+      "cluster": 259,
+      "label": "Formal Methods",
+      "raw": "{\"label\":\"Formal Methods\"}"
+    },
+    {
+      "cluster": 260,
+      "label": "Randomized Algorithms",
+      "raw": "{\"label\":\"Randomized Algorithms\"}"
+    },
+    {
+      "cluster": 261,
+      "label": "Signal Processing",
+      "raw": "{\"label\":\"Signal Processing\"}"
+    },
+    {
+      "cluster": 262,
+      "label": "Probability Theory and Stochastic Processes",
+      "raw": "{\"label\":\"Probability Theory and Stochastic Processes\"}"
+    },
+    {
+      "cluster": 263,
+      "label": "Machine Learning",
+      "raw": "{\"label\":\"Machine Learning\"}"
+    },
+    {
+      "cluster": 264,
+      "label": "Coding Theory",
+      "raw": "{\"label\":\"Coding Theory\"}"
+    },
+    {
+      "cluster": 265,
+      "label": "Algebraic Optimization",
+      "raw": "{\"label\":\"Algebraic Optimization\"}"
+    },
+    {
+      "cluster": 266,
+      "label": "Machine Learning",
+      "raw": "{\"label\":\"Machine Learning\"}"
+    },
+    {
+      "cluster": 267,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 268,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 269,
+      "label": "Network Science",
+      "raw": "{\"label\":\"Network Science\"}"
+    },
+    {
+      "cluster": 270,
+      "label": "network science",
+      "raw": "{\"label\":\"network science\"}"
+    },
+    {
+      "cluster": 271,
+      "label": "Combinatorial Optimization",
+      "raw": "{\"label\":\"Combinatorial Optimization\"}"
+    },
+    {
+      "cluster": 272,
+      "label": "Network Design Games",
+      "raw": "{\"label\":\"Network Design Games\"}"
+    },
+    {
+      "cluster": 273,
+      "label": "Probabilistic Reasoning and Optimization Techniques",
+      "raw": "{\"label\":\"Probabilistic Reasoning and Optimization Techniques\"}"
+    },
+    {
+      "cluster": 274,
+      "label": "signal processing",
+      "raw": "{\"label\":\"signal processing\"}"
+    },
+    {
+      "cluster": 275,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 276,
+      "label": "Computer Science Research Topics",
+      "raw": "{\"label\":\"Computer Science Research Topics\"}"
+    },
+    {
+      "cluster": 277,
+      "label": "signal processing",
+      "raw": "{\"label\":\"signal processing\"}"
+    },
+    {
+      "cluster": 278,
+      "label": "Coding Theory",
+      "raw": "{\"label\":\"Coding Theory\"}"
+    },
+    {
+      "cluster": 279,
+      "label": "Game Theory",
+      "raw": "{\"label\":\"Game Theory\"}"
+    },
+    {
+      "cluster": 280,
+      "label": "Evolutionary Algorithms",
+      "raw": "{\"label\":\"Evolutionary Algorithms\"}"
+    },
+    {
+      "cluster": 281,
+      "label": "Robotics",
+      "raw": "{\"label\":\"Robotics\"}"
+    },
+    {
+      "cluster": 282,
+      "label": "Information Retrieval",
+      "raw": "{\"label\":\"Information Retrieval\"}"
+    },
+    {
+      "cluster": 283,
+      "label": "Antenna Selection and Resource Allocation",
+      "raw": "{\"label\":\"Antenna Selection and Resource Allocation\"}"
+    },
+    {
+      "cluster": 284,
+      "label": "Cloud Computing",
+      "raw": "{\"label\":\"Cloud Computing\"}"
+    },
+    {
+      "cluster": 285,
+      "label": "Artificial Intelligence",
+      "raw": "{\"label\":\"Artificial Intelligence\"}"
+    },
+    {
+      "cluster": 286,
+      "label": "secret-key-agreement-and-communication",
+      "raw": "{\"label\":\"secret-key-agreement-and-communication\"}"
+    },
+    {
+      "cluster": 287,
+      "label": "Network Coding and Routing",
+      "raw": "{\"label\":\"Network Coding and Routing\"}"
+    },
+    {
+      "cluster": 288,
+      "label": "Wireless Communications",
+      "raw": "{\"label\":\"Wireless Communications\"}"
+    },
+    {
+      "cluster": 289,
+      "label": "conference organization",
+      "raw": "{\"label\":\"conference organization\"}"
+    },
+    {
+      "cluster": 290,
+      "label": "Numerical Analysis",
+      "raw": "{\"label\":\"Numerical Analysis\"}"
+    },
+    {
+      "cluster": 291,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 292,
+      "label": "Advertising Algorithms",
+      "raw": "{\"label\":\"Advertising Algorithms\"}"
+    },
+    {
+      "cluster": 293,
+      "label": "Game Theory and Multi-Agent Systems",
+      "raw": "{\"label\":\"Game Theory and Multi-Agent Systems\"}"
+    },
+    {
+      "cluster": 294,
+      "label": "Computability Logic",
+      "raw": "{\"label\":\"Computability Logic\"}"
+    },
+    {
+      "cluster": 295,
+      "label": "Signal Processing",
+      "raw": "{\"label\":\"Signal Processing\"}"
+    },
+    {
+      "cluster": 296,
+      "label": "Probability and Statistics",
+      "raw": "{\"label\":\"Probability and Statistics\"}"
+    },
+    {
+      "cluster": 297,
+      "label": "Control Theory",
+      "raw": "{\"label\":\"Control Theory\"}"
+    },
+    {
+      "cluster": 298,
+      "label": "Algorithms and Complexity",
+      "raw": "{\"label\":\"Algorithms and Complexity\"}"
+    },
+    {
+      "cluster": 299,
+      "label": "social psychology",
+      "raw": "{\"label\":\"social psychology\"}"
+    },
+    {
+      "cluster": 300,
+      "label": "Machine Learning",
+      "raw": "{\"label\":\"Machine Learning\"}"
+    },
+    {
+      "cluster": 301,
+      "label": "Logic Programming",
+      "raw": "{\"label\":\"Logic Programming\"}"
+    },
+    {
+      "cluster": 302,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 303,
+      "label": "Information Retrieval",
+      "raw": "{\"label\":\"Information Retrieval\"}"
+    },
+    {
+      "cluster": 304,
+      "label": "Information Retrieval and Text Mining",
+      "raw": "{\"label\":\"Information Retrieval and Text Mining\"}"
+    },
+    {
+      "cluster": 305,
+      "label": "Combinatorial Algorithms",
+      "raw": "{\"label\":\"Combinatorial Algorithms\"}"
+    },
+    {
+      "cluster": 306,
+      "label": "Machine Learning",
+      "raw": "{\"label\":\"Machine Learning\"}"
+    },
+    {
+      "cluster": 307,
+      "label": "coding theory",
+      "raw": "{\"label\":\"coding theory\"}"
+    },
+    {
+      "cluster": 308,
+      "label": "Network Science",
+      "raw": "{\"label\":\"Network Science\"}"
+    },
+    {
+      "cluster": 309,
+      "label": "Graph Theory",
+      "raw": "{\"label\":\"Graph Theory\"}"
+    },
+    {
+      "cluster": 310,
+      "label": "Graph Theory and Combinatorics",
+      "raw": "{\"label\":\"Graph Theory and Combinatorics\"}"
+    },
+    {
+      "cluster": 311,
+      "label": "Reinforcement Learning",
+      "raw": "{\"label\":\"Reinforcement Learning\"}"
+    },
+    {
+      "cluster": 312,
+      "label": "Natural Language Processing",
+      "raw": "{\"label\":\"Natural Language Processing\"}"
+    },
+    {
+      "cluster": 313,
+      "label": "Graph Theory",
+      "raw": "{\"label\":\"Graph Theory\"}"
+    },
+    {
+      "cluster": 314,
+      "label": "Natural Language Processing",
+      "raw": "{\"label\":\"Natural Language Processing\"}"
+    },
+    {
+      "cluster": 315,
+      "label": "Game Theory and Algorithms",
+      "raw": "{\"label\":\"Game Theory and Algorithms\"}"
+    },
+    {
+      "cluster": 316,
+      "label": "Computer Vision & Image Processing",
+      "raw": "{\"label\":\"Computer Vision & Image Processing\"}"
+    },
+    {
+      "cluster": 317,
+      "label": "Number Theory",
+      "raw": "{\"label\":\"Number Theory\"}"
+    },
+    {
+      "cluster": 318,
+      "label": "Signal Processing and Image Analysis",
+      "raw": "{\"label\":\"Signal Processing and Image Analysis\"}"
+    },
+    {
+      "cluster": 319,
+      "label": "coding theory",
+      "raw": "{\"label\":\"coding theory\"}"
+    },
+    {
+      "cluster": 320,
+      "label": "Formal Languages and Automata Theory",
+      "raw": "{\"label\":\"Formal Languages and Automata Theory\"}"
+    },
+    {
+      "cluster": 321,
+      "label": "Information Retrieval",
+      "raw": "{\"label\":\"Information Retrieval\"}"
+    },
+    {
+      "cluster": 322,
+      "label": "Performance Analysis",
+      "raw": "{\"label\":\"Performance Analysis\"}"
+    },
+    {
+      "cluster": 323,
+      "label": "Combinatorics and Discrete Mathematics",
+      "raw": "{\"label\":\"Combinatorics and Discrete Mathematics\"}"
+    },
+    {
+      "cluster": 324,
+      "label": "Coding Theory",
+      "raw": "{\"label\":\"Coding Theory\"}"
+    },
+    {
+      "cluster": 325,
+      "label": "Quantum Computing",
+      "raw": "{\"label\":\"Quantum Computing\"}"
+    },
+    {
+      "cluster": 326,
+      "label": "Computer Vision and Image Processing",
+      "raw": "{\"label\":\"Computer Vision and Image Processing\"}"
+    },
+    {
+      "cluster": 327,
+      "label": "citation analysis",
+      "raw": "{\"label\":\"citation analysis\"}"
+    }
+  ],
+  "decisions": [
+    {
+      "cluster": 0,
+      "label": "signal processing",
+      "canonical_label": "signal processing",
+      "raw": "first label"
+    },
+    {
+      "cluster": 1,
+      "label": "Open Access (OA) Research",
+      "canonical_label": "Open Access (OA) Research",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 2,
+      "label": "Channel Coding and Decoding",
+      "canonical_label": "Channel Coding and Decoding",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 3,
+      "label": "Programming Languages and Formal Methods",
+      "canonical_label": "Programming Languages and Formal Methods",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 4,
+      "label": "Game Theory",
+      "canonical_label": "Game Theory",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 5,
+      "label": "Coding Theory",
+      "canonical_label": "Coding Theory",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 6,
+      "label": "Cryptography & Security",
+      "canonical_label": "Cryptography & Security",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 7,
+      "label": "Machine Learning",
+      "canonical_label": "Machine Learning",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 8,
+      "label": "Medical Imaging and Healthcare Informatics",
+      "canonical_label": "Medical Imaging and Healthcare Informatics",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 9,
+      "label": "Coding Theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 10,
+      "label": "Information Retrieval",
+      "canonical_label": "Information Retrieval",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 11,
+      "label": "Computational Complexity",
+      "canonical_label": "Computational Complexity",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 12,
+      "label": "Control Systems Engineering",
+      "canonical_label": "Control Systems Engineering",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 13,
+      "label": "Quantum Communication and Complexity",
+      "canonical_label": "Quantum Communication and Complexity",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 14,
+      "label": "Graph Algorithms and Parameterized Complexity",
+      "canonical_label": "Graph Algorithms and Parameterized Complexity",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 15,
+      "label": "Complex Networks",
+      "canonical_label": "Complex Networks",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 16,
+      "label": "semi-supervised machine learning",
+      "canonical_label": "semi-supervised machine learning",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 17,
+      "label": "coding theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 18,
+      "label": "Human-Computer Interaction",
+      "canonical_label": "Human-Computer Interaction",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 19,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 20,
+      "label": "Game Theory and Mechanism Design",
+      "canonical_label": "Game Theory",
+      "raw": "{\"duplicate_of\": 4}"
+    },
+    {
+      "cluster": 21,
+      "label": "Automata Theory",
+      "canonical_label": "Automata Theory",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 22,
+      "label": "Social Network Analysis (SNA)",
+      "canonical_label": "Social Network Analysis (SNA)",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 23,
+      "label": "lambda calculus and its applications in computational theory",
+      "canonical_label": "lambda calculus and its applications in computational theory",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 24,
+      "label": "Natural Language Processing",
+      "canonical_label": "Natural Language Processing",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 25,
+      "label": "Channel Coding & Decoding",
+      "canonical_label": "Channel Coding and Decoding",
+      "raw": "{\"duplicate_of\": 2}"
+    },
+    {
+      "cluster": 26,
+      "label": "Network Bandwidth Estimation",
+      "canonical_label": "Network Bandwidth Estimation",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 27,
+      "label": "Coding Theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 28,
+      "label": "computational geometry",
+      "canonical_label": "computational geometry",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 29,
+      "label": "Machine Learning",
+      "canonical_label": "Machine Learning",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 30,
+      "label": "Computer Science - Computer Graphics & Multimedia Applications",
+      "canonical_label": "Computer Science - Computer Graphics & Multimedia Applications",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 31,
+      "label": "Discrete Optimization",
+      "canonical_label": "Discrete Optimization",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 32,
+      "label": "Queueing Theory",
+      "canonical_label": "Queueing Theory",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 33,
+      "label": "Hypergraph Theory",
+      "canonical_label": "Hypergraph Theory",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 34,
+      "label": "Graph Theory",
+      "canonical_label": "Graph Theory",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 35,
+      "label": "space exploration",
+      "canonical_label": "space exploration",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 36,
+      "label": "Quantum Algorithms and Complexity",
+      "canonical_label": "Quantum Communication and Complexity",
+      "raw": "{\"duplicate_of\": 12}"
+    },
+    {
+      "cluster": 37,
+      "label": "Coding Theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 38,
+      "label": "optimization algorithms",
+      "canonical_label": "optimization algorithms",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 39,
+      "label": "coding theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 40,
+      "label": "Graph Theory",
+      "canonical_label": "Graph Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 41,
+      "label": "Algorithms and Data Structures",
+      "canonical_label": "Algorithms and Data Structures",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 42,
+      "label": "Graph Theory",
+      "canonical_label": "Graph Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 43,
+      "label": "Coding Theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 44,
+      "label": "Statistical Signal Processing",
+      "canonical_label": "signal processing",
+      "raw": "{\"duplicate_of\": 0}"
+    },
+    {
+      "cluster": 45,
+      "label": "Ramsey Theory",
+      "canonical_label": "Ramsey Theory",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 46,
+      "label": "Combinatorics",
+      "canonical_label": "Combinatorics",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 47,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 48,
+      "label": "Wireless Communication",
+      "canonical_label": "Wireless Communication",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 49,
+      "label": "Community Detection Algorithms",
+      "canonical_label": "Community Detection Algorithms",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 50,
+      "label": "Complexity Theory",
+      "canonical_label": "Computational Complexity",
+      "raw": "{\"duplicate_of\": 10}"
+    },
+    {
+      "cluster": 51,
+      "label": "Sampling Theory",
+      "canonical_label": "Sampling Theory",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 52,
+      "label": "Formal Methods",
+      "canonical_label": "Formal Methods",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 53,
+      "label": "Game Theory and Economic Behavior",
+      "canonical_label": "Game Theory",
+      "raw": "{\"duplicate_of\": 4}"
+    },
+    {
+      "cluster": 54,
+      "label": "Machine Learning & Data Mining",
+      "canonical_label": "Machine Learning & Data Mining",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 55,
+      "label": "Graph Algorithms",
+      "canonical_label": "Graph Algorithms",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 56,
+      "label": "Computer Vision and Image Analysis",
+      "canonical_label": "Computer Vision and Image Analysis",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 57,
+      "label": "cloud computing",
+      "canonical_label": "cloud computing",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 58,
+      "label": "Signal Processing",
+      "canonical_label": "signal processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 59,
+      "label": "signal processing",
+      "canonical_label": "signal processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 60,
+      "label": "Signal Processing",
+      "canonical_label": "signal processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 61,
+      "label": "Information Theory and Coding",
+      "canonical_label": "Information Theory",
+      "raw": "{\"duplicate_of\": 17}"
+    },
+    {
+      "cluster": 62,
+      "label": "Graph Theory",
+      "canonical_label": "Graph Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 63,
+      "label": "Machine Learning",
+      "canonical_label": "Machine Learning",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 64,
+      "label": "Communication Systems",
+      "canonical_label": "Communication Systems",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 65,
+      "label": "Algorithms",
+      "canonical_label": "Algorithms",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 66,
+      "label": "Network Analysis and Graph Theory",
+      "canonical_label": "Graph Theory",
+      "raw": "{\"duplicate_of\": 28}"
+    },
+    {
+      "cluster": 67,
+      "label": "Wireless Sensor Networks",
+      "canonical_label": "Wireless Sensor Networks",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 68,
+      "label": "Natural Language Processing",
+      "canonical_label": "Natural Language Processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 69,
+      "label": "Machine Learning",
+      "canonical_label": "Machine Learning",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 70,
+      "label": "Control Theory",
+      "canonical_label": "Control Theory",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 71,
+      "label": "Database Systems",
+      "canonical_label": "Database Systems",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 72,
+      "label": "Graph Theory",
+      "canonical_label": "Graph Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 73,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 74,
+      "label": "Complexity Theory",
+      "canonical_label": "Computational Complexity",
+      "raw": "{\"duplicate_of\": 10}"
+    },
+    {
+      "cluster": 75,
+      "label": "Graph Theory",
+      "canonical_label": "Graph Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 76,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 77,
+      "label": "Coding Theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 78,
+      "label": "Statistics and Machine Learning",
+      "canonical_label": "Statistics and Machine Learning",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 79,
+      "label": "Numerical Analysis",
+      "canonical_label": "Numerical Analysis",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 80,
+      "label": "System Identification",
+      "canonical_label": "System Identification",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 81,
+      "label": "Type Theory and Formal Methods",
+      "canonical_label": "Type Theory and Formal Methods",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 82,
+      "label": "automata theory",
+      "canonical_label": "Automata Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 83,
+      "label": "Computer Vision",
+      "canonical_label": "Computer Vision and Image Analysis",
+      "raw": "{\"duplicate_of\": 40}"
+    },
+    {
+      "cluster": 84,
+      "label": "Time Series Analysis",
+      "canonical_label": "Time Series Analysis",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 85,
+      "label": "Parallel Computing",
+      "canonical_label": "Parallel Computing",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 86,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 87,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 88,
+      "label": "computational modeling and simulation",
+      "canonical_label": "computational modeling and simulation",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 89,
+      "label": "Probabilistic Models and Approximation Algorithms",
+      "canonical_label": "Probabilistic Models and Approximation Algorithms",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 90,
+      "label": "Combinatorics",
+      "canonical_label": "Combinatorics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 91,
+      "label": "Decision Making and Optimization",
+      "canonical_label": "Decision Making and Optimization",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 92,
+      "label": "Quantum Error Correction",
+      "canonical_label": "Quantum Error Correction",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 93,
+      "label": "Coding Theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 94,
+      "label": "Web Accessibility Research",
+      "canonical_label": "Web Accessibility Research",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 95,
+      "label": "Human-Computer Interaction",
+      "canonical_label": "Human-Computer Interaction",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 96,
+      "label": "Computer Vision",
+      "canonical_label": "Computer Vision and Image Analysis",
+      "raw": "{\"duplicate_of\": 40}"
+    },
+    {
+      "cluster": 97,
+      "label": "Probabilistic Models and Uncertainty Quantification",
+      "canonical_label": "Probabilistic Models and Uncertainty Quantification",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 98,
+      "label": "signal processing",
+      "canonical_label": "signal processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 99,
+      "label": "coding theory and information theory",
+      "canonical_label": "Information Theory",
+      "raw": "{\"duplicate_of\": 17}"
+    },
+    {
+      "cluster": 100,
+      "label": "Recommendation Systems",
+      "canonical_label": "Recommendation Systems",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 101,
+      "label": "data stream processing",
+      "canonical_label": "data stream processing",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 102,
+      "label": "Image Processing and Computer Vision",
+      "canonical_label": "Computer Vision and Image Analysis",
+      "raw": "{\"duplicate_of\": 40}"
+    },
+    {
+      "cluster": 103,
+      "label": "Computer Science - Algorithms and Data Structures",
+      "canonical_label": "Algorithms and Data Structures",
+      "raw": "{\"duplicate_of\": 31}"
+    },
+    {
+      "cluster": 104,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 105,
+      "label": "Graph Theory and Algorithms",
+      "canonical_label": "Graph Algorithms",
+      "raw": "{\"duplicate_of\": 39}"
+    },
+    {
+      "cluster": 106,
+      "label": "Machine Learning",
+      "canonical_label": "Machine Learning",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 107,
+      "label": "Natural Language Processing",
+      "canonical_label": "Natural Language Processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 108,
+      "label": "Algorithms",
+      "canonical_label": "Algorithms",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 109,
+      "label": "Computer Vision & Image Processing",
+      "canonical_label": "Computer Vision and Image Analysis",
+      "raw": "{\"duplicate_of\": 40}"
+    },
+    {
+      "cluster": 110,
+      "label": "Software Engineering",
+      "canonical_label": "Software Engineering",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 111,
+      "label": "coding theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 112,
+      "label": "Signal Processing",
+      "canonical_label": "signal processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 113,
+      "label": "Machine Learning",
+      "canonical_label": "Machine Learning",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 114,
+      "label": "Machine Learning",
+      "canonical_label": "Machine Learning",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 115,
+      "label": "Network Coding",
+      "canonical_label": "Network Coding",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 116,
+      "label": "Communication Networks",
+      "canonical_label": "Communication Networks",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 117,
+      "label": "Bioinformatics",
+      "canonical_label": "Bioinformatics",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 118,
+      "label": "Information Theory and Coding",
+      "canonical_label": "Information Theory",
+      "raw": "{\"duplicate_of\": 17}"
+    },
+    {
+      "cluster": 119,
+      "label": "Statistical Physics",
+      "canonical_label": "Statistical Physics",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 120,
+      "label": "Signal Processing",
+      "canonical_label": "signal processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 121,
+      "label": "Filter Banks and Wavelets",
+      "canonical_label": "Filter Banks and Wavelets",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 122,
+      "label": "Graph Theory",
+      "canonical_label": "Graph Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 123,
+      "label": "MIMO Channel Estimation and Compressive Sensing",
+      "canonical_label": "MIMO Channel Estimation and Compressive Sensing",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 124,
+      "label": "complexity theory",
+      "canonical_label": "Computational Complexity",
+      "raw": "{\"duplicate_of\": 10}"
+    },
+    {
+      "cluster": 125,
+      "label": "cryptography",
+      "canonical_label": "Cryptography & Security",
+      "raw": "{\"duplicate_of\": 6}"
+    },
+    {
+      "cluster": 126,
+      "label": "Cognitive Radio Networks",
+      "canonical_label": "Cognitive Radio Networks",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 127,
+      "label": "Signal Processing",
+      "canonical_label": "signal processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 128,
+      "label": "Statistical Signal Processing",
+      "canonical_label": "signal processing",
+      "raw": "{\"duplicate_of\": 0}"
+    },
+    {
+      "cluster": 129,
+      "label": "Optimization Algorithms in Neural Networks",
+      "canonical_label": "Optimization Algorithms in Neural Networks",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 130,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 131,
+      "label": "Machine Learning",
+      "canonical_label": "Machine Learning",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 132,
+      "label": "Probability Theory and Stochastic Processes",
+      "canonical_label": "Probability Theory and Stochastic Processes",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 133,
+      "label": "Signal Processing and Communications",
+      "canonical_label": "signal processing",
+      "raw": "{\"duplicate_of\": 0}"
+    },
+    {
+      "cluster": 134,
+      "label": "Network Aggregation Algorithms",
+      "canonical_label": "Network Aggregation Algorithms",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 135,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 136,
+      "label": "Network Science",
+      "canonical_label": "Network Science",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 137,
+      "label": "Linear Programming and Compressed Sensing",
+      "canonical_label": "Linear Programming and Compressed Sensing",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 138,
+      "label": "Graph Theory",
+      "canonical_label": "Graph Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 139,
+      "label": "Political Science",
+      "canonical_label": "Political Science",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 140,
+      "label": "Algorithms and Data Structures",
+      "canonical_label": "Algorithms and Data Structures",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 141,
+      "label": "Operating Systems",
+      "canonical_label": "Operating Systems",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 142,
+      "label": "Computer Vision and Machine Learning",
+      "canonical_label": "Computer Vision and Machine Learning",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 143,
+      "label": "Machine Learning",
+      "canonical_label": "Machine Learning",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 144,
+      "label": "signal processing",
+      "canonical_label": "signal processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 145,
+      "label": "Electrophysiology and Brain-Computer Interfaces",
+      "canonical_label": "Electrophysiology and Brain-Computer Interfaces",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 146,
+      "label": "Probability Theory and Statistics",
+      "canonical_label": "Probability Theory and Statistics",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 147,
+      "label": "Game Theory",
+      "canonical_label": "Game Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 148,
+      "label": "coding theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 149,
+      "label": "Error Correction Codes",
+      "canonical_label": "Error Correction Codes",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 150,
+      "label": "Graph Theory",
+      "canonical_label": "Graph Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 151,
+      "label": "Formal Languages and Automata Theory",
+      "canonical_label": "Formal Languages and Automata Theory",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 152,
+      "label": "Game Theory and Algorithmic Game Theory",
+      "canonical_label": "Game Theory",
+      "raw": "{\"duplicate_of\": 4}"
+    },
+    {
+      "cluster": 153,
+      "label": "Machine Learning",
+      "canonical_label": "Machine Learning",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 154,
+      "label": "Signal Processing",
+      "canonical_label": "signal processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 155,
+      "label": "Coding Theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 156,
+      "label": "Graph Theory",
+      "canonical_label": "Graph Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 157,
+      "label": "Computer Science - Algorithms and Data Structures",
+      "canonical_label": "Algorithms and Data Structures",
+      "raw": "{\"duplicate_of\": 31}"
+    },
+    {
+      "cluster": 158,
+      "label": "Security and Privacy in Distributed Systems",
+      "canonical_label": "Security and Privacy in Distributed Systems",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 159,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 160,
+      "label": "Algorithm Design and Analysis",
+      "canonical_label": "Algorithm Design and Analysis",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 161,
+      "label": "Fluid Dynamics",
+      "canonical_label": "Fluid Dynamics",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 162,
+      "label": "Machine Learning and Data Mining",
+      "canonical_label": "Machine Learning & Data Mining",
+      "raw": "{\"duplicate_of\": 38}"
+    },
+    {
+      "cluster": 163,
+      "label": "Association Schemes",
+      "canonical_label": "Association Schemes",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 164,
+      "label": "cognitive psychology",
+      "canonical_label": "cognitive psychology",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 165,
+      "label": "Communication Systems",
+      "canonical_label": "Communication Systems",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 166,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 167,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 168,
+      "label": "Graph Algorithms",
+      "canonical_label": "Graph Algorithms",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 169,
+      "label": "Multimedia Processing",
+      "canonical_label": "Multimedia Processing",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 170,
+      "label": "signal processing",
+      "canonical_label": "signal processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 171,
+      "label": "Network Anomaly Detection",
+      "canonical_label": "Network Anomaly Detection",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 172,
+      "label": "Computer Science - Optimization",
+      "canonical_label": "Computer Science - Optimization",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 173,
+      "label": "Machine Learning and Data Analysis",
+      "canonical_label": "Machine Learning & Data Mining",
+      "raw": "{\"duplicate_of\": 38}"
+    },
+    {
+      "cluster": 174,
+      "label": "Tagged Networks Research",
+      "canonical_label": "Tagged Networks Research",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 175,
+      "label": "Multi-Agent Systems",
+      "canonical_label": "Multi-Agent Systems",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 176,
+      "label": "Algorithms and Data Structures",
+      "canonical_label": "Algorithms and Data Structures",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 177,
+      "label": "signal processing",
+      "canonical_label": "signal processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 178,
+      "label": "bandit algorithms",
+      "canonical_label": "bandit algorithms",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 179,
+      "label": "Information Retrieval",
+      "canonical_label": "Information Retrieval",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 180,
+      "label": "Number Theory and Cryptography",
+      "canonical_label": "Number Theory and Cryptography",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 181,
+      "label": "Computer Science - Programming and Software Engineering",
+      "canonical_label": "Computer Science - Programming and Software Engineering",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 182,
+      "label": "Information Theory and Coding",
+      "canonical_label": "Information Theory",
+      "raw": "{\"duplicate_of\": 17}"
+    },
+    {
+      "cluster": 183,
+      "label": "Logic and Automated Reasoning",
+      "canonical_label": "Logic and Automated Reasoning",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 184,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 185,
+      "label": "Logic and Semantics",
+      "canonical_label": "Logic and Semantics",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 186,
+      "label": "Computer Science - Computational Geometry",
+      "canonical_label": "computational geometry",
+      "raw": "{\"duplicate_of\": 23}"
+    },
+    {
+      "cluster": 187,
+      "label": "Computer Science - Algorithms and Data Structures",
+      "canonical_label": "Algorithms and Data Structures",
+      "raw": "{\"duplicate_of\": 31}"
+    },
+    {
+      "cluster": 188,
+      "label": "Random Walks and Graph Theory",
+      "canonical_label": "Random Walks and Graph Theory",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 189,
+      "label": "neural networks",
+      "canonical_label": "neural networks",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 190,
+      "label": "Coding Theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 191,
+      "label": "Machine Learning",
+      "canonical_label": "Machine Learning",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 192,
+      "label": "Graph Theory",
+      "canonical_label": "Graph Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 193,
+      "label": "Optimization Algorithms",
+      "canonical_label": "optimization algorithms",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 194,
+      "label": "Algorithms and Data Structures",
+      "canonical_label": "Algorithms and Data Structures",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 195,
+      "label": "Convex Optimization",
+      "canonical_label": "Convex Optimization",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 196,
+      "label": "Combinatorial Optimization",
+      "canonical_label": "Combinatorial Optimization",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 197,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 198,
+      "label": "Graph Theory",
+      "canonical_label": "Graph Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 199,
+      "label": "Natural Language Processing",
+      "canonical_label": "Natural Language Processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 200,
+      "label": "Computer Vision & Image Processing",
+      "canonical_label": "Computer Vision and Image Analysis",
+      "raw": "{\"duplicate_of\": 40}"
+    },
+    {
+      "cluster": 201,
+      "label": "Communication Systems",
+      "canonical_label": "Communication Systems",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 202,
+      "label": "Probabilistic Modeling",
+      "canonical_label": "Probabilistic Models and Approximation Algorithms",
+      "raw": "{\"duplicate_of\": 54}"
+    },
+    {
+      "cluster": 203,
+      "label": "Signal Processing",
+      "canonical_label": "signal processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 204,
+      "label": "Computer Vision and Pattern Recognition",
+      "canonical_label": "Computer Vision and Image Analysis",
+      "raw": "{\"duplicate_of\": 40}"
+    },
+    {
+      "cluster": 205,
+      "label": "Computer Science - Artificial Intelligence & Robotics",
+      "canonical_label": "Computer Science - Artificial Intelligence & Robotics",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 206,
+      "label": "Algebraic Combinatorics",
+      "canonical_label": "Algebraic Combinatorics",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 207,
+      "label": "Probabilistic Graphical Models",
+      "canonical_label": "Probabilistic Graphical Models",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 208,
+      "label": "Graph Theory",
+      "canonical_label": "Graph Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 209,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 210,
+      "label": "Cryptography",
+      "canonical_label": "Cryptography & Security",
+      "raw": "{\"duplicate_of\": 6}"
+    },
+    {
+      "cluster": 211,
+      "label": "Massive MIMO",
+      "canonical_label": "Massive MIMO",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 212,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 213,
+      "label": "Graph Theory",
+      "canonical_label": "Graph Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 214,
+      "label": "Coding Theory and Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "{\"duplicate_of\": 17}"
+    },
+    {
+      "cluster": 215,
+      "label": "Nutrition Science",
+      "canonical_label": "Nutrition Science",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 216,
+      "label": "Natural Language Processing",
+      "canonical_label": "Natural Language Processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 217,
+      "label": "Combinatorial Optimization",
+      "canonical_label": "Combinatorial Optimization",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 218,
+      "label": "Graph Algorithms",
+      "canonical_label": "Graph Algorithms",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 219,
+      "label": "Optimization Algorithms",
+      "canonical_label": "optimization algorithms",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 220,
+      "label": "Software Engineering",
+      "canonical_label": "Software Engineering",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 221,
+      "label": "Machine Learning",
+      "canonical_label": "Machine Learning",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 222,
+      "label": "Quantum Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "{\"duplicate_of\": 17}"
+    },
+    {
+      "cluster": 223,
+      "label": "Signal Processing",
+      "canonical_label": "signal processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 224,
+      "label": "Optimization Algorithms",
+      "canonical_label": "optimization algorithms",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 225,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 226,
+      "label": "Concurrency and Parallelism",
+      "canonical_label": "Concurrency and Parallelism",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 227,
+      "label": "Coding Theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 228,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 229,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 230,
+      "label": "Algebraic Structures and Models",
+      "canonical_label": "Algebraic Structures and Models",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 231,
+      "label": "Communication Systems",
+      "canonical_label": "Communication Systems",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 232,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 233,
+      "label": "signal processing",
+      "canonical_label": "signal processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 234,
+      "label": "public-key cryptography",
+      "canonical_label": "public-key cryptography",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 235,
+      "label": "Number Theory and Cryptography",
+      "canonical_label": "Number Theory and Cryptography",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 236,
+      "label": "Algebraic Geometry",
+      "canonical_label": "Algebraic Geometry",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 237,
+      "label": "Signal Processing",
+      "canonical_label": "signal processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 238,
+      "label": "Computer Science Research Topics",
+      "canonical_label": "Computer Science Research Topics",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 239,
+      "label": "Algebraic Topology",
+      "canonical_label": "Algebraic Topology",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 240,
+      "label": "Number Theory",
+      "canonical_label": "Number Theory",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 241,
+      "label": "coding theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 242,
+      "label": "Computer Networks",
+      "canonical_label": "Communication Networks",
+      "raw": "{\"duplicate_of\": 63}"
+    },
+    {
+      "cluster": 243,
+      "label": "Computer Vision",
+      "canonical_label": "Computer Vision and Machine Learning",
+      "raw": "{\"duplicate_of\": 76}"
+    },
+    {
+      "cluster": 244,
+      "label": "Game Theory and Control",
+      "canonical_label": "Game Theory",
+      "raw": "{\"duplicate_of\": 4}"
+    },
+    {
+      "cluster": 245,
+      "label": "Machine Learning",
+      "canonical_label": "Machine Learning",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 246,
+      "label": "Human-Computer Interaction",
+      "canonical_label": "Human-Computer Interaction",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 247,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 248,
+      "label": "Vision and Perception",
+      "canonical_label": "Vision and Perception",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 249,
+      "label": "Algorithms and Complexity",
+      "canonical_label": "Algorithms",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 250,
+      "label": "Computer Architecture",
+      "canonical_label": "Computer Architecture",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 251,
+      "label": "signal processing",
+      "canonical_label": "signal processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 252,
+      "label": "Networks & Communications",
+      "canonical_label": "Networks & Communications",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 253,
+      "label": "Graph Coloring and Embedding",
+      "canonical_label": "Graph Coloring and Embedding",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 254,
+      "label": "Sparse Learning",
+      "canonical_label": "Sparse Learning",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 255,
+      "label": "Computer Vision",
+      "canonical_label": "Computer Vision and Machine Learning",
+      "raw": "{\"duplicate_of\": 76}"
+    },
+    {
+      "cluster": 256,
+      "label": "Natural Language Processing",
+      "canonical_label": "Natural Language Processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 257,
+      "label": "Natural Language Processing (NLP)",
+      "canonical_label": "Natural Language Processing",
+      "raw": "{\"duplicate_of\": 21}"
+    },
+    {
+      "cluster": 258,
+      "label": "Animal Training Systems",
+      "canonical_label": "Animal Training Systems",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 259,
+      "label": "Formal Methods",
+      "canonical_label": "Formal Methods",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 260,
+      "label": "Randomized Algorithms",
+      "canonical_label": "Randomized Algorithms",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 261,
+      "label": "Signal Processing",
+      "canonical_label": "signal processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 262,
+      "label": "Probability Theory and Stochastic Processes",
+      "canonical_label": "Probability Theory and Stochastic Processes",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 263,
+      "label": "Machine Learning",
+      "canonical_label": "Machine Learning",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 264,
+      "label": "Coding Theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 265,
+      "label": "Algebraic Optimization",
+      "canonical_label": "Algebraic Optimization",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 266,
+      "label": "Machine Learning",
+      "canonical_label": "Machine Learning",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 267,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 268,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 269,
+      "label": "Network Science",
+      "canonical_label": "Network Science",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 270,
+      "label": "network science",
+      "canonical_label": "Network Science",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 271,
+      "label": "Combinatorial Optimization",
+      "canonical_label": "Combinatorial Optimization",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 272,
+      "label": "Network Design Games",
+      "canonical_label": "Network Design Games",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 273,
+      "label": "Probabilistic Reasoning and Optimization Techniques",
+      "canonical_label": "Probabilistic Reasoning and Optimization Techniques",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 274,
+      "label": "signal processing",
+      "canonical_label": "signal processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 275,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 276,
+      "label": "Computer Science Research Topics",
+      "canonical_label": "Computer Science Research Topics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 277,
+      "label": "signal processing",
+      "canonical_label": "signal processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 278,
+      "label": "Coding Theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 279,
+      "label": "Game Theory",
+      "canonical_label": "Game Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 280,
+      "label": "Evolutionary Algorithms",
+      "canonical_label": "Evolutionary Algorithms",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 281,
+      "label": "Robotics",
+      "canonical_label": "Robotics",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 282,
+      "label": "Information Retrieval",
+      "canonical_label": "Information Retrieval",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 283,
+      "label": "Antenna Selection and Resource Allocation",
+      "canonical_label": "Antenna Selection and Resource Allocation",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 284,
+      "label": "Cloud Computing",
+      "canonical_label": "cloud computing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 285,
+      "label": "Artificial Intelligence",
+      "canonical_label": "Artificial Intelligence",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 286,
+      "label": "secret-key-agreement-and-communication",
+      "canonical_label": "secret-key-agreement-and-communication",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 287,
+      "label": "Network Coding and Routing",
+      "canonical_label": "Network Coding",
+      "raw": "{\"duplicate_of\": 62}"
+    },
+    {
+      "cluster": 288,
+      "label": "Wireless Communications",
+      "canonical_label": "Wireless Communication",
+      "raw": "{\"duplicate_of\": 34}"
+    },
+    {
+      "cluster": 289,
+      "label": "conference organization",
+      "canonical_label": "conference organization",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 290,
+      "label": "Numerical Analysis",
+      "canonical_label": "Numerical Analysis",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 291,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 292,
+      "label": "Advertising Algorithms",
+      "canonical_label": "Advertising Algorithms",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 293,
+      "label": "Game Theory and Multi-Agent Systems",
+      "canonical_label": "Multi-Agent Systems",
+      "raw": "{\"duplicate_of\": 90}"
+    },
+    {
+      "cluster": 294,
+      "label": "Computability Logic",
+      "canonical_label": "Computability Logic",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 295,
+      "label": "Signal Processing",
+      "canonical_label": "signal processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 296,
+      "label": "Probability and Statistics",
+      "canonical_label": "Probability Theory and Statistics",
+      "raw": "{\"duplicate_of\": 78}"
+    },
+    {
+      "cluster": 297,
+      "label": "Control Theory",
+      "canonical_label": "Control Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 298,
+      "label": "Algorithms and Complexity",
+      "canonical_label": "Algorithms",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 299,
+      "label": "social psychology",
+      "canonical_label": "social psychology",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 300,
+      "label": "Machine Learning",
+      "canonical_label": "Machine Learning",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 301,
+      "label": "Logic Programming",
+      "canonical_label": "Logic Programming",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 302,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 303,
+      "label": "Information Retrieval",
+      "canonical_label": "Information Retrieval",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 304,
+      "label": "Information Retrieval and Text Mining",
+      "canonical_label": "Information Retrieval and Text Mining",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 305,
+      "label": "Combinatorial Algorithms",
+      "canonical_label": "Combinatorial Optimization",
+      "raw": "{\"duplicate_of\": 99}"
+    },
+    {
+      "cluster": 306,
+      "label": "Machine Learning",
+      "canonical_label": "Machine Learning",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 307,
+      "label": "coding theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 308,
+      "label": "Network Science",
+      "canonical_label": "Network Science",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 309,
+      "label": "Graph Theory",
+      "canonical_label": "Graph Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 310,
+      "label": "Graph Theory and Combinatorics",
+      "canonical_label": "Graph Theory",
+      "raw": "{\"duplicate_of\": 28}"
+    },
+    {
+      "cluster": 311,
+      "label": "Reinforcement Learning",
+      "canonical_label": "Reinforcement Learning",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 312,
+      "label": "Natural Language Processing",
+      "canonical_label": "Natural Language Processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 313,
+      "label": "Graph Theory",
+      "canonical_label": "Graph Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 314,
+      "label": "Natural Language Processing",
+      "canonical_label": "Natural Language Processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 315,
+      "label": "Game Theory and Algorithms",
+      "canonical_label": "Game Theory",
+      "raw": "{\"duplicate_of\": 4}"
+    },
+    {
+      "cluster": 316,
+      "label": "Computer Vision & Image Processing",
+      "canonical_label": "Computer Vision and Image Analysis",
+      "raw": "{\"duplicate_of\": 40}"
+    },
+    {
+      "cluster": 317,
+      "label": "Number Theory",
+      "canonical_label": "Number Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 318,
+      "label": "Signal Processing and Image Analysis",
+      "canonical_label": "Signal Processing and Image Analysis",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 319,
+      "label": "coding theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 320,
+      "label": "Formal Languages and Automata Theory",
+      "canonical_label": "Formal Languages and Automata Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 321,
+      "label": "Information Retrieval",
+      "canonical_label": "Information Retrieval",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 322,
+      "label": "Performance Analysis",
+      "canonical_label": "Performance Analysis",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 323,
+      "label": "Combinatorics and Discrete Mathematics",
+      "canonical_label": "Combinatorics",
+      "raw": "{\"duplicate_of\": 33}"
+    },
+    {
+      "cluster": 324,
+      "label": "Coding Theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 325,
+      "label": "Quantum Computing",
+      "canonical_label": "Quantum Computing",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 326,
+      "label": "Computer Vision and Image Processing",
+      "canonical_label": "Computer Vision and Image Analysis",
+      "raw": "{\"duplicate_of\": 40}"
+    },
+    {
+      "cluster": 327,
+      "label": "citation analysis",
+      "canonical_label": "citation analysis",
+      "raw": "no semantic candidate above author .80 lower bound"
+    }
+  ],
+  "kept": [
+    "signal processing",
+    "Open Access (OA) Research",
+    "Channel Coding and Decoding",
+    "Programming Languages and Formal Methods",
+    "Game Theory",
+    "Coding Theory",
+    "Cryptography & Security",
+    "Machine Learning",
+    "Medical Imaging and Healthcare Informatics",
+    "Information Retrieval",
+    "Computational Complexity",
+    "Control Systems Engineering",
+    "Quantum Communication and Complexity",
+    "Graph Algorithms and Parameterized Complexity",
+    "Complex Networks",
+    "semi-supervised machine learning",
+    "Human-Computer Interaction",
+    "Information Theory",
+    "Automata Theory",
+    "Social Network Analysis (SNA)",
+    "lambda calculus and its applications in computational theory",
+    "Natural Language Processing",
+    "Network Bandwidth Estimation",
+    "computational geometry",
+    "Computer Science - Computer Graphics & Multimedia Applications",
+    "Discrete Optimization",
+    "Queueing Theory",
+    "Hypergraph Theory",
+    "Graph Theory",
+    "space exploration",
+    "optimization algorithms",
+    "Algorithms and Data Structures",
+    "Ramsey Theory",
+    "Combinatorics",
+    "Wireless Communication",
+    "Community Detection Algorithms",
+    "Sampling Theory",
+    "Formal Methods",
+    "Machine Learning & Data Mining",
+    "Graph Algorithms",
+    "Computer Vision and Image Analysis",
+    "cloud computing",
+    "Communication Systems",
+    "Algorithms",
+    "Wireless Sensor Networks",
+    "Control Theory",
+    "Database Systems",
+    "Statistics and Machine Learning",
+    "Numerical Analysis",
+    "System Identification",
+    "Type Theory and Formal Methods",
+    "Time Series Analysis",
+    "Parallel Computing",
+    "computational modeling and simulation",
+    "Probabilistic Models and Approximation Algorithms",
+    "Decision Making and Optimization",
+    "Quantum Error Correction",
+    "Web Accessibility Research",
+    "Probabilistic Models and Uncertainty Quantification",
+    "Recommendation Systems",
+    "data stream processing",
+    "Software Engineering",
+    "Network Coding",
+    "Communication Networks",
+    "Bioinformatics",
+    "Statistical Physics",
+    "Filter Banks and Wavelets",
+    "MIMO Channel Estimation and Compressive Sensing",
+    "Cognitive Radio Networks",
+    "Optimization Algorithms in Neural Networks",
+    "Probability Theory and Stochastic Processes",
+    "Network Aggregation Algorithms",
+    "Network Science",
+    "Linear Programming and Compressed Sensing",
+    "Political Science",
+    "Operating Systems",
+    "Computer Vision and Machine Learning",
+    "Electrophysiology and Brain-Computer Interfaces",
+    "Probability Theory and Statistics",
+    "Error Correction Codes",
+    "Formal Languages and Automata Theory",
+    "Security and Privacy in Distributed Systems",
+    "Algorithm Design and Analysis",
+    "Fluid Dynamics",
+    "Association Schemes",
+    "cognitive psychology",
+    "Multimedia Processing",
+    "Network Anomaly Detection",
+    "Computer Science - Optimization",
+    "Tagged Networks Research",
+    "Multi-Agent Systems",
+    "bandit algorithms",
+    "Number Theory and Cryptography",
+    "Computer Science - Programming and Software Engineering",
+    "Logic and Automated Reasoning",
+    "Logic and Semantics",
+    "Random Walks and Graph Theory",
+    "neural networks",
+    "Convex Optimization",
+    "Combinatorial Optimization",
+    "Computer Science - Artificial Intelligence & Robotics",
+    "Algebraic Combinatorics",
+    "Probabilistic Graphical Models",
+    "Massive MIMO",
+    "Nutrition Science",
+    "Concurrency and Parallelism",
+    "Algebraic Structures and Models",
+    "public-key cryptography",
+    "Algebraic Geometry",
+    "Computer Science Research Topics",
+    "Algebraic Topology",
+    "Number Theory",
+    "Vision and Perception",
+    "Computer Architecture",
+    "Networks & Communications",
+    "Graph Coloring and Embedding",
+    "Sparse Learning",
+    "Animal Training Systems",
+    "Randomized Algorithms",
+    "Algebraic Optimization",
+    "Network Design Games",
+    "Probabilistic Reasoning and Optimization Techniques",
+    "Evolutionary Algorithms",
+    "Robotics",
+    "Antenna Selection and Resource Allocation",
+    "Artificial Intelligence",
+    "secret-key-agreement-and-communication",
+    "conference organization",
+    "Advertising Algorithms",
+    "Computability Logic",
+    "social psychology",
+    "Logic Programming",
+    "Information Retrieval and Text Mining",
+    "Reinforcement Learning",
+    "Signal Processing and Image Analysis",
+    "Performance Analysis",
+    "Quantum Computing",
+    "citation analysis"
+  ],
+  "dedup": "semantic"
+}

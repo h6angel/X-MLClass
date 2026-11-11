@@ -1,0 +1,372 @@
+{
+  "truth_unique_names": 49,
+  "truth_lines": 54,
+  "coverage_similarity_proxies_NOT_judged_coverage": [
+    {
+      "labels": 81,
+      "exact": 1,
+      "similarity_ge_050": 38,
+      "similarity_ge_075": 9
+    },
+    {
+      "labels": 84,
+      "exact": 3,
+      "similarity_ge_050": 40,
+      "similarity_ge_075": 10
+    },
+    {
+      "labels": 94,
+      "exact": 3,
+      "similarity_ge_050": 42,
+      "similarity_ge_075": 13
+    },
+    {
+      "labels": 104,
+      "exact": 3,
+      "similarity_ge_050": 42,
+      "similarity_ge_075": 14
+    },
+    {
+      "labels": 114,
+      "exact": 3,
+      "similarity_ge_050": 42,
+      "similarity_ge_075": 15
+    },
+    {
+      "labels": 123,
+      "exact": 3,
+      "similarity_ge_050": 43,
+      "similarity_ge_075": 17
+    },
+    {
+      "labels": 133,
+      "exact": 4,
+      "similarity_ge_050": 44,
+      "similarity_ge_075": 19
+    },
+    {
+      "labels": 142,
+      "exact": 6,
+      "similarity_ge_050": 44,
+      "similarity_ge_075": 21
+    },
+    {
+      "labels": 148,
+      "exact": 6,
+      "similarity_ge_050": 44,
+      "similarity_ge_075": 22
+    },
+    {
+      "labels": 150,
+      "exact": 6,
+      "similarity_ge_050": 44,
+      "similarity_ge_075": 23
+    },
+    {
+      "labels": 157,
+      "exact": 7,
+      "similarity_ge_050": 44,
+      "similarity_ge_075": 24
+    }
+  ],
+  "rounds": [
+    {
+      "round": 1,
+      "added": 10,
+      "removed": 7,
+      "size": 84
+    },
+    {
+      "round": 2,
+      "added": 10,
+      "removed": 0,
+      "size": 94
+    },
+    {
+      "round": 3,
+      "added": 10,
+      "removed": 0,
+      "size": 104
+    },
+    {
+      "round": 4,
+      "added": 10,
+      "removed": 0,
+      "size": 114
+    },
+    {
+      "round": 5,
+      "added": 10,
+      "removed": 1,
+      "size": 123
+    },
+    {
+      "round": 6,
+      "added": 10,
+      "removed": 0,
+      "size": 133
+    },
+    {
+      "round": 7,
+      "added": 9,
+      "removed": 0,
+      "size": 142
+    },
+    {
+      "round": 8,
+      "added": 7,
+      "removed": 1,
+      "size": 148
+    },
+    {
+      "round": 9,
+      "added": 2,
+      "removed": 0,
+      "size": 150
+    },
+    {
+      "round": 10,
+      "added": 7,
+      "removed": 0,
+      "size": 157
+    }
+  ],
+  "semantic_metrics_NOT_standard_closed_set": {
+    "1": {
+      "hits": 268,
+      "semantic_precision": 0.2682682682682683,
+      "semantic_macro_document_recall": 0.1418335001668335,
+      "semantic_macro_document_f1": 0.17851978963090073
+    },
+    "3": {
+      "hits": 591,
+      "semantic_precision": 0.1971971971971972,
+      "semantic_macro_document_recall": 0.31005171838505174,
+      "semantic_macro_document_f1": 0.23142673698229252
+    }
+  },
+  "test_truth_cardinality": {
+    "2": 491,
+    "1": 272,
+    "3": 149,
+    "6": 5,
+    "4": 62,
+    "5": 17,
+    "7": 2,
+    "8": 1
+  },
+  "perclass_semantic_top3_hits_support": {
+    "Finance": [
+      0,
+      24
+    ],
+    "and Science": [
+      0,
+      24
+    ],
+    "Parallel": [
+      8,
+      40
+    ],
+    "Performance": [
+      3,
+      15
+    ],
+    "Data Structures and Algorithms": [
+      39,
+      78
+    ],
+    "Combinatorics": [
+      29,
+      60
+    ],
+    "Neural and Evolutionary Computing": [
+      0,
+      31
+    ],
+    "Systems and Control": [
+      0,
+      44
+    ],
+    "Artificial Intelligence": [
+      12,
+      111
+    ],
+    "Cryptography and Security": [
+      38,
+      49
+    ],
+    "Software Engineering": [
+      11,
+      20
+    ],
+    "Adaptation and Self-Organizing Systems": [
+      0,
+      8
+    ],
+    "Multimedia": [
+      0,
+      15
+    ],
+    "Multiagent Systems": [
+      3,
+      14
+    ],
+    "Networking and Internet Architecture": [
+      0,
+      53
+    ],
+    "Optimization and Control": [
+      18,
+      53
+    ],
+    "Information Theory": [
+      74,
+      337
+    ],
+    "Disordered Systems and Neural Networks": [
+      0,
+      9
+    ],
+    "Physics and Society": [
+      0,
+      61
+    ],
+    "Information Retrieval": [
+      18,
+      40
+    ],
+    "Computer Science and Game Theory": [
+      13,
+      28
+    ],
+    "Mathematical Software": [
+      1,
+      7
+    ],
+    "Computers and Society": [
+      0,
+      39
+    ],
+    "Quantitative Methods": [
+      0,
+      6
+    ],
+    "Computational Engineering": [
+      9,
+      24
+    ],
+    "Quantum Physics": [
+      16,
+      36
+    ],
+    "Robotics": [
+      6,
+      16
+    ],
+    "Statistics and Probability": [
+      1,
+      9
+    ],
+    "Computation and Language": [
+      19,
+      51
+    ],
+    "Distributed": [
+      0,
+      40
+    ],
+    "Digital Libraries": [
+      0,
+      13
+    ],
+    "Neurons and Cognition": [
+      6,
+      8
+    ],
+    "Computational Complexity": [
+      23,
+      44
+    ],
+    "Computational Geometry": [
+      12,
+      22
+    ],
+    "Logic": [
+      5,
+      9
+    ],
+    "Numerical Analysis": [
+      3,
+      30
+    ],
+    "Databases": [
+      5,
+      24
+    ],
+    "Logic in Computer Science": [
+      15,
+      64
+    ],
+    "Programming Languages": [
+      11,
+      27
+    ],
+    "Applications": [
+      0,
+      14
+    ],
+    "Formal Languages and Automata Theory": [
+      2,
+      18
+    ],
+    "Statistical Mechanics": [
+      3,
+      14
+    ],
+    "Human-Computer Interaction": [
+      9,
+      16
+    ],
+    "Machine Learning": [
+      106,
+      161
+    ],
+    "Probability": [
+      3,
+      20
+    ],
+    "Symbolic Computation": [
+      7,
+      11
+    ],
+    "Number Theory": [
+      2,
+      4
+    ],
+    "Computer Vision and Pattern Recognition": [
+      29,
+      43
+    ],
+    "Discrete Mathematics": [
+      21,
+      68
+    ],
+    "Social and Information Networks": [
+      10,
+      71
+    ],
+    "Statistics Theory": [
+      0,
+      20
+    ],
+    "Methodology": [
+      0,
+      3
+    ],
+    "and Cluster Computing": [
+      1,
+      40
+    ]
+  }
+}

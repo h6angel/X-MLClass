@@ -1,0 +1,478 @@
+{
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"ship\", \"Industry - Shipping\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"wheat\", \"Agriculture\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"livestock\", \"Agriculture\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"earn\", \"Finance\"]": {
+    "raw": "Yes",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"jobs\", \"Economy\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"money-fx\", \"Finance\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"money-fx\", \"Currency\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"jobs\", \"unemployment\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"corn\", \"Agriculture\"]": {
+    "raw": "Yes",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"interest\", \"Finance\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"earn\", \"Business\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"money-fx\", \"International Finance\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"money-supply\", \"Monetary Policy\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"gas\", \"Energy\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"strategic-metal\", \"Industry - Metals & Mining\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"yen\", \"Currency\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"money-supply\", \"Economy\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"coffee\", \"Coffee Industry\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"retail\", \"Business\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"sugar\", \"Sugar Industry\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"fuel\", \"Oil and Gas\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"money-supply\", \"Finance\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"income\", \"Economy\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"interest\", \"interest_rates\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"money-fx\", \"yen\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"veg-oil\", \"Oil and Gas\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"grain\", \"Grain Futures\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"sugar\", \"Sugar Trade\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"money-fx\", \"Financial Industry\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"grain\", \"Soviet Grain Trade\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"l-cattle\", \"beef\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"gas\", \"Oil and Gas\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"money-fx\", \"Monetary Policy\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"alum\", \"aluminum\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"oilseed\", \"Palm Oil Industry\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"oilseed\", \"Oil Industry\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"soy-oil\", \"soybean\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"carcass\", \"beef\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"grain\", \"corn\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"soy-meal\", \"soybean\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"nat-gas\", \"Oil and Gas\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"rape-oil\", \"Oil Industry\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"rape-oil\", \"Oil and Gas\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"fuel\", \"Energy & Petroleum\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"castor-oil\", \"Palm_Oil\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"cocoa\", \"cocoa_agreement\"]": {
+    "raw": "Yes",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"coconut\", \"Palm_Oil\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"coconut-oil\", \"Palm_Oil\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"coffee\", \"Food & Drink\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"cotton-oil\", \"Cotton Industry\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"cotton-oil\", \"Palm_Oil\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"fuel\", \"Energy\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"gas\", \"Mining_and_Oil_Gas\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"heat\", \"Energy\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"housing\", \"Environment\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"housing\", \"Real Estate\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"income\", \"Finance\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"income\", \"Taxation\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"income\", \"Finance - Earnings\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"income\", \"Currency\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"iron-steel\", \"Steel Industry\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"jobs\", \"Business\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"jobs\", \"Education & Training\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"jobs\", \"Industry\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"lin-oil\", \"Palm_Oil\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"meal-feed\", \"Food & Drink\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"money-fx\", \"Money Market\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"money-supply\", \"Business\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"money-supply\", \"Currency\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"money-supply\", \"Money Market\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"nickel\", \"Currency\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"oilseed\", \"Oil and Gas\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"oilseed\", \"Palm_Oil\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"palmkernel\", \"Palm_Oil\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"palmkernel\", \"Palm Oil Industry\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"propane\", \"Oil and Gas\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"ship\", \"Maritime\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"sorghum\", \"Agriculture\"]": {
+    "raw": "Yes",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"soy-oil\", \"Oil and Gas\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"soy-oil\", \"Palm_Oil\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"strategic-metal\", \"Steel Industry\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"sun-oil\", \"Oil and Gas\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"sun-oil\", \"Palm_Oil\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"sun-oil\", \"Oil Industry\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"veg-oil\", \"Palm_Oil\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"wheat\", \"Grain Futures\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"barley\", \"rice\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"barley\", \"corn\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"coconut\", \"soybean\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"coconut-oil\", \"soybean\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"copper\", \"silver\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"copper\", \"aluminum\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"corn\", \"soybean\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"corn\", \"rice\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"cotton-oil\", \"soybean\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"cpi\", \"subsidy\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"gold\", \"silver\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"grain\", \"rice\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"housing\", \"construction\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"iron-steel\", \"aluminum\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"jet\", \"airline\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"livestock\", \"beef\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"money-supply\", \"supply,\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"money-supply\", \"demand\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"nickel\", \"silver\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"oilseed\", \"soybean\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"potato\", \"rice\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"potato\", \"corn\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"rice\", \"soybean\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"rice\", \"corn\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"sorghum\", \"rice\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"sorghum\", \"corn\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"soy-meal\", \"rice\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"soybean\", \"rice\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"soybean\", \"corn\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"wheat\", \"soybean\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"wheat\", \"rice\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"wheat\", \"corn\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"zinc\", \"aluminum\"]": {
+    "raw": "No.",
+    "match": false
+  }
+}

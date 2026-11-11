@@ -1,0 +1,22 @@
+{
+  "sources": {
+    "paper": "https://arxiv.org/html/2407.05609v1#S6.SS4",
+    "subset_growth": "Paper section 6.4: add 1000 documents until no additional labels; release dynamic_GMM.py only accepts a fixed prefix",
+    "topic_count": "Paper section 5.1 permits BERTopic estimation; notebooks/bertopic.ipynb uses MiniLM, UMAP(5,5), HDBSCAN(min_cluster_size=20). example.ipynb instead uses 10; 20 is the explicit default here, overridable",
+    "tail_sizes": "Paper section 6.4: AAPD/Reuters/RCV1 500, DBPedia 1000, Amazon 1500",
+    "improvement_defaults": "OpenWordMLTC/self_training/self_training.py argparse defaults and deletion rule; no complete per-dataset tuning mapping is published",
+    "paper_rule": "Paper sections 5.3 and 6.4: frequency >15, frequency <1%, median maximum similarity threshold. Exact frequency population, ordering and addition cap are operational choices recorded in iteration logs",
+    "classifiers": "OpenWordMLTC/zero-shot/zero-shot_AAPD_test.py main: BART, XLM-R, DeBERTa; improvement separately defaults to DeBERTa"
+  },
+  "improvement_defaults": {
+    "majority_num": 350,
+    "max_majority_num": 5,
+    "sim_threshold": 0.55,
+    "max_add_label": 10
+  },
+  "unpublished": [
+    "Dataset-specific mappings for majority_num, max_majority_num, sim_threshold and max_add_label",
+    "Exact final iteration count in Amazon extended-iteration experiments",
+    "Exact equivalence rule for no additional labels during dynamic subset selection"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "dataset": "DBPedia-298",
+  "profile": "local",
+  "run_name": "local-v1",
+  "output_root": "C:\\mlearn\\code\\xml class\\outputs\\benchmark",
+  "initial_labels": null,
+  "train_docs": 8000,
+  "test_docs": 1000,
+  "clusters": 256,
+  "iterations": 10,
+  "model": "MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33",
+  "judge_model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "output": "C:\\mlearn\\code\\xml class\\outputs\\benchmark\\DBPedia-298\\local-v1",
+  "tail_size": 1000,
+  "majority_num": 350,
+  "max_majority_num": 5,
+  "sim_threshold": 0.55,
+  "max_add_label": 10,
+  "remove_at_most": 6,
+  "config": {
+    "train_docs": 8000,
+    "tail_size": 1000,
+    "clusters": 256,
+    "clustering": "gmm",
+    "truth_file": "test_label.txt",
+    "separator": ",",
+    "strip_prefix": false,
+    "domain": "Wikipedia entity categories, including broad and fine-grained types",
+    "instruction": "Represent documents collected from Wikipedia facts for clustering: "
+  },
+  "inputs": {
+    "train": {
+      "text": "fd6a7027e93b1371c975cdc32caba3bbfdbe751c07b3ec09a66f8d988778d89a",
+      "keywords": "d4e501124839baf53d8d0a2318dee90841156b3937cd78aa503addd3e3375abd"
+    },
+    "test": {
+      "text": "620a9f75664ccab2d9fb191bd2d199b449f946eb2086d0f8a3a4adb0765ae25f",
+      "keywords": "4a7b99ded15373f4e01d5475551ae75f485fc5b9ba8399b0337c4ff8078647d0"
+    },
+    "test_truth": "c2db3d274c95a04dec226a92c235b4aaaeeac54de83f92e079460511596632fb",
+    "train_truth": "43fe013ec245ca19033ffbe3ec3f4f42e3d64d5df809574d971d992306eff8a2"
+  },
+  "initial_labels_sha256": null,
+  "implementation": {
+    "run_pipeline.py": "d4c22d5f7e63ca278ff357e2c7e59b10f1aa7596af0b8740e2ae87eef8842506",
+    "pipeline_data.py": "dc1a80bf61ea7e5ead36f517947bc325ee95537df99dde25ebc5cc7db5583cdd",
+    "pipeline_metrics.py": "76e8cfc081fa849cc8bbaf3c15cff50baf54a58a391d17ade942ad02fa96073d",
+    "aapd_pipeline.py": "057b6978df3daa95ae45719390c1623d3bd4032959f9ba123cc187a0937970d8",
+    "aapd_local_labels.py": "2b42ca86c14f7d524a24d46b568f6a1aac2569eab6f306d5ac1f0e2602c2dceb",
+    "aapd_models.py": "295153d896b3e557c5362f285e9bc0c66604fabd8dfa71160feca8c65d48bb4f"
+  },
+  "author_improvement_sha256": "6d5aba73d04c9535e55ab3b4802d1990478d2ee98cd9284bae7bc4e42fd39140",
+  "deviations": [
+    "Local Qwen naming/judge, exact-name deduplication, fixed training subset.",
+    "Local cluster counts and shared improvement thresholds; dataset-specific paper values not fully verified.",
+    "Default test ID limit 1000; not necessarily full test set. Only DeBERTa branch.",
+    "Coverage vocabulary is union of supplied train/test labels. Semantic score is author-normalized."
+  ]
+}

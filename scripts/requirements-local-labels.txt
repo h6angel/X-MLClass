@@ -1,0 +1,8 @@
+# Install in a separate xmlclass-local environment after GPU torch.
+torch==2.1.1+cu121
+numpy==1.24.4
+transformers==4.44.2
+huggingface-hub==0.24.7
+tokenizers==0.19.1
+accelerate==0.33.0
+safetensors==0.4.5

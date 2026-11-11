@@ -1,0 +1,31 @@
+{
+  "dataset": "RCV1",
+  "train": {
+    "chunks": 116023,
+    "documents": 24400,
+    "id_limit": 24400,
+    "missing_document_ids": []
+  },
+  "test": {
+    "chunks": 5276,
+    "documents": 1000,
+    "id_limit": 1000,
+    "missing_document_ids": []
+  },
+  "truth_rows": 20000,
+  "train_truth_rows": 60000,
+  "evaluation_vocabulary_size": 102,
+  "empty_training_keyword_chunks": 0,
+  "fingerprints": {
+    "train": {
+      "text": "5d64855465a6da1174eba6cadcb06806483a09a17f3834490d552c379989299a",
+      "keywords": "49faca9e07caceb1846caf56db7a76988d2184b15cbbd2165e4e7dc6cda61262"
+    },
+    "test": {
+      "text": "c34bd1fce4ea0f359ca976c36e2219d04a937eb79631f1671c10c07969953c8e",
+      "keywords": "a88e508dd180f41f0a399fd04a8279c4a3d7f003a707990339cbd0b60076d50c"
+    },
+    "test_truth": "b0986cae30243fa7d65cb162831c5c616775b2089dab12347a53e442e29d5f09",
+    "train_truth": "a75507af5541566030f9fdf270d9ec4e648fa6bb650458cdd70315245d9f7bfe"
+  }
+}

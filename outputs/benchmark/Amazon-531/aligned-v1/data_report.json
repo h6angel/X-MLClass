@@ -1,0 +1,31 @@
+{
+  "dataset": "Amazon-531",
+  "train": {
+    "chunks": 67568,
+    "documents": 29487,
+    "id_limit": 29487,
+    "missing_document_ids": []
+  },
+  "test": {
+    "chunks": 2229,
+    "documents": 1000,
+    "id_limit": 1000,
+    "missing_document_ids": []
+  },
+  "truth_rows": 19658,
+  "train_truth_rows": 29487,
+  "evaluation_vocabulary_size": 531,
+  "empty_training_keyword_chunks": 0,
+  "fingerprints": {
+    "train": {
+      "text": "b5f956797c305f3c0c56715d91abe2771ca4b4e139c801b303f925b9bc8c522d",
+      "keywords": "63a73873195038377ff2d0925feacb2ae46a74861790ca00644c8dad950b2349"
+    },
+    "test": {
+      "text": "8c6b7b9233a0e3394168a02bebdb05e673b31bcac6a255aa74b0f5121fc62a9d",
+      "keywords": "701ffb8cc3309beb51dc393e038d9aa7025d7686f78165c9f3a4897b1ea739a6"
+    },
+    "test_truth": "42202aa4ee6e5b21166aefd432f460dfa7ae879579fd7d6153c20ca9bbb625ec",
+    "train_truth": "4650541eb4eb3421e98666dfe3c86720691c14d0110c53616235b073922c6a71"
+  }
+}

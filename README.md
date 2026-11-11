@@ -20,6 +20,11 @@ All datasets referenced in the paper are available [here](https://drive.google.c
 
 
 ## Usage
+
+For the unified local five-dataset pipeline, staged execution, validation and
+serial experiment commands, see [scripts/README-aligned-pipeline.md](scripts/README-aligned-pipeline.md).
+This local adaptation records its differences from the paper; the original usage
+example remains below.
 There are three steps to follow the framework outlined in this paper.
 
 1.  Initial label space construction.

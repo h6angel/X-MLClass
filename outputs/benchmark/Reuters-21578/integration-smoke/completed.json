@@ -1,0 +1,5 @@
+{
+  "dataset": "Reuters-21578",
+  "profile": "smoke",
+  "evaluated": true
+}

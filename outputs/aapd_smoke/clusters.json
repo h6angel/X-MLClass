@@ -1,0 +1,1520 @@
+{
+  "model": "hkunlp/instructor-large",
+  "samples": 3000,
+  "requested_clusters": 84,
+  "seed": 42,
+  "clusters": [
+    {
+      "cluster": 0,
+      "chunk_count": 11,
+      "examples": [
+        {
+          "document_id": 236,
+          "keyphrases": "Graph Theory, Combinatorics, Theory of Computation"
+        },
+        {
+          "document_id": 197,
+          "keyphrases": "Graph Theory, Combinatorics, Theory of Computation"
+        },
+        {
+          "document_id": 99,
+          "keyphrases": "Graph Theory, Combinatorics, Theory of Computation"
+        }
+      ]
+    },
+    {
+      "cluster": 1,
+      "chunk_count": 71,
+      "examples": [
+        {
+          "document_id": 582,
+          "keyphrases": "Optimization, Convex Optimization, Nonsmooth Optimization"
+        },
+        {
+          "document_id": 117,
+          "keyphrases": "Optimization, Computational Methods, Mathematical Modeling"
+        },
+        {
+          "document_id": 203,
+          "keyphrases": "Optimization, Mathematical Modeling, Computer Science"
+        }
+      ]
+    },
+    {
+      "cluster": 2,
+      "chunk_count": 43,
+      "examples": [
+        {
+          "document_id": 90,
+          "keyphrases": "Error Correction, Source Blocks, Decoding Overhead"
+        },
+        {
+          "document_id": 747,
+          "keyphrases": "Coding Theory, Error-Correcting Codes, Digital Communications"
+        },
+        {
+          "document_id": 391,
+          "keyphrases": "Wireless Communications, Error-Correcting Codes, Quasi-Cyclic Codes"
+        }
+      ]
+    },
+    {
+      "cluster": 3,
+      "chunk_count": 67,
+      "examples": [
+        {
+          "document_id": 12,
+          "keyphrases": "Networking, Energy Efficiency, Standards and Amendments"
+        },
+        {
+          "document_id": 819,
+          "keyphrases": "Communication Networks, Optimization, Energy Efficiency"
+        },
+        {
+          "document_id": 819,
+          "keyphrases": "Communication Networks, Channel Estimation, Energy Efficiency"
+        }
+      ]
+    },
+    {
+      "cluster": 4,
+      "chunk_count": 39,
+      "examples": [
+        {
+          "document_id": 535,
+          "keyphrases": "Computer Science, Information Retrieval, Artificial Intelligence"
+        },
+        {
+          "document_id": 768,
+          "keyphrases": "Computer Science, Information Retrieval, Machine Learning"
+        },
+        {
+          "document_id": 102,
+          "keyphrases": "Computer Science, Data Structures and Algorithms, Information Retrieval"
+        }
+      ]
+    },
+    {
+      "cluster": 5,
+      "chunk_count": 101,
+      "examples": [
+        {
+          "document_id": 169,
+          "keyphrases": "Signal Processing, Machine Learning, Mathematics"
+        },
+        {
+          "document_id": 365,
+          "keyphrases": "Mathematics, Signal Processing, Autocorrelation"
+        },
+        {
+          "document_id": 38,
+          "keyphrases": "Signal Processing, Machine Learning, Mathematics"
+        }
+      ]
+    },
+    {
+      "cluster": 6,
+      "chunk_count": 83,
+      "examples": [
+        {
+          "document_id": 149,
+          "keyphrases": "Logic and Reasoning, Proof Theory, Formal Systems"
+        },
+        {
+          "document_id": 701,
+          "keyphrases": "Logic and Reasoning, Type Theory, Semantics"
+        },
+        {
+          "document_id": 627,
+          "keyphrases": "Logic and Reasoning, Proof Theory, Automated Reasoning"
+        }
+      ]
+    },
+    {
+      "cluster": 7,
+      "chunk_count": 40,
+      "examples": [
+        {
+          "document_id": 421,
+          "keyphrases": "Algorithmic Complexity, String Algorithms, Psychology"
+        },
+        {
+          "document_id": 190,
+          "keyphrases": "Algorithms, String Matching, Computation Complexity"
+        },
+        {
+          "document_id": 421,
+          "keyphrases": "Computational Complexity, String Theory, Algorithms and Data Structures"
+        }
+      ]
+    },
+    {
+      "cluster": 8,
+      "chunk_count": 45,
+      "examples": [
+        {
+          "document_id": 55,
+          "keyphrases": "Cryptography, Side Channel Attacks, Computer Security"
+        },
+        {
+          "document_id": 55,
+          "keyphrases": "Computer Security, Virtualization, Side Channel Attacks"
+        },
+        {
+          "document_id": 649,
+          "keyphrases": "Distributed Systems, Cryptography and Security, Machine Learning and Deep Learning"
+        }
+      ]
+    },
+    {
+      "cluster": 9,
+      "chunk_count": 30,
+      "examples": [
+        {
+          "document_id": 409,
+          "keyphrases": "Quantum Physics, Information Theory, Computational Complexity"
+        },
+        {
+          "document_id": 17,
+          "keyphrases": "Quantum Physics, Information Theory, Computational Complexity"
+        },
+        {
+          "document_id": 123,
+          "keyphrases": "Quantum Physics, Information Theory, Computational Complexity"
+        }
+      ]
+    },
+    {
+      "cluster": 10,
+      "chunk_count": 13,
+      "examples": [
+        {
+          "document_id": 205,
+          "keyphrases": "Quantum Computing, Entanglement, Information Theory"
+        },
+        {
+          "document_id": 685,
+          "keyphrases": "Quantum Computing, Entanglement, Information Theory"
+        },
+        {
+          "document_id": 680,
+          "keyphrases": "Quantum Computing, Entanglement, Information Theory"
+        }
+      ]
+    },
+    {
+      "cluster": 11,
+      "chunk_count": 73,
+      "examples": [
+        {
+          "document_id": 817,
+          "keyphrases": "Natural Language Processing,"
+        },
+        {
+          "document_id": 471,
+          "keyphrases": "Neural Networks, Speech Recognition, Deep Learning"
+        },
+        {
+          "document_id": 449,
+          "keyphrases": "Natural Language Processing, Information Theory, Computer Science"
+        }
+      ]
+    },
+    {
+      "cluster": 12,
+      "chunk_count": 14,
+      "examples": [
+        {
+          "document_id": 737,
+          "keyphrases": "Communication Technologies, Signal Processing, Information Theory"
+        },
+        {
+          "document_id": 761,
+          "keyphrases": "Communication Systems, Signal Processing, Information Theory"
+        },
+        {
+          "document_id": 809,
+          "keyphrases": "Communication Systems, Signal Processing, Information Theory"
+        }
+      ]
+    },
+    {
+      "cluster": 13,
+      "chunk_count": 40,
+      "examples": [
+        {
+          "document_id": 412,
+          "keyphrases": "Computer Vision, Image Processing, Machine Learning"
+        },
+        {
+          "document_id": 412,
+          "keyphrases": "Computer Vision, Image Processing, Machine Learning"
+        },
+        {
+          "document_id": 486,
+          "keyphrases": "Computer Vision, Image Processing, Information Retrieval"
+        }
+      ]
+    },
+    {
+      "cluster": 14,
+      "chunk_count": 40,
+      "examples": [
+        {
+          "document_id": 745,
+          "keyphrases": "Machine Learning, Optimization, Control Systems"
+        },
+        {
+          "document_id": 203,
+          "keyphrases": "Control Theory, Optimization Algorithms, Theoretical Computer Science"
+        },
+        {
+          "document_id": 686,
+          "keyphrases": "Control Theory, Optimization, Mathematical Economics"
+        }
+      ]
+    },
+    {
+      "cluster": 15,
+      "chunk_count": 27,
+      "examples": [
+        {
+          "document_id": 537,
+          "keyphrases": "Recommender Systems, Geographic Information Systems, User Behavior Analysis"
+        },
+        {
+          "document_id": 537,
+          "keyphrases": "Location-Based Social Networks, Spatial Item Recommendation, Travel and Tourism"
+        },
+        {
+          "document_id": 537,
+          "keyphrases": "Geographic Information Systems, Data Mining, Recommender Systems"
+        }
+      ]
+    },
+    {
+      "cluster": 16,
+      "chunk_count": 50,
+      "examples": [
+        {
+          "document_id": 484,
+          "keyphrases": "Graph Theory, Combinatorics, Optimization"
+        },
+        {
+          "document_id": 197,
+          "keyphrases": "Graph Theory, Combinatorics, Geometry"
+        },
+        {
+          "document_id": 313,
+          "keyphrases": "Graph Theory, Combinatorics, Mathematics"
+        }
+      ]
+    },
+    {
+      "cluster": 17,
+      "chunk_count": 22,
+      "examples": [
+        {
+          "document_id": 268,
+          "keyphrases": "Network Optimization, Signal Processing, Wireless Communications"
+        },
+        {
+          "document_id": 802,
+          "keyphrases": "Networking, Wireless Communications, Performance Optimization"
+        },
+        {
+          "document_id": 326,
+          "keyphrases": "Optimization Techniques, Wireless Communication, Network Performance"
+        }
+      ]
+    },
+    {
+      "cluster": 18,
+      "chunk_count": 23,
+      "examples": [
+        {
+          "document_id": 16,
+          "keyphrases": "Information Theory, Kolmogorov Complexity, Compression"
+        },
+        {
+          "document_id": 80,
+          "keyphrases": "Information Theory, Data Compression, Theory of Computation"
+        },
+        {
+          "document_id": 634,
+          "keyphrases": "Computer Science, Information Theory, Data Compression"
+        }
+      ]
+    },
+    {
+      "cluster": 19,
+      "chunk_count": 18,
+      "examples": [
+        {
+          "document_id": 111,
+          "keyphrases": "Natural Language Processing, Information Retrieval, Psycholinguistics"
+        },
+        {
+          "document_id": 584,
+          "keyphrases": "Natural Language Processing, Computational Linguistics, Information Retrieval"
+        },
+        {
+          "document_id": 250,
+          "keyphrases": "Natural Language Processing, Information Retrieval, Computational Linguistics"
+        }
+      ]
+    },
+    {
+      "cluster": 20,
+      "chunk_count": 60,
+      "examples": [
+        {
+          "document_id": 105,
+          "keyphrases": "Complex Networks, Structural Properties, Weighted Networks"
+        },
+        {
+          "document_id": 57,
+          "keyphrases": "Complex Networks, Hierarchy Measure, Controllability"
+        },
+        {
+          "document_id": 57,
+          "keyphrases": "Complex Networks, Network Analysis, Hierarchy"
+        }
+      ]
+    },
+    {
+      "cluster": 21,
+      "chunk_count": 10,
+      "examples": [
+        {
+          "document_id": 279,
+          "keyphrases": "Information Theory, Communication Systems, Signal Processing"
+        },
+        {
+          "document_id": 162,
+          "keyphrases": "Information Theory, Signal Processing, Communication Systems"
+        },
+        {
+          "document_id": 809,
+          "keyphrases": "Information Theory, Communication Systems, Signal Processing"
+        }
+      ]
+    },
+    {
+      "cluster": 22,
+      "chunk_count": 31,
+      "examples": [
+        {
+          "document_id": 314,
+          "keyphrases": "Citation Analysis, Research Evaluation, Information Retrieval"
+        },
+        {
+          "document_id": 314,
+          "keyphrases": "Information Retrieval, Citation Analysis, Database Management"
+        },
+        {
+          "document_id": 505,
+          "keyphrases": "Information Retrieval, Citation Analysis, Network Analysis"
+        }
+      ]
+    },
+    {
+      "cluster": 23,
+      "chunk_count": 9,
+      "examples": [
+        {
+          "document_id": 176,
+          "keyphrases": "Coding Theory, Information Theory, Signal Processing"
+        },
+        {
+          "document_id": 59,
+          "keyphrases": "Information Theory, Coding Theory, Signal Processing"
+        },
+        {
+          "document_id": 6,
+          "keyphrases": "Information Theory, Coding Theory, Signal Processing"
+        }
+      ]
+    },
+    {
+      "cluster": 24,
+      "chunk_count": 7,
+      "examples": [
+        {
+          "document_id": 788,
+          "keyphrases": "Natural Language Processing, Text Analysis, Information Retrieval"
+        },
+        {
+          "document_id": 37,
+          "keyphrases": "Natural Language Processing, Text Analysis, Information Retrieval"
+        },
+        {
+          "document_id": 717,
+          "keyphrases": "Natural Language Processing, Information Retrieval, Text Analysis"
+        }
+      ]
+    },
+    {
+      "cluster": 25,
+      "chunk_count": 14,
+      "examples": [
+        {
+          "document_id": 5,
+          "keyphrases": "Signal Processing, Communication Systems, Information Theory"
+        },
+        {
+          "document_id": 6,
+          "keyphrases": "Signal Processing, Communication Systems, Information Theory"
+        },
+        {
+          "document_id": 205,
+          "keyphrases": "Signal Processing, Communication Systems, Information Theory"
+        }
+      ]
+    },
+    {
+      "cluster": 26,
+      "chunk_count": 50,
+      "examples": [
+        {
+          "document_id": 196,
+          "keyphrases": "Computer Vision, Machine Learning, Data Mining"
+        },
+        {
+          "document_id": 235,
+          "keyphrases": "Computer Vision, Machine Learning, Data Mining"
+        },
+        {
+          "document_id": 543,
+          "keyphrases": "Computer Vision, Machine Learning, Data Mining"
+        }
+      ]
+    },
+    {
+      "cluster": 27,
+      "chunk_count": 30,
+      "examples": [
+        {
+          "document_id": 639,
+          "keyphrases": "Formal Verification, Performance Evaluation, DPA"
+        },
+        {
+          "document_id": 630,
+          "keyphrases": "Formal Verification, Parsing and Compilation, Proof Assistants and Formal Methods"
+        },
+        {
+          "document_id": 467,
+          "keyphrases": "Formal Verification, Model Checking, Parity Games"
+        }
+      ]
+    },
+    {
+      "cluster": 28,
+      "chunk_count": 5,
+      "examples": [
+        {
+          "document_id": 669,
+          "keyphrases": "Graph Theory, Combinatorics, Computational Complexity"
+        },
+        {
+          "document_id": 419,
+          "keyphrases": "Graph Theory, Combinatorics, Computational Complexity"
+        },
+        {
+          "document_id": 672,
+          "keyphrases": "Graph Theory, Combinatorics, Computational Complexity"
+        }
+      ]
+    },
+    {
+      "cluster": 29,
+      "chunk_count": 7,
+      "examples": [
+        {
+          "document_id": 197,
+          "keyphrases": "Computational Complexity, Graph Theory, Algorithms"
+        },
+        {
+          "document_id": 643,
+          "keyphrases": "Algorithms, Graph Theory, Computational Complexity"
+        },
+        {
+          "document_id": 556,
+          "keyphrases": "Algorithms, Graph Theory, Computational Complexity"
+        }
+      ]
+    },
+    {
+      "cluster": 30,
+      "chunk_count": 7,
+      "examples": [
+        {
+          "document_id": 672,
+          "keyphrases": "Graph Theory, Complexity Theory, Algorithms"
+        },
+        {
+          "document_id": 457,
+          "keyphrases": "Graph Theory, Complexity Theory, Algorithms"
+        },
+        {
+          "document_id": 585,
+          "keyphrases": "Graph Theory, Complexity Theory, Algorithms"
+        }
+      ]
+    },
+    {
+      "cluster": 31,
+      "chunk_count": 81,
+      "examples": [
+        {
+          "document_id": 459,
+          "keyphrases": "Communication Networks, Signal Processing, Mathematical Modeling"
+        },
+        {
+          "document_id": 408,
+          "keyphrases": "Communication Networks, Machine Learning, Signal Processing"
+        },
+        {
+          "document_id": 528,
+          "keyphrases": "Communication Networks, Signal Processing, Multiuser Diversity"
+        }
+      ]
+    },
+    {
+      "cluster": 32,
+      "chunk_count": 15,
+      "examples": [
+        {
+          "document_id": 653,
+          "keyphrases": "Signal Processing, Compressive Sensing, Machine Learning"
+        },
+        {
+          "document_id": 560,
+          "keyphrases": "Signal Processing, Compressive Sensing, Numerical Analysis"
+        },
+        {
+          "document_id": 201,
+          "keyphrases": "Signal Processing, Compressive Sensing, Theory and Frameworks"
+        }
+      ]
+    },
+    {
+      "cluster": 33,
+      "chunk_count": 38,
+      "examples": [
+        {
+          "document_id": 551,
+          "keyphrases": "Human-Computer Interaction, Information Technology, Research Methods"
+        },
+        {
+          "document_id": 645,
+          "keyphrases": "Human-Computer Interaction, Crowdsourcing, Expertise and Skills"
+        },
+        {
+          "document_id": 551,
+          "keyphrases": "Human-Computer Interaction, Evaluation Methods, Interactive Theorem Proving"
+        }
+      ]
+    },
+    {
+      "cluster": 34,
+      "chunk_count": 21,
+      "examples": [
+        {
+          "document_id": 604,
+          "keyphrases": "Theoretical Computer Science, Quantum Information and Computation, Mathematical Physics"
+        },
+        {
+          "document_id": 662,
+          "keyphrases": "Quantum Computing, Information Theory, Theoretical Physics"
+        },
+        {
+          "document_id": 359,
+          "keyphrases": "Quantum Information Theory, Spectral Graph Theory, Entropic Measures"
+        }
+      ]
+    },
+    {
+      "cluster": 35,
+      "chunk_count": 50,
+      "examples": [
+        {
+          "document_id": 100,
+          "keyphrases": "Distributed Computing, Neural Networks, Computer Architecture"
+        },
+        {
+          "document_id": 755,
+          "keyphrases": "Computer Architecture, Performance Evaluation, Compilation Techniques"
+        },
+        {
+          "document_id": 545,
+          "keyphrases": "Computer Systems, Performance Optimization, Memory Management"
+        }
+      ]
+    },
+    {
+      "cluster": 36,
+      "chunk_count": 22,
+      "examples": [
+        {
+          "document_id": 753,
+          "keyphrases": "Mathematics, Geometry, Logic and Reasoning"
+        },
+        {
+          "document_id": 199,
+          "keyphrases": "Mathematics, Geometry, Singularities"
+        },
+        {
+          "document_id": 338,
+          "keyphrases": "Geometry, Topology, Mathematics"
+        }
+      ]
+    },
+    {
+      "cluster": 37,
+      "chunk_count": 46,
+      "examples": [
+        {
+          "document_id": 680,
+          "keyphrases": "Graph Theory, Algorithms and Data Structures, Theoretical Computer Science"
+        },
+        {
+          "document_id": 453,
+          "keyphrases": "Graph Theory, Distance Metrics, Set Theory"
+        },
+        {
+          "document_id": 573,
+          "keyphrases": "Graph Theory, Measurement and Metrics, Linear Algebra"
+        }
+      ]
+    },
+    {
+      "cluster": 38,
+      "chunk_count": 82,
+      "examples": [
+        {
+          "document_id": 538,
+          "keyphrases": "Data Analytics, Game Theory, Privacy"
+        },
+        {
+          "document_id": 321,
+          "keyphrases": "Game Theory, Artificial Intelligence, Machine Learning"
+        },
+        {
+          "document_id": 675,
+          "keyphrases": "Artificial Intelligence, Game Theory, Operations Research"
+        }
+      ]
+    },
+    {
+      "cluster": 39,
+      "chunk_count": 48,
+      "examples": [
+        {
+          "document_id": 631,
+          "keyphrases": "Wireless Communications, Multi-Hop Transmission, Relaying"
+        },
+        {
+          "document_id": 769,
+          "keyphrases": "Mobile Communications, Channel Estimation, Receiver Design"
+        },
+        {
+          "document_id": 655,
+          "keyphrases": "Wireless Communications, Relay Networks, Transmit Diversity"
+        }
+      ]
+    },
+    {
+      "cluster": 40,
+      "chunk_count": 81,
+      "examples": [
+        {
+          "document_id": 723,
+          "keyphrases": "Machine Learning, Soft Targets, Teacher-Student Model"
+        },
+        {
+          "document_id": 335,
+          "keyphrases": "Machine Learning, Data Mining, Statistical Analysis"
+        },
+        {
+          "document_id": 84,
+          "keyphrases": "Machine Learning, Statistical Models, Data Analysis"
+        }
+      ]
+    },
+    {
+      "cluster": 41,
+      "chunk_count": 37,
+      "examples": [
+        {
+          "document_id": 91,
+          "keyphrases": "Optimization Techniques, Combinatorial Optimization, Heuristics"
+        },
+        {
+          "document_id": 775,
+          "keyphrases": "Optimization, Set Theory, Permutations"
+        },
+        {
+          "document_id": 790,
+          "keyphrases": "Combinatorial Optimization, Constraint Programming, Mathematical Logic"
+        }
+      ]
+    },
+    {
+      "cluster": 42,
+      "chunk_count": 17,
+      "examples": [
+        {
+          "document_id": 447,
+          "keyphrases": "Statistics, Machine Learning, Optimization"
+        },
+        {
+          "document_id": 446,
+          "keyphrases": "Statistics, Machine Learning, Optimization"
+        },
+        {
+          "document_id": 745,
+          "keyphrases": "Machine Learning, Statistics, Optimization"
+        }
+      ]
+    },
+    {
+      "cluster": 43,
+      "chunk_count": 8,
+      "examples": [
+        {
+          "document_id": 191,
+          "keyphrases": "Computer Vision, Feature Extraction, Clustering"
+        },
+        {
+          "document_id": 151,
+          "keyphrases": "Neural Networks, Feature Extraction, Machine Learning"
+        },
+        {
+          "document_id": 452,
+          "keyphrases": "Machine Learning, Feature Selection, Data Analysis"
+        }
+      ]
+    },
+    {
+      "cluster": 44,
+      "chunk_count": 25,
+      "examples": [
+        {
+          "document_id": 299,
+          "keyphrases": "Numerical Analysis, Statistics, Theory and Models"
+        },
+        {
+          "document_id": 776,
+          "keyphrases": "Numerical Analysis, Algorithms, Mathematics"
+        },
+        {
+          "document_id": 106,
+          "keyphrases": "Computer Science, Algorithms, Theoretical Computer Science"
+        }
+      ]
+    },
+    {
+      "cluster": 45,
+      "chunk_count": 26,
+      "examples": [
+        {
+          "document_id": 203,
+          "keyphrases": "Control Theory, Traffic Flow, Numerical Analysis"
+        },
+        {
+          "document_id": 545,
+          "keyphrases": "Networking, Traffic Management, Queueing Theory"
+        },
+        {
+          "document_id": 203,
+          "keyphrases": "Transportation, Optimization, Control Theory"
+        }
+      ]
+    },
+    {
+      "cluster": 46,
+      "chunk_count": 38,
+      "examples": [
+        {
+          "document_id": 323,
+          "keyphrases": "Operations Research, Optimization, Computer Science"
+        },
+        {
+          "document_id": 58,
+          "keyphrases": "Operations Research, Statistics, Optimization"
+        },
+        {
+          "document_id": 147,
+          "keyphrases": "Operations Research, Optimization, Electrical Engineering"
+        }
+      ]
+    },
+    {
+      "cluster": 47,
+      "chunk_count": 97,
+      "examples": [
+        {
+          "document_id": 606,
+          "keyphrases": "Data Mining, Social Network Analysis, User Behavior"
+        },
+        {
+          "document_id": 298,
+          "keyphrases": "Social Networks, Data Mining, User Behavior"
+        },
+        {
+          "document_id": 298,
+          "keyphrases": "Social Networks, Online Communities, User Behavior"
+        }
+      ]
+    },
+    {
+      "cluster": 48,
+      "chunk_count": 58,
+      "examples": [
+        {
+          "document_id": 86,
+          "keyphrases": "Artificial Intelligence, Cognitive Science, Neuroscience"
+        },
+        {
+          "document_id": 460,
+          "keyphrases": "Cognitive Psychology, Memory, Long-Term Memory"
+        },
+        {
+          "document_id": 86,
+          "keyphrases": "Artificial Intelligence, Cognitive Science, Philosophy of Mind"
+        }
+      ]
+    },
+    {
+      "cluster": 49,
+      "chunk_count": 18,
+      "examples": [
+        {
+          "document_id": 815,
+          "keyphrases": "Communication Systems, Source Coding, Channel Coding"
+        },
+        {
+          "document_id": 482,
+          "keyphrases": "Network Coding, Source-Relay Communication, Space-Time Block Coding"
+        },
+        {
+          "document_id": 44,
+          "keyphrases": "Network Coding, Multicast Communication, Source Coding"
+        }
+      ]
+    },
+    {
+      "cluster": 50,
+      "chunk_count": 33,
+      "examples": [
+        {
+          "document_id": 334,
+          "keyphrases": "Information Theory, Matrix Theory, Unitarily Invariant Properties"
+        },
+        {
+          "document_id": 597,
+          "keyphrases": "Algorithms, Performance Evaluation, Information Theory"
+        },
+        {
+          "document_id": 125,
+          "keyphrases": "Neural Networks, Information Theory, Mathematics"
+        }
+      ]
+    },
+    {
+      "cluster": 51,
+      "chunk_count": 31,
+      "examples": [
+        {
+          "document_id": 433,
+          "keyphrases": "Coding Theory, Linear Codes, Lattices"
+        },
+        {
+          "document_id": 747,
+          "keyphrases": "Theoretical Computer Science, Coding Theory, Experimental Methods"
+        },
+        {
+          "document_id": 240,
+          "keyphrases": "Coding Theory, Information Theory, Data Structures and Algorithms"
+        }
+      ]
+    },
+    {
+      "cluster": 52,
+      "chunk_count": 41,
+      "examples": [
+        {
+          "document_id": 749,
+          "keyphrases": "Communication Systems, Error Correction and Detection, Signal Processing"
+        },
+        {
+          "document_id": 64,
+          "keyphrases": "Communication Systems, Error Correction and Detection, Signal Processing"
+        },
+        {
+          "document_id": 482,
+          "keyphrases": "Communication Networks, Signal Processing, Error Correction"
+        }
+      ]
+    },
+    {
+      "cluster": 53,
+      "chunk_count": 57,
+      "examples": [
+        {
+          "document_id": 623,
+          "keyphrases": "Network Optimization, Distributed Systems, Algorithms"
+        },
+        {
+          "document_id": 318,
+          "keyphrases": "Networking, Resource Management, Optimization Techniques"
+        },
+        {
+          "document_id": 256,
+          "keyphrases": "Network Coding, Distributed Computing, Performance Optimization"
+        }
+      ]
+    },
+    {
+      "cluster": 54,
+      "chunk_count": 59,
+      "examples": [
+        {
+          "document_id": 417,
+          "keyphrases": "Probability Theory, Statistics, Mathematical Analysis"
+        },
+        {
+          "document_id": 758,
+          "keyphrases": "Probability Theory,"
+        },
+        {
+          "document_id": 417,
+          "keyphrases": "Probability Theory, Metric and Geometric Analysis, Concentration of Measure"
+        }
+      ]
+    },
+    {
+      "cluster": 55,
+      "chunk_count": 23,
+      "examples": [
+        {
+          "document_id": 452,
+          "keyphrases": "Machine Learning, Data Mining, Bioinformatics"
+        },
+        {
+          "document_id": 294,
+          "keyphrases": "Bioinformatics, Genomics, Statistics"
+        },
+        {
+          "document_id": 489,
+          "keyphrases": "Plant and Animal Breeding, Genetic Epidemiology, High-Dimensional Data Analysis"
+        }
+      ]
+    },
+    {
+      "cluster": 56,
+      "chunk_count": 19,
+      "examples": [
+        {
+          "document_id": 343,
+          "keyphrases": "Law Enforcement, Government Services, Information Grid"
+        },
+        {
+          "document_id": 485,
+          "keyphrases": "Business and Economics, Law and Government, Computer Science and Technology"
+        },
+        {
+          "document_id": 628,
+          "keyphrases": "Political Science, Statistics and Probability, Computer Science"
+        }
+      ]
+    },
+    {
+      "cluster": 57,
+      "chunk_count": 53,
+      "examples": [
+        {
+          "document_id": 406,
+          "keyphrases": "Quantum Physics, Signal Processing, Control Theory"
+        },
+        {
+          "document_id": 437,
+          "keyphrases": "Quantum Information Theory, Quantum Communication, Feedback Control"
+        },
+        {
+          "document_id": 134,
+          "keyphrases": "Nuclear Magnetic Resonance Spectroscopy and Imaging, Ensemble Controllability, Time-Varying Systems"
+        }
+      ]
+    },
+    {
+      "cluster": 58,
+      "chunk_count": 25,
+      "examples": [
+        {
+          "document_id": 86,
+          "keyphrases": "Artificial Intelligence, Robotics, Future of Technology"
+        },
+        {
+          "document_id": 637,
+          "keyphrases": "Artificial Intelligence, Evolutionary Computation, Robotics"
+        },
+        {
+          "document_id": 131,
+          "keyphrases": "Robotics, Probability Theory, Exploration Problems"
+        }
+      ]
+    },
+    {
+      "cluster": 59,
+      "chunk_count": 21,
+      "examples": [
+        {
+          "document_id": 707,
+          "keyphrases": "Information Theory, Signal Processing, Quantization"
+        },
+        {
+          "document_id": 141,
+          "keyphrases": "Signal Processing, Information Theory, Numerical Analysis"
+        },
+        {
+          "document_id": 440,
+          "keyphrases": "Signal Processing, Numerical Analysis, Homotopy Theory"
+        }
+      ]
+    },
+    {
+      "cluster": 60,
+      "chunk_count": 44,
+      "examples": [
+        {
+          "document_id": 640,
+          "keyphrases": "Image Processing, Motion Estimation, Signal Separation"
+        },
+        {
+          "document_id": 209,
+          "keyphrases": "Signal Processing, Image Processing, Machine Learning"
+        },
+        {
+          "document_id": 493,
+          "keyphrases": "Machine Learning, Signal Processing, Image Processing"
+        }
+      ]
+    },
+    {
+      "cluster": 61,
+      "chunk_count": 6,
+      "examples": [
+        {
+          "document_id": 811,
+          "keyphrases": "Programming Languages, Type Systems, Computer Science"
+        },
+        {
+          "document_id": 811,
+          "keyphrases": "Programming Languages, Type Systems, Translation and Compilation"
+        },
+        {
+          "document_id": 811,
+          "keyphrases": "Programming Languages, Type Systems, Computer Science"
+        }
+      ]
+    },
+    {
+      "cluster": 62,
+      "chunk_count": 46,
+      "examples": [
+        {
+          "document_id": 751,
+          "keyphrases": "Performance Optimization, Complexity Analysis, Communication Systems"
+        },
+        {
+          "document_id": 413,
+          "keyphrases": "Communication Systems, Information Theory, Optimization Techniques"
+        },
+        {
+          "document_id": 798,
+          "keyphrases": "Quantum Computing, Communication Protocols, Parallel Repetition"
+        }
+      ]
+    },
+    {
+      "cluster": 63,
+      "chunk_count": 34,
+      "examples": [
+        {
+          "document_id": 410,
+          "keyphrases": "Algebra, Combinatorics, Number Theory"
+        },
+        {
+          "document_id": 264,
+          "keyphrases": "Algebra, Number Theory, Combinatorics"
+        },
+        {
+          "document_id": 264,
+          "keyphrases": "Algebra, Number Theory, Combinatorics"
+        }
+      ]
+    },
+    {
+      "cluster": 64,
+      "chunk_count": 53,
+      "examples": [
+        {
+          "document_id": 496,
+          "keyphrases": "Combinatorics, Data Structures and Algorithms, Theory of Computation"
+        },
+        {
+          "document_id": 571,
+          "keyphrases": "Combinatorics, Data Structures and Algorithms, Cryptography"
+        },
+        {
+          "document_id": 286,
+          "keyphrases": "Combinatorics, Algorithms, Theory of Computation"
+        }
+      ]
+    },
+    {
+      "cluster": 65,
+      "chunk_count": 18,
+      "examples": [
+        {
+          "document_id": 447,
+          "keyphrases": "Algorithms, Linear Algebra, Numerical Analysis"
+        },
+        {
+          "document_id": 82,
+          "keyphrases": "Machine Learning, Linear Algebra, Algorithms"
+        },
+        {
+          "document_id": 8,
+          "keyphrases": "Linear Algebra, Multi-Linear Computation, Computational Libraries"
+        }
+      ]
+    },
+    {
+      "cluster": 66,
+      "chunk_count": 14,
+      "examples": [
+        {
+          "document_id": 629,
+          "keyphrases": "Distributed Systems, Consensus Protocols, Byzantine Fault Tolerance"
+        },
+        {
+          "document_id": 629,
+          "keyphrases": "Distributed Systems, Fault Tolerance, Consensus Protocols"
+        },
+        {
+          "document_id": 765,
+          "keyphrases": "Distributed Systems, Fault Tolerance, Byzantine Fault Tolerance"
+        }
+      ]
+    },
+    {
+      "cluster": 67,
+      "chunk_count": 10,
+      "examples": [
+        {
+          "document_id": 521,
+          "keyphrases": "Operating Systems, Distributed Systems, Computer Networks"
+        },
+        {
+          "document_id": 599,
+          "keyphrases": "Operating Systems, Data Structures and Algorithms, Natural Language Processing"
+        },
+        {
+          "document_id": 367,
+          "keyphrases": "Operating Systems, Networking, Algorithms"
+        }
+      ]
+    },
+    {
+      "cluster": 68,
+      "chunk_count": 33,
+      "examples": [
+        {
+          "document_id": 11,
+          "keyphrases": "Software Engineering, Performance Evaluation, System Design"
+        },
+        {
+          "document_id": 755,
+          "keyphrases": "Computer Architecture, Program Optimization, Software Engineering"
+        },
+        {
+          "document_id": 547,
+          "keyphrases": "Computer Science, Software Engineering, Design and Development"
+        }
+      ]
+    },
+    {
+      "cluster": 69,
+      "chunk_count": 35,
+      "examples": [
+        {
+          "document_id": 607,
+          "keyphrases": "Theory of Computation, Formal Language Theory, Computational Complexity"
+        },
+        {
+          "document_id": 320,
+          "keyphrases": "Computational Complexity, Cryptography, Formal Language Theory"
+        },
+        {
+          "document_id": 163,
+          "keyphrases": "Theory of Computation, Formal Language Theory, Algorithms and Complexity"
+        }
+      ]
+    },
+    {
+      "cluster": 70,
+      "chunk_count": 38,
+      "examples": [
+        {
+          "document_id": 168,
+          "keyphrases": "Programming Languages, Artificial Intelligence, Probability and Statistics"
+        },
+        {
+          "document_id": 620,
+          "keyphrases": "Database Systems, Programming Languages, Artificial Intelligence"
+        },
+        {
+          "document_id": 442,
+          "keyphrases": "Data Structures and Algorithms, Programming Languages, Computer Architecture"
+        }
+      ]
+    },
+    {
+      "cluster": 71,
+      "chunk_count": 32,
+      "examples": [
+        {
+          "document_id": 61,
+          "keyphrases": "Numerical Analysis, Computational Physics, Algorithms"
+        },
+        {
+          "document_id": 252,
+          "keyphrases": "Self-Organization, Particle Swarms, Kinetic Distinction"
+        },
+        {
+          "document_id": 140,
+          "keyphrases": "Statistical Mechanics, Spin Glass Theory, Mean Field Theory"
+        }
+      ]
+    },
+    {
+      "cluster": 72,
+      "chunk_count": 41,
+      "examples": [
+        {
+          "document_id": 98,
+          "keyphrases": "Wiretap Security, Multiple Access Channels, Information Theory"
+        },
+        {
+          "document_id": 400,
+          "keyphrases": "Communication Systems, Security Protocols, Information Theory"
+        },
+        {
+          "document_id": 578,
+          "keyphrases": "Communication Systems, Security and Privacy, Theoretical Computer Science"
+        }
+      ]
+    },
+    {
+      "cluster": 73,
+      "chunk_count": 40,
+      "examples": [
+        {
+          "document_id": 365,
+          "keyphrases": "Cryptography, Key Distribution, Computer Science"
+        },
+        {
+          "document_id": 9,
+          "keyphrases": "Cryptography, Efficiency Evaluation, and Key Extraction"
+        },
+        {
+          "document_id": 404,
+          "keyphrases": "Computer Science, Algorithms, Cryptography"
+        }
+      ]
+    },
+    {
+      "cluster": 74,
+      "chunk_count": 18,
+      "examples": [
+        {
+          "document_id": 128,
+          "keyphrases": "Telecommunications, Networking, Competition and Industry"
+        },
+        {
+          "document_id": 128,
+          "keyphrases": "Telecommunications, Service Level Competition, Network Operators"
+        },
+        {
+          "document_id": 128,
+          "keyphrases": "Telecommunications, Competition and Industry, Regulatory Policy"
+        }
+      ]
+    },
+    {
+      "cluster": 75,
+      "chunk_count": 9,
+      "examples": [
+        {
+          "document_id": 785,
+          "keyphrases": "Network Analysis, Community Detection, Graph Theory"
+        },
+        {
+          "document_id": 505,
+          "keyphrases": "Network Analysis, Community Detection, Statistical Significance"
+        },
+        {
+          "document_id": 381,
+          "keyphrases": "Network Analysis, Community Detection, Node Information"
+        }
+      ]
+    },
+    {
+      "cluster": 76,
+      "chunk_count": 63,
+      "examples": [
+        {
+          "document_id": 290,
+          "keyphrases": "Machine Learning, Representation Learning, Data Competitions"
+        },
+        {
+          "document_id": 196,
+          "keyphrases": "Machine Learning, Representation Learning, Zero-Shot Learning"
+        },
+        {
+          "document_id": 414,
+          "keyphrases": "Machine Learning, Unsupervised Learning, Representation Learning"
+        }
+      ]
+    },
+    {
+      "cluster": 77,
+      "chunk_count": 21,
+      "examples": [
+        {
+          "document_id": 521,
+          "keyphrases": "Algorithms, Data Structures, and Theory of Computation"
+        },
+        {
+          "document_id": 310,
+          "keyphrases": "Algorithms, Data Structures, and Theory of Computation"
+        },
+        {
+          "document_id": 379,
+          "keyphrases": "Algorithms, Data Structures, Theory of Computation"
+        }
+      ]
+    },
+    {
+      "cluster": 78,
+      "chunk_count": 99,
+      "examples": [
+        {
+          "document_id": 238,
+          "keyphrases": "Wireless Communications, Fading, Shadowing"
+        },
+        {
+          "document_id": 761,
+          "keyphrases": "Communication Networks, Antennas and Propagation, Signal Processing"
+        },
+        {
+          "document_id": 557,
+          "keyphrases": "Networking, Wireless Communication, Signal Processing"
+        }
+      ]
+    },
+    {
+      "cluster": 79,
+      "chunk_count": 11,
+      "examples": [
+        {
+          "document_id": 104,
+          "keyphrases": "Computer Graphics, Machine Learning, Artificial Intelligence"
+        },
+        {
+          "document_id": 215,
+          "keyphrases": "Graphical Models, Bioinformatics, Interdisciplinary Applications"
+        },
+        {
+          "document_id": 267,
+          "keyphrases": "Graphical Models, Low Complexity Message Passing, Spatial Coupling"
+        }
+      ]
+    },
+    {
+      "cluster": 80,
+      "chunk_count": 31,
+      "examples": [
+        {
+          "document_id": 494,
+          "keyphrases": "Cloud Computing, Data Privacy, Software Applications"
+        },
+        {
+          "document_id": 23,
+          "keyphrases": "Data Privacy and Security, Randomized Algorithms, Matrix Computations"
+        },
+        {
+          "document_id": 603,
+          "keyphrases": "Privacy and Security, Machine Learning, Data Mining"
+        }
+      ]
+    },
+    {
+      "cluster": 81,
+      "chunk_count": 16,
+      "examples": [
+        {
+          "document_id": 10,
+          "keyphrases": "Communication Networks, Telecommunications, Signal Processing"
+        },
+        {
+          "document_id": 384,
+          "keyphrases": "Communication Networks, Telecommunications, Signal Processing"
+        },
+        {
+          "document_id": 237,
+          "keyphrases": "Communication Networks, Telecommunications, Signal Processing"
+        }
+      ]
+    },
+    {
+      "cluster": 82,
+      "chunk_count": 27,
+      "examples": [
+        {
+          "document_id": 729,
+          "keyphrases": "Coding Theory, Channel Coding, Nonlinear Codes"
+        },
+        {
+          "document_id": 617,
+          "keyphrases": "Coding Theory, Feedback Control, Channel Coding"
+        },
+        {
+          "document_id": 793,
+          "keyphrases": "Optimal Rate Code Design, Binary Erasure Channel, Multiple Access Channel"
+        }
+      ]
+    },
+    {
+      "cluster": 83,
+      "chunk_count": 11,
+      "examples": [
+        {
+          "document_id": 46,
+          "keyphrases": "Networks, Innovation Diffusion, Mathematical Modeling"
+        },
+        {
+          "document_id": 171,
+          "keyphrases": "Innovation, Connectivity, Experience"
+        },
+        {
+          "document_id": 46,
+          "keyphrases": "Innovation Management, Social Network Analysis, Statistical Mechanics"
+        }
+      ]
+    }
+  ]
+}

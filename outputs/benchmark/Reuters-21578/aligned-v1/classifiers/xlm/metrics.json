@@ -1,0 +1,7 @@
+{
+  "documents": 995,
+  "judge_model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "note": "Local adaptation. Greedy semantic hits/min(k,true labels); not standard precision@k.",
+  "author_matching_score@1": 0.15979899497487438,
+  "author_matching_score@3": 0.33082077051926295
+}

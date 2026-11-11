@@ -1,0 +1,32 @@
+{
+  "removed": [],
+  "added": [
+    "trade",
+    "dividend"
+  ],
+  "majority_excluded_from_next_training": [],
+  "cumulative_labels": [
+    "Finance",
+    "Business & Finance",
+    "Transportation",
+    "Banking",
+    "Agriculture",
+    "Business",
+    "ECONOMICS",
+    "Economy",
+    "trade",
+    "dividend"
+  ],
+  "next_training_labels": [
+    "Finance",
+    "Business & Finance",
+    "Transportation",
+    "Banking",
+    "Agriculture",
+    "Business",
+    "ECONOMICS",
+    "Economy",
+    "trade",
+    "dividend"
+  ]
+}

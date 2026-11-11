@@ -1,0 +1,28 @@
+{
+  "classifiers": {
+    "deberta": {
+      "documents": 999,
+      "judge_model": "Qwen/Qwen2.5-1.5B-Instruct",
+      "note": "Local adaptation. Greedy semantic hits/min(k,true labels); not standard precision@k.",
+      "author_matching_score@1": 0.36936936936936937,
+      "author_matching_score@3": 0.4230897564230897,
+      "nli_model": "MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33"
+    },
+    "bart": {
+      "documents": 999,
+      "judge_model": "Qwen/Qwen2.5-1.5B-Instruct",
+      "note": "Local adaptation. Greedy semantic hits/min(k,true labels); not standard precision@k.",
+      "author_matching_score@1": 0.32232232232232233,
+      "author_matching_score@3": 0.36336336336336333,
+      "nli_model": "facebook/bart-large-mnli"
+    },
+    "xlm": {
+      "documents": 999,
+      "judge_model": "Qwen/Qwen2.5-1.5B-Instruct",
+      "note": "Local adaptation. Greedy semantic hits/min(k,true labels); not standard precision@k.",
+      "author_matching_score@1": 0.2902902902902903,
+      "author_matching_score@3": 0.3788788788788789,
+      "nli_model": "joeddav/xlm-roberta-large-xnli"
+    }
+  }
+}

@@ -1,0 +1,1016 @@
+{
+  "signature": "7d6c46d0a3780d904505fd5543caf75949f2873ffa4913f13df3dc40cc689e65",
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "named": [
+    {
+      "cluster": 0,
+      "label": "Graph Theory and Combinatorics in Theoretical Computer Science",
+      "raw": "{\"label\":\"Graph Theory and Combinatorics in Theoretical Computer Science\"}"
+    },
+    {
+      "cluster": 1,
+      "label": "Optimization in Computer Science",
+      "raw": "{\"label\":\"Optimization in Computer Science\"}"
+    },
+    {
+      "cluster": 2,
+      "label": "Coding Theory and Error Correction",
+      "raw": "{\"label\":\"Coding Theory and Error Correction\"}"
+    },
+    {
+      "cluster": 3,
+      "label": "Network Optimization & Energy",
+      "raw": "{\"label\":\"Network Optimization & Energy\"}"
+    },
+    {
+      "cluster": 4,
+      "label": "Information Retrieval in AI & ML",
+      "raw": "{\"label\":\"Information Retrieval in AI & ML\"}"
+    },
+    {
+      "cluster": 5,
+      "label": "Mathematical Signal Processing",
+      "raw": "{\"label\":\"Mathematical Signal Processing\"}"
+    },
+    {
+      "cluster": 6,
+      "label": "Formal Methods in Logic",
+      "raw": "{\"label\":\"Formal Methods in Logic\"}"
+    },
+    {
+      "cluster": 7,
+      "label": "Computer Science",
+      "raw": "{\"label\":\"Computer Science\"}"
+    },
+    {
+      "cluster": 8,
+      "label": "Security & Privacy in Computing",
+      "raw": "{\"label\":\"Security & Privacy in Computing\"}"
+    },
+    {
+      "cluster": 9,
+      "label": "Quantum Computing and Information",
+      "raw": "{\"label\":\"Quantum Computing and Information\"}"
+    },
+    {
+      "cluster": 10,
+      "label": "Quantum Computing Research",
+      "raw": "{\"label\":\"Quantum Computing Research\"}"
+    },
+    {
+      "cluster": 11,
+      "label": "AI and Machine Learning",
+      "raw": "{\"label\":\"AI and Machine Learning\"}"
+    },
+    {
+      "cluster": 12,
+      "label": "Communication Sciences",
+      "raw": "{\"label\":\"Communication Sciences\"}"
+    },
+    {
+      "cluster": 13,
+      "label": "Computer Vision and Machine Learning",
+      "raw": "{\"label\":\"Computer Vision and Machine Learning\"}"
+    },
+    {
+      "cluster": 14,
+      "label": "Optimization and Control",
+      "raw": "{\"label\":\"Optimization and Control\"}"
+    },
+    {
+      "cluster": 15,
+      "label": "GIS & Recommender Systems in Tourism",
+      "raw": "{\"label\":\"GIS & Recommender Systems in Tourism\"}"
+    },
+    {
+      "cluster": 16,
+      "label": "Graph Theory Applications",
+      "raw": "{\"label\":\"Graph Theory Applications\"}"
+    },
+    {
+      "cluster": 17,
+      "label": "Wireless Networking and Optimization",
+      "raw": "{\"label\":\"Wireless Networking and Optimization\"}"
+    },
+    {
+      "cluster": 18,
+      "label": "Information Theory and Data Compression",
+      "raw": "{\"label\":\"Information Theory and Data Compression\"}"
+    },
+    {
+      "cluster": 19,
+      "label": "NLP & IR",
+      "raw": "{\"label\":\"NLP & IR\"}"
+    },
+    {
+      "cluster": 20,
+      "label": "Complex Networks Research",
+      "raw": "{\"label\":\"Complex Networks Research\"}"
+    },
+    {
+      "cluster": 21,
+      "label": "Communication and Information Theory",
+      "raw": "{\"label\":\"Communication and Information Theory\"}"
+    },
+    {
+      "cluster": 22,
+      "label": "Research Methods in Information Systems",
+      "raw": "{\"label\":\"Research Methods in Information Systems\"}"
+    },
+    {
+      "cluster": 23,
+      "label": "Theoretical Foundations in Communication Sciences",
+      "raw": "{\"label\":\"Theoretical Foundations in Communication Sciences\"}"
+    },
+    {
+      "cluster": 24,
+      "label": "NLP and IR",
+      "raw": "{\"label\":\"NLP and IR\"}"
+    },
+    {
+      "cluster": 25,
+      "label": "Communication and Signal Processing",
+      "raw": "{\"label\":\"Communication and Signal Processing\"}"
+    },
+    {
+      "cluster": 26,
+      "label": "Computer Vision and Machine Learning with Data Mining",
+      "raw": "{\"label\":\"Computer Vision and Machine Learning with Data Mining\"}"
+    },
+    {
+      "cluster": 27,
+      "label": "Formal Verification",
+      "raw": "{\"label\":\"Formal Verification\"}"
+    },
+    {
+      "cluster": 28,
+      "label": "Graph Theory and Algorithms",
+      "raw": "{\"label\":\"Graph Theory and Algorithms\"}"
+    },
+    {
+      "cluster": 29,
+      "label": "Algorithmic Complexity and Graph Analysis",
+      "raw": "{\"label\":\"Algorithmic Complexity and Graph Analysis\"}"
+    },
+    {
+      "cluster": 30,
+      "label": "Graph Theory and Algorithmic Complexity",
+      "raw": "{\"label\": \"Graph Theory and Algorithmic Complexity\"}"
+    },
+    {
+      "cluster": 31,
+      "label": "Communication Networks Research",
+      "raw": "{\"label\":\"Communication Networks Research\"}"
+    },
+    {
+      "cluster": 32,
+      "label": "Compressed Sensing in Signal Processing",
+      "raw": "{\"label\":\"Compressed Sensing in Signal Processing\"}"
+    },
+    {
+      "cluster": 33,
+      "label": "HCI & Evaluation",
+      "raw": "{\"label\":\"HCI & Evaluation\"}"
+    },
+    {
+      "cluster": 34,
+      "label": "Quantum Computing & Information",
+      "raw": "{\"label\":\"Quantum Computing & Information\"}"
+    },
+    {
+      "cluster": 35,
+      "label": "Computational Systems and Architectures",
+      "raw": "{\"label\":\"Computational Systems and Architectures\"}"
+    },
+    {
+      "cluster": 36,
+      "label": "Mathematical Analysis",
+      "raw": "{\"label\":\"Mathematical Analysis\"}"
+    },
+    {
+      "cluster": 37,
+      "label": "Graph Theory Research",
+      "raw": "{\"label\":\"Graph Theory Research\"}"
+    },
+    {
+      "cluster": 38,
+      "label": "Computational Economics and Game Theory",
+      "raw": "{\"label\":\"Computational Economics and Game Theory\"}"
+    },
+    {
+      "cluster": 39,
+      "label": "Wireless Communication Technologies",
+      "raw": "{\"label\":\"Wireless Communication Technologies\"}"
+    },
+    {
+      "cluster": 40,
+      "label": "Machine Learning Research",
+      "raw": "{\"label\":\"Machine Learning Research\"}"
+    },
+    {
+      "cluster": 41,
+      "label": "Algorithmic Optimization",
+      "raw": "{\"label\":\"Algorithmic Optimization\"}"
+    },
+    {
+      "cluster": 42,
+      "label": "Statistical Machine Learning Optimization",
+      "raw": "{\"label\": \"Statistical Machine Learning Optimization\"}"
+    },
+    {
+      "cluster": 43,
+      "label": "Computer Vision and Machine Learning Techniques",
+      "raw": "{\"label\":\"Computer Vision and Machine Learning Techniques\"}"
+    },
+    {
+      "cluster": 44,
+      "label": "Computational Mathematics",
+      "raw": "{\"label\":\"Computational Mathematics\"}"
+    },
+    {
+      "cluster": 45,
+      "label": "Traffic and Transportation Control",
+      "raw": "{\"label\":\"Traffic and Transportation Control\"}"
+    },
+    {
+      "cluster": 46,
+      "label": "OR and Optimization",
+      "raw": "{\"label\": \"OR and Optimization\"}"
+    },
+    {
+      "cluster": 47,
+      "label": "User Behavior in Social Networks",
+      "raw": "{\"label\":\"User Behavior in Social Networks\"}"
+    },
+    {
+      "cluster": 48,
+      "label": "AI and Cognition",
+      "raw": "{\"label\":\"AI and Cognition\"}"
+    },
+    {
+      "cluster": 49,
+      "label": "Coding and Network Communications",
+      "raw": "{\"label\":\"Coding and Network Communications\"}"
+    },
+    {
+      "cluster": 50,
+      "label": "Theoretical Foundations in Computing",
+      "raw": "{\"label\":\"Theoretical Foundations in Computing\"}"
+    },
+    {
+      "cluster": 51,
+      "label": "Coding Theory",
+      "raw": "{\"label\":\"Coding Theory\"}"
+    },
+    {
+      "cluster": 52,
+      "label": "Communication Sciences",
+      "raw": "{\"label\":\"Communication Sciences\"}"
+    },
+    {
+      "cluster": 53,
+      "label": "Computer Networking and Optimization",
+      "raw": "{\"label\":\"Computer Networking and Optimization\"}"
+    },
+    {
+      "cluster": 54,
+      "label": "Probabilistic Analysis",
+      "raw": "{\"label\":\"Probabilistic Analysis\"}"
+    },
+    {
+      "cluster": 55,
+      "label": "Biological Informatics",
+      "raw": "{\"label\":\"Biological Informatics\"}"
+    },
+    {
+      "cluster": 56,
+      "label": "Government & Technology",
+      "raw": "{\"label\":\"Government & Technology\"}"
+    },
+    {
+      "cluster": 57,
+      "label": "Quantum Computing and Control",
+      "raw": "{\"label\":\"Quantum Computing and Control\"}"
+    },
+    {
+      "cluster": 58,
+      "label": "AI & Robotics",
+      "raw": "{\"label\":\"AI & Robotics\"}"
+    },
+    {
+      "cluster": 59,
+      "label": "Computational Signal Processing",
+      "raw": "{\"label\":\"Computational Signal Processing\"}"
+    },
+    {
+      "cluster": 60,
+      "label": "Computer Vision and Machine Learning",
+      "raw": "{\"label\":\"Computer Vision and Machine Learning\"}"
+    },
+    {
+      "cluster": 61,
+      "label": "Type System in Programming Languages",
+      "raw": "{\"label\":\"Type System in Programming Languages\"}"
+    },
+    {
+      "cluster": 62,
+      "label": "Computational Communications & Quantum",
+      "raw": "{\"label\":\"Computational Communications & Quantum\"}"
+    },
+    {
+      "cluster": 63,
+      "label": "Mathematics Research",
+      "raw": "{\"label\":\"Mathematics Research\"}"
+    },
+    {
+      "cluster": 64,
+      "label": "Algorithms & Computation",
+      "raw": "{\"label\":\"Algorithms & Computation\"}"
+    },
+    {
+      "cluster": 65,
+      "label": "Mathematics and Computing",
+      "raw": "{\"label\":\"Mathematics and Computing\"}"
+    },
+    {
+      "cluster": 66,
+      "label": "Distributed Systems with Byzantine Fault Tolerance",
+      "raw": "{\"label\":\"Distributed Systems with Byzantine Fault Tolerance\"}"
+    },
+    {
+      "cluster": 67,
+      "label": "Computer Systems and Applications",
+      "raw": "{\"label\":\"Computer Systems and Applications\"}"
+    },
+    {
+      "cluster": 68,
+      "label": "Software Engineering Research",
+      "raw": "{\"label\":\"Software Engineering Research\"}"
+    },
+    {
+      "cluster": 69,
+      "label": "Theoretical Computer Science",
+      "raw": "{\"label\":\"Theoretical Computer Science\"}"
+    },
+    {
+      "cluster": 70,
+      "label": "Computational Theory and Methods",
+      "raw": "{\"label\":\"Computational Theory and Methods\"}"
+    },
+    {
+      "cluster": 71,
+      "label": "Computational Sciences",
+      "raw": "{\"label\":\"Computational Sciences\"}"
+    },
+    {
+      "cluster": 72,
+      "label": "Security & Privacy in Communication Systems",
+      "raw": "{\"label\":\"Security & Privacy in Communication Systems\"}"
+    },
+    {
+      "cluster": 73,
+      "label": "Cryptography Research",
+      "raw": "{\"label\":\"Cryptography Research\"}"
+    },
+    {
+      "cluster": 74,
+      "label": "Telecommunications Research",
+      "raw": "{\"label\":\"Telecommunications Research\"}"
+    },
+    {
+      "cluster": 75,
+      "label": "Graph-Based Network Analysis",
+      "raw": "{\"label\":\"Graph-Based Network Analysis\"}"
+    },
+    {
+      "cluster": 76,
+      "label": "Representation Learning in Machine Learning",
+      "raw": "{\"label\":\"Representation Learning in Machine Learning\"}"
+    },
+    {
+      "cluster": 77,
+      "label": "Computer Science Algorithms",
+      "raw": "{\"label\":\"Computer Science Algorithms\"}"
+    },
+    {
+      "cluster": 78,
+      "label": "Wireless Communications Research",
+      "raw": "{\"label\":\"Wireless Communications Research\"}"
+    },
+    {
+      "cluster": 79,
+      "label": "Computational Modeling and AI Applications",
+      "raw": "{\"label\":\"Computational Modeling and AI Applications\"}"
+    },
+    {
+      "cluster": 80,
+      "label": "Computer Science",
+      "raw": "{\"label\":\"Computer Science\"}"
+    },
+    {
+      "cluster": 81,
+      "label": "Communication Networks and Signal Processing",
+      "raw": "{\"label\":\"Communication Networks and Signal Processing\"}"
+    },
+    {
+      "cluster": 82,
+      "label": "Coding and Communication",
+      "raw": "{\"label\":\"Coding and Communication\"}"
+    },
+    {
+      "cluster": 83,
+      "label": "Innovative Networks and Models",
+      "raw": "{\"label\":\"Innovative Networks and Models\"}"
+    }
+  ],
+  "decisions": [
+    {
+      "cluster": 0,
+      "label": "Graph Theory and Combinatorics in Theoretical Computer Science",
+      "canonical_label": "Graph Theory and Combinatorics in Theoretical Computer Science",
+      "raw": "first label"
+    },
+    {
+      "cluster": 1,
+      "label": "Optimization in Computer Science",
+      "canonical_label": "Optimization in Computer Science",
+      "raw": "first label"
+    },
+    {
+      "cluster": 2,
+      "label": "Coding Theory and Error Correction",
+      "canonical_label": "Coding Theory and Error Correction",
+      "raw": "first label"
+    },
+    {
+      "cluster": 3,
+      "label": "Network Optimization & Energy",
+      "canonical_label": "Network Optimization & Energy",
+      "raw": "first label"
+    },
+    {
+      "cluster": 4,
+      "label": "Information Retrieval in AI & ML",
+      "canonical_label": "Information Retrieval in AI & ML",
+      "raw": "first label"
+    },
+    {
+      "cluster": 5,
+      "label": "Mathematical Signal Processing",
+      "canonical_label": "Mathematical Signal Processing",
+      "raw": "first label"
+    },
+    {
+      "cluster": 6,
+      "label": "Formal Methods in Logic",
+      "canonical_label": "Formal Methods in Logic",
+      "raw": "first label"
+    },
+    {
+      "cluster": 7,
+      "label": "Computer Science",
+      "canonical_label": "Computer Science",
+      "raw": "first label"
+    },
+    {
+      "cluster": 8,
+      "label": "Security & Privacy in Computing",
+      "canonical_label": "Security & Privacy in Computing",
+      "raw": "first label"
+    },
+    {
+      "cluster": 9,
+      "label": "Quantum Computing and Information",
+      "canonical_label": "Quantum Computing and Information",
+      "raw": "first label"
+    },
+    {
+      "cluster": 10,
+      "label": "Quantum Computing Research",
+      "canonical_label": "Quantum Computing Research",
+      "raw": "first label"
+    },
+    {
+      "cluster": 11,
+      "label": "AI and Machine Learning",
+      "canonical_label": "AI and Machine Learning",
+      "raw": "first label"
+    },
+    {
+      "cluster": 12,
+      "label": "Communication Sciences",
+      "canonical_label": "Communication Sciences",
+      "raw": "first label"
+    },
+    {
+      "cluster": 13,
+      "label": "Computer Vision and Machine Learning",
+      "canonical_label": "Computer Vision and Machine Learning",
+      "raw": "first label"
+    },
+    {
+      "cluster": 14,
+      "label": "Optimization and Control",
+      "canonical_label": "Optimization and Control",
+      "raw": "first label"
+    },
+    {
+      "cluster": 15,
+      "label": "GIS & Recommender Systems in Tourism",
+      "canonical_label": "GIS & Recommender Systems in Tourism",
+      "raw": "first label"
+    },
+    {
+      "cluster": 16,
+      "label": "Graph Theory Applications",
+      "canonical_label": "Graph Theory Applications",
+      "raw": "first label"
+    },
+    {
+      "cluster": 17,
+      "label": "Wireless Networking and Optimization",
+      "canonical_label": "Wireless Networking and Optimization",
+      "raw": "first label"
+    },
+    {
+      "cluster": 18,
+      "label": "Information Theory and Data Compression",
+      "canonical_label": "Information Theory and Data Compression",
+      "raw": "first label"
+    },
+    {
+      "cluster": 19,
+      "label": "NLP & IR",
+      "canonical_label": "NLP & IR",
+      "raw": "first label"
+    },
+    {
+      "cluster": 20,
+      "label": "Complex Networks Research",
+      "canonical_label": "Complex Networks Research",
+      "raw": "first label"
+    },
+    {
+      "cluster": 21,
+      "label": "Communication and Information Theory",
+      "canonical_label": "Communication and Information Theory",
+      "raw": "first label"
+    },
+    {
+      "cluster": 22,
+      "label": "Research Methods in Information Systems",
+      "canonical_label": "Research Methods in Information Systems",
+      "raw": "first label"
+    },
+    {
+      "cluster": 23,
+      "label": "Theoretical Foundations in Communication Sciences",
+      "canonical_label": "Theoretical Foundations in Communication Sciences",
+      "raw": "first label"
+    },
+    {
+      "cluster": 24,
+      "label": "NLP and IR",
+      "canonical_label": "NLP and IR",
+      "raw": "first label"
+    },
+    {
+      "cluster": 25,
+      "label": "Communication and Signal Processing",
+      "canonical_label": "Communication and Signal Processing",
+      "raw": "first label"
+    },
+    {
+      "cluster": 26,
+      "label": "Computer Vision and Machine Learning with Data Mining",
+      "canonical_label": "Computer Vision and Machine Learning with Data Mining",
+      "raw": "first label"
+    },
+    {
+      "cluster": 27,
+      "label": "Formal Verification",
+      "canonical_label": "Formal Verification",
+      "raw": "first label"
+    },
+    {
+      "cluster": 28,
+      "label": "Graph Theory and Algorithms",
+      "canonical_label": "Graph Theory and Algorithms",
+      "raw": "first label"
+    },
+    {
+      "cluster": 29,
+      "label": "Algorithmic Complexity and Graph Analysis",
+      "canonical_label": "Algorithmic Complexity and Graph Analysis",
+      "raw": "first label"
+    },
+    {
+      "cluster": 30,
+      "label": "Graph Theory and Algorithmic Complexity",
+      "canonical_label": "Graph Theory and Algorithmic Complexity",
+      "raw": "first label"
+    },
+    {
+      "cluster": 31,
+      "label": "Communication Networks Research",
+      "canonical_label": "Communication Networks Research",
+      "raw": "first label"
+    },
+    {
+      "cluster": 32,
+      "label": "Compressed Sensing in Signal Processing",
+      "canonical_label": "Compressed Sensing in Signal Processing",
+      "raw": "first label"
+    },
+    {
+      "cluster": 33,
+      "label": "HCI & Evaluation",
+      "canonical_label": "HCI & Evaluation",
+      "raw": "first label"
+    },
+    {
+      "cluster": 34,
+      "label": "Quantum Computing & Information",
+      "canonical_label": "Quantum Computing & Information",
+      "raw": "first label"
+    },
+    {
+      "cluster": 35,
+      "label": "Computational Systems and Architectures",
+      "canonical_label": "Computational Systems and Architectures",
+      "raw": "first label"
+    },
+    {
+      "cluster": 36,
+      "label": "Mathematical Analysis",
+      "canonical_label": "Mathematical Analysis",
+      "raw": "first label"
+    },
+    {
+      "cluster": 37,
+      "label": "Graph Theory Research",
+      "canonical_label": "Graph Theory Research",
+      "raw": "first label"
+    },
+    {
+      "cluster": 38,
+      "label": "Computational Economics and Game Theory",
+      "canonical_label": "Computational Economics and Game Theory",
+      "raw": "first label"
+    },
+    {
+      "cluster": 39,
+      "label": "Wireless Communication Technologies",
+      "canonical_label": "Wireless Communication Technologies",
+      "raw": "first label"
+    },
+    {
+      "cluster": 40,
+      "label": "Machine Learning Research",
+      "canonical_label": "Machine Learning Research",
+      "raw": "first label"
+    },
+    {
+      "cluster": 41,
+      "label": "Algorithmic Optimization",
+      "canonical_label": "Algorithmic Optimization",
+      "raw": "first label"
+    },
+    {
+      "cluster": 42,
+      "label": "Statistical Machine Learning Optimization",
+      "canonical_label": "Statistical Machine Learning Optimization",
+      "raw": "first label"
+    },
+    {
+      "cluster": 43,
+      "label": "Computer Vision and Machine Learning Techniques",
+      "canonical_label": "Computer Vision and Machine Learning Techniques",
+      "raw": "first label"
+    },
+    {
+      "cluster": 44,
+      "label": "Computational Mathematics",
+      "canonical_label": "Computational Mathematics",
+      "raw": "first label"
+    },
+    {
+      "cluster": 45,
+      "label": "Traffic and Transportation Control",
+      "canonical_label": "Traffic and Transportation Control",
+      "raw": "first label"
+    },
+    {
+      "cluster": 46,
+      "label": "OR and Optimization",
+      "canonical_label": "OR and Optimization",
+      "raw": "first label"
+    },
+    {
+      "cluster": 47,
+      "label": "User Behavior in Social Networks",
+      "canonical_label": "User Behavior in Social Networks",
+      "raw": "first label"
+    },
+    {
+      "cluster": 48,
+      "label": "AI and Cognition",
+      "canonical_label": "AI and Cognition",
+      "raw": "first label"
+    },
+    {
+      "cluster": 49,
+      "label": "Coding and Network Communications",
+      "canonical_label": "Coding and Network Communications",
+      "raw": "first label"
+    },
+    {
+      "cluster": 50,
+      "label": "Theoretical Foundations in Computing",
+      "canonical_label": "Theoretical Foundations in Computing",
+      "raw": "first label"
+    },
+    {
+      "cluster": 51,
+      "label": "Coding Theory",
+      "canonical_label": "Coding Theory",
+      "raw": "first label"
+    },
+    {
+      "cluster": 52,
+      "label": "Communication Sciences",
+      "canonical_label": "Communication Sciences",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 53,
+      "label": "Computer Networking and Optimization",
+      "canonical_label": "Computer Networking and Optimization",
+      "raw": "first label"
+    },
+    {
+      "cluster": 54,
+      "label": "Probabilistic Analysis",
+      "canonical_label": "Probabilistic Analysis",
+      "raw": "first label"
+    },
+    {
+      "cluster": 55,
+      "label": "Biological Informatics",
+      "canonical_label": "Biological Informatics",
+      "raw": "first label"
+    },
+    {
+      "cluster": 56,
+      "label": "Government & Technology",
+      "canonical_label": "Government & Technology",
+      "raw": "first label"
+    },
+    {
+      "cluster": 57,
+      "label": "Quantum Computing and Control",
+      "canonical_label": "Quantum Computing and Control",
+      "raw": "first label"
+    },
+    {
+      "cluster": 58,
+      "label": "AI & Robotics",
+      "canonical_label": "AI & Robotics",
+      "raw": "first label"
+    },
+    {
+      "cluster": 59,
+      "label": "Computational Signal Processing",
+      "canonical_label": "Computational Signal Processing",
+      "raw": "first label"
+    },
+    {
+      "cluster": 60,
+      "label": "Computer Vision and Machine Learning",
+      "canonical_label": "Computer Vision and Machine Learning",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 61,
+      "label": "Type System in Programming Languages",
+      "canonical_label": "Type System in Programming Languages",
+      "raw": "first label"
+    },
+    {
+      "cluster": 62,
+      "label": "Computational Communications & Quantum",
+      "canonical_label": "Computational Communications & Quantum",
+      "raw": "first label"
+    },
+    {
+      "cluster": 63,
+      "label": "Mathematics Research",
+      "canonical_label": "Mathematics Research",
+      "raw": "first label"
+    },
+    {
+      "cluster": 64,
+      "label": "Algorithms & Computation",
+      "canonical_label": "Algorithms & Computation",
+      "raw": "first label"
+    },
+    {
+      "cluster": 65,
+      "label": "Mathematics and Computing",
+      "canonical_label": "Mathematics and Computing",
+      "raw": "first label"
+    },
+    {
+      "cluster": 66,
+      "label": "Distributed Systems with Byzantine Fault Tolerance",
+      "canonical_label": "Distributed Systems with Byzantine Fault Tolerance",
+      "raw": "first label"
+    },
+    {
+      "cluster": 67,
+      "label": "Computer Systems and Applications",
+      "canonical_label": "Computer Systems and Applications",
+      "raw": "first label"
+    },
+    {
+      "cluster": 68,
+      "label": "Software Engineering Research",
+      "canonical_label": "Software Engineering Research",
+      "raw": "first label"
+    },
+    {
+      "cluster": 69,
+      "label": "Theoretical Computer Science",
+      "canonical_label": "Theoretical Computer Science",
+      "raw": "first label"
+    },
+    {
+      "cluster": 70,
+      "label": "Computational Theory and Methods",
+      "canonical_label": "Computational Theory and Methods",
+      "raw": "first label"
+    },
+    {
+      "cluster": 71,
+      "label": "Computational Sciences",
+      "canonical_label": "Computational Sciences",
+      "raw": "first label"
+    },
+    {
+      "cluster": 72,
+      "label": "Security & Privacy in Communication Systems",
+      "canonical_label": "Security & Privacy in Communication Systems",
+      "raw": "first label"
+    },
+    {
+      "cluster": 73,
+      "label": "Cryptography Research",
+      "canonical_label": "Cryptography Research",
+      "raw": "first label"
+    },
+    {
+      "cluster": 74,
+      "label": "Telecommunications Research",
+      "canonical_label": "Telecommunications Research",
+      "raw": "first label"
+    },
+    {
+      "cluster": 75,
+      "label": "Graph-Based Network Analysis",
+      "canonical_label": "Graph-Based Network Analysis",
+      "raw": "first label"
+    },
+    {
+      "cluster": 76,
+      "label": "Representation Learning in Machine Learning",
+      "canonical_label": "Representation Learning in Machine Learning",
+      "raw": "first label"
+    },
+    {
+      "cluster": 77,
+      "label": "Computer Science Algorithms",
+      "canonical_label": "Computer Science Algorithms",
+      "raw": "first label"
+    },
+    {
+      "cluster": 78,
+      "label": "Wireless Communications Research",
+      "canonical_label": "Wireless Communications Research",
+      "raw": "first label"
+    },
+    {
+      "cluster": 79,
+      "label": "Computational Modeling and AI Applications",
+      "canonical_label": "Computational Modeling and AI Applications",
+      "raw": "first label"
+    },
+    {
+      "cluster": 80,
+      "label": "Computer Science",
+      "canonical_label": "Computer Science",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 81,
+      "label": "Communication Networks and Signal Processing",
+      "canonical_label": "Communication Networks and Signal Processing",
+      "raw": "first label"
+    },
+    {
+      "cluster": 82,
+      "label": "Coding and Communication",
+      "canonical_label": "Coding and Communication",
+      "raw": "first label"
+    },
+    {
+      "cluster": 83,
+      "label": "Innovative Networks and Models",
+      "canonical_label": "Innovative Networks and Models",
+      "raw": "first label"
+    }
+  ],
+  "kept": [
+    "Graph Theory and Combinatorics in Theoretical Computer Science",
+    "Optimization in Computer Science",
+    "Coding Theory and Error Correction",
+    "Network Optimization & Energy",
+    "Information Retrieval in AI & ML",
+    "Mathematical Signal Processing",
+    "Formal Methods in Logic",
+    "Computer Science",
+    "Security & Privacy in Computing",
+    "Quantum Computing and Information",
+    "Quantum Computing Research",
+    "AI and Machine Learning",
+    "Communication Sciences",
+    "Computer Vision and Machine Learning",
+    "Optimization and Control",
+    "GIS & Recommender Systems in Tourism",
+    "Graph Theory Applications",
+    "Wireless Networking and Optimization",
+    "Information Theory and Data Compression",
+    "NLP & IR",
+    "Complex Networks Research",
+    "Communication and Information Theory",
+    "Research Methods in Information Systems",
+    "Theoretical Foundations in Communication Sciences",
+    "NLP and IR",
+    "Communication and Signal Processing",
+    "Computer Vision and Machine Learning with Data Mining",
+    "Formal Verification",
+    "Graph Theory and Algorithms",
+    "Algorithmic Complexity and Graph Analysis",
+    "Graph Theory and Algorithmic Complexity",
+    "Communication Networks Research",
+    "Compressed Sensing in Signal Processing",
+    "HCI & Evaluation",
+    "Quantum Computing & Information",
+    "Computational Systems and Architectures",
+    "Mathematical Analysis",
+    "Graph Theory Research",
+    "Computational Economics and Game Theory",
+    "Wireless Communication Technologies",
+    "Machine Learning Research",
+    "Algorithmic Optimization",
+    "Statistical Machine Learning Optimization",
+    "Computer Vision and Machine Learning Techniques",
+    "Computational Mathematics",
+    "Traffic and Transportation Control",
+    "OR and Optimization",
+    "User Behavior in Social Networks",
+    "AI and Cognition",
+    "Coding and Network Communications",
+    "Theoretical Foundations in Computing",
+    "Coding Theory",
+    "Computer Networking and Optimization",
+    "Probabilistic Analysis",
+    "Biological Informatics",
+    "Government & Technology",
+    "Quantum Computing and Control",
+    "AI & Robotics",
+    "Computational Signal Processing",
+    "Type System in Programming Languages",
+    "Computational Communications & Quantum",
+    "Mathematics Research",
+    "Algorithms & Computation",
+    "Mathematics and Computing",
+    "Distributed Systems with Byzantine Fault Tolerance",
+    "Computer Systems and Applications",
+    "Software Engineering Research",
+    "Theoretical Computer Science",
+    "Computational Theory and Methods",
+    "Computational Sciences",
+    "Security & Privacy in Communication Systems",
+    "Cryptography Research",
+    "Telecommunications Research",
+    "Graph-Based Network Analysis",
+    "Representation Learning in Machine Learning",
+    "Computer Science Algorithms",
+    "Wireless Communications Research",
+    "Computational Modeling and AI Applications",
+    "Communication Networks and Signal Processing",
+    "Coding and Communication",
+    "Innovative Networks and Models"
+  ],
+  "dedup": "exact"
+}

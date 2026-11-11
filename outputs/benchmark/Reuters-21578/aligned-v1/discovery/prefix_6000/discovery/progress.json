@@ -1,0 +1,3063 @@
+{
+  "signature": "ec78db5c5f4d8ddf2af58e2ab83ffcd61eb4a591b1ae111897bf03465539e4c8",
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "named": [
+    {
+      "cluster": 0,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 1,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 2,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 3,
+      "label": "Transportation",
+      "raw": "{\"label\":\"Transportation\"}"
+    },
+    {
+      "cluster": 4,
+      "label": "ECONOMICS",
+      "raw": "{\"label\":\"ECONOMICS\"}"
+    },
+    {
+      "cluster": 5,
+      "label": "agriculture",
+      "raw": "{\"label\":\"agriculture\"}"
+    },
+    {
+      "cluster": 6,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 7,
+      "label": "Oil Prices and Production",
+      "raw": "{\"label\":\"Oil Prices and Production\"}"
+    },
+    {
+      "cluster": 8,
+      "label": "Energy",
+      "raw": "{\"label\":\"Energy\"}"
+    },
+    {
+      "cluster": 9,
+      "label": "Technology & Innovation",
+      "raw": "{\"label\":\"Technology & Innovation\"}"
+    },
+    {
+      "cluster": 10,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 11,
+      "label": "Business & Economy",
+      "raw": "{\"label\":\"Business & Economy\"}"
+    },
+    {
+      "cluster": 12,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 13,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 14,
+      "label": "Economy & Trade",
+      "raw": "{\"label\":\"Economy & Trade\"}"
+    },
+    {
+      "cluster": 15,
+      "label": "Economy & Business",
+      "raw": "{\"label\":\"Economy & Business\"}"
+    },
+    {
+      "cluster": 16,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 17,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 18,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 19,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 20,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 21,
+      "label": "Real Estate",
+      "raw": "{\"label\":\"Real Estate\"}"
+    },
+    {
+      "cluster": 22,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 23,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 24,
+      "label": "Business & Economy",
+      "raw": "{\"label\":\"Business & Economy\"}"
+    },
+    {
+      "cluster": 25,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 26,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 27,
+      "label": "Economy & Trade",
+      "raw": "{\"label\":\"Economy & Trade\"}"
+    },
+    {
+      "cluster": 28,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 29,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 30,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 31,
+      "label": "agriculture",
+      "raw": "{\"label\":\"agriculture\"}"
+    },
+    {
+      "cluster": 32,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 33,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 34,
+      "label": "Economy & Trade",
+      "raw": "{\"label\":\"Economy & Trade\"}"
+    },
+    {
+      "cluster": 35,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 36,
+      "label": "International Trade and Commerce",
+      "raw": "{\"label\":\"International Trade and Commerce\"}"
+    },
+    {
+      "cluster": 37,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 38,
+      "label": "Economy & Trade",
+      "raw": "{\"label\":\"Economy & Trade\"}"
+    },
+    {
+      "cluster": 39,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 40,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 41,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 42,
+      "label": "Mining",
+      "raw": "{\"label\":\"Mining\"}"
+    },
+    {
+      "cluster": 43,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 44,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 45,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 46,
+      "label": "Real Estate",
+      "raw": "{\"label\":\"Real Estate\"}"
+    },
+    {
+      "cluster": 47,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 48,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 49,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 50,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 51,
+      "label": "Economy & Trade",
+      "raw": "{\"label\":\"Economy & Trade\"}"
+    },
+    {
+      "cluster": 52,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 53,
+      "label": "Food and Agriculture",
+      "raw": "{\"label\":\"Food and Agriculture\"}"
+    },
+    {
+      "cluster": 54,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 55,
+      "label": "Economic Policy",
+      "raw": "{\"label\":\"Economic Policy\"}"
+    },
+    {
+      "cluster": 56,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 57,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 58,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 59,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 60,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 61,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 62,
+      "label": "Insurance Industry",
+      "raw": "{\"label\":\"Insurance Industry\"}"
+    },
+    {
+      "cluster": 63,
+      "label": "Retail",
+      "raw": "{\"label\":\"Retail\"}"
+    },
+    {
+      "cluster": 64,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 65,
+      "label": "Sugar Trade",
+      "raw": "{\"label\":\"Sugar Trade\"}"
+    },
+    {
+      "cluster": 66,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 67,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 68,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 69,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 70,
+      "label": "Finance & Economics",
+      "raw": "{\"label\":\"Finance & Economics\"}"
+    },
+    {
+      "cluster": 71,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 72,
+      "label": "Economic",
+      "raw": "{\"label\":\"Economic\"}"
+    },
+    {
+      "cluster": 73,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 74,
+      "label": "Currency",
+      "raw": "{\"label\":\"Currency\"}"
+    },
+    {
+      "cluster": 75,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 76,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 77,
+      "label": "ECONOMY",
+      "raw": "{\"label\":\"ECONOMY\"}"
+    },
+    {
+      "cluster": 78,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 79,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 80,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 81,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 82,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 83,
+      "label": "Business & Economy",
+      "raw": "{\"label\":\"Business & Economy\"}"
+    },
+    {
+      "cluster": 84,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 85,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 86,
+      "label": "Mining Industry",
+      "raw": "{\"label\":\"Mining Industry\"}"
+    },
+    {
+      "cluster": 87,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 88,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 89,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 90,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 91,
+      "label": "ECONOMICS",
+      "raw": "{\"label\":\"ECONOMICS\"}"
+    },
+    {
+      "cluster": 92,
+      "label": "Automotive Industry",
+      "raw": "{\"label\":\"Automotive Industry\"}"
+    },
+    {
+      "cluster": 93,
+      "label": "Agriculture and Food",
+      "raw": "{\"label\":\"Agriculture and Food\"}"
+    },
+    {
+      "cluster": 94,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 95,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 96,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 97,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 98,
+      "label": "Business Acquisitions",
+      "raw": "{\"label\":\"Business Acquisitions\"}"
+    },
+    {
+      "cluster": 99,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 100,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 101,
+      "label": "Energy & Utilities",
+      "raw": "{\"label\":\"Energy & Utilities\"}"
+    },
+    {
+      "cluster": 102,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 103,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 104,
+      "label": "Economic Policy",
+      "raw": "{\"label\":\"Economic Policy\"}"
+    },
+    {
+      "cluster": 105,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 106,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 107,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 108,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 109,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 110,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 111,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 112,
+      "label": "Banking Industry",
+      "raw": "{\"label\":\"Banking Industry\"}"
+    },
+    {
+      "cluster": 113,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 114,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 115,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 116,
+      "label": "Energy & Mineral Resources",
+      "raw": "{\"label\":\"Energy & Mineral Resources\"}"
+    },
+    {
+      "cluster": 117,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 118,
+      "label": "Energy",
+      "raw": "{\"label\":\"Energy\"}"
+    },
+    {
+      "cluster": 119,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 120,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 121,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 122,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 123,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 124,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 125,
+      "label": "Energy & Mineral",
+      "raw": "{\"label\":\"Energy & Mineral\"}"
+    },
+    {
+      "cluster": 126,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 127,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 128,
+      "label": "Currency",
+      "raw": "{\"label\":\"Currency\"}"
+    },
+    {
+      "cluster": 129,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 130,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 131,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 132,
+      "label": "Environment",
+      "raw": "{\"label\":\"Environment\"}"
+    },
+    {
+      "cluster": 133,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 134,
+      "label": "Energy & Materials",
+      "raw": "{\"label\":\"Energy & Materials\"}"
+    },
+    {
+      "cluster": 135,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 136,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 137,
+      "label": "Economy & Trade",
+      "raw": "{\"label\":\"Economy & Trade\"}"
+    },
+    {
+      "cluster": 138,
+      "label": "Business & Economy",
+      "raw": "{\"label\":\"Business & Economy\"}"
+    },
+    {
+      "cluster": 139,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 140,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 141,
+      "label": "Energy",
+      "raw": "{\"label\":\"Energy\"}"
+    },
+    {
+      "cluster": 142,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 143,
+      "label": "Banking & Finance",
+      "raw": "{\"label\":\"Banking & Finance\"}"
+    },
+    {
+      "cluster": 144,
+      "label": "Banking",
+      "raw": "{\"label\":\"Banking\"}"
+    },
+    {
+      "cluster": 145,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 146,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 147,
+      "label": "Economic Indicators",
+      "raw": "{\"label\":\"Economic Indicators\"}"
+    },
+    {
+      "cluster": 148,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 149,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 150,
+      "label": "Energy & Mining",
+      "raw": "{\"label\":\"Energy & Mining\"}"
+    },
+    {
+      "cluster": 151,
+      "label": "Cocoa Industry",
+      "raw": "{\"label\":\"Cocoa Industry\"}"
+    },
+    {
+      "cluster": 152,
+      "label": "Insurance",
+      "raw": "{\"label\":\"Insurance\"}"
+    },
+    {
+      "cluster": 153,
+      "label": "Energy",
+      "raw": "{\"label\":\"Energy\"}"
+    },
+    {
+      "cluster": 154,
+      "label": "agriculture",
+      "raw": "{\"label\":\"agriculture\"}"
+    },
+    {
+      "cluster": 155,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 156,
+      "label": "Energy",
+      "raw": "{\"label\":\"Energy\"}"
+    },
+    {
+      "cluster": 157,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 158,
+      "label": "Economic",
+      "raw": "{\"label\":\"Economic\"}"
+    },
+    {
+      "cluster": 159,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 160,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 161,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 162,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 163,
+      "label": "Technology & Electronics",
+      "raw": "{\"label\":\"Technology & Electronics\"}"
+    },
+    {
+      "cluster": 164,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 165,
+      "label": "Mining",
+      "raw": "{\"label\":\"Mining\"}"
+    },
+    {
+      "cluster": 166,
+      "label": "Economic News",
+      "raw": "{\"label\":\"Economic News\"}"
+    },
+    {
+      "cluster": 167,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 168,
+      "label": "Mining & Exploration",
+      "raw": "{\"label\":\"Mining & Exploration\"}"
+    },
+    {
+      "cluster": 169,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 170,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 171,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 172,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 173,
+      "label": "ECONOMY",
+      "raw": "{\"label\":\"ECONOMY\"}"
+    },
+    {
+      "cluster": 174,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 175,
+      "label": "Banking",
+      "raw": "{\"label\":\"Banking\"}"
+    },
+    {
+      "cluster": 176,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 177,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 178,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 179,
+      "label": "Energy & Utilities",
+      "raw": "{\"label\":\"Energy & Utilities\"}"
+    },
+    {
+      "cluster": 180,
+      "label": "Economy & Trade",
+      "raw": "{\"label\":\"Economy & Trade\"}"
+    },
+    {
+      "cluster": 181,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 182,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 183,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 184,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 185,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 186,
+      "label": "Economic",
+      "raw": "{\"label\":\"Economic\"}"
+    },
+    {
+      "cluster": 187,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 188,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 189,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 190,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 191,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 192,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 193,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 194,
+      "label": "Sugar Industry",
+      "raw": "{\"label\":\"Sugar Industry\"}"
+    },
+    {
+      "cluster": 195,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 196,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 197,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 198,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 199,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 200,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 201,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 202,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 203,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 204,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 205,
+      "label": "Labor Unions",
+      "raw": "{\"label\":\"Labor Unions\"}"
+    },
+    {
+      "cluster": 206,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 207,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 208,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 209,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 210,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 211,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 212,
+      "label": "Finance",
+      "raw": "Finance"
+    },
+    {
+      "cluster": 213,
+      "label": "Energy",
+      "raw": "{\"label\":\"Energy\"}"
+    },
+    {
+      "cluster": 214,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 215,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 216,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 217,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 218,
+      "label": "Real Estate",
+      "raw": "{\"label\":\"Real Estate\"}"
+    },
+    {
+      "cluster": 219,
+      "label": "Politics",
+      "raw": "{\"label\":\"Politics\"}"
+    },
+    {
+      "cluster": 220,
+      "label": "Banking Industry",
+      "raw": "{\"label\":\"Banking Industry\"}"
+    },
+    {
+      "cluster": 221,
+      "label": "Banking Industry",
+      "raw": "{\"label\":\"Banking Industry\"}"
+    },
+    {
+      "cluster": 222,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 223,
+      "label": "Economy & Trade",
+      "raw": "{\"label\":\"Economy & Trade\"}"
+    },
+    {
+      "cluster": 224,
+      "label": "Railway Industry",
+      "raw": "{\"label\":\"Railway Industry\"}"
+    },
+    {
+      "cluster": 225,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 226,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 227,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 228,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 229,
+      "label": "Energy & Utilities",
+      "raw": "{\"label\":\"Energy & Utilities\"}"
+    },
+    {
+      "cluster": 230,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 231,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 232,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 233,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 234,
+      "label": "Energy & Natural Resources",
+      "raw": "{\"label\":\"Energy & Natural Resources\"}"
+    },
+    {
+      "cluster": 235,
+      "label": "Trade",
+      "raw": "{\"label\":\"Trade\"}"
+    },
+    {
+      "cluster": 236,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 237,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 238,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 239,
+      "label": "Banking & Finance",
+      "raw": "{\"label\":\"Banking & Finance\"}"
+    },
+    {
+      "cluster": 240,
+      "label": "Currency",
+      "raw": "{\"label\":\"Currency\"}"
+    },
+    {
+      "cluster": 241,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 242,
+      "label": "Energy & Mineral Resources",
+      "raw": "{\"label\":\"Energy & Mineral Resources\"}"
+    },
+    {
+      "cluster": 243,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 244,
+      "label": "Banking and Financial Services",
+      "raw": "{\"label\":\"Banking and Financial Services\"}"
+    },
+    {
+      "cluster": 245,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 246,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 247,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 248,
+      "label": "Banking Industry",
+      "raw": "{\"label\":\"Banking Industry\"}"
+    },
+    {
+      "cluster": 249,
+      "label": "International Finance",
+      "raw": "{\"label\":\"International Finance\"}"
+    },
+    {
+      "cluster": 250,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 251,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 252,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 253,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 254,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 255,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 256,
+      "label": "cocoa",
+      "raw": "{\"label\":\"cocoa\"}"
+    },
+    {
+      "cluster": 257,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 258,
+      "label": "ECONOMY",
+      "raw": "{\"label\":\"ECONOMY\"}"
+    },
+    {
+      "cluster": 259,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 260,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 261,
+      "label": "Mining Industry",
+      "raw": "{\"label\":\"Mining Industry\"}"
+    },
+    {
+      "cluster": 262,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 263,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 264,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 265,
+      "label": "Economic News",
+      "raw": "{\"label\":\"Economic News\"}"
+    },
+    {
+      "cluster": 266,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 267,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 268,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 269,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 270,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 271,
+      "label": "Poland Economy",
+      "raw": "{\"label\":\"Poland Economy\"}"
+    },
+    {
+      "cluster": 272,
+      "label": "Coffee Industry",
+      "raw": "{\"label\":\"Coffee Industry\"}"
+    },
+    {
+      "cluster": 273,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    }
+  ],
+  "decisions": [
+    {
+      "cluster": 0,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "first label"
+    },
+    {
+      "cluster": 1,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 2,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 3,
+      "label": "Transportation",
+      "canonical_label": "Transportation",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 4,
+      "label": "ECONOMICS",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 5,
+      "label": "agriculture",
+      "canonical_label": "agriculture",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 6,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 7,
+      "label": "Oil Prices and Production",
+      "canonical_label": "Oil Prices and Production",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 8,
+      "label": "Energy",
+      "canonical_label": "Energy",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 9,
+      "label": "Technology & Innovation",
+      "canonical_label": "Technology & Innovation",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 10,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 4}"
+    },
+    {
+      "cluster": 11,
+      "label": "Business & Economy",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 12,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 13,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 4}"
+    },
+    {
+      "cluster": 14,
+      "label": "Economy & Trade",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 15,
+      "label": "Economy & Business",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 16,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 4}"
+    },
+    {
+      "cluster": 17,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 18,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 19,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 4}"
+    },
+    {
+      "cluster": 20,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 4}"
+    },
+    {
+      "cluster": 21,
+      "label": "Real Estate",
+      "canonical_label": "Real Estate",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 22,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 23,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 24,
+      "label": "Business & Economy",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 25,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 4}"
+    },
+    {
+      "cluster": 26,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 27,
+      "label": "Economy & Trade",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 28,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 4}"
+    },
+    {
+      "cluster": 29,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 30,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 31,
+      "label": "agriculture",
+      "canonical_label": "agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 32,
+      "label": "Agriculture",
+      "canonical_label": "agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 33,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 4}"
+    },
+    {
+      "cluster": 34,
+      "label": "Economy & Trade",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 35,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 4}"
+    },
+    {
+      "cluster": 36,
+      "label": "International Trade and Commerce",
+      "canonical_label": "International Trade and Commerce",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 37,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 4}"
+    },
+    {
+      "cluster": 38,
+      "label": "Economy & Trade",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 39,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 40,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 41,
+      "label": "Agriculture",
+      "canonical_label": "agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 42,
+      "label": "Mining",
+      "canonical_label": "Mining",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 43,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 4}"
+    },
+    {
+      "cluster": 44,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 45,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 46,
+      "label": "Real Estate",
+      "canonical_label": "Real Estate",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 47,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 48,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 4}"
+    },
+    {
+      "cluster": 49,
+      "label": "Agriculture",
+      "canonical_label": "agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 50,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 4}"
+    },
+    {
+      "cluster": 51,
+      "label": "Economy & Trade",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 52,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 53,
+      "label": "Food and Agriculture",
+      "canonical_label": "agriculture",
+      "raw": "{\"duplicate_of\": 3}"
+    },
+    {
+      "cluster": 54,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 4}"
+    },
+    {
+      "cluster": 55,
+      "label": "Economic Policy",
+      "canonical_label": "Economic Policy",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 56,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 4}"
+    },
+    {
+      "cluster": 57,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 58,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 59,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 4}"
+    },
+    {
+      "cluster": 60,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 61,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 62,
+      "label": "Insurance Industry",
+      "canonical_label": "Insurance Industry",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 63,
+      "label": "Retail",
+      "canonical_label": "Retail",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 64,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 65,
+      "label": "Sugar Trade",
+      "canonical_label": "Sugar Trade",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 66,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 67,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 68,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 69,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 70,
+      "label": "Finance & Economics",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 71,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 72,
+      "label": "Economic",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 73,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 74,
+      "label": "Currency",
+      "canonical_label": "Currency",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 75,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 76,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 77,
+      "label": "ECONOMY",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 78,
+      "label": "Agriculture",
+      "canonical_label": "agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 79,
+      "label": "Agriculture",
+      "canonical_label": "agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 80,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 81,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 82,
+      "label": "Agriculture",
+      "canonical_label": "agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 83,
+      "label": "Business & Economy",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 84,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 85,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 86,
+      "label": "Mining Industry",
+      "canonical_label": "Mining",
+      "raw": "{\"duplicate_of\": 11}"
+    },
+    {
+      "cluster": 87,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 88,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 89,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 90,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 91,
+      "label": "ECONOMICS",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 92,
+      "label": "Automotive Industry",
+      "canonical_label": "Automotive Industry",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 93,
+      "label": "Agriculture and Food",
+      "canonical_label": "agriculture",
+      "raw": "{\"duplicate_of\": 3}"
+    },
+    {
+      "cluster": 94,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 95,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 96,
+      "label": "Agriculture",
+      "canonical_label": "agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 97,
+      "label": "Agriculture",
+      "canonical_label": "agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 98,
+      "label": "Business Acquisitions",
+      "canonical_label": "Business Acquisitions",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 99,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 100,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 101,
+      "label": "Energy & Utilities",
+      "canonical_label": "Energy & Utilities",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 102,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 103,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 104,
+      "label": "Economic Policy",
+      "canonical_label": "Economic Policy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 105,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 106,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 107,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 108,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 109,
+      "label": "Agriculture",
+      "canonical_label": "agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 110,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 111,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 112,
+      "label": "Banking Industry",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 4}"
+    },
+    {
+      "cluster": 113,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 114,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 115,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 116,
+      "label": "Energy & Mineral Resources",
+      "canonical_label": "Energy & Mineral Resources",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 117,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 118,
+      "label": "Energy",
+      "canonical_label": "Energy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 119,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 120,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 121,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 122,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 123,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 124,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 125,
+      "label": "Energy & Mineral",
+      "canonical_label": "Energy & Mineral Resources",
+      "raw": "{\"duplicate_of\": 21}"
+    },
+    {
+      "cluster": 126,
+      "label": "Agriculture",
+      "canonical_label": "agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 127,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 128,
+      "label": "Currency",
+      "canonical_label": "Currency",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 129,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 130,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 131,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 132,
+      "label": "Environment",
+      "canonical_label": "Environment",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 133,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 134,
+      "label": "Energy & Materials",
+      "canonical_label": "Energy & Materials",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 135,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 136,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 137,
+      "label": "Economy & Trade",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 138,
+      "label": "Business & Economy",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 139,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 140,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 141,
+      "label": "Energy",
+      "canonical_label": "Energy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 142,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 143,
+      "label": "Banking & Finance",
+      "canonical_label": "Banking & Finance",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 144,
+      "label": "Banking",
+      "canonical_label": "Banking & Finance",
+      "raw": "{\"duplicate_of\": 24}"
+    },
+    {
+      "cluster": 145,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 146,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 147,
+      "label": "Economic Indicators",
+      "canonical_label": "Economic Indicators",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 148,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 149,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 150,
+      "label": "Energy & Mining",
+      "canonical_label": "Mining",
+      "raw": "{\"duplicate_of\": 11}"
+    },
+    {
+      "cluster": 151,
+      "label": "Cocoa Industry",
+      "canonical_label": "Cocoa Industry",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 152,
+      "label": "Insurance",
+      "canonical_label": "Insurance Industry",
+      "raw": "{\"duplicate_of\": 14}"
+    },
+    {
+      "cluster": 153,
+      "label": "Energy",
+      "canonical_label": "Energy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 154,
+      "label": "agriculture",
+      "canonical_label": "agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 155,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 156,
+      "label": "Energy",
+      "canonical_label": "Energy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 157,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 158,
+      "label": "Economic",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 159,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 160,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 161,
+      "label": "Agriculture",
+      "canonical_label": "agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 162,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 163,
+      "label": "Technology & Electronics",
+      "canonical_label": "Technology & Electronics",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 164,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 165,
+      "label": "Mining",
+      "canonical_label": "Mining",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 166,
+      "label": "Economic News",
+      "canonical_label": "Economic News",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 167,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 168,
+      "label": "Mining & Exploration",
+      "canonical_label": "Mining",
+      "raw": "{\"duplicate_of\": 11}"
+    },
+    {
+      "cluster": 169,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 170,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 171,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 172,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 173,
+      "label": "ECONOMY",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 174,
+      "label": "Agriculture",
+      "canonical_label": "agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 175,
+      "label": "Banking",
+      "canonical_label": "Banking & Finance",
+      "raw": "{\"duplicate_of\": 24}"
+    },
+    {
+      "cluster": 176,
+      "label": "Agriculture",
+      "canonical_label": "agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 177,
+      "label": "Agriculture",
+      "canonical_label": "agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 178,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 179,
+      "label": "Energy & Utilities",
+      "canonical_label": "Energy & Utilities",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 180,
+      "label": "Economy & Trade",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 181,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 182,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 183,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 184,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 185,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 186,
+      "label": "Economic",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 187,
+      "label": "Agriculture",
+      "canonical_label": "agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 188,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 189,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 190,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 191,
+      "label": "Agriculture",
+      "canonical_label": "agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 192,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 193,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 194,
+      "label": "Sugar Industry",
+      "canonical_label": "Sugar Industry",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 195,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 196,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 197,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 198,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 199,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 200,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 201,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 202,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 203,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 204,
+      "label": "Agriculture",
+      "canonical_label": "agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 205,
+      "label": "Labor Unions",
+      "canonical_label": "Labor Unions",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 206,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 207,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 208,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 209,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 210,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 211,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 212,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 213,
+      "label": "Energy",
+      "canonical_label": "Energy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 214,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 215,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 216,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 217,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 218,
+      "label": "Real Estate",
+      "canonical_label": "Real Estate",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 219,
+      "label": "Politics",
+      "canonical_label": "Politics",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 220,
+      "label": "Banking Industry",
+      "canonical_label": "Banking & Finance",
+      "raw": "{\"duplicate_of\": 24}"
+    },
+    {
+      "cluster": 221,
+      "label": "Banking Industry",
+      "canonical_label": "Banking & Finance",
+      "raw": "{\"duplicate_of\": 24}"
+    },
+    {
+      "cluster": 222,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 223,
+      "label": "Economy & Trade",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 224,
+      "label": "Railway Industry",
+      "canonical_label": "Railway Industry",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 225,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 226,
+      "label": "Agriculture",
+      "canonical_label": "agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 227,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 228,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 229,
+      "label": "Energy & Utilities",
+      "canonical_label": "Energy & Utilities",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 230,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 231,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 232,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 233,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 234,
+      "label": "Energy & Natural Resources",
+      "canonical_label": "Energy & Mineral Resources",
+      "raw": "{\"duplicate_of\": 21}"
+    },
+    {
+      "cluster": 235,
+      "label": "Trade",
+      "canonical_label": "Trade",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 236,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 237,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 238,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 239,
+      "label": "Banking & Finance",
+      "canonical_label": "Banking & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 240,
+      "label": "Currency",
+      "canonical_label": "Currency",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 241,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 242,
+      "label": "Energy & Mineral Resources",
+      "canonical_label": "Energy & Mineral Resources",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 243,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 244,
+      "label": "Banking and Financial Services",
+      "canonical_label": "Banking & Finance",
+      "raw": "{\"duplicate_of\": 24}"
+    },
+    {
+      "cluster": 245,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 246,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 247,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 248,
+      "label": "Banking Industry",
+      "canonical_label": "Banking & Finance",
+      "raw": "{\"duplicate_of\": 24}"
+    },
+    {
+      "cluster": 249,
+      "label": "International Finance",
+      "canonical_label": "International Finance",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 250,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 251,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 252,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 253,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 254,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 255,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 256,
+      "label": "cocoa",
+      "canonical_label": "cocoa",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 257,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 258,
+      "label": "ECONOMY",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 259,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 260,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 261,
+      "label": "Mining Industry",
+      "canonical_label": "Mining",
+      "raw": "{\"duplicate_of\": 11}"
+    },
+    {
+      "cluster": 262,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 263,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 264,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 265,
+      "label": "Economic News",
+      "canonical_label": "Economic News",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 266,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 267,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 268,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 269,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 270,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 271,
+      "label": "Poland Economy",
+      "canonical_label": "Poland Economy",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 272,
+      "label": "Coffee Industry",
+      "canonical_label": "Coffee Industry",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 273,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 13}"
+    }
+  ],
+  "kept": [
+    "Business",
+    "Economy",
+    "Transportation",
+    "agriculture",
+    "Finance & Banking",
+    "Oil Prices and Production",
+    "Energy",
+    "Technology & Innovation",
+    "International Relations",
+    "Real Estate",
+    "International Trade and Commerce",
+    "Mining",
+    "Economic Policy",
+    "Business & Finance",
+    "Insurance Industry",
+    "Retail",
+    "Sugar Trade",
+    "Currency",
+    "Automotive Industry",
+    "Business Acquisitions",
+    "Energy & Utilities",
+    "Energy & Mineral Resources",
+    "Environment",
+    "Energy & Materials",
+    "Banking & Finance",
+    "Economic Indicators",
+    "Cocoa Industry",
+    "Technology & Electronics",
+    "Economic News",
+    "Sugar Industry",
+    "Labor Unions",
+    "Politics",
+    "Railway Industry",
+    "Trade",
+    "International Finance",
+    "cocoa",
+    "Poland Economy",
+    "Coffee Industry"
+  ],
+  "dedup": "semantic"
+}

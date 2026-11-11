@@ -1,0 +1,10 @@
+{
+  "dataset": "Reuters-21578",
+  "profile": "aligned",
+  "classifiers": [
+    "deberta",
+    "bart",
+    "xlm"
+  ],
+  "evaluated": true
+}

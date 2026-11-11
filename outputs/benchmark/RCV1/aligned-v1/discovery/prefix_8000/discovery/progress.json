@@ -1,0 +1,5631 @@
+{
+  "signature": "02e46d8a136b34ac86b80639cb3994f443bcc9a91d5d69f715471ff3a0248a2b",
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "named": [
+    {
+      "cluster": 0,
+      "label": "European football",
+      "raw": "{\"label\":\"European football\"}"
+    },
+    {
+      "cluster": 1,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 2,
+      "label": "Entertainment & Arts",
+      "raw": "{\"label\":\"Entertainment & Arts\"}"
+    },
+    {
+      "cluster": 3,
+      "label": "Politics",
+      "raw": "{\"label\":\"Politics\"}"
+    },
+    {
+      "cluster": 4,
+      "label": "Economic News",
+      "raw": "{\"label\":\"Economic News\"}"
+    },
+    {
+      "cluster": 5,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 6,
+      "label": "Airlines & Travel",
+      "raw": "{\"label\":\"Airlines & Travel\"}"
+    },
+    {
+      "cluster": 7,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 8,
+      "label": "Energy",
+      "raw": "{\"label\":\"Energy\"}"
+    },
+    {
+      "cluster": 9,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 10,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 11,
+      "label": "Tennis",
+      "raw": "{\"label\":\"Tennis\"}"
+    },
+    {
+      "cluster": 12,
+      "label": "Entertainment & Arts",
+      "raw": "{\"label\":\"Entertainment & Arts\"}"
+    },
+    {
+      "cluster": 13,
+      "label": "Mining_and_Metals",
+      "raw": "{\"label\":\"Mining_and_Metals\"}"
+    },
+    {
+      "cluster": 14,
+      "label": "Environmental Law and Policy",
+      "raw": "{\"label\":\"Environmental Law and Policy\"}"
+    },
+    {
+      "cluster": 15,
+      "label": "Crime",
+      "raw": "{\"label\":\"Crime\"}"
+    },
+    {
+      "cluster": 16,
+      "label": "Economy & Business",
+      "raw": "{\"label\":\"Economy & Business\"}"
+    },
+    {
+      "cluster": 17,
+      "label": "Sports",
+      "raw": "{\"label\":\"Sports\"}"
+    },
+    {
+      "cluster": 18,
+      "label": "Sports",
+      "raw": "{\"label\":\"Sports\"}"
+    },
+    {
+      "cluster": 19,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 20,
+      "label": "Sports",
+      "raw": "{\"label\":\"Sports\"}"
+    },
+    {
+      "cluster": 21,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 22,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 23,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 24,
+      "label": "FINANCE & ECONOMICS",
+      "raw": "[\"FINANCE & ECONOMICS\"]"
+    },
+    {
+      "cluster": 25,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 26,
+      "label": "Real Estate",
+      "raw": "{\"label\":\"Real Estate\"}"
+    },
+    {
+      "cluster": 27,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 28,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 29,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 30,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 31,
+      "label": "Airlines & Aviation",
+      "raw": "{\"label\":\"Airlines & Aviation\"}"
+    },
+    {
+      "cluster": 32,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 33,
+      "label": "Asia-Pacific",
+      "raw": "{\"label\":\"Asia-Pacific\"}"
+    },
+    {
+      "cluster": 34,
+      "label": "Conflict And War",
+      "raw": "{\"label\":\"Conflict And War\"}"
+    },
+    {
+      "cluster": 35,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 36,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 37,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 38,
+      "label": "Health Care",
+      "raw": "{\"label\":\"Health Care\"}"
+    },
+    {
+      "cluster": 39,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 40,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 41,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 42,
+      "label": "History",
+      "raw": "{\"label\":\"History\"}"
+    },
+    {
+      "cluster": 43,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 44,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 45,
+      "label": "automobiles_and_driving",
+      "raw": "{\"label\":\"automobiles_and_driving\"}"
+    },
+    {
+      "cluster": 46,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 47,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 48,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 49,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 50,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 51,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 52,
+      "label": "Health & Medicine",
+      "raw": "{\"label\":\"Health & Medicine\"}"
+    },
+    {
+      "cluster": 53,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 54,
+      "label": "Sports",
+      "raw": "{\"label\":\"Sports\"}"
+    },
+    {
+      "cluster": 55,
+      "label": "Tropical Cyclone",
+      "raw": "{\"label\":\"Tropical Cyclone\"}"
+    },
+    {
+      "cluster": 56,
+      "label": "ECONOMICS",
+      "raw": "{\"label\":\"ECONOMICS\"}"
+    },
+    {
+      "cluster": 57,
+      "label": "Shipping and Maritime",
+      "raw": "{\"label\":\"Shipping and Maritime\"}"
+    },
+    {
+      "cluster": 58,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 59,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 60,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 61,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 62,
+      "label": "Energy & Mineral Resources",
+      "raw": "{\"label\":\"Energy & Mineral Resources\"}"
+    },
+    {
+      "cluster": 63,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 64,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 65,
+      "label": "Politics",
+      "raw": "{\"label\":\"Politics\"}"
+    },
+    {
+      "cluster": 66,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 67,
+      "label": "Business & Economy",
+      "raw": "{\"label\":\"Business & Economy\"}"
+    },
+    {
+      "cluster": 68,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 69,
+      "label": "tennis",
+      "raw": "{\"label\":\"tennis\"}"
+    },
+    {
+      "cluster": 70,
+      "label": "International Trade",
+      "raw": "{\"label\":\"International Trade\"}"
+    },
+    {
+      "cluster": 71,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 72,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 73,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 74,
+      "label": "Military",
+      "raw": "{\"label\":\"Military\"}"
+    },
+    {
+      "cluster": 75,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 76,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 77,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 78,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 79,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 80,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 81,
+      "label": "Middle East",
+      "raw": "{\"label\":\"Middle East\"}"
+    },
+    {
+      "cluster": 82,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 83,
+      "label": "Football",
+      "raw": "{\"label\":\"Football\"}"
+    },
+    {
+      "cluster": 84,
+      "label": "Middle East Politics",
+      "raw": "{\"label\":\"Middle East Politics\"}"
+    },
+    {
+      "cluster": 85,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 86,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 87,
+      "label": "Finance & Business",
+      "raw": "{\"label\":\"Finance & Business\"}"
+    },
+    {
+      "cluster": 88,
+      "label": "Politics",
+      "raw": "{\"label\":\"Politics\"}"
+    },
+    {
+      "cluster": 89,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 90,
+      "label": "Law & Courts",
+      "raw": "{\"label\":\"Law & Courts\"}"
+    },
+    {
+      "cluster": 91,
+      "label": "Middle East",
+      "raw": "{\"label\":\"Middle East\"}"
+    },
+    {
+      "cluster": 92,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 93,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 94,
+      "label": "Economy & Business",
+      "raw": "{\"label\":\"Economy & Business\"}"
+    },
+    {
+      "cluster": 95,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 96,
+      "label": "Sports",
+      "raw": "{\"label\":\"Sports\"}"
+    },
+    {
+      "cluster": 97,
+      "label": "Military",
+      "raw": "{\"label\":\"Military\"}"
+    },
+    {
+      "cluster": 98,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 99,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 100,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 101,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 102,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 103,
+      "label": "International News",
+      "raw": "{\"label\":\"International News\"}"
+    },
+    {
+      "cluster": 104,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 105,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 106,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 107,
+      "label": "Technology & Computing",
+      "raw": "{\"label\":\"Technology & Computing\"}"
+    },
+    {
+      "cluster": 108,
+      "label": "Asia-Pacific",
+      "raw": "{\"label\":\"Asia-Pacific\"}"
+    },
+    {
+      "cluster": 109,
+      "label": "Healthcare & Medical",
+      "raw": "{\"label\":\"Healthcare & Medical\"}"
+    },
+    {
+      "cluster": 110,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 111,
+      "label": "Energy",
+      "raw": "{\"label\":\"Energy\"}"
+    },
+    {
+      "cluster": 112,
+      "label": "Health & Medicine",
+      "raw": "{\"label\":\"Health & Medicine\"}"
+    },
+    {
+      "cluster": 113,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 114,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 115,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 116,
+      "label": "Commodities",
+      "raw": "{\"label\":\"Commodities\"}"
+    },
+    {
+      "cluster": 117,
+      "label": "Baseball",
+      "raw": "{\"label\":\"Baseball\"}"
+    },
+    {
+      "cluster": 118,
+      "label": "Economy & Business",
+      "raw": "{\"label\":\"Economy & Business\"}"
+    },
+    {
+      "cluster": 119,
+      "label": "ECONOMICS",
+      "raw": "{\"label\":\"ECONOMICS\"}"
+    },
+    {
+      "cluster": 120,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 121,
+      "label": "Software & Hardware",
+      "raw": "{\"label\":\"Software & Hardware\"}"
+    },
+    {
+      "cluster": 122,
+      "label": "Economic Indicators",
+      "raw": "{\"label\":\"Economic Indicators\"}"
+    },
+    {
+      "cluster": 123,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 124,
+      "label": "Food and Agriculture",
+      "raw": "{\"label\":\"Food and Agriculture\"}"
+    },
+    {
+      "cluster": 125,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 126,
+      "label": "Aircraft Manufacturing & Aviation",
+      "raw": "{\"label\":\"Aircraft Manufacturing & Aviation\"}"
+    },
+    {
+      "cluster": 127,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 128,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 129,
+      "label": "Healthcare & Medical",
+      "raw": "{\"label\":\"Healthcare & Medical\"}"
+    },
+    {
+      "cluster": 130,
+      "label": "Wildfire",
+      "raw": "{\"label\":\"Wildfire\"}"
+    },
+    {
+      "cluster": 131,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 132,
+      "label": "Economy & Business",
+      "raw": "{\"label\":\"Economy & Business\"}"
+    },
+    {
+      "cluster": 133,
+      "label": "History",
+      "raw": "{\"label\":\"History\"}"
+    },
+    {
+      "cluster": 134,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 135,
+      "label": "Telecommunications",
+      "raw": "{\"label\":\"Telecommunications\"}"
+    },
+    {
+      "cluster": 136,
+      "label": "Law & Politics",
+      "raw": "{\"label\":\"Law & Politics\"}"
+    },
+    {
+      "cluster": 137,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 138,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 139,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 140,
+      "label": "Energy",
+      "raw": "{\"label\":\"Energy\"}"
+    },
+    {
+      "cluster": 141,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 142,
+      "label": "Energy",
+      "raw": "{\"label\":\"Energy\"}"
+    },
+    {
+      "cluster": 143,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 144,
+      "label": "Financials",
+      "raw": "{\"label\":\"Financials\"}"
+    },
+    {
+      "cluster": 145,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 146,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 147,
+      "label": "Sports",
+      "raw": "{\"label\":\"Sports\"}"
+    },
+    {
+      "cluster": 148,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 149,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 150,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 151,
+      "label": "Currency",
+      "raw": "{\"label\":\"Currency\"}"
+    },
+    {
+      "cluster": 152,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 153,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 154,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 155,
+      "label": "technology",
+      "raw": "technology"
+    },
+    {
+      "cluster": 156,
+      "label": "Hurricane",
+      "raw": "{\"label\":\"Hurricane\"}"
+    },
+    {
+      "cluster": 157,
+      "label": "Crime And Punishment",
+      "raw": "{\"label\":\"Crime And Punishment\"}"
+    },
+    {
+      "cluster": 158,
+      "label": "Stock Market",
+      "raw": "{\"label\":\"Stock Market\"}"
+    },
+    {
+      "cluster": 159,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 160,
+      "label": "Automotive Industry",
+      "raw": "{\"label\":\"Automotive Industry\"}"
+    },
+    {
+      "cluster": 161,
+      "label": "Judicial Proceedings",
+      "raw": "{\"label\":\"Judicial Proceedings\"}"
+    },
+    {
+      "cluster": 162,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 163,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 164,
+      "label": "Economic News",
+      "raw": "{\"label\":\"Economic News\"}"
+    },
+    {
+      "cluster": 165,
+      "label": "Golf",
+      "raw": "{\"label\":\"Golf\"}"
+    },
+    {
+      "cluster": 166,
+      "label": "Commodities",
+      "raw": "{\"label\":\"Commodities\"}"
+    },
+    {
+      "cluster": 167,
+      "label": "Stock Market",
+      "raw": "{\"label\":\"Stock Market\"}"
+    },
+    {
+      "cluster": 168,
+      "label": "Politics",
+      "raw": "{\"label\":\"Politics\"}"
+    },
+    {
+      "cluster": 169,
+      "label": "Politics",
+      "raw": "{\"label\":\"Politics\"}"
+    },
+    {
+      "cluster": 170,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 171,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 172,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 173,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 174,
+      "label": "Space Exploration",
+      "raw": "{\"label\":\"Space Exploration\"}"
+    },
+    {
+      "cluster": 175,
+      "label": "Education",
+      "raw": "{\"label\":\"Education\"}"
+    },
+    {
+      "cluster": 176,
+      "label": "Cricket",
+      "raw": "{\"label\":\"Cricket\"}"
+    },
+    {
+      "cluster": 177,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 178,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 179,
+      "label": "politics",
+      "raw": "{\"label\":\"politics\"}"
+    },
+    {
+      "cluster": 180,
+      "label": "Economy & Finance",
+      "raw": "{\"label\":\"Economy & Finance\"}"
+    },
+    {
+      "cluster": 181,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 182,
+      "label": "Energy & Materials",
+      "raw": "{\"label\":\"Energy & Materials\"}"
+    },
+    {
+      "cluster": 183,
+      "label": "Crime",
+      "raw": "{\"label\":\"Crime\"}"
+    },
+    {
+      "cluster": 184,
+      "label": "Energy & Mining",
+      "raw": "{\"label\":\"Energy & Mining\"}"
+    },
+    {
+      "cluster": 185,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 186,
+      "label": "Baseball",
+      "raw": "{\"label\":\"Baseball\"}"
+    },
+    {
+      "cluster": 187,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 188,
+      "label": "Religion",
+      "raw": "{\"label\":\"Religion\"}"
+    },
+    {
+      "cluster": 189,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 190,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 191,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 192,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 193,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 194,
+      "label": "Sports",
+      "raw": "{\"label\":\"Sports\"}"
+    },
+    {
+      "cluster": 195,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 196,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 197,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 198,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 199,
+      "label": "Politics",
+      "raw": "{\"label\":\"Politics\"}"
+    },
+    {
+      "cluster": 200,
+      "label": "Crime",
+      "raw": "{\"label\":\"Crime\"}"
+    },
+    {
+      "cluster": 201,
+      "label": "Economic News",
+      "raw": "{\"label\":\"Economic News\"}"
+    },
+    {
+      "cluster": 202,
+      "label": "Telecommunications",
+      "raw": "{\"label\":\"Telecommunications\"}"
+    },
+    {
+      "cluster": 203,
+      "label": "Economic News",
+      "raw": "{\"label\":\"Economic News\"}"
+    },
+    {
+      "cluster": 204,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 205,
+      "label": "Commodities",
+      "raw": "{\"label\":\"Commodities\"}"
+    },
+    {
+      "cluster": 206,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 207,
+      "label": "Energy",
+      "raw": "{\"label\":\"Energy\"}"
+    },
+    {
+      "cluster": 208,
+      "label": "Missing Persons/Abduction",
+      "raw": "{\"label\":\"Missing Persons/Abduction\"}"
+    },
+    {
+      "cluster": 209,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 210,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 211,
+      "label": "Economic Indicators",
+      "raw": "{\"label\":\"Economic Indicators\"}"
+    },
+    {
+      "cluster": 212,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 213,
+      "label": "Stock Market",
+      "raw": "{\"label\":\"Stock Market\"}"
+    },
+    {
+      "cluster": 214,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 215,
+      "label": "Nigeria",
+      "raw": "{\"label\":\"Nigeria\"}"
+    },
+    {
+      "cluster": 216,
+      "label": "Politics",
+      "raw": "{\"label\":\"Politics\"}"
+    },
+    {
+      "cluster": 217,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 218,
+      "label": "Aerospace & Defense",
+      "raw": "{\"label\":\"Aerospace & Defense\"}"
+    },
+    {
+      "cluster": 219,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 220,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 221,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 222,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 223,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 224,
+      "label": "Stocks",
+      "raw": "{\"label\":\"Stocks\"}"
+    },
+    {
+      "cluster": 225,
+      "label": "Sport",
+      "raw": "{\"label\":\"Sport\"}"
+    },
+    {
+      "cluster": 226,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 227,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 228,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 229,
+      "label": "Sports",
+      "raw": "{\"label\":\"Sports\"}"
+    },
+    {
+      "cluster": 230,
+      "label": "Economy & Trade",
+      "raw": "{\"label\":\"Economy & Trade\"}"
+    },
+    {
+      "cluster": 231,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 232,
+      "label": "Currency",
+      "raw": "{\"label\":\"Currency\"}"
+    },
+    {
+      "cluster": 233,
+      "label": "Military",
+      "raw": "{\"label\":\"Military\"}"
+    },
+    {
+      "cluster": 234,
+      "label": "Immigration and Migration",
+      "raw": "{\"label\":\"Immigration and Migration\"}"
+    },
+    {
+      "cluster": 235,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 236,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 237,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 238,
+      "label": "Mining & Resources",
+      "raw": "{\"label\":\"Mining & Resources\"}"
+    },
+    {
+      "cluster": 239,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 240,
+      "label": "Sports",
+      "raw": "{\"label\":\"Sports\"}"
+    },
+    {
+      "cluster": 241,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 242,
+      "label": "Immigration",
+      "raw": "{\"label\":\"Immigration\"}"
+    },
+    {
+      "cluster": 243,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 244,
+      "label": "Economic",
+      "raw": "{\"label\":\"Economic\"}"
+    },
+    {
+      "cluster": 245,
+      "label": "Politics",
+      "raw": "{\"label\":\"Politics\"}"
+    },
+    {
+      "cluster": 246,
+      "label": "Energy & Resources",
+      "raw": "{\"label\":\"Energy & Resources\"}"
+    },
+    {
+      "cluster": 247,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 248,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 249,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 250,
+      "label": "Music & Arts",
+      "raw": "{\"label\":\"Music & Arts\"}"
+    },
+    {
+      "cluster": 251,
+      "label": "Trade",
+      "raw": "{\"label\":\"Trade\"}"
+    },
+    {
+      "cluster": 252,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 253,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 254,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 255,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 256,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 257,
+      "label": "Energy & Raw Materials",
+      "raw": "{\"label\":\"Energy & Raw Materials\"}"
+    },
+    {
+      "cluster": 258,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 259,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 260,
+      "label": "Crime",
+      "raw": "{\"label\":\"Crime\"}"
+    },
+    {
+      "cluster": 261,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 262,
+      "label": "Conflict And War",
+      "raw": "{\"label\":\"Conflict And War\"}"
+    },
+    {
+      "cluster": 263,
+      "label": "Conflict And Military",
+      "raw": "{\"label\":\"Conflict And Military\"}"
+    },
+    {
+      "cluster": 264,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 265,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 266,
+      "label": "Economy & Business",
+      "raw": "{\"label\":\"Economy & Business\"}"
+    },
+    {
+      "cluster": 267,
+      "label": "Monetary Policy",
+      "raw": "{\"label\":\"Monetary Policy\"}"
+    },
+    {
+      "cluster": 268,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 269,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 270,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 271,
+      "label": "Stock Market",
+      "raw": "{\"label\":\"Stock Market\"}"
+    },
+    {
+      "cluster": 272,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 273,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 274,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 275,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 276,
+      "label": "Politics",
+      "raw": "{\"label\":\"Politics\"}"
+    },
+    {
+      "cluster": 277,
+      "label": "International News",
+      "raw": "{\"label\":\"International News\"}"
+    },
+    {
+      "cluster": 278,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 279,
+      "label": "Asia-Pacific",
+      "raw": "{\"label\":\"Asia-Pacific\"}"
+    },
+    {
+      "cluster": 280,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 281,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 282,
+      "label": "Transportation Disputes",
+      "raw": "{\"label\":\"Transportation Disputes\"}"
+    },
+    {
+      "cluster": 283,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 284,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 285,
+      "label": "Economy & Trade",
+      "raw": "{\"label\":\"Economy & Trade\"}"
+    },
+    {
+      "cluster": 286,
+      "label": "Economic",
+      "raw": "{\"label\":\"Economic\"}"
+    },
+    {
+      "cluster": 287,
+      "label": "Currency",
+      "raw": "{\"label\":\"Currency\"}"
+    },
+    {
+      "cluster": 288,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 289,
+      "label": "politics",
+      "raw": "{\"label\":\"politics\"}"
+    },
+    {
+      "cluster": 290,
+      "label": "Health & Medicine",
+      "raw": "{\"label\":\"Health & Medicine\"}"
+    },
+    {
+      "cluster": 291,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 292,
+      "label": "Missing Persons",
+      "raw": "{\"label\":\"Missing Persons\"}"
+    },
+    {
+      "cluster": 293,
+      "label": "Sports",
+      "raw": "{\"label\":\"Sports\"}"
+    },
+    {
+      "cluster": 294,
+      "label": "Insurance Industry",
+      "raw": "{\"label\":\"Insurance Industry\"}"
+    },
+    {
+      "cluster": 295,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 296,
+      "label": "Politics",
+      "raw": "{\"label\":\"Politics\"}"
+    },
+    {
+      "cluster": 297,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 298,
+      "label": "Currency",
+      "raw": "{\"label\":\"Currency\"}"
+    },
+    {
+      "cluster": 299,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 300,
+      "label": "Banking & Finance",
+      "raw": "{\"label\":\"Banking & Finance\"}"
+    },
+    {
+      "cluster": 301,
+      "label": "Sports",
+      "raw": "{\"label\":\"Sports\"}"
+    },
+    {
+      "cluster": 302,
+      "label": "Middle East",
+      "raw": "{\"label\":\"Middle East\"}"
+    },
+    {
+      "cluster": 303,
+      "label": "Financial Statements",
+      "raw": "{\"label\":\"Financial Statements\"}"
+    },
+    {
+      "cluster": 304,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 305,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 306,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 307,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 308,
+      "label": "Politics",
+      "raw": "{\"label\":\"Politics\"}"
+    },
+    {
+      "cluster": 309,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 310,
+      "label": "Soccer",
+      "raw": "{\"label\":\"Soccer\"}"
+    },
+    {
+      "cluster": 311,
+      "label": "Environment",
+      "raw": "{\"label\":\"Environment\"}"
+    },
+    {
+      "cluster": 312,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 313,
+      "label": "Economic Indicators",
+      "raw": "{\"label\":\"Economic Indicators\"}"
+    },
+    {
+      "cluster": 314,
+      "label": "Health & Medicine",
+      "raw": "{\"label\":\"Health & Medicine\"}"
+    },
+    {
+      "cluster": 315,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 316,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 317,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 318,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 319,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 320,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 321,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 322,
+      "label": "Motor Racing",
+      "raw": "{\"label\":\"Motor Racing\"}"
+    },
+    {
+      "cluster": 323,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 324,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 325,
+      "label": "Antitrust_Lawsuits",
+      "raw": "{\"label\":\"Antitrust_Lawsuits\"}"
+    },
+    {
+      "cluster": 326,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 327,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 328,
+      "label": "Currency",
+      "raw": "{\"label\":\"Currency\"}"
+    },
+    {
+      "cluster": 329,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 330,
+      "label": "Economic Indicators",
+      "raw": "{\"label\":\"Economic Indicators\"}"
+    },
+    {
+      "cluster": 331,
+      "label": "Sports",
+      "raw": "{\"label\":\"Sports\"}"
+    },
+    {
+      "cluster": 332,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 333,
+      "label": "Economy & Finance",
+      "raw": "{\"label\":\"Economy & Finance\"}"
+    },
+    {
+      "cluster": 334,
+      "label": "Military",
+      "raw": "{\"label\":\"Military\"}"
+    },
+    {
+      "cluster": 335,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 336,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 337,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 338,
+      "label": "Health & Medicine",
+      "raw": "{\"label\":\"Health & Medicine\"}"
+    },
+    {
+      "cluster": 339,
+      "label": "Politics",
+      "raw": "{\"label\":\"Politics\"}"
+    },
+    {
+      "cluster": 340,
+      "label": "Currency",
+      "raw": "{\"label\":\"Currency\"}"
+    },
+    {
+      "cluster": 341,
+      "label": "Coffee Industry",
+      "raw": "{\"label\":\"Coffee Industry\"}"
+    },
+    {
+      "cluster": 342,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 343,
+      "label": "politics",
+      "raw": "{\"label\":\"politics\"}"
+    },
+    {
+      "cluster": 344,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 345,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 346,
+      "label": "Business & Economy",
+      "raw": "{\"label\":\"Business & Economy\"}"
+    },
+    {
+      "cluster": 347,
+      "label": "Economy & Business",
+      "raw": "{\"label\":\"Economy & Business\"}"
+    },
+    {
+      "cluster": 348,
+      "label": "Weather",
+      "raw": "{\"label\":\"Weather\"}"
+    },
+    {
+      "cluster": 349,
+      "label": "Cricket",
+      "raw": "{\"label\":\"Cricket\"}"
+    },
+    {
+      "cluster": 350,
+      "label": "Taiwan-China Relations",
+      "raw": "{\"label\":\"Taiwan-China Relations\"}"
+    },
+    {
+      "cluster": 351,
+      "label": "Energy & Utilities",
+      "raw": "{\"label\":\"Energy & Utilities\"}"
+    },
+    {
+      "cluster": 352,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 353,
+      "label": "Insurance Industry",
+      "raw": "{\"label\":\"Insurance Industry\"}"
+    },
+    {
+      "cluster": 354,
+      "label": "Mining & Metals",
+      "raw": "{\"label\":\"Mining & Metals\"}"
+    },
+    {
+      "cluster": 355,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 356,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 357,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 358,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 359,
+      "label": "Insurance & Financial Services",
+      "raw": "{\"label\":\"Insurance & Financial Services\"}"
+    },
+    {
+      "cluster": 360,
+      "label": "agriculture",
+      "raw": "{\"label\":\"agriculture\"}"
+    },
+    {
+      "cluster": 361,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 362,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 363,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 364,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 365,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 366,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 367,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 368,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 369,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 370,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 371,
+      "label": "tennis",
+      "raw": "{\"label\":\"tennis\"}"
+    },
+    {
+      "cluster": 372,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 373,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 374,
+      "label": "Conflict/Peace",
+      "raw": "{\"label\":\"Conflict/Peace\"}"
+    },
+    {
+      "cluster": 375,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 376,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 377,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 378,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 379,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 380,
+      "label": "Asia-Pacific",
+      "raw": "{\"label\":\"Asia-Pacific\"}"
+    },
+    {
+      "cluster": 381,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 382,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 383,
+      "label": "Politics",
+      "raw": "{\"label\":\"Politics\"}"
+    },
+    {
+      "cluster": 384,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 385,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 386,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 387,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 388,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 389,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 390,
+      "label": "Energy & Raw Materials",
+      "raw": "{\"label\":\"Energy & Raw Materials\"}"
+    },
+    {
+      "cluster": 391,
+      "label": "Economy & Business",
+      "raw": "{\"label\":\"Economy & Business\"}"
+    },
+    {
+      "cluster": 392,
+      "label": "Bonds & Fixed Income",
+      "raw": "{\"label\":\"Bonds & Fixed Income\"}"
+    },
+    {
+      "cluster": 393,
+      "label": "Immigration_and_Affirmative_Action",
+      "raw": "{\"label\":\"Immigration_and_Affirmative_Action\"}"
+    },
+    {
+      "cluster": 394,
+      "label": "Energy",
+      "raw": "{\"label\":\"Energy\"}"
+    },
+    {
+      "cluster": 395,
+      "label": "Technology & Computing",
+      "raw": "{\"label\":\"Technology & Computing\"}"
+    },
+    {
+      "cluster": 396,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 397,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 398,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 399,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 400,
+      "label": "Immigration",
+      "raw": "{\"label\":\"Immigration\"}"
+    },
+    {
+      "cluster": 401,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 402,
+      "label": "Currency",
+      "raw": "{\"label\":\"Currency\"}"
+    },
+    {
+      "cluster": 403,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 404,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 405,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 406,
+      "label": "Disaster/ Emergency",
+      "raw": "{\"label\":\"Disaster/ Emergency\"}"
+    },
+    {
+      "cluster": 407,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 408,
+      "label": "Transportation",
+      "raw": "{\"label\":\"Transportation\"}"
+    },
+    {
+      "cluster": 409,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 410,
+      "label": "Economy & Finance",
+      "raw": "{\"label\":\"Economy & Finance\"}"
+    },
+    {
+      "cluster": 411,
+      "label": "Government Spending and Budget Cuts",
+      "raw": "{\"label\":\"Government Spending and Budget Cuts\"}"
+    },
+    {
+      "cluster": 412,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 413,
+      "label": "Conflict And War",
+      "raw": "{\"label\":\"Conflict And War\"}"
+    },
+    {
+      "cluster": 414,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 415,
+      "label": "Middle East/Israel-Palestine",
+      "raw": "{\"label\":\"Middle East/Israel-Palestine\"}"
+    },
+    {
+      "cluster": 416,
+      "label": "Baseball",
+      "raw": "{\"label\":\"Baseball\"}"
+    },
+    {
+      "cluster": 417,
+      "label": "Politics",
+      "raw": "{\"label\":\"Politics\"}"
+    },
+    {
+      "cluster": 418,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 419,
+      "label": "Sports",
+      "raw": "{\"label\":\"Sports\"}"
+    },
+    {
+      "cluster": 420,
+      "label": "Travel Guides",
+      "raw": "{\"label\":\"Travel Guides\"}"
+    },
+    {
+      "cluster": 421,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 422,
+      "label": "Crime",
+      "raw": "{\"label\":\"Crime\"}"
+    },
+    {
+      "cluster": 423,
+      "label": "Sports",
+      "raw": "{\"label\":\"Sports\"}"
+    },
+    {
+      "cluster": 424,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 425,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 426,
+      "label": "International News",
+      "raw": "{\"label\":\"International News\"}"
+    },
+    {
+      "cluster": 427,
+      "label": "agriculture",
+      "raw": "{\"label\":\"agriculture\"}"
+    },
+    {
+      "cluster": 428,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 429,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 430,
+      "label": "Politics",
+      "raw": "{\"label\":\"Politics\"}"
+    },
+    {
+      "cluster": 431,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 432,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 433,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 434,
+      "label": "Company Financials",
+      "raw": "{\"label\":\"Company Financials\"}"
+    },
+    {
+      "cluster": 435,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 436,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 437,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 438,
+      "label": "Fashion",
+      "raw": "{\"label\":\"Fashion\"}"
+    },
+    {
+      "cluster": 439,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 440,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 441,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 442,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 443,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 444,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 445,
+      "label": "Energy",
+      "raw": "{\"label\":\"Energy\"}"
+    },
+    {
+      "cluster": 446,
+      "label": "Crime",
+      "raw": "{\"label\":\"Crime\"}"
+    },
+    {
+      "cluster": 447,
+      "label": "Politics",
+      "raw": "{\"label\":\"Politics\"}"
+    },
+    {
+      "cluster": 448,
+      "label": "ECONOMY",
+      "raw": "{\"label\":\"ECONOMY\"}"
+    },
+    {
+      "cluster": 449,
+      "label": "Asia-Pacific",
+      "raw": "{\"label\":\"Asia-Pacific\"}"
+    },
+    {
+      "cluster": 450,
+      "label": "Health",
+      "raw": "{\"label\":\"Health\"}"
+    },
+    {
+      "cluster": 451,
+      "label": "Conflict and War",
+      "raw": "{\"label\":\"Conflict and War\"}"
+    },
+    {
+      "cluster": 452,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 453,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 454,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 455,
+      "label": "Health & Medicine",
+      "raw": "{\"label\":\"Health & Medicine\"}"
+    },
+    {
+      "cluster": 456,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 457,
+      "label": "Crime",
+      "raw": "{\"label\":\"Crime\"}"
+    },
+    {
+      "cluster": 458,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 459,
+      "label": "Conflict And Military",
+      "raw": "{\"label\":\"Conflict And Military\"}"
+    },
+    {
+      "cluster": 460,
+      "label": "Politics",
+      "raw": "{\"label\":\"Politics\"}"
+    },
+    {
+      "cluster": 461,
+      "label": "Baseball",
+      "raw": "{\"label\":\"Baseball\"}"
+    },
+    {
+      "cluster": 462,
+      "label": "Economic Indicators and Growth",
+      "raw": "{\"label\":\"Economic Indicators and Growth\"}"
+    },
+    {
+      "cluster": 463,
+      "label": "Business & Economy",
+      "raw": "{\"label\":\"Business & Economy\"}"
+    },
+    {
+      "cluster": 464,
+      "label": "CentralBanking",
+      "raw": "{\"label\":\"CentralBanking\"}"
+    },
+    {
+      "cluster": 465,
+      "label": "Politics",
+      "raw": "{\"label\":\"Politics\"}"
+    },
+    {
+      "cluster": 466,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 467,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 468,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 469,
+      "label": "Energy & Raw Materials",
+      "raw": "{\"label\":\"Energy & Raw Materials\"}"
+    },
+    {
+      "cluster": 470,
+      "label": "Politics",
+      "raw": "{\"label\":\"Politics\"}"
+    },
+    {
+      "cluster": 471,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 472,
+      "label": "Middle East/Israel",
+      "raw": "{\"label\":\"Middle East/Israel\"}"
+    },
+    {
+      "cluster": 473,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 474,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 475,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 476,
+      "label": "Middle East",
+      "raw": "{\"label\":\"Middle East\"}"
+    },
+    {
+      "cluster": 477,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 478,
+      "label": "Finance",
+      "raw": "Finance"
+    },
+    {
+      "cluster": 479,
+      "label": "Conflict",
+      "raw": "{\"label\":\"Conflict\"}"
+    },
+    {
+      "cluster": 480,
+      "label": "Stock Market",
+      "raw": "{\"label\":\"Stock Market\"}"
+    },
+    {
+      "cluster": 481,
+      "label": "Energy",
+      "raw": "{\"label\":\"Energy\"}"
+    },
+    {
+      "cluster": 482,
+      "label": "Energy",
+      "raw": "{\"label\":\"Energy\"}"
+    },
+    {
+      "cluster": 483,
+      "label": "International Trade",
+      "raw": "{\"label\":\"International Trade\"}"
+    },
+    {
+      "cluster": 484,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 485,
+      "label": "Finance & Business",
+      "raw": "{\"label\":\"Finance & Business\"}"
+    },
+    {
+      "cluster": 486,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    },
+    {
+      "cluster": 487,
+      "label": "Energy & Utilities",
+      "raw": "{\"label\":\"Energy & Utilities\"}"
+    },
+    {
+      "cluster": 488,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 489,
+      "label": "Commodity Prices",
+      "raw": "{\"label\":\"Commodity Prices\"}"
+    },
+    {
+      "cluster": 490,
+      "label": "Automotive",
+      "raw": "{\"label\":\"Automotive\"}"
+    },
+    {
+      "cluster": 491,
+      "label": "Financial Statements",
+      "raw": "{\"label\":\"Financial Statements\"}"
+    },
+    {
+      "cluster": 492,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 493,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 494,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 495,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 496,
+      "label": "Commodity Prices",
+      "raw": "{\"label\":\"Commodity Prices\"}"
+    },
+    {
+      "cluster": 497,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 498,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 499,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 500,
+      "label": "Technology",
+      "raw": "{\"label\":\"Technology\"}"
+    },
+    {
+      "cluster": 501,
+      "label": "Finance & Banking",
+      "raw": "{\"label\":\"Finance & Banking\"}"
+    },
+    {
+      "cluster": 502,
+      "label": "International Relations",
+      "raw": "{\"label\":\"International Relations\"}"
+    }
+  ],
+  "decisions": [
+    {
+      "cluster": 0,
+      "label": "European football",
+      "canonical_label": "European football",
+      "raw": "first label"
+    },
+    {
+      "cluster": 1,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 2,
+      "label": "Entertainment & Arts",
+      "canonical_label": "Entertainment & Arts",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 3,
+      "label": "Politics",
+      "canonical_label": "Politics",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 4,
+      "label": "Economic News",
+      "canonical_label": "Economic News",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 5,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 6,
+      "label": "Airlines & Travel",
+      "canonical_label": "Airlines & Travel",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 7,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 8,
+      "label": "Energy",
+      "canonical_label": "Energy",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 9,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 7}"
+    },
+    {
+      "cluster": 10,
+      "label": "Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 7}"
+    },
+    {
+      "cluster": 11,
+      "label": "Tennis",
+      "canonical_label": "Tennis",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 12,
+      "label": "Entertainment & Arts",
+      "canonical_label": "Entertainment & Arts",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 13,
+      "label": "Mining_and_Metals",
+      "canonical_label": "Mining_and_Metals",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 14,
+      "label": "Environmental Law and Policy",
+      "canonical_label": "Environmental Law and Policy",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 15,
+      "label": "Crime",
+      "canonical_label": "Crime",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 16,
+      "label": "Economy & Business",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 17,
+      "label": "Sports",
+      "canonical_label": "Sports",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 18,
+      "label": "Sports",
+      "canonical_label": "Sports",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 19,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 20,
+      "label": "Sports",
+      "canonical_label": "Sports",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 21,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 22,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 23,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 24,
+      "label": "FINANCE & ECONOMICS",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 7}"
+    },
+    {
+      "cluster": 25,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 26,
+      "label": "Real Estate",
+      "canonical_label": "Real Estate",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 27,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 28,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 29,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 30,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 31,
+      "label": "Airlines & Aviation",
+      "canonical_label": "Airlines & Travel",
+      "raw": "{\"duplicate_of\": 6}"
+    },
+    {
+      "cluster": 32,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 33,
+      "label": "Asia-Pacific",
+      "canonical_label": "Asia-Pacific",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 34,
+      "label": "Conflict And War",
+      "canonical_label": "Conflict And War",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 35,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 36,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 37,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 38,
+      "label": "Health Care",
+      "canonical_label": "Health Care",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 39,
+      "label": "Agriculture",
+      "canonical_label": "Agriculture",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 40,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 41,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 42,
+      "label": "History",
+      "canonical_label": "History",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 43,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 44,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 45,
+      "label": "automobiles_and_driving",
+      "canonical_label": "automobiles_and_driving",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 46,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 47,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 48,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 49,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 50,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 51,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 52,
+      "label": "Health & Medicine",
+      "canonical_label": "Health & Medicine",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 53,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 54,
+      "label": "Sports",
+      "canonical_label": "Sports",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 55,
+      "label": "Tropical Cyclone",
+      "canonical_label": "Tropical Cyclone",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 56,
+      "label": "ECONOMICS",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 57,
+      "label": "Shipping and Maritime",
+      "canonical_label": "Shipping and Maritime",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 58,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 59,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 60,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 61,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 62,
+      "label": "Energy & Mineral Resources",
+      "canonical_label": "Energy & Mineral Resources",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 63,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 64,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 65,
+      "label": "Politics",
+      "canonical_label": "Politics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 66,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 67,
+      "label": "Business & Economy",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 68,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 69,
+      "label": "tennis",
+      "canonical_label": "Tennis",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 70,
+      "label": "International Trade",
+      "canonical_label": "International Trade",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 71,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 72,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 73,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 74,
+      "label": "Military",
+      "canonical_label": "Military",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 75,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 76,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 77,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 78,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 79,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 80,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 81,
+      "label": "Middle East",
+      "canonical_label": "Middle East",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 82,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 83,
+      "label": "Football",
+      "canonical_label": "Football",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 84,
+      "label": "Middle East Politics",
+      "canonical_label": "Middle East Politics",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 85,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 86,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 87,
+      "label": "Finance & Business",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 88,
+      "label": "Politics",
+      "canonical_label": "Politics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 89,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 90,
+      "label": "Law & Courts",
+      "canonical_label": "Law & Courts",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 91,
+      "label": "Middle East",
+      "canonical_label": "Middle East",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 92,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 93,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 94,
+      "label": "Economy & Business",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 95,
+      "label": "Agriculture",
+      "canonical_label": "Agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 96,
+      "label": "Sports",
+      "canonical_label": "Sports",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 97,
+      "label": "Military",
+      "canonical_label": "Military",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 98,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 99,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 100,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 101,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 102,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 103,
+      "label": "International News",
+      "canonical_label": "International News",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 104,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 105,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 106,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 107,
+      "label": "Technology & Computing",
+      "canonical_label": "Technology & Computing",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 108,
+      "label": "Asia-Pacific",
+      "canonical_label": "Asia-Pacific",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 109,
+      "label": "Healthcare & Medical",
+      "canonical_label": "Health & Medicine",
+      "raw": "{\"duplicate_of\": 23}"
+    },
+    {
+      "cluster": 110,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 111,
+      "label": "Energy",
+      "canonical_label": "Energy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 112,
+      "label": "Health & Medicine",
+      "canonical_label": "Health & Medicine",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 113,
+      "label": "Agriculture",
+      "canonical_label": "Agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 114,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 115,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 116,
+      "label": "Commodities",
+      "canonical_label": "Commodities",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 117,
+      "label": "Baseball",
+      "canonical_label": "Baseball",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 118,
+      "label": "Economy & Business",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 119,
+      "label": "ECONOMICS",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 120,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 121,
+      "label": "Software & Hardware",
+      "canonical_label": "Software & Hardware",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 122,
+      "label": "Economic Indicators",
+      "canonical_label": "Economic Indicators",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 123,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 124,
+      "label": "Food and Agriculture",
+      "canonical_label": "Agriculture",
+      "raw": "{\"duplicate_of\": 20}"
+    },
+    {
+      "cluster": 125,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 126,
+      "label": "Aircraft Manufacturing & Aviation",
+      "canonical_label": "Aircraft Manufacturing & Aviation",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 127,
+      "label": "Agriculture",
+      "canonical_label": "Agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 128,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 129,
+      "label": "Healthcare & Medical",
+      "canonical_label": "Health & Medicine",
+      "raw": "{\"duplicate_of\": 23}"
+    },
+    {
+      "cluster": 130,
+      "label": "Wildfire",
+      "canonical_label": "Wildfire",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 131,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 132,
+      "label": "Economy & Business",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 133,
+      "label": "History",
+      "canonical_label": "History",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 134,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 135,
+      "label": "Telecommunications",
+      "canonical_label": "Telecommunications",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 136,
+      "label": "Law & Politics",
+      "canonical_label": "Law & Politics",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 137,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 138,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 139,
+      "label": "Finance",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 140,
+      "label": "Energy",
+      "canonical_label": "Energy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 141,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 142,
+      "label": "Energy",
+      "canonical_label": "Energy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 143,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 144,
+      "label": "Financials",
+      "canonical_label": "Financials",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 145,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 146,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 147,
+      "label": "Sports",
+      "canonical_label": "Sports",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 148,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 149,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 150,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 151,
+      "label": "Currency",
+      "canonical_label": "Currency",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 152,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 153,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 154,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 155,
+      "label": "technology",
+      "canonical_label": "technology",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 156,
+      "label": "Hurricane",
+      "canonical_label": "Hurricane",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 157,
+      "label": "Crime And Punishment",
+      "canonical_label": "Crime",
+      "raw": "{\"duplicate_of\": 12}"
+    },
+    {
+      "cluster": 158,
+      "label": "Stock Market",
+      "canonical_label": "Stock Market",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 159,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 160,
+      "label": "Automotive Industry",
+      "canonical_label": "Automotive Industry",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 161,
+      "label": "Judicial Proceedings",
+      "canonical_label": "Judicial Proceedings",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 162,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 163,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 164,
+      "label": "Economic News",
+      "canonical_label": "Economic News",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 165,
+      "label": "Golf",
+      "canonical_label": "Golf",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 166,
+      "label": "Commodities",
+      "canonical_label": "Commodities",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 167,
+      "label": "Stock Market",
+      "canonical_label": "Stock Market",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 168,
+      "label": "Politics",
+      "canonical_label": "Politics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 169,
+      "label": "Politics",
+      "canonical_label": "Politics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 170,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 171,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 172,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 173,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 174,
+      "label": "Space Exploration",
+      "canonical_label": "Space Exploration",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 175,
+      "label": "Education",
+      "canonical_label": "Education",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 176,
+      "label": "Cricket",
+      "canonical_label": "Cricket",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 177,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 178,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 179,
+      "label": "politics",
+      "canonical_label": "Politics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 180,
+      "label": "Economy & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 7}"
+    },
+    {
+      "cluster": 181,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 182,
+      "label": "Energy & Materials",
+      "canonical_label": "Energy & Materials",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 183,
+      "label": "Crime",
+      "canonical_label": "Crime",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 184,
+      "label": "Energy & Mining",
+      "canonical_label": "Energy & Mining",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 185,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 186,
+      "label": "Baseball",
+      "canonical_label": "Baseball",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 187,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 188,
+      "label": "Religion",
+      "canonical_label": "Religion",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 189,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 190,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 191,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 192,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 193,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 194,
+      "label": "Sports",
+      "canonical_label": "Sports",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 195,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 196,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 197,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 198,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 199,
+      "label": "Politics",
+      "canonical_label": "Politics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 200,
+      "label": "Crime",
+      "canonical_label": "Crime",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 201,
+      "label": "Economic News",
+      "canonical_label": "Economic News",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 202,
+      "label": "Telecommunications",
+      "canonical_label": "Telecommunications",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 203,
+      "label": "Economic News",
+      "canonical_label": "Economic News",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 204,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 205,
+      "label": "Commodities",
+      "canonical_label": "Commodities",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 206,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 207,
+      "label": "Energy",
+      "canonical_label": "Energy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 208,
+      "label": "Missing Persons/Abduction",
+      "canonical_label": "Missing Persons/Abduction",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 209,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 210,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 211,
+      "label": "Economic Indicators",
+      "canonical_label": "Economic Indicators",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 212,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 213,
+      "label": "Stock Market",
+      "canonical_label": "Stock Market",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 214,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 215,
+      "label": "Nigeria",
+      "canonical_label": "Nigeria",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 216,
+      "label": "Politics",
+      "canonical_label": "Politics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 217,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 218,
+      "label": "Aerospace & Defense",
+      "canonical_label": "Aerospace & Defense",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 219,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 220,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 221,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 222,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 223,
+      "label": "Agriculture",
+      "canonical_label": "Agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 224,
+      "label": "Stocks",
+      "canonical_label": "Stock Market",
+      "raw": "{\"duplicate_of\": 47}"
+    },
+    {
+      "cluster": 225,
+      "label": "Sport",
+      "canonical_label": "Sports",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 226,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 227,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 228,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 229,
+      "label": "Sports",
+      "canonical_label": "Sports",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 230,
+      "label": "Economy & Trade",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 231,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 232,
+      "label": "Currency",
+      "canonical_label": "Currency",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 233,
+      "label": "Military",
+      "canonical_label": "Military",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 234,
+      "label": "Immigration and Migration",
+      "canonical_label": "Immigration and Migration",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 235,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 236,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 237,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 238,
+      "label": "Mining & Resources",
+      "canonical_label": "Energy & Mining",
+      "raw": "{\"duplicate_of\": 55}"
+    },
+    {
+      "cluster": 239,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 240,
+      "label": "Sports",
+      "canonical_label": "Sports",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 241,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 242,
+      "label": "Immigration",
+      "canonical_label": "Immigration and Migration",
+      "raw": "{\"duplicate_of\": 60}"
+    },
+    {
+      "cluster": 243,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 244,
+      "label": "Economic",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 245,
+      "label": "Politics",
+      "canonical_label": "Politics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 246,
+      "label": "Energy & Resources",
+      "canonical_label": "Energy & Mineral Resources",
+      "raw": "{\"duplicate_of\": 26}"
+    },
+    {
+      "cluster": 247,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 248,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 249,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 250,
+      "label": "Music & Arts",
+      "canonical_label": "Entertainment & Arts",
+      "raw": "{\"duplicate_of\": 2}"
+    },
+    {
+      "cluster": 251,
+      "label": "Trade",
+      "canonical_label": "Trade",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 252,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 253,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 254,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 255,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 256,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 257,
+      "label": "Energy & Raw Materials",
+      "canonical_label": "Energy & Materials",
+      "raw": "{\"duplicate_of\": 54}"
+    },
+    {
+      "cluster": 258,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 259,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 260,
+      "label": "Crime",
+      "canonical_label": "Crime",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 261,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 262,
+      "label": "Conflict And War",
+      "canonical_label": "Conflict And War",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 263,
+      "label": "Conflict And Military",
+      "canonical_label": "Conflict And War",
+      "raw": "{\"duplicate_of\": 18}"
+    },
+    {
+      "cluster": 264,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 265,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 266,
+      "label": "Economy & Business",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 267,
+      "label": "Monetary Policy",
+      "canonical_label": "Monetary Policy",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 268,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 269,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 270,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 271,
+      "label": "Stock Market",
+      "canonical_label": "Stock Market",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 272,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 273,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 274,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 275,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 276,
+      "label": "Politics",
+      "canonical_label": "Politics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 277,
+      "label": "International News",
+      "canonical_label": "International News",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 278,
+      "label": "Agriculture",
+      "canonical_label": "Agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 279,
+      "label": "Asia-Pacific",
+      "canonical_label": "Asia-Pacific",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 280,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 281,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 282,
+      "label": "Transportation Disputes",
+      "canonical_label": "Transportation Disputes",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 283,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 284,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 285,
+      "label": "Economy & Trade",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 286,
+      "label": "Economic",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 287,
+      "label": "Currency",
+      "canonical_label": "Currency",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 288,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 289,
+      "label": "politics",
+      "canonical_label": "Politics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 290,
+      "label": "Health & Medicine",
+      "canonical_label": "Health & Medicine",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 291,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 292,
+      "label": "Missing Persons",
+      "canonical_label": "Missing Persons/Abduction",
+      "raw": "{\"duplicate_of\": 57}"
+    },
+    {
+      "cluster": 293,
+      "label": "Sports",
+      "canonical_label": "Sports",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 294,
+      "label": "Insurance Industry",
+      "canonical_label": "Insurance Industry",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 295,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 296,
+      "label": "Politics",
+      "canonical_label": "Politics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 297,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 298,
+      "label": "Currency",
+      "canonical_label": "Currency",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 299,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 300,
+      "label": "Banking & Finance",
+      "canonical_label": "Banking & Finance",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 301,
+      "label": "Sports",
+      "canonical_label": "Sports",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 302,
+      "label": "Middle East",
+      "canonical_label": "Middle East",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 303,
+      "label": "Financial Statements",
+      "canonical_label": "Financial Statements",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 304,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 305,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 306,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 307,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 308,
+      "label": "Politics",
+      "canonical_label": "Politics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 309,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 310,
+      "label": "Soccer",
+      "canonical_label": "Football",
+      "raw": "{\"duplicate_of\": 30}"
+    },
+    {
+      "cluster": 311,
+      "label": "Environment",
+      "canonical_label": "Environment",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 312,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 313,
+      "label": "Economic Indicators",
+      "canonical_label": "Economic Indicators",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 314,
+      "label": "Health & Medicine",
+      "canonical_label": "Health & Medicine",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 315,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 316,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 317,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 318,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 319,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 320,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 321,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 322,
+      "label": "Motor Racing",
+      "canonical_label": "Motor Racing",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 323,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 324,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 325,
+      "label": "Antitrust_Lawsuits",
+      "canonical_label": "Antitrust_Lawsuits",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 326,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 327,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 328,
+      "label": "Currency",
+      "canonical_label": "Currency",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 329,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 330,
+      "label": "Economic Indicators",
+      "canonical_label": "Economic Indicators",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 331,
+      "label": "Sports",
+      "canonical_label": "Sports",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 332,
+      "label": "Agriculture",
+      "canonical_label": "Agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 333,
+      "label": "Economy & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 7}"
+    },
+    {
+      "cluster": 334,
+      "label": "Military",
+      "canonical_label": "Military",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 335,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 336,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 337,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 338,
+      "label": "Health & Medicine",
+      "canonical_label": "Health & Medicine",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 339,
+      "label": "Politics",
+      "canonical_label": "Politics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 340,
+      "label": "Currency",
+      "canonical_label": "Currency",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 341,
+      "label": "Coffee Industry",
+      "canonical_label": "Coffee Industry",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 342,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 343,
+      "label": "politics",
+      "canonical_label": "Politics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 344,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 345,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 346,
+      "label": "Business & Economy",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 347,
+      "label": "Economy & Business",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 348,
+      "label": "Weather",
+      "canonical_label": "Weather",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 349,
+      "label": "Cricket",
+      "canonical_label": "Cricket",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 350,
+      "label": "Taiwan-China Relations",
+      "canonical_label": "Taiwan-China Relations",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 351,
+      "label": "Energy & Utilities",
+      "canonical_label": "Energy & Utilities",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 352,
+      "label": "Agriculture",
+      "canonical_label": "Agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 353,
+      "label": "Insurance Industry",
+      "canonical_label": "Insurance Industry",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 354,
+      "label": "Mining & Metals",
+      "canonical_label": "Mining_and_Metals",
+      "raw": "{\"duplicate_of\": 10}"
+    },
+    {
+      "cluster": 355,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 356,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 357,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 358,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 359,
+      "label": "Insurance & Financial Services",
+      "canonical_label": "Insurance & Financial Services",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 360,
+      "label": "agriculture",
+      "canonical_label": "Agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 361,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 362,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 363,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 364,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 365,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 366,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 367,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 368,
+      "label": "Agriculture",
+      "canonical_label": "Agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 369,
+      "label": "Agriculture",
+      "canonical_label": "Agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 370,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 371,
+      "label": "tennis",
+      "canonical_label": "Tennis",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 372,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 373,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 374,
+      "label": "Conflict/Peace",
+      "canonical_label": "Conflict And War",
+      "raw": "{\"duplicate_of\": 18}"
+    },
+    {
+      "cluster": 375,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 376,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 377,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 378,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 379,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 380,
+      "label": "Asia-Pacific",
+      "canonical_label": "Asia-Pacific",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 381,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 382,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 383,
+      "label": "Politics",
+      "canonical_label": "Politics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 384,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 385,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 386,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 387,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 388,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 389,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 390,
+      "label": "Energy & Raw Materials",
+      "canonical_label": "Energy & Materials",
+      "raw": "{\"duplicate_of\": 54}"
+    },
+    {
+      "cluster": 391,
+      "label": "Economy & Business",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 392,
+      "label": "Bonds & Fixed Income",
+      "canonical_label": "Bonds & Fixed Income",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 393,
+      "label": "Immigration_and_Affirmative_Action",
+      "canonical_label": "Immigration_and_Affirmative_Action",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 394,
+      "label": "Energy",
+      "canonical_label": "Energy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 395,
+      "label": "Technology & Computing",
+      "canonical_label": "Technology & Computing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 396,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 397,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 398,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 399,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 400,
+      "label": "Immigration",
+      "canonical_label": "Immigration and Migration",
+      "raw": "{\"duplicate_of\": 60}"
+    },
+    {
+      "cluster": 401,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 402,
+      "label": "Currency",
+      "canonical_label": "Currency",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 403,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 404,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 405,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 406,
+      "label": "Disaster/ Emergency",
+      "canonical_label": "Disaster/ Emergency",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 407,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 408,
+      "label": "Transportation",
+      "canonical_label": "Transportation",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 409,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 410,
+      "label": "Economy & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "{\"duplicate_of\": 7}"
+    },
+    {
+      "cluster": 411,
+      "label": "Government Spending and Budget Cuts",
+      "canonical_label": "Government Spending and Budget Cuts",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 412,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 413,
+      "label": "Conflict And War",
+      "canonical_label": "Conflict And War",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 414,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 415,
+      "label": "Middle East/Israel-Palestine",
+      "canonical_label": "Middle East/Israel-Palestine",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 416,
+      "label": "Baseball",
+      "canonical_label": "Baseball",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 417,
+      "label": "Politics",
+      "canonical_label": "Politics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 418,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 419,
+      "label": "Sports",
+      "canonical_label": "Sports",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 420,
+      "label": "Travel Guides",
+      "canonical_label": "Travel Guides",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 421,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 422,
+      "label": "Crime",
+      "canonical_label": "Crime",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 423,
+      "label": "Sports",
+      "canonical_label": "Sports",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 424,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 425,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 426,
+      "label": "International News",
+      "canonical_label": "International News",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 427,
+      "label": "agriculture",
+      "canonical_label": "Agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 428,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 429,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 430,
+      "label": "Politics",
+      "canonical_label": "Politics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 431,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 432,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 433,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 434,
+      "label": "Company Financials",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 435,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 436,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 437,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 438,
+      "label": "Fashion",
+      "canonical_label": "Fashion",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 439,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 440,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 441,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 442,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 443,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 444,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 445,
+      "label": "Energy",
+      "canonical_label": "Energy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 446,
+      "label": "Crime",
+      "canonical_label": "Crime",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 447,
+      "label": "Politics",
+      "canonical_label": "Politics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 448,
+      "label": "ECONOMY",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 449,
+      "label": "Asia-Pacific",
+      "canonical_label": "Asia-Pacific",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 450,
+      "label": "Health",
+      "canonical_label": "Health",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 451,
+      "label": "Conflict and War",
+      "canonical_label": "Conflict And War",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 452,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 453,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 454,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 455,
+      "label": "Health & Medicine",
+      "canonical_label": "Health & Medicine",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 456,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 457,
+      "label": "Crime",
+      "canonical_label": "Crime",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 458,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 459,
+      "label": "Conflict And Military",
+      "canonical_label": "Conflict And War",
+      "raw": "{\"duplicate_of\": 18}"
+    },
+    {
+      "cluster": 460,
+      "label": "Politics",
+      "canonical_label": "Politics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 461,
+      "label": "Baseball",
+      "canonical_label": "Baseball",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 462,
+      "label": "Economic Indicators and Growth",
+      "canonical_label": "Economic Indicators",
+      "raw": "{\"duplicate_of\": 38}"
+    },
+    {
+      "cluster": 463,
+      "label": "Business & Economy",
+      "canonical_label": "Economy",
+      "raw": "{\"duplicate_of\": 1}"
+    },
+    {
+      "cluster": 464,
+      "label": "CentralBanking",
+      "canonical_label": "CentralBanking",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 465,
+      "label": "Politics",
+      "canonical_label": "Politics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 466,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 467,
+      "label": "Agriculture",
+      "canonical_label": "Agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 468,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 469,
+      "label": "Energy & Raw Materials",
+      "canonical_label": "Energy & Materials",
+      "raw": "{\"duplicate_of\": 54}"
+    },
+    {
+      "cluster": 470,
+      "label": "Politics",
+      "canonical_label": "Politics",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 471,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 472,
+      "label": "Middle East/Israel",
+      "canonical_label": "Middle East/Israel-Palestine",
+      "raw": "{\"duplicate_of\": 80}"
+    },
+    {
+      "cluster": 473,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 474,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 475,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 476,
+      "label": "Middle East",
+      "canonical_label": "Middle East",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 477,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 478,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 479,
+      "label": "Conflict",
+      "canonical_label": "Conflict",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 480,
+      "label": "Stock Market",
+      "canonical_label": "Stock Market",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 481,
+      "label": "Energy",
+      "canonical_label": "Energy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 482,
+      "label": "Energy",
+      "canonical_label": "Energy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 483,
+      "label": "International Trade",
+      "canonical_label": "International Trade",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 484,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 485,
+      "label": "Finance & Business",
+      "canonical_label": "Finance & Banking",
+      "raw": "{\"duplicate_of\": 15}"
+    },
+    {
+      "cluster": 486,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 487,
+      "label": "Energy & Utilities",
+      "canonical_label": "Energy & Utilities",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 488,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 489,
+      "label": "Commodity Prices",
+      "canonical_label": "Commodity Prices",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 490,
+      "label": "Automotive",
+      "canonical_label": "Automotive Industry",
+      "raw": "{\"duplicate_of\": 48}"
+    },
+    {
+      "cluster": 491,
+      "label": "Financial Statements",
+      "canonical_label": "Financial Statements",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 492,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 493,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 494,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 495,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 496,
+      "label": "Commodity Prices",
+      "canonical_label": "Commodity Prices",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 497,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 498,
+      "label": "Finance",
+      "canonical_label": "Financials",
+      "raw": "{\"duplicate_of\": 43}"
+    },
+    {
+      "cluster": 499,
+      "label": "Agriculture",
+      "canonical_label": "Agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 500,
+      "label": "Technology",
+      "canonical_label": "technology",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 501,
+      "label": "Finance & Banking",
+      "canonical_label": "Finance & Banking",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 502,
+      "label": "International Relations",
+      "canonical_label": "International Relations",
+      "raw": "exact match"
+    }
+  ],
+  "kept": [
+    "European football",
+    "Economy",
+    "Entertainment & Arts",
+    "Politics",
+    "Economic News",
+    "International Relations",
+    "Airlines & Travel",
+    "Business & Finance",
+    "Energy",
+    "Tennis",
+    "Mining_and_Metals",
+    "Environmental Law and Policy",
+    "Crime",
+    "Sports",
+    "Business",
+    "Finance & Banking",
+    "Real Estate",
+    "Asia-Pacific",
+    "Conflict And War",
+    "Health Care",
+    "Agriculture",
+    "History",
+    "automobiles_and_driving",
+    "Health & Medicine",
+    "Tropical Cyclone",
+    "Shipping and Maritime",
+    "Energy & Mineral Resources",
+    "International Trade",
+    "Military",
+    "Middle East",
+    "Football",
+    "Middle East Politics",
+    "Law & Courts",
+    "International News",
+    "Technology & Computing",
+    "Commodities",
+    "Baseball",
+    "Software & Hardware",
+    "Economic Indicators",
+    "Aircraft Manufacturing & Aviation",
+    "Wildfire",
+    "Telecommunications",
+    "Law & Politics",
+    "Financials",
+    "Currency",
+    "technology",
+    "Hurricane",
+    "Stock Market",
+    "Automotive Industry",
+    "Judicial Proceedings",
+    "Golf",
+    "Space Exploration",
+    "Education",
+    "Cricket",
+    "Energy & Materials",
+    "Energy & Mining",
+    "Religion",
+    "Missing Persons/Abduction",
+    "Nigeria",
+    "Aerospace & Defense",
+    "Immigration and Migration",
+    "Trade",
+    "Monetary Policy",
+    "Transportation Disputes",
+    "Insurance Industry",
+    "Banking & Finance",
+    "Financial Statements",
+    "Environment",
+    "Motor Racing",
+    "Antitrust_Lawsuits",
+    "Coffee Industry",
+    "Weather",
+    "Taiwan-China Relations",
+    "Energy & Utilities",
+    "Insurance & Financial Services",
+    "Bonds & Fixed Income",
+    "Immigration_and_Affirmative_Action",
+    "Disaster/ Emergency",
+    "Transportation",
+    "Government Spending and Budget Cuts",
+    "Middle East/Israel-Palestine",
+    "Travel Guides",
+    "Fashion",
+    "Health",
+    "CentralBanking",
+    "Conflict",
+    "Commodity Prices"
+  ],
+  "dedup": "semantic"
+}

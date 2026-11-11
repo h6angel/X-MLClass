@@ -1,0 +1,37 @@
+[
+  {
+    "doc_id": 0,
+    "labels": [
+      "ECONOMICS",
+      "Business",
+      "Economy",
+      "Business & Finance",
+      "Finance",
+      "Agriculture",
+      "Transportation"
+    ]
+  },
+  {
+    "doc_id": 1,
+    "labels": [
+      "Agriculture",
+      "ECONOMICS",
+      "Economy",
+      "Transportation",
+      "Finance",
+      "Banking"
+    ]
+  },
+  {
+    "doc_id": 2,
+    "labels": [
+      "Business",
+      "ECONOMICS",
+      "Economy",
+      "Business & Finance",
+      "Finance",
+      "Agriculture",
+      "Transportation"
+    ]
+  }
+]

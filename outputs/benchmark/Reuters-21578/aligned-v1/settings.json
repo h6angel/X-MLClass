@@ -1,0 +1,113 @@
+{
+  "dataset": "Reuters-21578",
+  "profile": "aligned",
+  "subset_strategy": "dynamic",
+  "growth_step": 1000,
+  "novelty_threshold": 0.8,
+  "min_cluster_size": 20,
+  "dedup": "semantic",
+  "improvement_rule": "paper",
+  "classifiers": [
+    "deberta",
+    "bart",
+    "xlm"
+  ],
+  "majority_num": 350,
+  "max_majority_num": 5,
+  "sim_threshold": 0.55,
+  "max_add_label": 10,
+  "run_name": "aligned-v1",
+  "output_root": "C:\\mlearn\\code\\xml class\\outputs\\benchmark",
+  "initial_labels": null,
+  "train_docs": 7769,
+  "test_docs": 1000,
+  "clusters": null,
+  "iterations": 10,
+  "model": "MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33",
+  "judge_model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "output": "C:\\mlearn\\code\\xml class\\outputs\\benchmark\\Reuters-21578\\aligned-v1",
+  "dynamic": true,
+  "tail_size": 500,
+  "remove_at_most": 6,
+  "config": {
+    "train_docs": 3000,
+    "tail_size": 500,
+    "clusters": 128,
+    "clustering": "gmm",
+    "truth_file": "test_label.txt",
+    "separator": null,
+    "strip_prefix": false,
+    "domain": "Reuters news topics",
+    "instruction": "Represent documents collected from Reuters News Wire for clustering: ",
+    "improvement": {
+      "majority_num": 350,
+      "max_majority_num": 5,
+      "sim_threshold": 0.55,
+      "max_add_label": 10
+    }
+  },
+  "protocol_sources": {
+    "sources": {
+      "paper": "https://arxiv.org/html/2407.05609v1#S6.SS4",
+      "subset_growth": "Paper section 6.4: add 1000 documents until no additional labels; release dynamic_GMM.py only accepts a fixed prefix",
+      "topic_count": "Paper section 5.1 permits BERTopic estimation; notebooks/bertopic.ipynb uses MiniLM, UMAP(5,5), HDBSCAN(min_cluster_size=20). example.ipynb instead uses 10; 20 is the explicit default here, overridable",
+      "tail_sizes": "Paper section 6.4: AAPD/Reuters/RCV1 500, DBPedia 1000, Amazon 1500",
+      "improvement_defaults": "OpenWordMLTC/self_training/self_training.py argparse defaults and deletion rule; no complete per-dataset tuning mapping is published",
+      "paper_rule": "Paper sections 5.3 and 6.4: frequency >15, frequency <1%, median maximum similarity threshold. Exact frequency population, ordering and addition cap are operational choices recorded in iteration logs",
+      "classifiers": "OpenWordMLTC/zero-shot/zero-shot_AAPD_test.py main: BART, XLM-R, DeBERTa; improvement separately defaults to DeBERTa"
+    },
+    "improvement_defaults": {
+      "majority_num": 350,
+      "max_majority_num": 5,
+      "sim_threshold": 0.55,
+      "max_add_label": 10
+    },
+    "unpublished": [
+      "Dataset-specific mappings for majority_num, max_majority_num, sim_threshold and max_add_label",
+      "Exact final iteration count in Amazon extended-iteration experiments",
+      "Exact equivalence rule for no additional labels during dynamic subset selection"
+    ]
+  },
+  "runtime_versions": {
+    "torch": "2.1.1+cu121",
+    "transformers": "4.44.2",
+    "sentence-transformers": "2.2.2",
+    "hdbscan": "0.8.40",
+    "umap-learn": "0.5.4",
+    "pynndescent": "0.5.13",
+    "numba": "0.58.1",
+    "llvmlite": "0.41.1",
+    "scikit-learn": "1.3.2",
+    "numpy": "1.24.4"
+  },
+  "inputs": {
+    "train": {
+      "text": "0e68617c3aad46aa19148e09b2601b367ee56c5e435159e9c6b582ff5a8b5d94",
+      "keywords": "0a48eef564006773d9b36ea27d13fbe7d935fbbeffaf827d28f744fc192bb0e0"
+    },
+    "test": {
+      "text": "faa9946081c94b26cc33ebfbb294132315dcf6e3e068e41d4de9f2437bf164d3",
+      "keywords": "8a9ea3f195ba75ccc086411e411e221fe2c5bd03df39015b63f288867cf16fdd"
+    },
+    "test_truth": "286a0e5dcbc0f11872c103a1321064f7fa06e5efd91f7c80e89eaffbb73623aa",
+    "train_truth": "f59565598698c528a733507c69793d2099a1ac4aa10010febf9e284feca57294"
+  },
+  "initial_labels_sha256": null,
+  "implementation": {
+    "run_pipeline.py": "832f13b4b5108d7e6c23c07190259d756395b966e7f132bcebb30cdafb02585a",
+    "pipeline_data.py": "fe7b3dfd059418ef4d23ce04dfb6916903fec3a9b8ea7963cda5732e5636a9d2",
+    "pipeline_alignment.py": "c03bb489eea33b07f967e276d034ea151b9137a6efbcc3bfad9f9ae04960deb5",
+    "pipeline_metrics.py": "e604956ff65a1a3a6a7b445fd3d9c04959808239badf36bbd8370d2153be3afb",
+    "aapd_pipeline.py": "80220e0bc56a01c4e76633ee8704ec021d9faf73f3ff0f71f566a5c8c65ab9c7",
+    "aapd_local_labels.py": "4a1775cc0e07e4dfb931c745b0fe0be4af83334737d3bf0345041b2614c87709",
+    "aapd_models.py": "9968095088ba2069076234ef812672df8824a33ac076062965efe1d6edb71ace"
+  },
+  "author_improvement_sha256": "6d5aba73d04c9535e55ab3b4802d1990478d2ee98cd9284bae7bc4e42fd39140",
+  "deviations": [
+    "Qwen replaces original Llama naming and GPT judging; supplied Llama keywords retained.",
+    "Dynamic stopping operationalized by cumulative semantic novelty at the recorded threshold; paper gives no precise matching rule.",
+    "Unpublished per-dataset tuning is not claimed: release defaults and every override are recorded.",
+    "Default test ID limit 1000 follows released evaluator, not necessarily full test set.",
+    "Coverage vocabulary is union of supplied train/test labels; no manual refinement."
+  ]
+}

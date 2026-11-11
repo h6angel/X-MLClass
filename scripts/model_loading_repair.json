@@ -1,0 +1,30 @@
+{
+  "reason": "Local-first missing-weight fallback and reuse of manifest-validated completed stages; inference settings unchanged",
+  "before": {
+    "aapd_models.py": "084bdb25e56a36b489ba46a1b6930dcb930d9fe54084526a12b1eb24f7528827",
+    "aapd_pipeline.py": "9225a598493132279e5feb5d58f2cec4a87aa022452aaaa40eac19f2ea11d62e",
+    "run_pipeline.py": "11da98ae078dc3c742b026c2cae912717d379ad65bd5c16bd1e79b1d5c1a9169"
+  },
+  "before_versions": [
+    {
+      "aapd_models.py": "295153d896b3e557c5362f285e9bc0c66604fabd8dfa71160feca8c65d48bb4f",
+      "aapd_pipeline.py": "11ebaba2d851127ad07cf8e62c918ed1dae248256a9fbc344eea297252ff6c38",
+      "run_pipeline.py": "5f1357192b622bce29ef91e165e7504c7bf0d9f7559b1a796bf9b3b118016acd"
+    },
+    {
+      "aapd_models.py": "084bdb25e56a36b489ba46a1b6930dcb930d9fe54084526a12b1eb24f7528827",
+      "aapd_pipeline.py": "9225a598493132279e5feb5d58f2cec4a87aa022452aaaa40eac19f2ea11d62e",
+      "run_pipeline.py": "11da98ae078dc3c742b026c2cae912717d379ad65bd5c16bd1e79b1d5c1a9169"
+    },
+    {
+      "aapd_models.py": "084bdb25e56a36b489ba46a1b6930dcb930d9fe54084526a12b1eb24f7528827",
+      "aapd_pipeline.py": "9225a598493132279e5feb5d58f2cec4a87aa022452aaaa40eac19f2ea11d62e",
+      "run_pipeline.py": "11da98ae078dc3c742b026c2cae912717d379ad65bd5c16bd1e79b1d5c1a9169"
+    }
+  ],
+  "after": {
+    "aapd_models.py": "9968095088ba2069076234ef812672df8824a33ac076062965efe1d6edb71ace",
+    "aapd_pipeline.py": "80220e0bc56a01c4e76633ee8704ec021d9faf73f3ff0f71f566a5c8c65ab9c7",
+    "run_pipeline.py": "1fc41f0ad0d45000763dd8c40b277c15f5d8b94a871551c3e9d7945f9c2bc576"
+  }
+}

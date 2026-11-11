@@ -1,0 +1,14 @@
+{
+  "signature": "4b972beff17b5b3e497fe7c834d42b4eda29920ef661b25f145cb2707b343e66",
+  "nli_model": "MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33",
+  "labels": [
+    "Finance",
+    "Business & Finance",
+    "Transportation",
+    "Banking",
+    "Agriculture",
+    "Business",
+    "ECONOMICS",
+    "Economy"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "labels": "C:\\mlearn\\code\\xml class\\outputs\\aapd_local\\init_label_space.txt",
+  "output": "C:\\mlearn\\code\\xml class\\outputs\\aapd_pipeline_trial",
+  "train_docs": 3000,
+  "test_docs": 3,
+  "iterations": 10,
+  "model": "MoritzLaurer/deberta-v3-large-zeroshot-v1.1-all-33",
+  "judge_model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "initial_labels_sha256": "b530453884eb151348c8f1c9b4b4e59a42de61313b35f460ae78ce3d7084c499"
+}

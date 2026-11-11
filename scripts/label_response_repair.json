@@ -1,0 +1,45 @@
+{
+  "reason": "Label response parsing and bounded retries for Windows checkpoint locks; existing validated results preserved; evaluation judge uses local cache first without changing inference; accept singleton JSON string arrays for cluster naming; decode HTML entities before label validation; bounded format-correction retries on unparseable model responses; previously validated results unchanged",
+  "before": {
+    "aapd_local_labels.py": "40539c79dc23bc60e39a0ea44b7b13469e536b9312a3cdf07d8bbf1fc3a71af7",
+    "run_pipeline.py": "1fc41f0ad0d45000763dd8c40b277c15f5d8b94a871551c3e9d7945f9c2bc576",
+    "pipeline_metrics.py": "eaf03923452fd1df05bc91be960d92bd954f34fcdb41b9bcd569392f74082e64"
+  },
+  "after": {
+    "aapd_local_labels.py": "4a1775cc0e07e4dfb931c745b0fe0be4af83334737d3bf0345041b2614c87709",
+    "run_pipeline.py": "832f13b4b5108d7e6c23c07190259d756395b966e7f132bcebb30cdafb02585a",
+    "pipeline_metrics.py": "e604956ff65a1a3a6a7b445fd3d9c04959808239badf36bbd8370d2153be3afb"
+  },
+  "before_versions": [
+    {
+      "aapd_local_labels.py": "40539c79dc23bc60e39a0ea44b7b13469e536b9312a3cdf07d8bbf1fc3a71af7",
+      "run_pipeline.py": "1fc41f0ad0d45000763dd8c40b277c15f5d8b94a871551c3e9d7945f9c2bc576",
+      "pipeline_metrics.py": "eaf03923452fd1df05bc91be960d92bd954f34fcdb41b9bcd569392f74082e64"
+    },
+    {
+      "aapd_local_labels.py": "cd4ca48760176d5a1ce776a17d5bf85f8d27f066dc235fdd11246fab5b4c3b92",
+      "run_pipeline.py": "d20244c79a03c0cbc9eaebafe973c2bba5fb735d3d93df9398b54cd2a9c1a7ed",
+      "pipeline_metrics.py": "eaf03923452fd1df05bc91be960d92bd954f34fcdb41b9bcd569392f74082e64"
+    },
+    {
+      "aapd_local_labels.py": "1002b150a58fdb18fbde97dd5318f392f5d0509e779ea421daf155b49d2a5cc6",
+      "run_pipeline.py": "832f13b4b5108d7e6c23c07190259d756395b966e7f132bcebb30cdafb02585a",
+      "pipeline_metrics.py": "eaf03923452fd1df05bc91be960d92bd954f34fcdb41b9bcd569392f74082e64"
+    },
+    {
+      "aapd_local_labels.py": "1002b150a58fdb18fbde97dd5318f392f5d0509e779ea421daf155b49d2a5cc6",
+      "run_pipeline.py": "832f13b4b5108d7e6c23c07190259d756395b966e7f132bcebb30cdafb02585a",
+      "pipeline_metrics.py": "e604956ff65a1a3a6a7b445fd3d9c04959808239badf36bbd8370d2153be3afb"
+    },
+    {
+      "aapd_local_labels.py": "a6a1974cb39e159809d7ba6e5353b55472649788ea45fed042de9d74272a2c5b",
+      "run_pipeline.py": "832f13b4b5108d7e6c23c07190259d756395b966e7f132bcebb30cdafb02585a",
+      "pipeline_metrics.py": "e604956ff65a1a3a6a7b445fd3d9c04959808239badf36bbd8370d2153be3afb"
+    },
+    {
+      "aapd_local_labels.py": "7436bff88f7dd82f15f472e6b9593d7430471891ffc8a5b785c1048d01ea4f34",
+      "run_pipeline.py": "832f13b4b5108d7e6c23c07190259d756395b966e7f132bcebb30cdafb02585a",
+      "pipeline_metrics.py": "e604956ff65a1a3a6a7b445fd3d9c04959808239badf36bbd8370d2153be3afb"
+    }
+  ]
+}

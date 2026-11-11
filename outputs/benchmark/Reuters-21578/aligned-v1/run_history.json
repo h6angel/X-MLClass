@@ -1,0 +1,122 @@
+[
+  {
+    "stage": "check",
+    "elapsed_seconds": 0.1410000000614673,
+    "success": true
+  },
+  {
+    "stage": "check",
+    "elapsed_seconds": 0.1720000000204891,
+    "success": true
+  },
+  {
+    "stage": "check",
+    "elapsed_seconds": 0.1720000000204891,
+    "success": true
+  },
+  {
+    "stage": "check",
+    "elapsed_seconds": 0.17100000008940697,
+    "success": true
+  },
+  {
+    "stage": "check",
+    "elapsed_seconds": 0.2190000000409782,
+    "success": true
+  },
+  {
+    "stage": "check",
+    "elapsed_seconds": 0.1720000000204891,
+    "success": true
+  },
+  {
+    "stage": "check",
+    "elapsed_seconds": 0.1720000000204891,
+    "success": true
+  },
+  {
+    "stage": "all",
+    "elapsed_seconds": 228.96899999980815,
+    "success": false
+  },
+  {
+    "stage": "all",
+    "elapsed_seconds": 162.73499999986961,
+    "success": false
+  },
+  {
+    "stage": "all",
+    "elapsed_seconds": 26.937999999849126,
+    "success": false
+  },
+  {
+    "stage": "all",
+    "elapsed_seconds": 62.062000000150874,
+    "success": false
+  },
+  {
+    "stage": "all",
+    "elapsed_seconds": 38044.81299999985,
+    "success": false
+  },
+  {
+    "stage": "all",
+    "elapsed_seconds": 15.797000000020489,
+    "success": false
+  },
+  {
+    "stage": "check",
+    "elapsed_seconds": 0.2190000000409782,
+    "success": true
+  },
+  {
+    "stage": "all",
+    "elapsed_seconds": 516.0150000001304,
+    "success": true
+  },
+  {
+    "stage": "all",
+    "elapsed_seconds": 5.0310000001918525,
+    "success": true
+  },
+  {
+    "stage": "check",
+    "elapsed_seconds": 0.21899999980814755,
+    "success": true
+  },
+  {
+    "stage": "all",
+    "elapsed_seconds": 5.843000000109896,
+    "success": true
+  },
+  {
+    "stage": "check",
+    "elapsed_seconds": 0.2029999999795109,
+    "success": true
+  },
+  {
+    "stage": "all",
+    "elapsed_seconds": 5.125,
+    "success": true
+  },
+  {
+    "stage": "check",
+    "elapsed_seconds": 0.17199999978765845,
+    "success": true
+  },
+  {
+    "stage": "all",
+    "elapsed_seconds": 5.030999999959022,
+    "success": true
+  },
+  {
+    "stage": "all",
+    "elapsed_seconds": 5.75,
+    "success": true
+  },
+  {
+    "stage": "all",
+    "elapsed_seconds": 4.655999999959022,
+    "success": true
+  }
+]

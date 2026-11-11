@@ -1,0 +1,42 @@
+[
+  {
+    "doc_id": 0,
+    "labels": [
+      "Computational Theory and Methods",
+      "Mathematics and Computing",
+      "Computer Science",
+      "Computer Systems and Applications",
+      "Computer Vision and Machine Learning",
+      "Algorithms & Computation",
+      "Theoretical Foundations in Computing",
+      "Compressed Sensing in Signal Processing"
+    ]
+  },
+  {
+    "doc_id": 1,
+    "labels": [
+      "Coding Theory",
+      "Communication and Information Theory",
+      "Communication Networks and Signal Processing",
+      "Information Theory and Data Compression",
+      "Coding Theory and Error Correction",
+      "Coding and Communication",
+      "Coding and Network Communications",
+      "Compressed Sensing in Signal Processing"
+    ]
+  },
+  {
+    "doc_id": 2,
+    "labels": [
+      "Optimization in Computer Science",
+      "Algorithms & Computation",
+      "AI and Machine Learning",
+      "Algorithmic Optimization",
+      "AI & Robotics",
+      "Probabilistic Analysis",
+      "Statistical Machine Learning Optimization",
+      "Computer Science Algorithms",
+      "Computational Economics and Game Theory"
+    ]
+  }
+]

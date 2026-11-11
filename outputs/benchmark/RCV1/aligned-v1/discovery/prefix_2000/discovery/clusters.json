@@ -1,0 +1,2617 @@
+{
+  "samples": 9238,
+  "seed": 42,
+  "requested_clusters": null,
+  "resolved_clusters": 124,
+  "count_source": "BERTopic clustering stage; notebooks/bertopic.ipynb; excludes noise topic -1",
+  "count_backend": {
+    "library": "hdbscan.HDBSCAN",
+    "min_samples": 20
+  },
+  "clusters": [
+    {
+      "cluster": 0,
+      "chunk_count": 311,
+      "examples": [
+        {
+          "document_id": 1039,
+          "text": "Brazilian state-owned oil company Petrobras bought $163.7 million worth in materials and equipment in July, the company said.This brings total expenditure on capital goods to $825.1 million in the first seven months of 1996, Petrobras said.The exploration and production sectors spent the most in in July at $79.4 million. The",
+          "keyphrases": "corporate/industrial, energy/natural resources, finance/expenditure, operations/production"
+        },
+        {
+          "document_id": 1931,
+          "text": "continue to reduce its cost base over the next few years and aimed to cut its workforce by four percent annually. OMV employed 8,663 staff on June 30, down from 10,028 at the same time last year.Gas remained by far the biggest contributor to group earnings in the first half.",
+          "keyphrases": "corporate/industrial, economics/finance, labor/workforce, energy/natural resources"
+        },
+        {
+          "document_id": 920,
+          "text": "of this month,\" said a Privatisation Agency official, who declined to be named.The refinery stopped production last November due to a lack of cash to buy crude. Earlier this year Bulgaria's Biohim Bank blocked credits of $40 million that it had granted the refinery against its assets.Plama produces mainly lubricating",
+          "keyphrases": "business/economy, energy/natural resources, production/manufacturing, finance/banking"
+        }
+      ]
+    },
+    {
+      "cluster": 1,
+      "chunk_count": 70,
+      "examples": [
+        {
+          "document_id": 37,
+          "text": "gave it control of the management.Ford sent Wallace to Japan to represent its interests in Mazda two years ago.\"If successful, Wallace may continue appearing in Mazda's future ads,\" the company spokesman said.</",
+          "keyphrases": "business/finance, automotive, marketing/advertising, management/leadership"
+        },
+        {
+          "document_id": 1677,
+          "text": "the troubled Japanese automaker, Wallace was given the top spot when Ford increased its equity stake in the company to about one-third.Wallace comes originally from Edinburgh, Scotland, and has been employed by Ford for 25 years. He first joined Ford's British operation.Mazda decided to use Wallace in its ads as",
+          "keyphrases": "business/finance, manufacturing/industry, automotive, marketing/advertising"
+        },
+        {
+          "document_id": 37,
+          "text": "the troubled Japanese automaker, Wallace was given the top spot when Ford increased its equity stake in the company to about one-third.Wallace comes originally from Edinburgh, Scotland, and has been employed by Ford for 25 years. He first joined Ford's British operation.Mazda decided to use Wallace in its ads as",
+          "keyphrases": "business/finance, automotive, management/leadership, advertising/marketing"
+        }
+      ]
+    },
+    {
+      "cluster": 2,
+      "chunk_count": 238,
+      "examples": [
+        {
+          "document_id": 1325,
+          "text": "that supported Pataki have gotten a bigger share.Long Island got 27 percent of all the grants, nearly twice as many as any other area, he said. The senator noted that a key adviser of Pataki, U.S. Sen. Alfonse D'Amato, and the chairman of the Empire State Development Corp, Charles Gargano,",
+          "keyphrases": "government/politics, economy/finance, elections/campaigns, regulation/policy"
+        },
+        {
+          "document_id": 1723,
+          "text": "principal defects.Some of his longtime supporters sharply criticised his decision, arguing that the bill would hurt children and throw hundreds of thousands into poverty. Many analysts viewed his decision to sign it as the latest in a series of moves toward the political centre before the Nov. 5 presidential election.</",
+          "keyphrases": "government/politics, economy/finance, legislation/regulation, election/campaign"
+        },
+        {
+          "document_id": 357,
+          "text": "called for an increase when he campaigned for president in 1992, and his fellow Democrats, who forced it through over the objections of many Republicans.The fact that both of the Republican-controlled houses of Congress passed the legislation with strong majorities reflects election-year imperatives, as few legislators are willing to go",
+          "keyphrases": "government/politics, economy/finance, election/campaign, legislation/regulation"
+        }
+      ]
+    },
+    {
+      "cluster": 3,
+      "chunk_count": 94,
+      "examples": [
+        {
+          "document_id": 937,
+          "text": "Meterological Service said.National radio network Radio Red reported that around 800 people had been evacuated from Punta Allen and Solidaridad, two sparsely populated communities close to where Dolly came ashore.Dolly, the fourth weather system of this Atlantic season, packed sustained winds of 75 mph (120 kmh) and gusts of 94",
+          "keyphrases": "disaster/accident, weather, natural disasters/hurricanes, environment/climate"
+        },
+        {
+          "document_id": 937,
+          "text": "once it reached the warm waters of the Gulf of Mexico.</",
+          "keyphrases": "natural/environmental, disaster/accident, weather/climate, geography/location"
+        },
+        {
+          "document_id": 945,
+          "text": "in a statement.The actions were aimed at safeguarding the lives of workers and protecting offshore installations, Pemex said. \"Pemex authorities will be watching the trajectory and intensity of this weather system in order to apply other emergency actions, as happened in October last year because of the presence of the",
+          "keyphrases": "natural disasters, energy/utilities, weather, safety/accidents"
+        }
+      ]
+    },
+    {
+      "cluster": 4,
+      "chunk_count": 17,
+      "examples": [
+        {
+          "document_id": 755,
+          "text": "Zimbabwean industrial shares continued active on Tuesday, but losses in some key counters dragged the main industrial index 15.06 points lower to 5,517.66.Dealers noted that 20-, 10-, and 40-cent losses in Tobacco Sales Limited (TSL) at 340, cement producer Circle Cement at 670 and multi-industrial group Radar at 140 outweighed",
+          "keyphrases": "business/finance, international/foreign, economy/investing, manufacturing/industry"
+        },
+        {
+          "document_id": 51,
+          "text": "Britain.German subsidiaries like Muelhens, the maker of the 4711 Eau de Cologne, improved sharply while Wella's core domestic business did not perform as well, the spokesman said.That is reflected in figures for the parent company which reported its sales trimmed by 5.3 percent to 415 million marks ($278.6 million) while",
+          "keyphrases": "business/economy, international/foreign, markets/marketing, production/services"
+        },
+        {
+          "document_id": 199,
+          "text": "Finnish food and chemicals group Raision Tehtaat Oy said in a statement on Tuesday its net sales target in Poland this year was 300 million markka.It said Raisio's Polish subsidiary had reached a 12 percent share of the Polish margarine market. \"The (Polish) company's managing director Seppo Heinio says that",
+          "keyphrases": "business/economy, international/foreign, markets/marketing, production/services"
+        }
+      ]
+    },
+    {
+      "cluster": 5,
+      "chunk_count": 193,
+      "examples": [
+        {
+          "document_id": 742,
+          "text": "Former Zimbabwean president Caanan Banana is mediating between Sierra Leone's government and rebels in an effort to push forward the nation's stalled peace process, government sources said on Tuesday.\"The Reverend Caanan Banana was requested by the OAU secretary general to mediate between the government of Sierra Leone and the RUF",
+          "keyphrases": "government/politics, international/Africa, diplomacy/mediation, conflict/war"
+        },
+        {
+          "document_id": 741,
+          "text": "Burundi's new Tutsi strongman Pierre Buyoya has shocked the Tutsi-dominated army by sacking its powerful chief-of-staff in an apparent first step to tighten control over the unruly military.Analysts said top officers were still stunned on Wednesday over this and two other dismissals seen as ending army impunity in the violent,",
+          "keyphrases": "government/politics, military/defense, Africa, violence/unrest"
+        },
+        {
+          "document_id": 739,
+          "text": "international condemnation of his coup d'etat.Army intimidation at the camp could be the direct result of government policy, but it could also indicate Buyoya's difficulty controlling local military commanders, analysts said.\"We are caught between a military who are going to become more vociferous and violent and certain elements in the",
+          "keyphrases": "government/politics, international/foreign affairs, conflict/violence, military/defense"
+        }
+      ]
+    },
+    {
+      "cluster": 6,
+      "chunk_count": 34,
+      "examples": [
+        {
+          "document_id": 386,
+          "text": "Quarterly Latest Prior Amount $0.10 $0.10 Pay Sept 25 Record Sept 4</",
+          "keyphrases": "finance/economy"
+        },
+        {
+          "document_id": 1332,
+          "text": "% 8.25 (Approx. $ PTC 08/15/2008 101.876)08/15/2014 475M 8.50 % 8.25 (Approx. $ PTC 08/15/2008 101.876)08/15/2015 250M 8.50 % 8.25 (Approx. $ PTC 08/15/2008 101.876)08/15/2016 120M 8.50 % 8.25 (Approx. $ PTC 08/15/2008 101.876)08/15/2017 120M 8.50 % 8.25 (Approx. $ PTC 08/15/2008 101.876)08/15/2018 120M 8.50 % 8.25 (Approx. $ PTC",
+          "keyphrases": "finance/economy"
+        },
+        {
+          "document_id": 1474,
+          "text": "Market Committee meeting would likely be ignored. With traders split on whether to switch to flattening trades or continue with curve steepening purchases at the short end on hopes of further gains, the market was practically stuck.\"The trend remains pro-steepening...there is no appetite to buy 15- or 20-year paper,\" said",
+          "keyphrases": "finance/economy"
+        }
+      ]
+    },
+    {
+      "cluster": 7,
+      "chunk_count": 171,
+      "examples": [
+        {
+          "document_id": 352,
+          "text": "6.7 points.Currency markets, however, marked time in early European trading. The dollar was ticking over in Europe barely changed from Monday's closing levels, with the market awaiting the outcome of the FOMC meeting.\"It's hard to find anyone looking for a Fed tightening today,\" said Jeremy Hawkins, senior economic adviser at",
+          "keyphrases": "economics, finance, currency markets, monetary policy"
+        },
+        {
+          "document_id": 1955,
+          "text": "economy it had better act now.\"But a minority of economists, possibly wary that the central bank appeared four weeks ago to prepare markets for a repo cut, but then failed to deliver the goods, said they had now given up expecting a further easing at all this cycle.Armin Kayser at",
+          "keyphrases": "economics, business, monetary policy, central banking"
+        },
+        {
+          "document_id": 156,
+          "text": "this (current economic scene) is a central banker nirvana.\"Martin cited a positive inflation outlook as one of the main reasons keeping the Fed on hold over the next few months.But not everyone agrees with that scenario.\"My guess is (a rate rise) is going to be right back on tap after",
+          "keyphrases": "economics, finance, central banking, monetary policy"
+        }
+      ]
+    },
+    {
+      "cluster": 8,
+      "chunk_count": 100,
+      "examples": [
+        {
+          "document_id": 1538,
+          "text": "= 8.19% 2 month forward = 10.75% 2 month forward = 8.70% 3 month forward = 10.92% 3 month forward = 9.21% 4 month forward = 11.18% 4 month forward = 9.55% 5 month forward = 11.61% 5 month forward =10.16% 6 month forward = 11.39% 6 month forward =10.26%--",
+          "keyphrases": "finance/economy, business/industry, markets/marketing, production/services"
+        },
+        {
+          "document_id": 1529,
+          "text": "foreign exchange bearer certificates closed at 9.60 percent compared to the opening at 9.70 percent.-- Ibrahim Khan 9221-5685192</",
+          "keyphrases": "finance/economy, business/industry, markets/marketing, production/services"
+        },
+        {
+          "document_id": 1379,
+          "text": "4,000 lots.--Suzanne Rostler, New York Commodities Desk 212-859-1640</",
+          "keyphrases": "finance/economics, business/industry, markets/marketing, production/services"
+        }
+      ]
+    },
+    {
+      "cluster": 9,
+      "chunk_count": 79,
+      "examples": [
+        {
+          "document_id": 568,
+          "text": "per common share .01 .07 .04 .10 SELECTED FINANCIAL DATA (In thousands except per share data)Selected Balance Sheet Data Jun 30, 1996 Dec. 31, 1995 Total Investments $138,705 $135,603 Total Assets 193,119 182,994 Total Liablilities 172,837 158,880 Total Stockholders' Equity 20,282 24,114 Total Common Shares Outstanding 6,976 6,958 Book Value",
+          "keyphrases": "finance/economy, business/industry, investment/stocks, company/financial data"
+        },
+        {
+          "document_id": 607,
+          "text": "1996 1995 Shr $0.01 $0.05 Net 26 100 Revs 3,792 4,108 SIX MONTHS ENDED JUNE 30 Shr $0.00 loss $0.14 Net 2 loss 281 Revs 7,695 6,917(All data above 000s except per share numbers)</",
+          "keyphrases": "finance/economy, business/industry, stock market/investment, company performance/earnings"
+        },
+        {
+          "document_id": 1857,
+          "text": "1996 1995 Shr 0.21 0.26 Net 849 651 Revs 40,299 38,023 Avg shrs 4,027 2,489 12 MONTHS Shr 1.08 0.78 Net 3,850 1,916 Revs 167,149 138,683 Avg shrs 3,554 2,461(All data above 000s except per share numbers)</",
+          "keyphrases": "finance/economy, business/industry, stock market/investment, company performance/revenue"
+        }
+      ]
+    },
+    {
+      "cluster": 10,
+      "chunk_count": 33,
+      "examples": [
+        {
+          "document_id": 276,
+          "text": "after a county match against Kent in May. A second test also proved positive. His case went to a hearing which was adjourned on Monday after more than four hours.On Tuesday Giddens was whisked away from the hearing after just 20 minutes, telling reporters: \"I've absolutely nothing to say. I",
+          "keyphrases": "sports, celebrity/people, crime/law enforcement, health/medicine"
+        },
+        {
+          "document_id": 289,
+          "text": "news conference to take one last shot at Phoenix, where he said he would have played out his career if the club had not sought to trade him away.\"The bottom line was, I originally wanted to finish my career in Phoenix, but I told them if they were going to",
+          "keyphrases": "sports, celebrity/entertainment, basketball, player/personalities"
+        },
+        {
+          "document_id": 988,
+          "text": "and was to appear in court on Sept. 3. He could be jailed for two months if found guilty.It was his second attempt at climbing a landmark building in Rio in the last three days. He successfully scaled a 38-floor building on Sunday in the city centre.Robert, a father of",
+          "keyphrases": "crime, law enforcement, sports/adventure, legal/judicial, people/individuals"
+        }
+      ]
+    },
+    {
+      "cluster": 11,
+      "chunk_count": 142,
+      "examples": [
+        {
+          "document_id": 915,
+          "text": "earlier this year defected from the ruling Lithuanian Democratic Labour Party (LDLP).- The jeep which belongs to one of the suspected leaders of Vilnius Brigade criminal group Viaceslav Zaboronok, nicknamed Kozlik, was blown up in Vilnius Monday morning. Zaboronok was shot two weeks ago and police experts forecast a mob",
+          "keyphrases": "government/politics, crime/law enforcement, political parties, criminal activity"
+        },
+        {
+          "document_id": 797,
+          "text": "These are the leading stories in the Kenyan press on Tuesday. Reuters has not verified these stories and does not vouch for their accuracy.DAILY NATION- Opposition FORD-Kenya (Forum for the Restoration of Democracy) will institute private criminal prosecutions against 30 individuals and firms named in the Public Investment Committee report",
+          "keyphrases": "government/politics, crime/law enforcement, legal/judicial, political parties/movements"
+        },
+        {
+          "document_id": 1506,
+          "text": "contacted the former minister even days after its raid on his houses.----The Hindustan TimesBHARATIYA JANATA PARTY GOVERNMENT IN GUJARAT MAY FALLThe Suresh Mehta Gujarat government was rattled by the decision of breakaway factions of the ruling Bharatiya Janata Party (BJP) to launch a new party. Expelled BJP rebel leader Shakarsinh",
+          "keyphrases": "government/politics, crime/law enforcement, legal/judicial, political parties/movements"
+        }
+      ]
+    },
+    {
+      "cluster": 12,
+      "chunk_count": 42,
+      "examples": [
+        {
+          "document_id": 98,
+          "text": "before the release of the actual figures,\" said a Sydney broker.\"No-one wants to be too brave so you've seen some profit taking after a strong couple of days.\"The afternoon losses were spread around, resulting in a mixed bag of closes among the leaders.\"It was mixed at the end but all",
+          "keyphrases": "business/finance"
+        },
+        {
+          "document_id": 591,
+          "text": "report to executive Donald Boudreau, to whom Walsh has also reported.</",
+          "keyphrases": "business/finance"
+        },
+        {
+          "document_id": 414,
+          "text": "SCHERER HEALTHCARE, INC. Unaudited Financial Summary (In thousands, except per share data) Three months ended June 30, 1996 1995 Net sales $9,059 $11,468 Operating income (loss) (74) 206 Income (loss) from continuing operations (14) 143 Loss from discontinued operations --- (326) Net loss (14) (183)Income (loss) from continuing operations per",
+          "keyphrases": "business/finance"
+        }
+      ]
+    },
+    {
+      "cluster": 13,
+      "chunk_count": 59,
+      "examples": [
+        {
+          "document_id": 1840,
+          "text": "income taxes 3,579,000 1,779,000 Net Income 2,208,000 1,082,000 Earnings per common share 0.56 0.27Weighted average number of common shares outstanding 3,935,000 3,952,000-- New York Newsdesk 212 859-1610</",
+          "keyphrases": "business/finance, economics/taxation, corporate/industrial, financial/investment"
+        },
+        {
+          "document_id": 1188,
+          "text": "yuan in 1995.Jinxing, involved in foreign trade, cargo handling and real estate, blamed the loss on Beijing's tight credit policies and its lowering of export tax rebates.Jinxing said its current liabilities stood at 92.84 million yuan by end June 1996 versus 1995's 85.71 million.Current assets stood at 88.53 million yuan,",
+          "keyphrases": "business/finance, economics/trade, credit/lending, taxation/rebates"
+        },
+        {
+          "document_id": 1833,
+          "text": "(17) 15 (36) 15Total other income (expense) (111) 17 (169) 67Income before income taxes 1,452 659 5,273 3,499 Income tax expense 634 254 2,250 1,352 Net income 818 405 3,023 2,147 Net income per common share 0.11 0.06 0.40 0.31Weighted averagenumber of commonand commonequivalent shares outstanding 7,503 7,631 7,612 7,319</",
+          "keyphrases": "finance/economy, business/industry, taxation, corporate/financial"
+        }
+      ]
+    },
+    {
+      "cluster": 14,
+      "chunk_count": 412,
+      "examples": [
+        {
+          "document_id": 1956,
+          "text": "point to this to take the overall public sector deficit to 4.4 percent.</",
+          "keyphrases": "economics/finance, government/social, budget/spending, public sector"
+        },
+        {
+          "document_id": 1115,
+          "text": "1996/97, still contributing the bulk of the savings.The spending cuts really kick in during 1997/98, when A$5.2 billion is saved despite the extra spending.(Accompanying reports itemise spending and revenue measures.)The biggest single spending cut is on labour market programmes, essentially cancelling the Working Nation funding that the former government announced",
+          "keyphrases": "government/social, economics/finance, labor/employment, budget/spending"
+        },
+        {
+          "document_id": 759,
+          "text": "10.5 billion rand.\"This requires urgent attention. It clearly indicates that the question is not simply one of allocating more resources, but paying attention to capacity, reprioritisation, efficiency and the effectiveness of spending within all departments and provincs.\"Ongoing discussions are taking place with the departments reflecting large rollovers, as to both",
+          "keyphrases": "government/social, economics/finance, budget/spending, efficiency/productivity"
+        }
+      ]
+    },
+    {
+      "cluster": 15,
+      "chunk_count": 58,
+      "examples": [
+        {
+          "document_id": 1490,
+          "text": "prices were also weaker even though the Swiss National Bank added liquidity to the money market this morning at rates slightly below the market, traders said.An SNB spokesman said only that the SNB was remaining flexible in responding to demand in the market. -- Zurich Editorial, +41 1 631 7340</",
+          "keyphrases": "economics/finance, government/social, markets/marketing, production/services"
+        },
+        {
+          "document_id": 823,
+          "text": "in July, the IMF Sofia representative Franek Rozwadowski said.-- Fuel prices are expected to rise by some 15-20 percent from September 1 due to a fall of the national currency, the lev, on the local forex market, the National Price Commission said.24 CHASA-- The State Fund for Reconstruction and Development",
+          "keyphrases": "economics/finance, government/social, markets/marketing, production/services"
+        },
+        {
+          "document_id": 847,
+          "text": "around 4,000 state companies were offered in exchange for coupons and vouchers doled out to some 17 million adult Romanians.Subscription level at the end of the process this spring was about 90 percent.Brokers say the main reason for the bourse's recent poor performance is the absence of big institutional investors,",
+          "keyphrases": "economics/finance, government/social, markets/marketing, production/services"
+        }
+      ]
+    },
+    {
+      "cluster": 16,
+      "chunk_count": 57,
+      "examples": [
+        {
+          "document_id": 323,
+          "text": "1605/1305 GMT - Bonds closed higher in quiet trade with themarket eyeing U.S. and German central bank meetings fordirection. *Markka closed weaker but strong sentiment prevailed,forex dealers said. *FRA rates closed flat.---------------------- 1605 vs 1605 Monday -------------------- *FIM-06 yld pct 7.22 vs 7.24 *06 gap over Bund bps 97 vs",
+          "keyphrases": "None"
+        },
+        {
+          "document_id": 565,
+          "text": "Quarterly Latest Prior Amount $0.27 $0.27 Pay Sept 16 Record Sept 3</",
+          "keyphrases": "None"
+        },
+        {
+          "document_id": 598,
+          "text": "Net income (loss) 34 (686) Series B Preferred Stock dividends 22 19Net income (loss) allocable to common stockholders $12 $ (705)Earnings per share: Income (loss) per share .00 (0.08)Weighted average common and common equivalent shares outstanding 9,701 8,651-- New York Newsdesk 212 859-1610</",
+          "keyphrases": "None"
+        }
+      ]
+    },
+    {
+      "cluster": 17,
+      "chunk_count": 41,
+      "examples": [
+        {
+          "document_id": 1086,
+          "text": "million.Excluding this adjustment, earnings of $25.0 million were 12.6 percent higher, and revenues from product sales, pipeline transportation services and specialist contract services rose by 2.7 percent to $248.8 million.Pre-adjustment earnings before interest and tax were 3.7 percent higher at $132.4 million.Natural Gas said the improved sales and cost reductions,",
+          "keyphrases": "corporate/industrial, finance/economics, markets/marketing, production/services"
+        },
+        {
+          "document_id": 420,
+          "text": "Company Name Xomed Surgical Products IncNasdaq Stock symbol XOMDEstimated price range $19-$21/shrTotal Class A shares to be offered 2.5 millionShrs outstanding after ipo 6,879,362Lead Underwriter Alex Brown &amp; SonsUnderwriters over-allotment 375,000 shrs Business: Developer, manufacturer and marketer of surgical products for use by ear, nose and throat specialists. Use of",
+          "keyphrases": "corporate/industrial, finance/investment, markets/marketing, production/services"
+        },
+        {
+          "document_id": 44,
+          "text": "has set up a committee of directors to oversee the sale and that Goldman, Sachs &amp; Co. has been retained as its financial adviser.</",
+          "keyphrases": "corporate/industrial, finance/economy, markets/marketing, production/services"
+        }
+      ]
+    },
+    {
+      "cluster": 18,
+      "chunk_count": 31,
+      "examples": [
+        {
+          "document_id": 286,
+          "text": "Major League Baseballstandings after games played on Monday (tabulate under won,lost, winning percentage and games behind): AMERICAN LEAGUE EASTERN DIVISION W L PCT GB NEW YORK 71 52 .577 - BALTIMORE 65 58 .528 6 BOSTON 61 64 .488 11 TORONTO 56 69 .448 16 DETROIT 42 82 .339 29",
+          "keyphrases": "sports, competition, baseball, standings"
+        },
+        {
+          "document_id": 286,
+          "text": "58 67 .464 20 NEW YORK 58 68 .460 20 1/2 PHILADELPHIA 50 75 .400 28 CENTRAL DIVISION ST LOUIS 67 57 .540 - HOUSTON 67 58 .536 1/2 CINCINNATI 62 60 .508 4 CHICAGO 61 62 .496 5 1/2 PITTSBURGH 52 72 .419 15 WESTERN DIVISION SAN DIEGO 68",
+          "keyphrases": "sports, business/finance, baseball, team performance,"
+        },
+        {
+          "document_id": 286,
+          "text": "1/2 CENTRAL DIVISION CLEVELAND 75 50 .600 - CHICAGO 69 57 .548 6 1/2 MINNESOTA 62 62 .500 12 1/2 MILWAUKEE 59 67 .468 16 1/2 KANSAS CITY 58 68 .460 17 1/2 WESTERN DIVISION TEXAS 72 53 .576 - SEATTLE 64 59 .520 7 OAKLAND 62 65 .488 11",
+          "keyphrases": "sports, business/finance, baseball, team performance"
+        }
+      ]
+    },
+    {
+      "cluster": 19,
+      "chunk_count": 189,
+      "examples": [
+        {
+          "document_id": 898,
+          "text": "Russia's central bank introduced controls on the amount of promissory notes banks can issue and withdrew licences from 22 small banks, the bank said on Tuesday.From October 1 banks will have to include promissory notes, a high-risk instrument popular in Russia's cash-strapped economy, when calculating their capital ratios, Dmitry Budakov,",
+          "keyphrases": "economy/finance, government/regulation, banking/financial, regulatory/legal"
+        },
+        {
+          "document_id": 1502,
+          "text": "one-third of the amount for debt-retirement, federal minister for privatisation Naveed Qamar said.- Pakistan will sign a $26 million loan agreement with the International Development Association aimed at improving financial reporting and auditing in Pakistan, sources said.BUSINESS RECORDER- The Setdco Group of Indonesia and Dutch PTT Telecom have arrived in",
+          "keyphrases": "business, government, finance/economy, technology/communication"
+        },
+        {
+          "document_id": 1295,
+          "text": "is one of the highest forms of micromanagement,\" a CBOT spokesman said.The rules also apply to all trading records, such as orders received on the floor through electronic order routing systems and \"flashed\" orders, not just trading cards, the CFTC official said. \"This is a perfect example of how a",
+          "keyphrases": "business/finance, government/regulatory, markets/trading, technology/computing"
+        }
+      ]
+    },
+    {
+      "cluster": 20,
+      "chunk_count": 82,
+      "examples": [
+        {
+          "document_id": 1964,
+          "text": "biggest dredging company posted first-half profits of 41.4 million guilders.\"First-half results will clearly come in lower than last year, but the question is how much lower,\" ING Barings' Paul Verbraeken said.\"Boskalis described capacity utilisation in the first half as 'moderate' and it depends how you interpret that,\" he added.Verbraeken is",
+          "keyphrases": "business/finance, industry/manufacturing, economics/profits, investing/stocks"
+        },
+        {
+          "document_id": 215,
+          "text": "rose in lively trade boosted by improved third quarter profits for its competitor Harnischfeger. Valmet rose one markka to 73.20.</",
+          "keyphrases": "business/finance, manufacturing/industry, stocks/investing, companies/corporations"
+        },
+        {
+          "document_id": 1957,
+          "text": "and sent the share price to a high at 89.50 crowns before it dropped back to close 3.50 crowns up at 87.50 crowns.Elkem said a shortfall captive power production and higher than average spot electricity prices had added 20 million crowns to the group's power costs during the first six",
+          "keyphrases": "business/finance, industry/manufacturing, stock market/investing, production/operations"
+        }
+      ]
+    },
+    {
+      "cluster": 21,
+      "chunk_count": 135,
+      "examples": [
+        {
+          "document_id": 1730,
+          "text": "USDA reported farmer-owned reserve national five day average prices through Aug 19 as follows (in dollars/bu, sorghum in dollars/cwt): Average Level Release Price Wheat 4.42 IV 4.00 Corn 4.02 IV 2.75 Oats 1.94 IV 1.45 Barley 2.61 IV 2.36 Sorghum 6.22 IV 4.66Note - The 1985 farm bill mandates the",
+          "keyphrases": "agriculture, economics/finance, commodities/farming, government/legislation"
+        },
+        {
+          "document_id": 1312,
+          "text": "U.S. crop as of Sunday was in the dough stage of development on 37 percent of the acreage, behind the 43 percent pace a year ago and behind the 55 percent pace of a year ago.The government also cited a decline in condition ratings for the crop with 62 percent",
+          "keyphrases": "agriculture, government/politics, crops/farming, economy/finance"
+        },
+        {
+          "document_id": 836,
+          "text": "Chomiak, a representative of the Washington-based Chemonics commodities research group in Kiev.\"They call it restrictions, but the farms are now dealing grain to the state,\" said a Western trader whose company does not hold forward contracts but believed a ban is in place.Ukraine has forecast the 1996 grain harvest at",
+          "keyphrases": "agriculture/farming, business/economy, commodities/trading, government/policy"
+        }
+      ]
+    },
+    {
+      "cluster": 22,
+      "chunk_count": 24,
+      "examples": [
+        {
+          "document_id": 1243,
+          "text": "CH 1-3 CH 1-3 SE 1-3 SE 1-3Index 550-700 700-850 550-700 700-850Values = $98.14 $96.10 $93.44 $91.52Change = 1.43 1.46 1.25 1.16----------------------------------------Current Index Reflects the Equivalent of 55,198 hd of cattle.SUPPLY (Live)Equivalent: $97.75 $95.71 $93.05 $91.13 2,758 HdDEMAND (Box)Equivalent: $98.53 $96.49 $93.83 $91.91 52,440 Hd* Five Area Direct Cattle Data",
+          "keyphrases": "agriculture, business/finance, livestock/cattle, economics/prices"
+        },
+        {
+          "document_id": 1435,
+          "text": "U.S. Plains cattle markets erupted into active trading by late morning Tuesday, with brisk sales at $68.00 per cwt, up $1.00 from earlier and up $2.00 from a week ago, feedlot sources said.About 11,000 head had traded so far in the Texas Panhandle/western Oklahoma area, mostly at $68.00 following a",
+          "keyphrases": "agriculture, economy/finance, livestock/meat, commodities/futures"
+        },
+        {
+          "document_id": 724,
+          "text": "200.00 to 205.00Source: Manitoba Pork.(Winnipeg bureau 204 947 3548)</",
+          "keyphrases": "agriculture, economy/finance, livestock, commodities/futures"
+        }
+      ]
+    },
+    {
+      "cluster": 23,
+      "chunk_count": 24,
+      "examples": [
+        {
+          "document_id": 560,
+          "text": "the economy is going,\" said Lyle Gramley, a former Fed governor and currently an economist at the Mortgage Bankers Association of America.How long could that take? \"Well, I think the Fed will move sometime later this year... It may well be until very late this year, possibly even December, before",
+          "keyphrases": "economics, government/social, monetary policy, federal reserve"
+        },
+        {
+          "document_id": 407,
+          "text": "Federal Reserve should keep rates where they are.\"If the economy slows sharply later in the year, the Fed should consider cutting interest rates,\" he added.</",
+          "keyphrases": "economics, government/social, monetary policy, federal reserve"
+        },
+        {
+          "document_id": 503,
+          "text": "economy has validated the Fed's strategy of waiting until they see data for the second half of the year,\" Feinman said.\"They did say the (inflation) risks were to the upside, but that the whole point of their strategy was to wait until they saw how the third quarter was turning",
+          "keyphrases": "economics, government/social, monetary policy, federal reserve"
+        }
+      ]
+    },
+    {
+      "cluster": 24,
+      "chunk_count": 194,
+      "examples": [
+        {
+          "document_id": 1472,
+          "text": "has the resources to assess the competition effects of code-sharing agreements or even to calculate their market share impact,\" the expert said.The scale of the Commission's task was evident from the conclusions of a recent report it commissioned into the impact of code-share deals, the practice by which collaborating airlines",
+          "keyphrases": "travel/transportation, business/finance, competition/antitrust, regulation/legal"
+        },
+        {
+          "document_id": 358,
+          "text": "total Europe to U.S. market, British Airway's chief executive Robert Ayling said in July.The sheer size of the plan made it impossible for the Commission to hold off on a move it had earlier considered but rejected for United Airlines's tie-up with Lufthansa.The probe is to cover the competition effects",
+          "keyphrases": "business/economy, transportation, competition/antitrust, regulation/legal"
+        },
+        {
+          "document_id": 358,
+          "text": "airlines agree to use the same flight codes on respective services for a route in order to attract feeder traffic passengers to use an apparently seamless service.\"Potential competition problems might arise (from code-shares) as the possibilities for non code-sharing carriers to compete on a global network scale are limited,\" said",
+          "keyphrases": "industry/manufacturing, transportation/logistics, competition/antitrust, regulation/policy"
+        }
+      ]
+    },
+    {
+      "cluster": 25,
+      "chunk_count": 210,
+      "examples": [
+        {
+          "document_id": 1089,
+          "text": "bln Thu 0130 Balance of payments Jul -1,291 bln Fri 0130 Retail trade Jul +0.1 pct Fri 0130 Building approvals Jul -7.9 pct CAPEX Car Reg.Access +3.7 n/fAMP flat -8.0ANZ Banking -2.0 -10.8Bain n/a -20.0BIS Shrapnel +4.0 n/fBT Australia +1.0 -11.0BZW Australia -3.8 -15.0Citibank n/f -18.0/-8.0Cmmonwealth +2.0 -15.0CS 1st Boston",
+          "keyphrases": "economics/finance, business/industry, balance of payments, retail trade"
+        },
+        {
+          "document_id": 304,
+          "text": "to clients rose to13.36 percent in June, from 13.13 percent in May, the CNB said. CZECH FOREIGN TRADE JAN-JUNE JAN-MAY JAN-JUNE '95 imports (CZK bln) 364.35 301.45 (301.98) 319.39 exports 294.62 245.85 (247.07) 276.67 balance -69.73 -55.61 (-54.92) -42.73Note. Figures are in billions of crowns on a customs- clearedbasis. 1996",
+          "keyphrases": "economics/finance, business/industry, trade/imports, balance/exports"
+        },
+        {
+          "document_id": 303,
+          "text": "reserves (in $bln) 3.712 3.504 2.708 Commercial banks 1.223 1.287 1.588 Entire banking sector 4.935 4.791 4.296 SLOVAK CURRENT ACCOUNT JAN-MAY '96 JAN-APR '96 JAN-MAY '95 overall -708.9 -603.9 +363.6 trade balance -848.4 -713.6 +27.4 balance of services +60.0 +58.6 +320.2 income balance +36.4 +19.0 +7.9 current transfers +43.0 +32.1",
+          "keyphrases": "economics/finance, business/industry, balance of trade, current account"
+        }
+      ]
+    },
+    {
+      "cluster": 26,
+      "chunk_count": 27,
+      "examples": [
+        {
+          "document_id": 195,
+          "text": "looked particularily strong even though better earnings were expected due to a seasonal surge in sales.Raiffeisen's Tarnowski said Cieszyn recorded its best monthly result in history.-- Warsaw Newsroom +48 22 653 9700</",
+          "keyphrases": "business/finance, economy/trade, markets/marketing, production/services"
+        },
+        {
+          "document_id": 1968,
+          "text": "tomorrow,\" one dealer said.The KFX top-20 index closed at 120.59, 0.38 point up and a new all-time end-of-day record while the KFX September future rose 0.10 point to 120.50 with 124 contracts each worth 100,000 crowns traded. Unidanmark dominated the day, posting a better than expected interim pre-tax profit but",
+          "keyphrases": "business/finance, economy/trade, markets/marketing, production/services"
+        },
+        {
+          "document_id": 670,
+          "text": "index of 100 leading British shares ended up 19.5 points at 3,883.2. Frankfurt's 30-share DAX index closed down 2.5 at 2,563.20. The electronic IBIS DAX was up 5.87. Paris's CAC-40 finished up 33.05 at 2,019.347.PRECIOUS METALSGold closed a little firmer at $387.55 an ounce vs Monday's $386.65, awaiting the outcome",
+          "keyphrases": "business/finance, economy/trade, markets/marketing, production/services"
+        }
+      ]
+    },
+    {
+      "cluster": 27,
+      "chunk_count": 6,
+      "examples": [
+        {
+          "document_id": 1268,
+          "text": "No 7, Ark. GO 8/28/96 $4.260 Bristol, Conn. GO 8/29/96 $27.000 Sparta Twp Brd of Educ, N.J. GO 9/4/96 $3.250 Marion Cty Brd of Ed, W.Va. GO 9/4/96 $3.045 St. Louis Cty ISD No. 2142, Minn. GO 9/9/96 $22.545 Alabama Bldg Renov Fin Authority REV 9/10/96NEGOTIATED SALES AMOUNT ISSUER SR.",
+          "keyphrases": "government/social, finance/economy, bonds/municipal, education/schools"
+        },
+        {
+          "document_id": 1434,
+          "text": "Merrill Lynch &amp; Co said it won $24 million of Frt Mill School District No. 4, S.C., general obligation bonds, Series 1996, with a net interest ccost of 5.312 percent.</",
+          "keyphrases": "finance/economy, government/social, bonds, education"
+        },
+        {
+          "document_id": 1237,
+          "text": "RE: $12,425,000ENLARGED CITY SCHOOL DISTRICT OF THECITY OF AMSTERDAMMONTGOMERY COUNTY NEW YORKGENERAL OBLIGATIONSSCHOOL DISTRICT (SERIAL) BONDS, 1996REPRICING IS AS FOLLOWS: MOODY'S: Aaa S&amp;P: AAA UND ADelivery Date: 08/27/1996FSA INSUREDMaturity Balance Coupon List06/15/2002 595M 4.70 4.5506/15/2003 1,050M 4.75 4.6506/15/2004 1,145M 4.75 4.75 Total: 2,790MMerrill Lynch &amp; Co.Smith Barney Inc.Roosevelt &amp; Cross,",
+          "keyphrases": "finance/economy, government/social, bonds/investments, education/schools"
+        }
+      ]
+    },
+    {
+      "cluster": 28,
+      "chunk_count": 45,
+      "examples": [
+        {
+          "document_id": 1182,
+          "text": "but they were just checking and not serious in buying.\"Buyers were generally awaiting lower prices, said dealers.\"I see the market maintaining present levels,\" said another dealer. \"But if the SMR20 breaks the 300 level, it could go a long way down.\" At the close, the Malaysian Rubber Exchange and Licensing",
+          "keyphrases": "economics/finance, business/industry, markets/marketing, production/services"
+        },
+        {
+          "document_id": 1424,
+          "text": "spread between the two contracts.Sellers made the move because Wednesday is the last trading day for the August contract.Buying interest was low. \"It's been slow,\" a Minnesota broker said. \"Everything's hand to mouth.\"The export market remained flat, with one broker reporting four or five barges traded on Monday, but no",
+          "keyphrases": "economics/finance, business/industry, markets/marketing, production/services"
+        },
+        {
+          "document_id": 91,
+          "text": "expansion year-on-year.While some dealers said that as long as the rates hang above 10 percent foreign speculators will remain interested in the crown, though Robert Hakszer of Slovenska Sporitelna noted: \"In the longer-term, rates could slowly ease to 10-12 percent, spoiling some of the crown's attraction.\"\"It would be enough to",
+          "keyphrases": "economics/finance, business/industry, markets/marketing, production/services"
+        }
+      ]
+    },
+    {
+      "cluster": 29,
+      "chunk_count": 51,
+      "examples": [
+        {
+          "document_id": 1789,
+          "text": "he said.Higher interest charges in the second quarter also affected the company's profits. The higher charges came from long-term debt obligations incurred during the year.APRIL Group said it expects the interest costs to be reduced in the second half of the year because of the ongoing conversion to U.S. dollar-denominated",
+          "keyphrases": "finance/economy, business/industry, interest/interest rates, debt/borrowing"
+        },
+        {
+          "document_id": 464,
+          "text": "Co.Standard &amp; Poor's raised the company's corporate credit rating to B-minus from CCC-plus, reflecting the fact that the refinancing will allow the company to repay its outstanding debt and avoid onerous near-term maturities.In other secondary trade, troubled Stratosphere first mortgage notes hung in a 81 bid, 83 offer market, unchanged",
+          "keyphrases": "finance/economy, business/industry, credit/debt, securities/investments"
+        },
+        {
+          "document_id": 991,
+          "text": "tender agreements. G = Bank liquidity paper. H = Financial liabilities. Date *A* *B* *C* *D* *E* *F* *G* *H* Aug 06 18,714 3,173 21,887 13,487 13,508 3,391 545 17,462 Aug 07 18,757 3,056 21,813 13,569 13,590 3,394 549 17,549 Aug 08 18,894 3,032 21,926 13,541 13,594 3,536 549 17,694",
+          "keyphrases": "finance, business, liquidity, financial liabilities"
+        }
+      ]
+    },
+    {
+      "cluster": 30,
+      "chunk_count": 29,
+      "examples": [
+        {
+          "document_id": 363,
+          "text": "European Commissioner Sir Leon Brittan presents communication on the second phase of the integration of textile and clothing products under GATT.- European Commission President Jacques Santer and European Commissioners Yves-Thibault de Silguy and Mario Monti present communication on the legal framework for the use of the Euro.- European Commission President",
+          "keyphrases": "government/politics, economics/finance, international relations, monetary policy"
+        },
+        {
+          "document_id": 733,
+          "text": "48 percent, well above the official target of 18 percent to 22 percent.However, that is only part of the story. This excessive monetary expansion occurred despite a huge - and increasingly unsustainable - sterilization campaign by the central bank.By July, the Reserve Bank of Zimbabwe's Treasury bill issue had grown",
+          "keyphrases": "economics/finance, government/politics, monetary policy, central banking"
+        },
+        {
+          "document_id": 560,
+          "text": "Fed would never surprise the Treasury. There is frequent contact between Fed and White House and Treasury officials,\" Martin said. \"I used to play tennis with those guys. The Fed has a tennis court, amazingly enough.\"However, the mere fact a presidential race was underway has not prevent the Fed from",
+          "keyphrases": "government/social, economics/finance, politics/government, central banking/monetary policy"
+        }
+      ]
+    },
+    {
+      "cluster": 31,
+      "chunk_count": 19,
+      "examples": [
+        {
+          "document_id": 594,
+          "text": "are targeting very specific market segments, we don't have any interest, or desire to offer a vehicle for every possible application.\"</",
+          "keyphrases": "corporate/industrial, markets/marketing, technology/software, strategy/planning"
+        },
+        {
+          "document_id": 64,
+          "text": "Emerging Markets Data Plc (EMD) said on Tuesday it had agreed to an on-line partnership with British information service M.A.I.D Plc.The deal will allow M.A.I.D to globally distribute EMD's information and data via the firm's Corporate Profound and Profound for the Internet products.\"The relationship with M.A.I.D will have a considerable",
+          "keyphrases": "corporate/industrial, technology/computing, markets/marketing, data/information"
+        },
+        {
+          "document_id": 610,
+          "text": "American Management Systems said Tuesday it received an $8.5 million, one-year contract to develop a customer-care and billing system for Microcell Telecommunications Inc.The customer-care and billing system, known as Spectrum2000, will be used to support Microcell's digital PCS 1900 communications protocol.PCS is a new generation of wireless communications systems integrating",
+          "keyphrases": "corporate/industrial, technology/computing, markets/marketing, production/services"
+        }
+      ]
+    },
+    {
+      "cluster": 32,
+      "chunk_count": 117,
+      "examples": [
+        {
+          "document_id": 1094,
+          "text": "said.The June figure for non-residential buildings was 39.5 percent higher than the year ago figure. It included NZ$49.1 million for factories and industrial buildings, $45.1 million for shops, restaurants and taverns, $28.8 million for education buildings, $25.3 million for storage buildings, and $25.0 million for offices and administration buildings.Consents for",
+          "keyphrases": "economy/finance, construction/real estate, building permits, non-residential buildings"
+        },
+        {
+          "document_id": 1178,
+          "text": "Singapore's new downtown area, on the reclaimed land around Marina Bay, would potentially add 2.6 million square feet of prime office space to the city centre, said the Urban Redevelopment Board on Tuesday.The increase in space would help stabilise office rental rates, said the URA at the launch of the",
+          "keyphrases": "real estate, urban development, construction/infrastructure, economy/finance"
+        },
+        {
+          "document_id": 304,
+          "text": "are preliminary. The CSU said June's risewas the lowest of the year so far and was influenced by thefact that June 1995 included two more working days than June1996. CZECH HOUSING CONSTRUCTION H1/96 FY1995 H195 total starts (units) 9,193 16,548 6,975 pct chg yr/yr +31.8 +50.9 +35.3of which single-family homes",
+          "keyphrases": "economics/finance, construction/real estate, housing starts, construction industry trends"
+        }
+      ]
+    },
+    {
+      "cluster": 33,
+      "chunk_count": 54,
+      "examples": [
+        {
+          "document_id": 59,
+          "text": "funding in the 1996/97 budget.\"Everyone, if you want to come and stamp on the white law, and the white flag, stamp on the ashes like they stamped on ours,\" said an Aborigine as the Australian flag burned.The aboriginal protest, which attracted about 1,000 people, was rowdy, with chanting, didgeridoo playing",
+          "keyphrases": "government/social, race/ethnicity, protest/activism, cultural/traditional"
+        },
+        {
+          "document_id": 60,
+          "text": "Aborigines burnt an Australian flag during an anti-budget rally in front of parliament house on Tuesday and clashed with police as Treasurer Peter Costello assured Australians his first budget at 0930 GMT would be fair.Hundreds of other Aborigines staged rallies in Brisbane and Adelaide against already announced cuts to indigenous",
+          "keyphrases": "government/social, politics/economy, indigenous/Aboriginal, protest/rally"
+        },
+        {
+          "document_id": 60,
+          "text": "funding in the 1996/97 budget.\"Everyone, if you want to come and stamp on the white law, and the white flag, stamp on the ashes like they stamped on ours,\" said an Aborigine as the Australian flag burned.The aboriginal protest, which attracted about 1,000 people, was rowdy, with chanting, didgeridoo playing",
+          "keyphrases": "government/social, race/ethnicity, protest/activism, cultural/traditional"
+        }
+      ]
+    },
+    {
+      "cluster": 34,
+      "chunk_count": 50,
+      "examples": [
+        {
+          "document_id": 884,
+          "text": "The National Bank of Poland fixed the zloty at 2.7395 against the dollar, down from 2.7385 yesterday and at 1.8375 against the mark, up from 1.8380, the NBP said.-- Warsaw Newsroom +48 22 653 9700</",
+          "keyphrases": "economics/finance, government/public policy, currency/exchange, organizations/institutions"
+        },
+        {
+          "document_id": 933,
+          "text": "The Russian Central Bank said it had set 5290/5320 roubles per dollar as its bid and offer rates for its operations on the currency market on Tuesday.The official rate for Wednesday will be 5305.On Monday the bid/offer rates were 5287/5317, with the official dollar rate 5302 from Tuesday.The Central Bank",
+          "keyphrases": "economics/finance, government/regulatory, currency/exchange, monetary policy"
+        },
+        {
+          "document_id": 919,
+          "text": "Banks in the Uzbek capital Tashkent said on Tuesday the government had ordered them to stop paying out cash in the national sum currency for the rest of this month, but official sources denied such an order existed.\"They gave us an order to stop paying out cash until the beginning",
+          "keyphrases": "government, finance/economy, regulation, monetary policy"
+        }
+      ]
+    },
+    {
+      "cluster": 35,
+      "chunk_count": 294,
+      "examples": [
+        {
+          "document_id": 769,
+          "text": "fight against white rule. Moscow backed the ANC, so its arch-foe Beijing supported the rival Pan Africanist Congress which has now largely faded away.Taiwan however gave the ANC considerable support during the late stages of the struggle for majority rule.</",
+          "keyphrases": "government/politics, international/foreign affairs, race/ethnicity, conflict/violence"
+        },
+        {
+          "document_id": 807,
+          "text": "here to defend these black arses we're trying to wipe out. I could kill you now if I wanted to,\" he told me, prodding my stomach with the barrel of the gun.Russian troops use such racist terms for the dark-skinned peoples of the Caucasus, including Chechens.Just a couple of metres",
+          "keyphrases": "conflict, racism/discrimination, violence, hate speech"
+        },
+        {
+          "document_id": 1657,
+          "text": "we have settled the land, all the Arabs will be able to do about it will be to scurry around like drugged cockroaches in a bottle.\"</",
+          "keyphrases": "politics, conflict, racism, xenophobia"
+        }
+      ]
+    },
+    {
+      "cluster": 36,
+      "chunk_count": 26,
+      "examples": [
+        {
+          "document_id": 251,
+          "text": "for the Bundesbank on Thursday. I expect a repo rate cut of 10 to 20 basis points.\"</",
+          "keyphrases": "economics/finance, government/social, monetary policy, central banking"
+        },
+        {
+          "document_id": 1991,
+          "text": "it meant the central bank could reach its goal by the year-end.Signs of a slowdown in M3 were a stated condition for the Bundesbank to lower the repo rate, the rate at which central bank funds are made available to German banks.The rate has been held at 3.30 percent since",
+          "keyphrases": "economics/finance, government/social, monetary policy, central banking"
+        },
+        {
+          "document_id": 304,
+          "text": "pct chg yr/yr +13.8 +6.5 -9.5Note. The bureau said the growth was a confirmation of newmeasures to spur housing construction such as state-supportedconstruction savings accounts and mortgage loans. The number offinished flats was lower due mostly to a lower number of rentalcompletions, it said. CZECH FOREX RESERVES June 1996 May",
+          "keyphrases": "economics/finance, government/social, housing/construction, central banking/monetary policy"
+        }
+      ]
+    },
+    {
+      "cluster": 37,
+      "chunk_count": 25,
+      "examples": [
+        {
+          "document_id": 49,
+          "text": "weeks ago, many economists believed the economy was growing quickly enough to require an interest-rate rise by the Fed to slow it down and prevent inflation. However, a series of recent reports containing early signs of a slowdown changed those views.The latest came on Tuesday, with news that the U.S.",
+          "keyphrases": "economy/finance, government/regulation, monetary policy, economic indicators"
+        },
+        {
+          "document_id": 544,
+          "text": "which German banks charge each other for overnight borrowing -- may have risen Tuesday on lower-than-expected German M-3 money supply growth, the Bundesbank's key inflation barometer. M-3 grew at an annualized rate of 8.6 percent in July, slower than June's 9.6 percent pace, but still surpassing the Buba's 4.0-to-7.0 percent",
+          "keyphrases": "economics/finance, government/central bank, monetary policy, economic indicators"
+        },
+        {
+          "document_id": 1477,
+          "text": "Dutch bonds finished lower for the second successive day but off their lows after July money supply data kept alive hopes of a cut in Germany's repo rate.Dealers said trading action, dominated by interbank players, trailed off after a morning flurry when Germany announced annual M3 growth slowed to 8.6",
+          "keyphrases": "economics/finance, government/central bank, monetary policy, economic indicators"
+        }
+      ]
+    },
+    {
+      "cluster": 38,
+      "chunk_count": 10,
+      "examples": [
+        {
+          "document_id": 847,
+          "text": "who have stayed on the sidelines till more attractive private companies get a listing.Tuesday's invitation and plans to attract another 50 stocks to trading before end-1996 seems a bid to end the recent torpor on the bourse, which will soon face tough competition from an over-the-counter (OTC) market now in",
+          "keyphrases": "finance/economy, business/industry, stocks/bonds, markets/marketing"
+        },
+        {
+          "document_id": 1573,
+          "text": "was no obvious reason for the exceptional levels at which the stock was trading, nearly three percentage points below general collateral (GC).\"I think someone is probably squeezing it a bit but nobody really knows,\" he said.Some interest was still noted in the 6.0s of 1999 at around 5.25 percent.Overnight GC",
+          "keyphrases": "finance/economy, business/industry, stocks/bonds, markets/marketing"
+        },
+        {
+          "document_id": 1480,
+          "text": "Belgian shares ended Tuesday with modest gains but still lagged other markets.The Bel-20 .BFX index had to battle its way through resistance above 1,750. It ended 6.88 points or 0.39 percent higher at 1,760.15, virtually the day's high, with volume a fairly moderate 1.5 billion francs worth of Belgian shares.\"The",
+          "keyphrases": "finance/economy, business/industry, stocks/bonds, markets/marketing"
+        }
+      ]
+    },
+    {
+      "cluster": 39,
+      "chunk_count": 36,
+      "examples": [
+        {
+          "document_id": 285,
+          "text": "career-high 27th home run and fourth career grand slam. It was his second grand slam this season.Caminiti has been suffering from a case of dehydration and received treatment earlier in the day.\"I'm trying not to do too much at the plate,\" Caminiti said. \"I'm just trying to hit the ball",
+          "keyphrases": "sports, health/medicine, baseball, injury/illness"
+        },
+        {
+          "document_id": 279,
+          "text": "Australian Mark Woodforde, the 15th seed, was beaten Monday by compatriot and long-time doubles partner Todd Woodbridge in the first round of the Canadian Open.Woodbridge, ranked 43rd in the world, defeated Woodforde, ranked 30th, 6-3 7-5. Woodforde was one of two seeded players to lose on the opening day of",
+          "keyphrases": "sports/tennis, Australia/Oceania, competitions/tournaments, players/athletes"
+        },
+        {
+          "document_id": 716,
+          "text": "any game.Fatialofa said that at 37 he now no longer had the motivation to put in the hard training needed to stay at a top level. \"My body's starting to talk to me now big time,\" he said. \"I can now start to hear the bells ringing. But I've got",
+          "keyphrases": "sports, health/medicine, athletics/tennis, injury/rehabilitation"
+        }
+      ]
+    },
+    {
+      "cluster": 40,
+      "chunk_count": 20,
+      "examples": [
+        {
+          "document_id": 1947,
+          "text": "European bunkers firmed on Tuesday as fuel oil barge prices rose and after Monday's late futures surge, dealers said.A feeling that prices would soon weaken left most business slack, particularly in the Mediterranean.Rotterdam 380 CST fuel oil was at $99/$100 fob. Fuel oil barges traded as high as $99 fob",
+          "keyphrases": "commerce/trade, energy/natural resources, markets/marketing, production/services"
+        },
+        {
+          "document_id": 1574,
+          "text": "to the United States. Otherwise it is simply sold as low octane fuel for East or West Africa.A76 cargoes delivered in Amsterdam trade at a discount of $20 to $25 to the European standard 86 MON regular unleaded grade, using an average of barge and cif cargo prices.Dealers believe the",
+          "keyphrases": "energy/natural resources, international trade/commerce, markets/marketing, production/services"
+        },
+        {
+          "document_id": 1607,
+          "text": "the arb to the Far East is now closed most of the time.\"The only question mark hanging over the fast-growing gas oil trade is the introduction of low sulphur (0.05 percent) diesel as the standard diesel grade across the European Union from October 1.A wide price differential between grades could",
+          "keyphrases": "energy/natural resources, trade/commerce, markets/marketing, production/services"
+        }
+      ]
+    },
+    {
+      "cluster": 41,
+      "chunk_count": 17,
+      "examples": [
+        {
+          "document_id": 383,
+          "text": "Hurricane Dolly raced over Mexico's Yucatan peninsula on Tuesday with 75 mph (120 kph) winds and up to 10 inches (25 cm) of rain, forecasters at the National Hurricane Center said.At 2 p.m. EDT (1800 GMT), the center of Hurricane Dolly was located at latitude 19.3 north, longitude 87.9 west,",
+          "keyphrases": "natural disasters, weather, hurricanes, Mexico"
+        },
+        {
+          "document_id": 609,
+          "text": "strength before again making landfall in about 72 hours. The second landfall is expected along the upper east coast of Mexico, somewhat north of Tampico. THERE ARE NO FURTHER EMERGENCY WEATHER STATEMENTS</",
+          "keyphrases": "natural disasters, Mexico, weather, storms"
+        },
+        {
+          "document_id": 383,
+          "text": "about 60 miles (96 km) north-northeast of Chetumal, Mexico, the hurricane center said.The storm was moving to the west-northwest at 13 mph (21 kph).It was expected to weaken slightly as it passed over the Yucatan peninsula, but forecasters said there was a good chance of strengthening once the storm moved",
+          "keyphrases": "weather, natural disasters, hurricanes, Mexico"
+        }
+      ]
+    },
+    {
+      "cluster": 42,
+      "chunk_count": 39,
+      "examples": [
+        {
+          "document_id": 1628,
+          "text": "London insurance companies that survived the shakeout of the late 1980s and early 1990s are now more solidly capitalised and professionally managed, Standard &amp; Poor's said in a report on Tuesday.With larger players taking greater shares of risk, and a shift away from traditional ways of doing business, London is",
+          "keyphrases": "finance/economy, industry/manufacturing, insurance, management"
+        },
+        {
+          "document_id": 1595,
+          "text": "Standard &amp; Poor's said on Tuesday it affirmed its AAA ratings on General Re Corp's (GRN) senior debt and on the financial programmes of General Re Financial Products Corp and removed these ratings from CreditWatch.The current AA plus claims-paying ability rating of National Reinsurance Corp will likely be upgraded to",
+          "keyphrases": "finance/economy, business/industry, credit/ratings, insurance/reinsurance"
+        },
+        {
+          "document_id": 1595,
+          "text": "claims-paying ability rating of General Reinsurance Corp. (General Re) and its A1 plus rating on GRN's commercial paper. S&amp;P said in summary, these conclusions are reflective of the following major rating factors:General Re is the largest professional reinsurer in the United States based on either its $5.0 billion of domestic",
+          "keyphrases": "finance/economy, insurance, credit/rating, reinsurance"
+        }
+      ]
+    },
+    {
+      "cluster": 43,
+      "chunk_count": 149,
+      "examples": [
+        {
+          "document_id": 1604,
+          "text": "could find itself more insulated than Orange, whose valuation depended more heavily on its future performance.Vodafone shares traded flat at 244-1/2 pence on Tuesday.-- Mark John, London newsroom +44 171 542 7717</",
+          "keyphrases": "business/finance, technology/telecommunications, markets/marketing, production/services"
+        },
+        {
+          "document_id": 370,
+          "text": "Cornish-Kehoe said. Some analysts had been worried in recent weeks that Bombardier had not updated its order backlog for the Regional Jet from the 40 announced several months ago. In heavy trading last week and on Monday and Tuesday, Bombardier's Class B shares recovered much of the ground lost earlier",
+          "keyphrases": "business/finance, industrial/technology, markets/marketing, production/services"
+        },
+        {
+          "document_id": 980,
+          "text": "brokers said.In sluggish action, there were 2,374 trades, where 17 stocks rose, 31 fell and 37 were stable.Electric companies, which have dominated the market this month, again attracted the greatest interest Tuesday due to the sector's growth potential and the utilities' positive results in the first half of the year,",
+          "keyphrases": "business/finance, utilities, markets/marketing, production/services"
+        }
+      ]
+    },
+    {
+      "cluster": 44,
+      "chunk_count": 16,
+      "examples": [
+        {
+          "document_id": 1670,
+          "text": "Israeli forces there would only worsen the conflict.\"It is not good for Syria, Lebanon or Hizbollah or Israel. Therefore our choice is to try to reach a calming of the situation and guaranteeing security for all,\" Netanyahu said.Israel says Syria, the main power broker in Lebanon where it has 35,000",
+          "keyphrases": "government/politics, international/foreign affairs, conflict/war, diplomacy/negotiations"
+        },
+        {
+          "document_id": 1225,
+          "text": "Israel would retain the Golan Heights, captured from Syria in the 1967 Middle East war. Peace talks between Israel and Syria have made little headway for over four years.Zeev Maoz, head of the Jaffee Centre for Strategic Studies, Israel's best known think-tank, said on Sunday the probability of war with",
+          "keyphrases": "government/politics, international/foreign affairs, conflict/war, diplomacy/negotiations"
+        },
+        {
+          "document_id": 1147,
+          "text": "undergraduates calling for unity with North Korea on Pyongyang's terms that would leave the governments of both North and South intact.The students also demanded the withdrawal of U.S. troops stationed in the South, which is still technically at war with the North since the 1950-53 Korean War.Police held aloft metal",
+          "keyphrases": "government/politics, international/foreign affairs, conflict/war, diplomacy/negotiations"
+        }
+      ]
+    },
+    {
+      "cluster": 45,
+      "chunk_count": 143,
+      "examples": [
+        {
+          "document_id": 530,
+          "text": "expect approval yet this year ... There's been no hint of any issues\" from the FDA that might cause delay, said Lilly spokesman Edward West.Wall Street analysts said approval could come this month. The FDA has not scheduled an advisory committee hearing for Zyprexa. West said Lilly has no indication",
+          "keyphrases": "health/medical, business/finance, regulation/legal, pharmaceuticals/drugs"
+        },
+        {
+          "document_id": 453,
+          "text": "weekly deposits for July and early August fell 14 percent from the year-ago period.However the company said that it expects the effect of these new drugs to be transitory since the U.S. Food and Drug Administration said it approved the Redux drug when used in conjunction with a reduced calorie",
+          "keyphrases": "health/medicine, business/finance, pharmaceuticals/drugs, regulation/legal"
+        },
+        {
+          "document_id": 530,
+          "text": "Approval of Eli Lilly &amp; Co's new anti-schizophrenia drug, Zyprexa, is expected to come soon from the U.S. Food and Drug Administration, analysts said.Marketing clearance for the drug, known generically as olanzapine, would put Lilly in the front of a parade of new anti-schizophrenia medications coming on the U.S. market.\"We",
+          "keyphrases": "health/medicine, business/finance, pharmaceuticals, regulatory/legal"
+        }
+      ]
+    },
+    {
+      "cluster": 46,
+      "chunk_count": 11,
+      "examples": [
+        {
+          "document_id": 905,
+          "text": "Bulgaria's offer of 5.7 billion levs worth of nine-month floater coupon T-bills was 28.53 percent sold, yielding 188.70 percent, the Bulgarian National Bank (BNB) said.The issue was offered with no minimum acceptable price set in advance and bears a coupon equal to the BNB's central interest rate (CIR) for the",
+          "keyphrases": "economics/finance, government/public policy, markets/marketing, production/services"
+        },
+        {
+          "document_id": 136,
+          "text": "and compared with 475.4 trillion in the first half, Finance Minister Abdulatif Sener told a news conference.\"The deficit increase is going to accelerate in the last part of the year from September when markets are volatile,\" said Ali Seyhun, director of research at ATA Securities.The Islamist-led coalition will have to",
+          "keyphrases": "economics/finance, government/politics, markets/marketing, production/services"
+        },
+        {
+          "document_id": 1645,
+          "text": "has at least one-year maturities.Turkey's domestic debt was 1,361 trillion lira at end-1995.--Ankara Newsroom, 90-312-4462940</",
+          "keyphrases": "economics/finance, government/politics, markets/marketing, production/services"
+        }
+      ]
+    },
+    {
+      "cluster": 47,
+      "chunk_count": 20,
+      "examples": [
+        {
+          "document_id": 972,
+          "text": "Venezuela will meet all its outstanding arrears on internal and external unrestructured debts by the end of the year, high-ranking Finance Ministry officials said.\"Paying off these arrears will be an important first step towards increasing our credibility... which in turn will lead to lower interest rates (on future debt),\" Roy",
+          "keyphrases": "economics/finance, government/politics, debt/credit, Venezuela"
+        },
+        {
+          "document_id": 486,
+          "text": "The U.S. interest rate status quo was shrugged off in the quiet trading of emerging market debts and the Brady bonds finished the day mostly flat.\"The absence of a rate hike was already priced in,\" said Shafiq Islam, emerging market fixed income strategist at Credit Suisse. \"It is marginally positive.\"Argentina",
+          "keyphrases": "economics/finance, government/social, interest rates, Argentina"
+        },
+        {
+          "document_id": 1587,
+          "text": "all Italian entities,\" IBCA said in a statement. IBCA also confirmed its rating of A1 plus for short-term foreign currency issues and assigned a long-term local currency rating of AAA to sovereign debt.\"The small reduction in the public debt to GDP ratio in 1995 - the first since 1980 -",
+          "keyphrases": "economics/finance, government/politics, debt/credit, sovereign debt"
+        }
+      ]
+    },
+    {
+      "cluster": 48,
+      "chunk_count": 11,
+      "examples": [
+        {
+          "document_id": 1150,
+          "text": "recovery was more firmly on track.Market speculation last month that the Bank of Japan would soon move to raise interest rates now that Japan's recovery is in motion has faded, and many analysts now say that the central bank is unlikely to change its hyper-accommodative monetary stance in the immediate",
+          "keyphrases": "economics/finance, government/central bank, monetary policy, interest rates"
+        },
+        {
+          "document_id": 374,
+          "text": "interest rates. Expectations of a rate cut were priced into the money market which provided a firm bid across the curve, analysts said. \"The front end is very bullish. Traders pretty much expect another rate cut from the Bank of Canada,\" said Sheldon Dong, manager of fixed-income research with Midland",
+          "keyphrases": "economics/finance, government/central bank, interest rates, monetary policy"
+        },
+        {
+          "document_id": 463,
+          "text": "U.S. Treasuries ended little changed on Tuesday after the Federal Reserve held a policy meeting and decided to leave interest rates unchanged.The outcome of the Fed meeting had been widely anticipated. A brief selling flurry emerged in mid-afternoon when the market learned that the Fed, indeed, had not altered rates.",
+          "keyphrases": "economics/finance, government/central bank, monetary policy, interest rates"
+        }
+      ]
+    },
+    {
+      "cluster": 49,
+      "chunk_count": 49,
+      "examples": [
+        {
+          "document_id": 745,
+          "text": "gangsters.The Staggie killing focused the nation's attention on crime by gangs and Pagad has since spawned similar movements in most major cities.A week after Staggie was killed, police and armed Pagad supporters clashed in Cape Town's mixed-race Athlone district when riot units travelling in armoured trucks halted a march on",
+          "keyphrases": "crime, law enforcement, government/social, gangs, riots/protests"
+        },
+        {
+          "document_id": 1229,
+          "text": "in Karak and quickly spread to nearby centres. By Saturday night there were clashes in Amman. Peace has been ensured in Karak since Sunday by a curfew and the army.It was the worst unrest in Jordan since 1989, when riots followed a government decision to raise fuel prices. Then the",
+          "keyphrases": "government/social, crime, law enforcement, riots, fuel prices"
+        },
+        {
+          "document_id": 59,
+          "text": "to hospital in a serious condition, a police spokeswoman said.On Monday, an anti-government rally of 15,000 unionists, Aborigines, students and welfare groups in front of Canberra's parliament ended in a riot, as hundreds of protesters stormed into the parliament's foyer.Police wearing riot gear took two hours to control the riot.\"All",
+          "keyphrases": "government/politics, crime/law enforcement, protest/riot, health/medical"
+        }
+      ]
+    },
+    {
+      "cluster": 50,
+      "chunk_count": 13,
+      "examples": [
+        {
+          "document_id": 942,
+          "text": "Brazil's Committee of Monetary Policy (Copom) is to set September's Basic Interest Rate of the Central Bank (TBC) 10 days earlier than scheduled, a local financial newspaper said.The Central Bank decided to bring forward the date for setting the latest TBC because Brazil's National Monetary Council (CMN) is due to",
+          "keyphrases": "economics/finance, government/regulatory, monetary policy, central banking"
+        },
+        {
+          "document_id": 169,
+          "text": "charge each other for overnight money unchanged at 5.25 percent.\"The Federal Open Market Committee meeting ended at 12:45 p.m (1645 GMT). There is no further announcement,\" central bank spokesman Joseph Coyne said in a brief statement.The decision to hold rates steady keeps the independent Fed out of the line of",
+          "keyphrases": "economics/finance, government/regulatory, monetary policy, central banking"
+        },
+        {
+          "document_id": 1991,
+          "text": "February, even though the central bank lowered official discount and Lombard rates -- the floor and ceiling for money market rates -- to 2.50 and 4.50 percent respectively in April.Ulrich Beckmann at DB Research responded warmly to the M3 data. \"It was at the lower end of our expectation, which",
+          "keyphrases": "economics/finance, government/regulatory, monetary policy, central banking"
+        }
+      ]
+    },
+    {
+      "cluster": 51,
+      "chunk_count": 93,
+      "examples": [
+        {
+          "document_id": 1787,
+          "text": "document -- a house has to follow and a kid. I need a couple of more kids? I'm still a kid.\"Since \"McMullen\" was an American hit, it has been shown around the world. \"We did $7 in Turkey but the fact it was released in Turkey blows my mind,\" Burns",
+          "keyphrases": "entertainment/arts, business/finance, music/songs, international/global"
+        },
+        {
+          "document_id": 1787,
+          "text": "'Win a Pub' contest,\" Burns explained.But success primarily means Burns has the opportunity to make the kind of movies he wants -- without interference. He credits Robert Redford, father of the Sundance Film Festival and his executive producer, with helping on that score.\"At Sundance, when we won the Grand Jury",
+          "keyphrases": "entertainment/arts, competitions/awards, movies/film, festival/event"
+        },
+        {
+          "document_id": 587,
+          "text": "Seagram Co unit MCA Motion Picture Group said Tuesday executive vice-president Joseph Fischer has retired.Fischer, 65, has worked in the entertainment business for 30 years and included working as president of MGM/United Artists and executive vice-president of Columbia Pictures. Fischer had worked at MCA for the past nine years.</",
+          "keyphrases": "corporate/industrial, entertainment/arts, executives/management, movies/film"
+        }
+      ]
+    },
+    {
+      "cluster": 52,
+      "chunk_count": 154,
+      "examples": [
+        {
+          "document_id": 334,
+          "text": "The Central Organisation of Finnish Trade Unions (SAK) said in a statement on Tuesday that unions and employers should speedily work out a joint proposal to reform working hour regulations aiming to boost employment. \"The target of the proposal would be to broaden the experimentation with working hours and to",
+          "keyphrases": "labor, economy, employment, regulation"
+        },
+        {
+          "document_id": 535,
+          "text": "Goulson, senior vice president of A&amp;W Restaurants Inc, said.But longer term, the industry fears that workers, who are already making more than the new minimum wage, will be looking for a raise to maintain the pay premium. Earlier Tuesday, President Clinton signed into law the first rise in the minimum",
+          "keyphrases": "labor/employment, government/social, legislation/regulation, economics/finance"
+        },
+        {
+          "document_id": 42,
+          "text": "region's 450,000 retail workers had made agreement impossible in Tuesday's talks.Unions and employers in several federal states are resuming talks this week to agree a wage and work hours deal to cope with the liberalisation of German shopping hours in November.Until now, unions have pressed for broad adoption of a",
+          "keyphrases": "labor, economy, wages and benefits, regulation and policy"
+        }
+      ]
+    },
+    {
+      "cluster": 53,
+      "chunk_count": 58,
+      "examples": [
+        {
+          "document_id": 1589,
+          "text": "results briefing that a further 120 branches would be closed.Blackburn said he expected the merger with insurance group Clerical Medical, due to be completed at year-end, would be earnings enhancing next year.-- London Newsroom +44 171 542 5113</",
+          "keyphrases": "finance/economy, business/industry, mergers/acquisitions, earnings/financials"
+        },
+        {
+          "document_id": 437,
+          "text": "the price of Sun International shares falls below $41.625, unless Griffin Gaming agrees to accept a fixed exchange ratio of 0.4925 shares of Sun for each share of Griffin, the companies said. This detail was not mentioned in the company's announcement yesterday.Sun International shares fell 3-5/8 points today to 48-1/8",
+          "keyphrases": "finance/economy, business/industry, stock market/investing, mergers/acquisitions"
+        },
+        {
+          "document_id": 1735,
+          "text": "of par) (4/1) (10/1)1997 225M 410M 4.50 % BID OF1998 -- 725M 4.50 % 4.251999 -- 760M 4.50 % 4.402000 -- 795M 4.50 % 4.502001 -- 830M 4.75 % 4.602002 -- 870M 4.75 % 4.702003 -- 915M 4.75 % 4.802004 -- 415M 4.80 % 4.902005 -- 490M 5.00 % 5.00CALL",
+          "keyphrases": "finance/economy, business/industry, stock market/investing, corporate finance/mergers and acquisitions"
+        }
+      ]
+    },
+    {
+      "cluster": 54,
+      "chunk_count": 86,
+      "examples": [
+        {
+          "document_id": 868,
+          "text": "The Polish zloty recouped early intraday losses and closed slightly stronger against the basket of currencies against Monday but trade remained light.Dealers said zloty swings resulted from domestic client orders and from closing long currency positions after a recent zloty weakening against the basket.\"The dollar- and mark-selling trend may continue",
+          "keyphrases": "economics/finance, business/industry, currencies/foreign exchange, investing/trading"
+        },
+        {
+          "document_id": 1653,
+          "text": "The Israeli shekel gained mildly against the dollar and the basket of foreign currencies in dull trading, dealers said.\"Nothing happens in the market. Activity is extremely low and the shekel was traded in a tight range,\" said a dealer at Bank Hapoalim.\"The basket was moving around 6.8-6.9 percent below the",
+          "keyphrases": "economics/finance, business/industry, currencies/foreign exchange, investing/trading"
+        },
+        {
+          "document_id": 967,
+          "text": "still a very undynamic market,\" said Incambios broker Adelso Gonzalez. \"We're still waiting for foreign institutional money to come in... that's when things will really take off.\" Among the session's other leading trades, Mantex edged ahead 0.10 bolivar to close at 43 bolivars as nearly one million shares were cross-traded,",
+          "keyphrases": "business/finance, economics/markets, investing/trading, currencies/foreign exchange"
+        }
+      ]
+    },
+    {
+      "cluster": 55,
+      "chunk_count": 166,
+      "examples": [
+        {
+          "document_id": 1445,
+          "text": "The Texas Railroad Commission Tuesday set September production allowables for prorated natural gas fields in the state at 3.08 billion cubic feet per day (bcfd), 96 percent of actual September 1995 production.The September allowable is 91 percent of last year's August allowable for prorated fields of 3.4 bcfd, the Texas",
+          "keyphrases": "energy/natural resources, government/regulatory, production/exploration, policy/regulation"
+        },
+        {
+          "document_id": 1445,
+          "text": "regulatory agency said.Texas natural gas in storage in July 1995 stood at 277.8 billion cubic feet (bcf) compared to 141.3 bcf in July this year. The agency staff said storage rose slightly to 145.3 bcf by August 15.</",
+          "keyphrases": "energy, government/regulatory, natural resources, economic policy"
+        },
+        {
+          "document_id": 837,
+          "text": "terminal and the Lietuvos Kuras chain of petrol stations.Parliament is due to vote on the plan on Thursday.\"The main reason behind the forming of the national oil concern is not to privatise Lietuvos Nafta but to provide capital for the energy sector,\" Kutas told parliament.The state has to hold 51",
+          "keyphrases": "energy/natural resources, government/social, privatization/corporate restructuring, legislation/regulation"
+        }
+      ]
+    },
+    {
+      "cluster": 56,
+      "chunk_count": 15,
+      "examples": [
+        {
+          "document_id": 643,
+          "text": "The Public Advocate for the City of New York on Tuesday urged Mayor Rudolph Giuliani to sue the tobacco industry to recoup health care costs of smokers.Public Advocate Mark Green in a letter to the mayor said the city should join with the group of states and the city of",
+          "keyphrases": "government/social, health/medicine, legal/judicial, crime, law enforcement"
+        },
+        {
+          "document_id": 9,
+          "text": "and teen-age children are seeking unspecified damages.Also on Tuesday, New York City's public advocate urged Mayor Rudolph Giuliani to sue the tobacco industry to recover what the city paid out for health care costs of smokers.Public Advocate Mark Green said the city should join the group of states and the",
+          "keyphrases": "government/social, health/medicine, legal/judicial, crime, law enforcement"
+        },
+        {
+          "document_id": 173,
+          "text": "to recoup health care costs of smokers. Public Advocate Mark Green, in a letter to the mayor, said the city should join the group of states and the city of San Francisco in their efforts to obtain Medicaid funds from cigarette companies.The Rogers case, similar to hundreds that have been",
+          "keyphrases": "government/social, health/medicine, legal/judicial, crime, law enforcement"
+        }
+      ]
+    },
+    {
+      "cluster": 57,
+      "chunk_count": 136,
+      "examples": [
+        {
+          "document_id": 1359,
+          "text": "capacity the industry has because negative profit margins are starting to take a toll. Packers have been losing money the past two quarters and \"they are starting to feel pressure from stockholders. They have to lower their procurement costs.\" Traders cited indications for another $0.50 to $1.00 per cwt loss",
+          "keyphrases": "economics/finance, industry/manufacturing, agriculture/farming, markets/marketing"
+        },
+        {
+          "document_id": 1965,
+          "text": "(12.5 percent, 220 hagberg) at 282.50 marks.This is 7.50 marks down from the start of the month.Brokers said ex-farm bread wheat prices across the country of around 270-290 marks should be poised for further falls.This would be especially the case in western regions, where French producers were marketing output that",
+          "keyphrases": "economics/finance, agriculture/farming, markets/marketing, production/services"
+        },
+        {
+          "document_id": 1367,
+          "text": "could be lower again on Wednesday on a technical basis. The lack of exports also put a damper on the market,\" he said.KCBT wheat was nine cents per bushel lower to two cents higher, with September unchanged at $4.82 a bushel and December off one cent at $4.78.--Doris Frankel 312-983-7305</",
+          "keyphrases": "economics/finance, agriculture/farming, markets/marketing, production/services"
+        }
+      ]
+    },
+    {
+      "cluster": 58,
+      "chunk_count": 11,
+      "examples": [
+        {
+          "document_id": 683,
+          "text": "rnr Marubeni.-WESTERN HEMISPHEREExcel 30 27/08 Mexico/Brazil rnr Petrobras.Eternity 30 22/08 Caribs/USAC $175,000 Vitol.Petrobulk Cougar 30 29/08 Caribs/USAC W215 Vitol.-MED./BLACK SEAAdriatiki 28 22/08 Sarroch/UKCM rnr ELF.San Carlos 30 21/08 Black Sea/UKCM rnr Runicom.-ENQUIRIESKoch 30 UN Australia/USAC 01/09.Titan 30 NA Ras Tanura/options 15-17/09.IOC 30 Kuwait/India 29-30/08.Sietco 30 Singapore/Anyer 2-3/09.Amoil 30 GAS OIL",
+          "keyphrases": "energy/natural resources, business/finance, markets/marketing, production/services"
+        },
+        {
+          "document_id": 137,
+          "text": "be just the tip of the iceberg.The oil ministry said on Tuesday that another company, Petrobel/Belayim Petroleum, had found more gas in its Port Fouad concession, north of the region's first producing gas field.Petrobel is a joint venture between the state's Egyptian General Petroleum Corporation (EGPC) and International Egyptian Oil",
+          "keyphrases": "energy/natural resources, business/finance, markets/marketing, production/services"
+        },
+        {
+          "document_id": 1612,
+          "text": "La Skhirra/Augusta 29-31/08.Elf 80 USAC/UKC 1-2/09.Ashland 78 Mexico/USG 28-29/08.Nynes 70 Caribs/UKC 30/08.Petrobras 170 mbs Puerta La Cruz/Brazil 23-25/09.STB 240 Mideast/Singapore 16/09.SSangyong 250 Ras Tanura/Onsan 5-6/09.Chevron 80 Nanhai/Australia 4-5/09.IPCO 35 fuel oil Klaipeda/UKC 19-25/08.EneMalta 20 fuel oil Priolo/Malta 22-24/09.Stentex 130 Dumai/USG 15/09.--Michael Blouki,London Newsroom +44 171 542 7714</",
+          "keyphrases": "energy/natural resources, business/finance, markets/marketing, production/services"
+        }
+      ]
+    },
+    {
+      "cluster": 59,
+      "chunk_count": 319,
+      "examples": [
+        {
+          "document_id": 1262,
+          "text": "the instructions of her ex-husband James McDougal, an Arkansas businessman.\"He was always my teacher and my mentor ... everything Jim had done always seemed right to me,\" Susan McDougal said in pleading for leniency. \"I am truly sorry.\"Susan and James McDougal were business partners with the president and first lady",
+          "keyphrases": "politics/government, business/finance, legal/judicial, relationships/partnerships"
+        },
+        {
+          "document_id": 951,
+          "text": "on Friday that it would set up a contingency fund to cushion banks against any possible capital flight similar to the one triggered by the December 1994 Mexican peso devaluation. But it said at the time that the fund would be of only about $2.0 billion. Central Bank chief Pedro",
+          "keyphrases": "finance/economy, government/social, banking/investment, politics/policy"
+        },
+        {
+          "document_id": 919,
+          "text": "of next month,\" a spokeswoman for Uzpromstroibank, told Reuters by telephone.She said accounts held in sum had been frozen temporarily but she had no information as to whether foreign exchange accounts were affected.A source at another bank, Pakhta Bank, also confirmed the order but could give no further details.Late on",
+          "keyphrases": "finance/economy, government/social, banking/investment, politics/government"
+        }
+      ]
+    },
+    {
+      "cluster": 60,
+      "chunk_count": 237,
+      "examples": [
+        {
+          "document_id": 1789,
+          "text": "pulp prices over the last two months and the improvements in its Riaupulp unit's performance.\"We are also very pleased with the ease with which Indorayon can switch between dissolving pulp and paper pulp production as this allows us to maximize sales and earnings by taking into account market pricing trends,\"",
+          "keyphrases": "economics/finance, manufacturing/production"
+        },
+        {
+          "document_id": 1856,
+          "text": "conditions continue to be strong for fabricated products and the backlog for bar products remains good,\" he said in a statement. \"We expect fourth quarter earnings to improve over the third quarter and look for 1996 to be our second best year on record,\" he said.Earlier, The company reported earnings",
+          "keyphrases": "economics/finance, manufacturing/industry, earnings/revenue, production/operations"
+        },
+        {
+          "document_id": 748,
+          "text": "a five percent decline in earnings,\" the group said in a statement released late Tuesday.Mining operations had resumed in the areas affected by underground fires at Driefontein Consolidated Ltd's east and west gold mines, \"which should start making a valuable contribution to production\", Wright said.Widespread labour unrest across the industry",
+          "keyphrases": "business, industry, labor, production"
+        }
+      ]
+    },
+    {
+      "cluster": 61,
+      "chunk_count": 22,
+      "examples": [
+        {
+          "document_id": 1591,
+          "text": "Britain's largest mortgage lender Halifax Building Society said on Tuesday it was considering what to do with its excess capital, after it has completed its stock market flotation planned for June 1997.Group finance director Roger Boyes told reporters at the society's interim results briefing the Halifax had a tier 1",
+          "keyphrases": "finance/economy, business/industry, investment/stockmarket, management/corporateactions"
+        },
+        {
+          "document_id": 1890,
+          "text": "record September 10.This is the first dividend paid by Statewide Financial since its initial public offering in September 1995.--New York Newsdesk 212-859-1610.</",
+          "keyphrases": "finance/economy, business/industry, investment/dividends, corporate/initial-public-offering"
+        },
+        {
+          "document_id": 1212,
+          "text": "be able to take back as income later,\" he said.Earlier, Maybank reported a group net profit for the year ended June 30, 1996 of 1.07 billion ringgit, against 863.53 million ringgit in the previous year.</",
+          "keyphrases": "finance/economy, business/industry, investment/stocks, corporate/management"
+        }
+      ]
+    },
+    {
+      "cluster": 62,
+      "chunk_count": 34,
+      "examples": [
+        {
+          "document_id": 1990,
+          "text": "and a pre-tax result of 568 million crowns. Five of the analysts recommended a buy on the company, one said hold and one declined to provide a recommendation.--Oslo newsroom, +47 22 42 50 41</",
+          "keyphrases": "business, finance, economy, stocks,"
+        },
+        {
+          "document_id": 1489,
+          "text": "French shares extended earlier gains to close over one percent higher, outshining most other European centres, as fresh talk of rate cuts allowed the market to claw back some of its recent chronic underperformance.The blue-chip CAC-40 index closed up 33.05 points or 1.66 percent at 2,019.26, just off the day's",
+          "keyphrases": "business, finance, stock market, economy"
+        },
+        {
+          "document_id": 1648,
+          "text": "downtrend since its record high of 73,531.3 on July 8, diving 15.04 percent since then.The session's most active shares were those of the textile firm Akin Tekstil which gained 1,300 lira to end at 9,200. Shares of utility Aktas Elektrik also rose by 20,000 lira to 450,000.The 85-share industrial index",
+          "keyphrases": "business, finance, stock market, economy"
+        }
+      ]
+    },
+    {
+      "cluster": 63,
+      "chunk_count": 89,
+      "examples": [
+        {
+          "document_id": 1309,
+          "text": "Moody's Investors Service - Rating Announcement As of 08/19/96. Issuer : Hurst-Euless-Bedford I.S.D. PSF-gtd. Series '96 State : TX Rating : Aaa Sale Amount : 30,150,000 Expected Sale Date: 08/20/96--U.S. Municipal Desk, 212-859-1650</",
+          "keyphrases": "finance/economy, government/social, credit/debt, public finance"
+        },
+        {
+          "document_id": 955,
+          "text": "central bank,\" he said, noting that Bamerindus has been in talks with the central bank.Schulman said the bank has about 2.0 billion reais in government debt paper that could be sold or used to back the loan. Bamerindus has already raised about 500 million reais by selling stakes in steel",
+          "keyphrases": "finance/economy, government/social, central bank, debt paper"
+        },
+        {
+          "document_id": 1520,
+          "text": "The Reserve Bank of India (RBI) announced the following transactions in dated government securities and treasury bills through its Subsidiary General Ledger (SGL) account on August 20. Name of the Amount Price YTM instrument (Face value) (In rupees) Indicative million rupeeOUTRIGHT TRANSACTIONS---------------------* Government of Indiadated securities 13.50% 1997 50.00 101.70",
+          "keyphrases": "finance/economy, government/politics, central banking, bonds/debt"
+        }
+      ]
+    },
+    {
+      "cluster": 64,
+      "chunk_count": 91,
+      "examples": [
+        {
+          "document_id": 893,
+          "text": "handled and even robbed by troops.Many elderly people, some on crutches, were caught up in the crush to cross a ruined railway bridge which looked as if it might give way at any moment. A mentally handicapped man being pushed in a wheelchair gazed wildly about him.The people fleeing on",
+          "keyphrases": "disaster/accident, government/social, health/medical, crime/law enforcement"
+        },
+        {
+          "document_id": 349,
+          "text": "condition, a police spokeswoman said.(A$1 = US$0.79)</",
+          "keyphrases": "government/social, crime, law enforcement, law enforcement, accident/disaster"
+        },
+        {
+          "document_id": 1763,
+          "text": "he absolutely was not involved.\"Jewell, 33, who was hailed as a hero in the immediate aftermath of the bombing, still remains a suspect in the FBI's investigation. He has steadfastly maintained his innocence.While working as a security guard at an AT&amp;T Olympic pavilion near the park, he discovered the green",
+          "keyphrases": "crime/law enforcement, disaster/accident, suspect/criminal, investigation/legal"
+        }
+      ]
+    },
+    {
+      "cluster": 65,
+      "chunk_count": 19,
+      "examples": [
+        {
+          "document_id": 1588,
+          "text": "points to 11,312.51, helped by a rally in utility stocks.It was the first time the index had closed above 11,300 since March.-- London Newsroom +44 171 542 8712</",
+          "keyphrases": "business/finance, markets/marketing, stocks/bonds, economy/finance"
+        },
+        {
+          "document_id": 1331,
+          "text": "stocks 863 864 1,305Total 8,435 7,958 10,503 HUTCHINSON AREADeliverable 4,150 4,183 NANon-deliverable 175 201 NACCC stocks 1,887 1,887 NATotal 6,212 6,271 NA(Chicago newsdesk 312 983 7278)</",
+          "keyphrases": "business/finance, markets/marketing, stocks/bonds, economics/finance"
+        },
+        {
+          "document_id": 670,
+          "text": "closed at its highest level since August 2, before recent attacks on the franc.London shares climbed to another record high, led by renewed strength in retailing and oil stocks and following reassuring money supply data from both Britain and Germany. The market closed only slightly below its high.The blue-chip FTSE",
+          "keyphrases": "business/finance, economy/trade, stocks/investing, markets/marketing"
+        }
+      ]
+    },
+    {
+      "cluster": 66,
+      "chunk_count": 66,
+      "examples": [
+        {
+          "document_id": 1,
+          "text": "be largely assembled from \"complete knock-down\" kits shipped from the United States, but the automaker intends to meet the Mercosur trade bloc's 60 percent local content requirement after three years.Chrysler has not decided whether to market the Dakota under the Dodge brand name or under one of its other brands.",
+          "keyphrases": "industry/manufacturing, international trade/economy, automotive, marketing/branding"
+        },
+        {
+          "document_id": 1404,
+          "text": "remainder in 2006, according to Pontiac officials.--Karen Pierog, 312-408-8647</",
+          "keyphrases": "automotive, business, manufacturing, economy"
+        },
+        {
+          "document_id": 1475,
+          "text": "7.9 million tonnes. \"Best U.S. steel industry customers in July were the automotive and construction sectors,\" it said.Output in Africa fell by three percent to 1.1 million tonnes while it soared 14.4 percent to 705,000 tonnes in the Middle East and rose by 1.2 percent in Asia to 22.4 million",
+          "keyphrases": "industry/manufacturing, economics/finance, automotive, construction"
+        }
+      ]
+    },
+    {
+      "cluster": 67,
+      "chunk_count": 8,
+      "examples": [
+        {
+          "document_id": 1398,
+          "text": "of the crop had set pods, well behind the 82 percent average.\"The northern districts continue to need warm weather to promote crop development,\" the Illinois crop report said. A lack of rain stressed Illinois soybeans in the week ended Sunday, causing the crop's rating to fall to 32 percent good",
+          "keyphrases": "agriculture"
+        },
+        {
+          "document_id": 1393,
+          "text": "estimated Indiana soybean yield at 35 bushels an acre, as of August 1.\"The fields we've seen are about as good as they will be on this side of the state,\" Bever said.\"It should get better as we head west,\" he said, noting areas in western Indiana were planted earlier and",
+          "keyphrases": "agriculture"
+        },
+        {
+          "document_id": 1635,
+          "text": "percent, respectively, it said. Ninety-four percent of winter wheat and 98 percent of fall rye were mature, compared with the normal 100 percent maturity at this date.Flax, oats and barley also lagged the five-year averages while canola growth was slightly ahead of average, it said.Swathing of fall rye and winter",
+          "keyphrases": "agriculture"
+        }
+      ]
+    },
+    {
+      "cluster": 68,
+      "chunk_count": 6,
+      "examples": [
+        {
+          "document_id": 147,
+          "text": "chemical business for $850 million.</",
+          "keyphrases": "corporate/industrial"
+        },
+        {
+          "document_id": 596,
+          "text": "the chief financial officer's duties, a company spokesman said.</",
+          "keyphrases": "corporate/industrial"
+        },
+        {
+          "document_id": 45,
+          "text": "slip reflected the society's pursuit of profits as it prepared for a public stock offering.</",
+          "keyphrases": "corporate/industrial"
+        }
+      ]
+    },
+    {
+      "cluster": 69,
+      "chunk_count": 174,
+      "examples": [
+        {
+          "document_id": 1083,
+          "text": "around A$10,000 -- which is the point at which a long term investment strategy really begins working -- will be left to lanquish in RSAs earning low rates of interest,\" Macquarie Investment Services Director Brian Thomas said in a statement.-- Sydney Newsroom 61-2 373-1800</",
+          "keyphrases": "finance/investment, business/economy, personal finance/savings, investment/stock market"
+        },
+        {
+          "document_id": 188,
+          "text": "mutual funds and disseminates information about personal finance but does not contain confidential customer information.Fidelity officials immediately closed the loophole identified by the magazine, a spokeswoman said. But multiple security measures previously in place would have prevented a security breach despite the hole, the spokeswoman added.</",
+          "keyphrases": "finance, technology, security, personal finance"
+        },
+        {
+          "document_id": 67,
+          "text": "showed the average discount at nine percent on August 14, the AITC said.Ernest Fenton, director general of the AITC noted that discounts are \"often misunderstood by individual investors.\"He said \"Discounts are not an automatic indication of poor performance or poor returns on investments. In fact, the most popular funds --",
+          "keyphrases": "finance/investing, business/economy, markets/trading, personal finance/investing"
+        }
+      ]
+    },
+    {
+      "cluster": 70,
+      "chunk_count": 33,
+      "examples": [
+        {
+          "document_id": 789,
+          "text": "army coup in Burundi on July 25.Shortly after the coup by the Tutsi-dominated army, Buyoya ordered an end to forced expulsions of Rwandan Hutu refugees.Ndizeye said movements by thousands of refugees from the north since Sunday were not part of official policy and any one found guilty of inciting them",
+          "keyphrases": "government/politics, international/foreign affairs, conflict/violence, refugees/migration"
+        },
+        {
+          "document_id": 737,
+          "text": "a matter of two to three days before we finish the repatriations from Magara,\" he said.Some 7,000 refugees returned to Rwanda on Monday leaving around 24,000 at Magara and 13,000 at Rukuramigabo Camp in neighbouring Kirundo province, Paul Stromberg, regional spokesman for the UNHCR, told Reuters.Around two million Rwandan Hutus",
+          "keyphrases": "government/social, conflict/war, refugees/migration, humanitarian/aid"
+        },
+        {
+          "document_id": 739,
+          "text": "Rwandan border town.Severe said he expected Magara, the biggest of Rwandan refugee camps in Burundi with an initial population of more than 45,000 people, to be emptied within two to three days.\"We have got 65 trucks at the ready today (Tuesday) and if the returns continue like this, it will",
+          "keyphrases": "government/social, international/foreign policy, immigration/refugees, conflict/violence"
+        }
+      ]
+    },
+    {
+      "cluster": 71,
+      "chunk_count": 109,
+      "examples": [
+        {
+          "document_id": 746,
+          "text": "Dozens of Mauritanians expelled from Angola returned home on Tuesday, with some saying they had been badly treated and prevented from saying their Moslem prayers.The 82 Mauritanians, mostly businessmen, said after a plane from Angola's national airline flew them home that they had not been illegal immigrants and had left",
+          "keyphrases": "international, government/social, immigration/emigration, religion/spirituality"
+        },
+        {
+          "document_id": 1467,
+          "text": "French Prime Minister Alain Juppe cut short his summer holiday on Tuesday to return to Paris where his government faces problems including a widening political wrangle over a hunger strike by African immigrants.Juppe, who is due to visit President Jacques Chirac at his holiday retreat in Bregancon on the French",
+          "keyphrases": "government/politics, international/foreign affairs, immigration/migration, diplomacy/foreign relations"
+        },
+        {
+          "document_id": 746,
+          "text": "detention before their expulsion.Guinean officials said on Monday that 159 Guineans expelled at the weekend had been unfairly treated by Angolan security forces.A sudden clampdown on foreigners began on August 12 when the Angolan government expelled 349 citizens of Senegal, Lebanon and Mali.</",
+          "keyphrases": "government/social, international/foreign affairs, immigration/emigration, diplomacy/foreign policy"
+        }
+      ]
+    },
+    {
+      "cluster": 72,
+      "chunk_count": 37,
+      "examples": [
+        {
+          "document_id": 164,
+          "text": "broad range of styles, colours and sizes, and the pants in most cases will not require tailoring, which Levi hopes will lure men who want hassle-free shopping.Cogan said research revealed that men hate to shop for dress pants and believe \"it's more enjoyable to go to the dentist\" because they",
+          "keyphrases": "fashion/apparel, retail/shopping, marketing/advertising, consumer behavior/preferences"
+        },
+        {
+          "document_id": 163,
+          "text": "broad range of styles, colours and sizes, and the pants in most cases will not require tailoring, which Levi hopes will lure men who want hassle-free shopping.Cogan said research revealed that men hate to shop for dress pants and believe \"it's more enjoyable to go to the dentist\" because they",
+          "keyphrases": "fashion/apparel, retail/shopping, marketing/advertising, consumer behavior/preferences"
+        },
+        {
+          "document_id": 164,
+          "text": "can't find what they need or like.Slates aims to change that when it makes its debut this fall in department stores, backed by a $20 million marketing campaign.\"They will probably dominate the market,\" said retail consultant Alan Millstein. He added that slacks are a small market with very few players,",
+          "keyphrases": "fashion/apparel, retail/consumer goods, marketing/advertising, business/finance"
+        }
+      ]
+    },
+    {
+      "cluster": 73,
+      "chunk_count": 105,
+      "examples": [
+        {
+          "document_id": 1046,
+          "text": "the University of Sao Paulo, which releases inflation figures at weekly intervals.-- Simona de Logu, Rio de Janeiro newsroom, 5521 507 4151</",
+          "keyphrases": "economics/finance, education/research, inflation, Brazil"
+        },
+        {
+          "document_id": 503,
+          "text": "has many analysts scratching their heads and wondering how long the Fed will hold monetary policy steady.\"Strong job growth has persisted long enough that the Fed will certainly have to stand up and take notice,\" said Gary Schlossberg, senior economist at Wells Fargo Bank.The Fed's inflation-fighting reputation has flourished as",
+          "keyphrases": "economy/finance, government/social, monetary policy, inflation"
+        },
+        {
+          "document_id": 1148,
+          "text": "bills before interest rates really drop,\" said a dealer. Central Bank Governor Gabriel Singson had said year-on-year inflation could fall below 6.5 percent in September. Inflation reached 8.9 percent in July.The same dealer said more dollars are expected to come in if the U.S. Fed this Tuesday decides not to",
+          "keyphrases": "economics/finance, government/social, monetary policy, inflation"
+        }
+      ]
+    },
+    {
+      "cluster": 74,
+      "chunk_count": 33,
+      "examples": [
+        {
+          "document_id": 1396,
+          "text": "Salomon Brothers Asset Management Inc said it launched the Asia Growth Fund.The fund will have at least 65 percent in equities and related securities in Asian countries and will be managed by Giampaolo Guarnieri.Salomon Asset Management, with manages $15 billion in assets, is a unit of Salomon Inc.</",
+          "keyphrases": "finance/investment, business/economy, markets/marketing, management/operations"
+        },
+        {
+          "document_id": 1619,
+          "text": "five years and 150-170 b.p. over on seven years. Expected mid-September after investor roadshows the week of September 9.-- London Newsroom +44 171 542 7718</",
+          "keyphrases": "finance/economy, business/industry, investment/trading, management/operations"
+        },
+        {
+          "document_id": 1263,
+          "text": "Witter Reynolds Inc.Tucker Anthony Incorporated--U.S. Municipal Desk, 212-859-1650</",
+          "keyphrases": "finance/economy, business/industry, investment/trading, management/operations"
+        }
+      ]
+    },
+    {
+      "cluster": 75,
+      "chunk_count": 91,
+      "examples": [
+        {
+          "document_id": 1444,
+          "text": "Development of the U.S. corn crop in some key states remained behind normal last week, and crop conditions in the eastern Corn Belt deteriorated due to a lack of rain, state agricultural statistics services reported.\"Most reporters felt that corn and beans are about a week behind normal and could use",
+          "keyphrases": "agriculture, natural resources, crops, weather"
+        },
+        {
+          "document_id": 1312,
+          "text": "scenario is in contrast to Monday's forecasts for a potential cool down in key U.S. corn growing states.Corn futures trading was unsettled amid the uncertainty about weather outlooks.The U.S. corn crop needs warm weather to boost the maturity pace which is lagging the year-ago and average rate.USDA Monday said the",
+          "keyphrases": "agriculture, weather, crops, farming"
+        },
+        {
+          "document_id": 1635,
+          "text": "Saskatchewan grain crops still lagged behind the average pace of growth despite favorable weather in the week ended August 19, the Saskatchewan Wheat Pool said in its weekly crop update.About 30 percent of spring wheat and 35 percent of durum have matured, against the five-year averages of 47 and 53",
+          "keyphrases": "agriculture, weather, crops, wheat"
+        }
+      ]
+    },
+    {
+      "cluster": 76,
+      "chunk_count": 152,
+      "examples": [
+        {
+          "document_id": 443,
+          "text": "Ansonia Copper and Brass Inc said it revised metal values for all brass mill products except free-cutting brass rod to reflect copper at 108.00 cents a lb, a two-cent decrease, effective with August 21 shipments.--New York Commodity Desk 212-859-1640</",
+          "keyphrases": "industry/manufacturing, commerce/trade, metals/mining, pricing/cost"
+        },
+        {
+          "document_id": 932,
+          "text": "The Federal Statistical Office reported the following economic indicator details.YUGOSLAV NON-FERROUS METAL PRODUCTION electrolytic copper (tonnes) 10,759 4,401 6,822 refined lead 3,235 2,176 57 zinc 1,890 2,065 249 aluminium ingots 2,967 3,101 930 refined silver (kilos) 6,179 3,622 1,448 YUGOSLAV NON-FERROUS ORES MAY APRIL MAY 1995 copper (thousand tonnes) 1,738",
+          "keyphrases": "economics, manufacturing, mining/minerals, metals/metallurgy"
+        },
+        {
+          "document_id": 1942,
+          "text": "today,\" said one dealer.\"It appears to be a consolidation period after the heavy losses recently. But investors are also waiting to see what sort of results come out. They've been very mixed up to now.\" Metals producer Elkem posted a 33 percent rise in six-month pre-tax profits to come in",
+          "keyphrases": "business/finance, economics/markets, metals/mining, earnings/results"
+        }
+      ]
+    },
+    {
+      "cluster": 77,
+      "chunk_count": 12,
+      "examples": [
+        {
+          "document_id": 38,
+          "text": "figure back within the government's monitoring range of 3 percent to 9 percent for the first time since November.Some economists said it could suggest a softening in future inflationary pressures.However, the British Bankers' Association said a strong 539 million pound ($833 million) increase in consumer credit in July could point",
+          "keyphrases": "economy/finance, government/politics, inflation/prices, consumer credit/debt"
+        },
+        {
+          "document_id": 1615,
+          "text": "back within the government's three to nine percent monitoring range for the first time since last November.Some economists said it could suggest a softening in future inflationary pressures.However, the British Bankers' Association said a strong 539 million pound increase in consumer credit in July could point to a strengthening of",
+          "keyphrases": "economy/finance, government/social, inflation/prices, consumer credit/debt"
+        },
+        {
+          "document_id": 225,
+          "text": "of 8.6 percent year-on-year in June -- the highest by far in the European Union -- and the public debt was still well over 100 per cent of the country's GDP.The EMU target is for the debt to drop to 60 percent of GDP and inflation to be slashed to",
+          "keyphrases": "economics/finance, government/politics, public debt, inflation"
+        }
+      ]
+    },
+    {
+      "cluster": 78,
+      "chunk_count": 19,
+      "examples": [
+        {
+          "document_id": 285,
+          "text": "it's great,\" Sanders said. \"I just go out there and throw strikes.\"I honestly didn't know (about the no-hitter), it's probably better that I didn't. When everybody cheered me in the seventh after the hit by Fletcher, I was wondering what was going on. When I got back and saw the",
+          "keyphrases": "sports, entertainment, baseball, celebrity"
+        },
+        {
+          "document_id": 285,
+          "text": "homer for the Expos, who have dropped four of five.In Chicago, Kevin Brown pitched seven scoreless innings and Gary Sheffield and Devon White each drove in a pair of runs as the Florida Marlins snapped a three-game losing streak with a 4-3 victory over the Cubs.Brown (12-10) allowed four hits,",
+          "keyphrases": "sports, entertainment/leisure, baseball, athletes/teams"
+        },
+        {
+          "document_id": 285,
+          "text": "struck out eight and walked none to lower his major league-leading earned run average to 1.90. Brown posted his 100th career victory.Robb Nen recorded the final five outs for his 25th save.Amaury Telemaco (5-7) gave up three runs and three hits before leaving with shoulder stiffness with one out in",
+          "keyphrases": "sports, entertainment, baseball, athletes"
+        }
+      ]
+    },
+    {
+      "cluster": 79,
+      "chunk_count": 12,
+      "examples": [
+        {
+          "document_id": 1451,
+          "text": "Major Jean-Marie Boudin, spokesman for the Belgian Gendarmerie's special missing children squad, told Reuters. \"This process began today.\"He declined to specify which countries had been contacted. The media spotlight has been on the Czech Republic, Germany, the Netherlands and France.Boudin said the search also included Nathalie Geijsbregts who was 10",
+          "keyphrases": "crime/law enforcement, international/foreign affairs, missing persons, search and rescue"
+        },
+        {
+          "document_id": 1457,
+          "text": "on missing children on Tuesday.\"We are at the moment establishing contact with police in other countries via the services of Interpol,\" Major Jean-Marie Boudin, spokesman for the Belgian Gendarmerie's special missing children squad, told Reuters.At least 15 children have disappeared in Belgium in the past six years. Seven have now",
+          "keyphrases": "society/social issues, government/law enforcement, crime/missing persons, international/Interpol"
+        },
+        {
+          "document_id": 1930,
+          "text": "said.He confirmed that the prime focus of the investigation was on finding An Marchal and Eefje Lambrecks, abducted from Ostend in August 1995 by convicted child rapist, 39-year-old father of three Marc Dutroux.But Boudin said the search included Nathalie Geijsbregts who was 10 years old when she disappeared from the",
+          "keyphrases": "crime/law enforcement, government/social, legal/judicial, missing persons"
+        }
+      ]
+    },
+    {
+      "cluster": 80,
+      "chunk_count": 10,
+      "examples": [
+        {
+          "document_id": 36,
+          "text": "venturing higher later this week. \"It's a purely technical move, but I can see it going for $5.30 this week,\" one said.Technical analysts or chartists who follow detailed charts of past prices said that the rally needed to clear the $5.25 resistance level before pushing higher.Silver have been trending lower",
+          "keyphrases": "finance/economy, technology/computing, markets/marketing, production/services"
+        },
+        {
+          "document_id": 179,
+          "text": "pilot phase during which more than 20 percent of AMEX equity options were transferred to AODB, the exchange said in a statement. The AMEX said it expected all current and future options and options-related products to be on the electronic book within 12 months.--Chicago derivatives desk, (312) 408-8750E-mail: derivatives@reuters.com</",
+          "keyphrases": "finance/economy, technology/computing, markets/marketing, production/services"
+        },
+        {
+          "document_id": 208,
+          "text": "always delicate to change a system when market participants are used to it -- it might kill the contract.\"The Matif had placed a high priority on a German link-up but played it down after difficulties emerged. Matif head Gerard Pfauwadel told L'Agefi newspaper on Tuesday that interest rate products \"were",
+          "keyphrases": "finance/economy, technology/computing, markets/marketing, production/services"
+        }
+      ]
+    },
+    {
+      "cluster": 81,
+      "chunk_count": 67,
+      "examples": [
+        {
+          "document_id": 107,
+          "text": "counter rampant smuggling of foreign TVs and rising domestic stockpiles, Liu Jianfeng, vice minister of the Ministry of Electronics Industry was quoted as saying.Smuggling has been a major problem, allowing many vendors to avoid duties and making foreign brands very competitive compared to domestic television sets.The price slashing has cut",
+          "keyphrases": "government/social, industry/technology, crime/law enforcement, markets/marketing"
+        },
+        {
+          "document_id": 416,
+          "text": "small Internet companies \"now face the threat of elimination from the market by reason of Microsoft's illegal conduct.\"The attorney also suggested the department's antitrust division return the matter to the Federal Trade Commission, which he said has taken a recent interest in the subject.\"In any event, we are requesting immediate",
+          "keyphrases": "corporate/industrial, government/legal, markets/marketing, crime, law enforcement"
+        },
+        {
+          "document_id": 74,
+          "text": "contends that Lloyd's has breached U.S. disclosure laws.The insurance market's chief executive Ron Sandler is fighting the action personally. He was cross-examined on Monday.Judge Robert Payne in that sitting criticised the U.S. Securities and Exchange Commission for refusing to determine whether Lloyd's should be subject to U.S. securities laws.The legal",
+          "keyphrases": "corporate/industrial, government/legal, markets/marketing, crime, law enforcement"
+        }
+      ]
+    },
+    {
+      "cluster": 82,
+      "chunk_count": 9,
+      "examples": [
+        {
+          "document_id": 364,
+          "text": "electronic equipment Notice of invitation to tender issued by the Commission of the European Communities for a project financed from Phare funds (96/C 241/20)External consultancy Open invitation to tender (96/C 241/19)Air traffic management (ATM) Notice of invitation to tender No VII-C3/46-96 concerning a study on rule-making/standardization in air traffic management",
+          "keyphrases": "government/social, technology/electronics, legal/judicial, production/services"
+        },
+        {
+          "document_id": 1686,
+          "text": "the Official Notice of Sale and of the Preliminary Official Statement dated August 15, 1996 and the Official Bid Form for the notes, may be obtained from Wesley G. Wallace, Jr., Treasurer-Controller, Massachusetts Bay TransportationAuthority, 10 Park Plaza, 8th Floor, Room 8450, Boston, Massachusetts 02116 (telephone 617/222-3216). Massachusetts Bay Transportation",
+          "keyphrases": "government/social, finance/economy, legal/judicial, production/services"
+        },
+        {
+          "document_id": 1686,
+          "text": "means of a book-entry system and will be delivered on September 5, 1996, subject to the approving legal opinions of Mintz, Levin, Cohn, Ferris, Glovsky and Popeo, P.C, Boston, Massachusetts, Bond Counsel to the Authority, and Krokidas &amp; Bluestein, Boston,Massachusetts, Co-Bond Counsel to the Authority. Additional information, including copies of",
+          "keyphrases": "finance/economy, government/social, legal/judicial, production/services"
+        }
+      ]
+    },
+    {
+      "cluster": 83,
+      "chunk_count": 7,
+      "examples": [
+        {
+          "document_id": 1647,
+          "text": "by one-two points as selling emerged due to the cash squeeze.Bankers said Monday's 211-day t-bill auction, in which the treasury raised the yield to extend maturity, helped push those t-bill yields lower.The most active February 26 paper yield fell to 127.55 percent from 126.26 at Monday's close. Since Friday, yields",
+          "keyphrases": "economics/finance, government/social, markets/marketing, production/services"
+        },
+        {
+          "document_id": 536,
+          "text": "U.S. debt futures finished mixed, with the short end settling near the day's highs, while the long end wrapped up a light, lackluster session on the defensive, traders and analysts said.However, both U.S. T-bond and Eurodollar futures are seen inching up slightly in the near term after the Federal Open",
+          "keyphrases": "economics/finance, government/social, markets/marketing, production/services"
+        },
+        {
+          "document_id": 1036,
+          "text": "would confirm Ipea's forecasts of GDP growth of between 2.8 and 3.0 percent for 1996 as a whole, Claudio Considera, Ipea Research director said. Considera said GDP growth in the second quarter of 1996 totalled 184 billion (corrects from 1.84 billion) reais, a record for that quarter, and he forecasted",
+          "keyphrases": "economics/finance, government/social, markets/marketing, production/services"
+        }
+      ]
+    },
+    {
+      "cluster": 84,
+      "chunk_count": 99,
+      "examples": [
+        {
+          "document_id": 692,
+          "text": "had told Allwood, who is now 15 weeks pregnant, that her that her best chance of having some healthy babies would be to abort most of the foetuses by a process known as foetal reduction.But he told Sky television: \"The issue of foetal reduction is now resolved. Mandy and Paul",
+          "keyphrases": "health/medicine, social/culture, reproductive health, ethics/moral issues"
+        },
+        {
+          "document_id": 692,
+          "text": "The doctor treating a British woman pregnant with eight foetuses said on Tuesday he had given up trying to persuade her to have a partial abortion in order to give one or two of them a better chance of survival.Consultant gynaecologist Kypros Nicolaides said his patient Mandy Allwood would now",
+          "keyphrases": "health/medicine, social/gender, pregnancy/childbirth, ethics/morality"
+        },
+        {
+          "document_id": 202,
+          "text": "Monday that a 20-year-old vegetarian who died of Creutzfeldt-Jakob Disease caught it from eating hamburgers as a child, the first ruling linking a human death to mad cow disease. Some government officials and scientists cast doubt on the ruling, however.After the British government's announcement in March, more than a dozen",
+          "keyphrases": "health/medicine, government/politics, disease/medical conditions, science/technology"
+        }
+      ]
+    },
+    {
+      "cluster": 85,
+      "chunk_count": 30,
+      "examples": [
+        {
+          "document_id": 905,
+          "text": "were.Details of the issue follow: Issue number BG 3015696027 Par value 5,700 million levs Auction date August 19, 1996 Issue date August 21, 1996 Maturity date May 21, 1997 Bids received 1,927.720 million levs Avg price of bids 81.45 pct of par Bids approved 1,626 million levs Avg accepted price",
+          "keyphrases": "finance/economy, government/social, markets/marketing, production/services"
+        },
+        {
+          "document_id": 1696,
+          "text": "&amp; Sons, Inc.--U.S. Municipal Desk, 212-859-1650</",
+          "keyphrases": "finance/economy, government/social, markets/marketing, production/services"
+        },
+        {
+          "document_id": 911,
+          "text": "dealer said.Banks bid for low foreign currency volumes, mostly on behalf of final clients, but supply was even lower, which put the lev under growing pressure, another dealer said.The central bank was not detected in the market in the morning, dealers said. Central bank officials were not immediately available for",
+          "keyphrases": "finance/economy, government/social, markets/marketing, production/services"
+        }
+      ]
+    },
+    {
+      "cluster": 86,
+      "chunk_count": 127,
+      "examples": [
+        {
+          "document_id": 139,
+          "text": "liable under the new legislation -- designed, says Washington, to punish states that back \"terrorism\".Ankara said a last-minute change was made in the agreement not to breach the U.S. ban by deleting reference to Turkey's involvement in the building of the pipeline's section through Iranian territory.Turkey, which uses gas chiefly",
+          "keyphrases": "government/politics, international/foreign affairs, legislation/regulation, diplomacy/foreign policy"
+        },
+        {
+          "document_id": 736,
+          "text": "made its presentation to the commission on Monday and the National Party, led by former white president F.W. de Klerk, is due to present its submission on Wednesday.</",
+          "keyphrases": "government/politics, international/foreign affairs, legislation/regulation, diplomacy/foreign policy"
+        },
+        {
+          "document_id": 730,
+          "text": "accepted the post of prime minister.Relations between Eyadema and Kodjo had been strained in recent months. Kodjo spoke publicly of differences and Eyadema's supporters openly criticised the prime minister.Kodjo told reporters on Tuesday the CAR's refusal to cooperate with parliament had made it difficult to govern. The party boycotted parliament",
+          "keyphrases": "government/politics, international/foreign affairs, diplomacy/foreign policy, parliament/legislature"
+        }
+      ]
+    },
+    {
+      "cluster": 87,
+      "chunk_count": 187,
+      "examples": [
+        {
+          "document_id": 1047,
+          "text": "modernise family violence laws and scrap adultery as a crime for women. The bill still must be signed by President Violeta Chamorro before it becomes law, but lawyers praised the move as a good first step.\"(That) was the first step in the separation of law and morality in our society,\"",
+          "keyphrases": "government/social, crime, law enforcement, legislation/policy, women/gender"
+        },
+        {
+          "document_id": 1047,
+          "text": "under 21 years old.Dueling among men is still legal.\"The penal code needs to be changed because it collides head on with constitutional principles and has no relevance to the problems now facing Nicaraguan society,\" Cuaresma said.The code even requires a man's approval if a woman is to have an abortion",
+          "keyphrases": "government/law, society/culture, crime/justice, gender/women"
+        },
+        {
+          "document_id": 1047,
+          "text": "said Sergio Cuaresma, a penal expert.Currently, a woman can be sentenced to two years in prison for adultery, while a man can have as many lovers as he wants, punishable only when \"he keeps a mistress within the marital home or in a public fashion that causes a scandal,\" the",
+          "keyphrases": "government/social, crime, law enforcement, legal/judicial, gender/sexuality"
+        }
+      ]
+    },
+    {
+      "cluster": 88,
+      "chunk_count": 10,
+      "examples": [
+        {
+          "document_id": 1064,
+          "text": "Australian Prime Minister John Howard said on Wednesday he was in no hurry for a fresh election.\"I'm in no hurry to have an election,\" Howard told radio 2GB.Some political analysts believe Howard, elected in March for a three-year term, may be forced to call an early election because of parliamentary",
+          "keyphrases": "government/politics, elections/campaigns, Australian politics, John Howard"
+        },
+        {
+          "document_id": 1089,
+          "text": "The following Australian economic indicators and events are scheduled for this week. DAY GMT Indicator Period Forecast Previous Wed 0430 Westpac leading index Jun n/f -0.5 pctWed 2130 Finance Minister Fahey breakfast speech, SydneyWed 0200 Treasurer Costello, National Press Club, CanberraWed 0900 Treasurer Costello at post budget dinner, SydneyThu 2115",
+          "keyphrases": "economics, government/politics, Australian economy, government policies"
+        },
+        {
+          "document_id": 1122,
+          "text": "Following are the main features of the Australian government's 1996/97 (July/June) budget announced by Treasurer Peter Costello on Tuesday:* A forecast underlying budget deficit of A$5.65 billion and a headline budget surplus of A$474 million for 1996/97, compared with deficits of A$10.3 billion and A$5 billion respectively for 1995/96.* GDP-A,",
+          "keyphrases": "economics/finance, government/politics, budget/taxation, Australia/Oceania"
+        }
+      ]
+    },
+    {
+      "cluster": 89,
+      "chunk_count": 7,
+      "examples": [
+        {
+          "document_id": 0,
+          "text": "ahead of itself in terms of fundamentals,\" said Matthew Hickman of Lehman Brothers in New York.\"Now we're at the point where the fundamentals are with us. The history is now falling out of view.\"That history is one etched into the minds of all investors in Mexico: an economy in crisis",
+          "keyphrases": "economics/finance, government/social, markets/marketing, politics/policy"
+        },
+        {
+          "document_id": 486,
+          "text": "Brady trader. While Brazil's trade deficit of $334 million in July would not pose a problem to the currency, the stalled reform continued casting a shadow, he said.Mexico papers were underpinned by the robust 7.2 percent gross domestic product growth in the second quarter, but some market participants questioned if",
+          "keyphrases": "economics/finance, government/social, markets/marketing, politics/policy"
+        },
+        {
+          "document_id": 1107,
+          "text": "The local bond market had rallied strongly in recent days in anticipation of a fiscal squeeze, but had been looking for cuts of over A$4.0 billion to maintain the momentum that had taken yields to their lowest level since March 1994. The local dollar also lost its gloss after to",
+          "keyphrases": "economics/finance, government/social, markets/marketing, politics/policy"
+        }
+      ]
+    },
+    {
+      "cluster": 90,
+      "chunk_count": 6,
+      "examples": [
+        {
+          "document_id": 1879,
+          "text": "Australia and New Zealand Banking Group Ltd filed Tuesday with the U.S. Securities and Exchange Commission a shelf registration for up to $1 billion in debt securities.When combined with previous registrations, the Banking Group will have up to $1.3 billion in debt securities.Net proceeds will be used for general corporate",
+          "keyphrases": "finance/economy, corporate/industrial, securities/investments, capital/funding"
+        },
+        {
+          "document_id": 1591,
+          "text": "the subordinated debt, which makes up tier 2 capital.Halifax said it issued 775 million stg of subordinated debt in recent months.-- London Newsroom +44 171 542 5113</",
+          "keyphrases": "finance/economy, business/industry, banking/investment, capital/funding"
+        },
+        {
+          "document_id": 642,
+          "text": "Wells Fargo and Co filed on Tuesday with the Securities and Exchange Commission a shelf registration for up to $3.5 billion in debt securities.The filing includes senior debt securities, subordinated debt securities and preferred stock.Proceeds from sales of the securities will be used for general corporate purposes.</",
+          "keyphrases": "finance/economy, corporate/industrial, securities/investments, capital/funding"
+        }
+      ]
+    },
+    {
+      "cluster": 91,
+      "chunk_count": 105,
+      "examples": [
+        {
+          "document_id": 1508,
+          "text": "a day after the Iranian delegation arrived in Islamabad.\"The meeting discussed in detail various options available to implement this mega-project in the shortest possible time...,\" the Pakistani statement said.It said the meeting also \"underscored the need of finalising the details of the project expeditiously so that physical work ...could start",
+          "keyphrases": "international, government/politics, diplomacy/foreign policy, infrastructure/transportation"
+        },
+        {
+          "document_id": 363,
+          "text": "Czech Republic, Hungary, Poland, Romania and Slovakia.- Relationship with central and eastern European countries.- Negotiations between the EU and Switzerland on land and air transport.- Other measures:- Proposal for a European Parliament and Council directive on summertime arrangements.- Surface transport:a) Road transport:- (possibly) Access to the road haulage profession.- (possibly)",
+          "keyphrases": "government/politics, international/foreign affairs, relationships/diplomacy, transportation/infrastructure"
+        },
+        {
+          "document_id": 522,
+          "text": "The U.S. Transportation Department on Tuesday had no comment on a Financial Times story saying Britain was taking a tough stand in its talks on a new aviation accord with the United States.The paper, reporting the British posture in the ongoing talks on new accord, added that Britain was not",
+          "keyphrases": "government/politics, transportation/travel, diplomacy/foreign policy, economy/finance"
+        }
+      ]
+    },
+    {
+      "cluster": 92,
+      "chunk_count": 14,
+      "examples": [
+        {
+          "document_id": 92,
+          "text": "Russia's Federal Commission on the Capital Market granted investment fund management licences to OAO Credis (Moscow) A/O, ZAO Upravlyayushchy Payevovo Fonda Neftegazeksport and ZAO Pallada Asset Management, the commission said on Tuesday.Credis is the investment arm of the Credit Suisse Group.Credis (Moscow) A/O together with Credit Suisse (Moscow) plans to",
+          "keyphrases": "finance/economy, business/industry, investment/trading, banking/financial services"
+        },
+        {
+          "document_id": 1602,
+          "text": "The following bond was announced by joint lead managers Rabobank and SBC Warburg. BORROWER NEDERLANDSE GASUNIE AMT 200 MLN DEM COUPON 5.25 MATURITY 02.OCT.01 TYPE STRAIGHT ISS PRICE 101.655 PAY DATE 02.OCT.96 FULL FEES 2.00 REOFFER 99.905 SPREAD +17 BP MOODY AAA LISTING LONDON PAY FREQ = S&amp;P AAA DENOMS",
+          "keyphrases": "finance/economy, business/industry, investment/securities, banking/financial services"
+        },
+        {
+          "document_id": 35,
+          "text": "commercial banking services to about one-third of the companies in Britain and is the second largest retail bank in the country with over 2,000 branches.</",
+          "keyphrases": "finance/banking, business/economy, commercial banking services, retail banking"
+        }
+      ]
+    },
+    {
+      "cluster": 93,
+      "chunk_count": 146,
+      "examples": [
+        {
+          "document_id": 1053,
+          "text": "Javier Garza Calderon had said the company planned to continue its business in Cuba, arguing that Domos \"does not own any properties (in Cuba) that were once confiscated.\"He said Domos paid $700 million for its stake in the phone company in 1994, and later sold 25 percent of its share",
+          "keyphrases": "business, international, economics/finance, politics/government"
+        },
+        {
+          "document_id": 256,
+          "text": "Ceramic was privatised and listed in Colombo in 1992. The major shareholder, Uniwalkers, a local electronics firm, controls 35 percent, Noritake of Japan and the Sri Lanka government 18 percent each, and the public 29 percent.The share was last traded at 25.50 a 10-rupee share.(1$ = 55 rupees)</",
+          "keyphrases": "business/finance, government/politics, economics/investing, international/Asia"
+        },
+        {
+          "document_id": 837,
+          "text": "percent of Lietuvos Nafta for three years but can then bring its share down to 34 percent.The capital of the company is valued at around 790 million litas. If the company is successful, an emission of around 300 million litas of stock would be made.Opposition politicians are worried Russian giant",
+          "keyphrases": "business/finance, international/foreign affairs, economics/investing, politics/government"
+        }
+      ]
+    },
+    {
+      "cluster": 94,
+      "chunk_count": 13,
+      "examples": [
+        {
+          "document_id": 1490,
+          "text": "Swiss bonds ended lower with the market mostly waiting for the Bundesbank meeting Thursday amidst speculation the German central bank could trim its repurchase rate.The Bundesbank said Tuesday German M3 growth slowed to 8.6 percent in July from 9.6 percent in June on an annualised basis compared with the fourth",
+          "keyphrases": "economics/finance, government/central bank, monetary policy, economic growth"
+        },
+        {
+          "document_id": 1569,
+          "text": "good figure...most people hadn't expected the figure to come back into the monitoring range, which is about the first time for six or seven months,\" said economist Keith Wade of Schroders.In Germany, growth in M3, the German central bank's main policy guide, slowed to an annualised 8.6 percent in July",
+          "keyphrases": "economy/finance, government/central bank, monetary policy, economic growth"
+        },
+        {
+          "document_id": 251,
+          "text": "German money supply growth, the German central bank's main policy guide, slowed to an annualised 8.6 percent in July from 9.6 percent in June, the Bundesbank said on Tuesday.Analysts polled by Reuters had predicted seasonally-adjusted, annualised July M3 growth in a range of 8.5 to 9.2 percent. Forecasts averaged 8.8",
+          "keyphrases": "economics/finance, government/central bank, monetary policy, economic growth"
+        }
+      ]
+    },
+    {
+      "cluster": 95,
+      "chunk_count": 8,
+      "examples": [
+        {
+          "document_id": 810,
+          "text": "Terrified civilians flooded out of Grozny on Tuesday after a top Russian military official threatened to use aircraft and heavy artillery to drive separatist forces from the Chechen capital.The refugees, many with little more than the clothes they wore, said Russian planes had started bombing the city, much of it",
+          "keyphrases": "conflict/war, government/politics, military/defense, human rights/civil liberties"
+        },
+        {
+          "document_id": 916,
+          "text": "15 days and couldn't stand it any more,\" said Nina Madayeva, who added that 12 planes had bombed a district to the south west overnight. The acting commander of Russian forces in Chechnya has given civilians until Thursday to leave. Civilians have been trying to flee Grozny for the past",
+          "keyphrases": "conflict/war, government/politics, military/defense, human rights/civil liberties"
+        },
+        {
+          "document_id": 807,
+          "text": "Russian troops cut a major escape route from Grozny on Tuesday, trapping thousands of civilians frantically trying to flee a threatened allout military bombardment from Thursday.The troops apparently aimed to close the route to Chechen fighters holed up in the city. But they stranded civilians in a perilous area between",
+          "keyphrases": "conflict/war, government/politics, military/defense, human rights/civil liberties"
+        }
+      ]
+    },
+    {
+      "cluster": 96,
+      "chunk_count": 94,
+      "examples": [
+        {
+          "document_id": 1664,
+          "text": "The Tunisian Treasury on Tuesday said it sold 18.5 million dinars of two-year notes at its weekly auction on Aug 20.It sold two-year note payable in equal annual tranches for 17 million dinars and two-year payable at maturity for 1.5 million dinars at a 9.000 percent yield both.Banks bid for",
+          "keyphrases": "economics/finance, government/public policy, markets/investing, taxation/spending"
+        },
+        {
+          "document_id": 136,
+          "text": "of 861 trillion and compared with a deficit of 317 trillion in 1995.Sener said tax revenues in the first seven months \"inspired hope\" for the government's plans, with receipts rising 100.7 percent from a year earlier compared with a target rise of 91.0 percent.Budget revenues, including tax receipts of 1,103",
+          "keyphrases": "economics/finance, government/politics, taxes, budget"
+        },
+        {
+          "document_id": 888,
+          "text": "to pay bills, with government and companies not paying many wages, companies not paying bills to each other, and companies not paying taxes.Russia has only collected 60 percent of budgeted taxes so far this year prompting the International Monetary Fund to delay payment of the July tranche of its $10",
+          "keyphrases": "economics/finance, government/politics, taxes, budget"
+        }
+      ]
+    },
+    {
+      "cluster": 97,
+      "chunk_count": 21,
+      "examples": [
+        {
+          "document_id": 302,
+          "text": "from Roda to replace his fellow countryman Finidi, has looked sluggish, while both Peter Hoekstra and Finn Jari Litmanen are struggling to find form and confidence.PSV's emergence from a summer of canny buying as serious title contenders has whetted the appetite of Dutch soccer fans and may spell an end",
+          "keyphrases": "sports, international, soccer, Dutch"
+        },
+        {
+          "document_id": 302,
+          "text": "is used to sweeping all before it.Coming hard on the heels of drubbings by AC Milan, Juventus and Spain's Deportivo La Coruna, as well as defeat against Ruud Gullit's Chelsea, the extent of PSV's superiority in all departments will worry Ajax coach Louis van Gaal.PSV, European champions in 1988 and",
+          "keyphrases": "sports, European, soccer, Dutch,"
+        },
+        {
+          "document_id": 302,
+          "text": "fourth consecutive Dutch title and 27th in total, before the season kicks off in earnest.Van Gaal sees no reason to panic, preferring to blame a lengthy list of players injured or recovering, including internationals Marc Overmars, Patrick Kluivert, Winston Bogarde and Peter Hoekstra.Defections, not helped by the Bosman ruling which",
+          "keyphrases": "sports, international, soccer, Netherlands"
+        }
+      ]
+    },
+    {
+      "cluster": 98,
+      "chunk_count": 95,
+      "examples": [
+        {
+          "document_id": 1778,
+          "text": "CIA Director John Deutch said in a letter published on Tuesday that he had no plans to step down as top U.S. spymaster, contrary to published speculation.In a letter to the editor of the Washington Post, Deutch took the paper to task for a front-page report last week that quoted",
+          "keyphrases": "government/politics, intelligence/security, diplomacy/foreign policy, military/defense"
+        },
+        {
+          "document_id": 1778,
+          "text": "I am now on vacation, but I shall return,\" he said. He added that he wanted to do all he could to make sure that the U.S. spy bureaucray remains \"the best in the world.\"The Post had quoted one person identified as a Deutch friend as saying Deutch, a former",
+          "keyphrases": "government/politics, military/defense, diplomacy/foreign policy, intelligence/security"
+        },
+        {
+          "document_id": 815,
+          "text": "Alexander Lebed, issued a statement doubting the authenticity of Yeltsin's recent orders on Chechnya, where fighters want independence from Russia.\"The contents of the documents give solid grounds to doubt that the president of Russia took a direct part in finalising the text of the order,\" said the statement.Yeltsin on Sunday",
+          "keyphrases": "government/politics, international/conflict, diplomacy/foreign policy, military/defense"
+        }
+      ]
+    },
+    {
+      "cluster": 99,
+      "chunk_count": 14,
+      "examples": [
+        {
+          "document_id": 250,
+          "text": "while cash flow increased 74 percent to 429 million schillings.\"Waste paper prices were low and utilisation of capacities high,\" Mayr-Melnhof said. \"The development of margins was satisfactory in spite of falling sales prices.\"The company said the decline in sales to 5.29 billion schillings from 6.49 billion schillings in the year",
+          "keyphrases": "economy/finance"
+        },
+        {
+          "document_id": 363,
+          "text": "Karl von Wogau report on the rates of duty laid down in Council directive 92/79/EEC of 19 October 1992 on the approximation of taxes on cigarettes, Council directive 92/80/EEC of 19 October 1992, on the approximation of taxes on manufactured tobacco other than cigarettes, Council directive 92/84/EEC of 19 October",
+          "keyphrases": "economics/finance"
+        },
+        {
+          "document_id": 350,
+          "text": "percent.Despite all the good news on housing, analysts noted that official figures at least suggested the level of transactions remains muted at best. But here too, a pick-up is expected.\"The official Inland Revenue figures covering transactions have been weak but anecdotal evidence suggests buying and selling has been much stronger,\"",
+          "keyphrases": "economy/finance"
+        }
+      ]
+    },
+    {
+      "cluster": 100,
+      "chunk_count": 8,
+      "examples": [
+        {
+          "document_id": 360,
+          "text": "-- Rodman &amp; Renshaw Inc said Tuesday it initiated coverage of Cypress Semiconductor Corp with a buy rating.-- At 10.9 times its 1997 earnings estimate of $1.03 a share, Rodman said it believes the stock is \"cheap.\" It projects a 12-month target price of 18-1/2, or 18 times the 1997",
+          "keyphrases": "business/finance, technology/computing, investment/stockmarket, company/cypress semiconductor corp"
+        },
+        {
+          "document_id": 1568,
+          "text": "statistics, would go somewhere towards reassuring investors that Orange could deliver on its flotation promises and put a floor under the shares.\"I think we've hit bottom. A run up to 200 pence is perfectly feasible,\" James Ross, an analyst at brokerage ABN Amro Hoare Govett, said.But others said Orange, without",
+          "keyphrases": "business/finance, technology/telecommunications, investing/stocks, company/Orange"
+        },
+        {
+          "document_id": 1627,
+          "text": "new start-up company weighed on the shares. AT&amp;T was down $1/8 at $54 in London trade.-- Elaine Hardcastle, London Newsroom +44 171 542 4027</",
+          "keyphrases": "business/finance, technology/telecommunications, stocks/bonds, companies/corporations,"
+        }
+      ]
+    },
+    {
+      "cluster": 101,
+      "chunk_count": 136,
+      "examples": [
+        {
+          "document_id": 200,
+          "text": "of somewhat weaker full-year income before the sale of fixed assets compared with 1995 remained unchanged.\"Last year was a record year,\" SAS Chief Executive Officer Jan Stenberg told reporters. \"We cannot all the time continue to beat new world records. Our profitability is very good compared to the rest of",
+          "keyphrases": "business/finance, technology/computing, economics/income, management/operations"
+        },
+        {
+          "document_id": 201,
+          "text": "change its management structure to streamline decision-making before it finally decided to stop further funding to concentrate on its own German Internet business.Before Europe Online could launch in December 1995, French Lagardere Groupe's Matra-Hachette Multimedia withdrew. Axel-Springer Verlag of Germany cancelled a planned investment and Pearson lowered its stake.The operation",
+          "keyphrases": "business, technology, investment/finance, management/operations"
+        },
+        {
+          "document_id": 361,
+          "text": "and chief executive officer, said in the company's first-quarter report. It posted a first-quarter loss of $0.19 a share before non-recurring charges (Corrects to add \"before non-recurring charges.\") But the on-line service unveiled cost cuts and other measures and said it expects the second half to improve. The company said,",
+          "keyphrases": "business, technology, finance/economy, management/operations"
+        }
+      ]
+    },
+    {
+      "cluster": 102,
+      "chunk_count": 10,
+      "examples": [
+        {
+          "document_id": 819,
+          "text": "that Yeltsin had suffered from heart problems again in the second half of June.Time said that, according to an official Kremlin medical advisory it had obtained, the president needed round-the-clock monitoring and the Kremlin was considering transferring him to a Swiss clinic for a bypass operation.\"This information is part of",
+          "keyphrases": "government/politics, health/medicine, international/russia, medical/procedures"
+        },
+        {
+          "document_id": 811,
+          "text": "average seriousness.\"In the coming hours the question of carrying out a surgical operation may be decided,\" the radio said.But it also quoted the acting head doctor at the centre as saying Yeltsin was not there. \"You can come and see for yourself,\" the doctor said.Yastrzhembsky on Monday denied a report",
+          "keyphrases": "government/politics, health/medicine, international/russia, medical/surgery"
+        },
+        {
+          "document_id": 880,
+          "text": "since August 15.Journalists at Ekho Moskvy told Reuters they stuck by their story. which said Yeltsin, who had two heart attacks last year, had been diagnosed as having moderately serious heart trouble.\"In the coming hours the question of carrying out a surgical operation may be decided,\" the radio said.Yastrzhembsky on",
+          "keyphrases": "government/politics, health/medicine, international/russia, medical/procedures"
+        }
+      ]
+    },
+    {
+      "cluster": 103,
+      "chunk_count": 8,
+      "examples": [
+        {
+          "document_id": 798,
+          "text": "The South African Reserve Bank has a free hand on interest rates, Finance Minister Trevor Manuel told reporters on Tuesday.\"The Reserve Bank is independent...The decision on interest rates is exclusively that of the South African Reserve Bank. We don't interfere at all...it's a call of Governor (Chris) Stals,\" he said.The",
+          "keyphrases": "economics/finance, government/politics, central banking, monetary policy"
+        },
+        {
+          "document_id": 1632,
+          "text": "U.S. Federal Reserve's open market committee meeting later in the day. It had been expected to raise interest rates but is now widely believed to be content to leave them unchanged.Wall Street, also stilled by the FOMC meeting and general summer torpor had its slowest full day of trade this",
+          "keyphrases": "economics/finance, government/politics, central banking, monetary policy"
+        },
+        {
+          "document_id": 956,
+          "text": "Ecuador's money base rose 3.5 percent to 2.59 billion sucres in the week to August 9, the Central Bank said Tuesday.In the previous week to August 2, money base grew 7.42 percent.The money base ended 1995 at 2.41 billion sucres, up from 1.85 billion sucres at the end of 1994.--",
+          "keyphrases": "economics/finance, government/politics, central banking, monetary policy"
+        }
+      ]
+    },
+    {
+      "cluster": 104,
+      "chunk_count": 35,
+      "examples": [
+        {
+          "document_id": 1449,
+          "text": "Prime Minister Alain Juppe cut short a holiday in southern France and returned to the capital as the stand-off took an increasingly political turn, with senior politicians urging an apparently inflexible government to compromise.Juppe met Gilles de Robien of the centre-right UDF, junior coalition partner, who broke with the official",
+          "keyphrases": "government/politics, social/society, leadership/political_figures, conflict/dispute"
+        },
+        {
+          "document_id": 826,
+          "text": "was followed by the ejection of leading Kremlin hawks. But a deeply tired Yeltsin, who has been out of sight for weeks, has so far refused Lebed's latest demand, that he sack Interior Minister General Anatoly Kulikov.</",
+          "keyphrases": "government/politics, international/foreign affairs, leadership/authority, conflict/resolution"
+        },
+        {
+          "document_id": 829,
+          "text": "President Boris Yeltsin said a new coup d'etat was still possible in Russia but insisted it had no more chance of success than the botched hardline putsch five years ago that helped propel him to power.In an interview to be published on Wednesday in Moskovsky Komsomolets newspaper, quoted by Itar-Tass",
+          "keyphrases": "government/politics, international/foreign affairs, leadership/authority, conflict/crisis"
+        }
+      ]
+    },
+    {
+      "cluster": 105,
+      "chunk_count": 6,
+      "examples": [
+        {
+          "document_id": 466,
+          "text": "foreign exchange at Mellon Bank N.A. \"Of course, as (the yen) got weaker againt the mark, (the yen) got weaker against the dollar.\"The dollar had also strengthened slightly versus the yen in Asia after remarks by Eisuke Sakakibara, director-general of the Japanese Finance Ministry's International Finance Bureau.He told the Nikkei",
+          "keyphrases": "economics/finance, international, foreign/exchange, Japan"
+        },
+        {
+          "document_id": 54,
+          "text": "in shrinking the deficit with Japan was the main reason that China became the leading deficit nation in June, Commerce officials said. The second-quarter deficit of $10.5 billion with Japan was the smallest quarterly deficit in five years, the department said.Previously, the department said the overall May trade deficit was",
+          "keyphrases": "economics/finance, international relations, trade, Japan"
+        },
+        {
+          "document_id": 635,
+          "text": "still in (its) early stages, and if its recovery continues, that should also be good for our exports to Japan.\"He added, \"The underlying fundamentals are such that there should be -- relative to where the Japan deficit was -- continued strength.\" Stiglitz, chairman of the president's Council of Economic Advisers,",
+          "keyphrases": "economics, international relations, trade, Japan"
+        }
+      ]
+    },
+    {
+      "cluster": 106,
+      "chunk_count": 7,
+      "examples": [
+        {
+          "document_id": 843,
+          "text": "a commentator at Sevodnya newspaper.\"I think his absence is political.\"Alexander Lebed, Yeltsin's outspoken new Security Council secretary and his personal envoy to Chechnya, appeared to allege the president had been sidelined by officials intent on sabotaging Lebed's peace talks with the separatists.The Security Council issued a statement questioning the authenticity",
+          "keyphrases": "government/politics, conflict/war, diplomacy/foreign policy, chechnya/russia"
+        },
+        {
+          "document_id": 908,
+          "text": "The agency gave no further details, but said Lebed remained committed to a peaceful solution to the Chechen conflict.</",
+          "keyphrases": "government/social, conflict/war, diplomacy/foreign policy, Chechen conflict"
+        },
+        {
+          "document_id": 831,
+          "text": "(yards) away from the OMON post.\"Their commander had been killed and now they are fighting every night,\" he said.But Argun has become a stop-over point for tens of thousands refugees hurrying to flee Grozny after Russia's acting military commander in Chechnya General Konstantin Pulikovsky threatened to shell the city.\"There are",
+          "keyphrases": "conflict/war, government/military, Chechnya, Russia"
+        }
+      ]
+    },
+    {
+      "cluster": 107,
+      "chunk_count": 10,
+      "examples": [
+        {
+          "document_id": 1278,
+          "text": "maybe we ought to have a little better sense of restraint in these kinds of situations,\" the speaker said.He suggested the incident could point to a need for stronger protective rights for citizens. \"You could, for example, much more strongly protect privacy rights and you could more strongly protect trespass",
+          "keyphrases": "government/social"
+        },
+        {
+          "document_id": 1670,
+          "text": "and style is not with missiles or weapons like that,\" Levy told reporters.\"Israel wants and its strategy is to reach peace. It has passed messages in that direction. We expect that Syria will prove its intention for peace by answering the Israeli message and we will be able to sit",
+          "keyphrases": "government/social"
+        },
+        {
+          "document_id": 889,
+          "text": "of their location. They do not have to do so,\" Gregr said.</",
+          "keyphrases": "government/social"
+        }
+      ]
+    },
+    {
+      "cluster": 108,
+      "chunk_count": 43,
+      "examples": [
+        {
+          "document_id": 106,
+          "text": "senior analyst at Kokusai Securities Co Ltd.A rally in the utilities sector lifted Hong Kong stocks to a higher close, with the Hang Seng index closing above 11,300 points for the first time since March.The Hang Seng index ended 99.03 points higher at 11,312.51.\"People are buying laggards. Most sectors have",
+          "keyphrases": "business/finance, asia/pacific, markets/marketing, economy/finance"
+        },
+        {
+          "document_id": 256,
+          "text": "analyst at brokerage Jardine Fleming.Lanka Ceramic's net profit in 1995 was 39.56 million rupees (about $720,000).The company is working to regain its local market share. It was a state-owned monopoly venture before 1992.Local market share eroded when Sri Lankans developed a taste for porcelain in preference to ceramics.\"This happened because",
+          "keyphrases": "business/economy, Asia/Pacific, markets/marketing, production/services"
+        },
+        {
+          "document_id": 110,
+          "text": "is likely to sell most of his stake to him as he might not be able to unload that much in the market,\" one head of institutional sales at a local brokerage told Reuters.Indonesian-born Sukamto Sia garnered 55 percent of the company with a bid of S$6.50 per share in",
+          "keyphrases": "business/finance, asia/pacific, markets/marketing, production/services"
+        }
+      ]
+    },
+    {
+      "cluster": 109,
+      "chunk_count": 204,
+      "examples": [
+        {
+          "document_id": 205,
+          "text": "by Viag's chemicals division and a majority stake in Computer 2000.Viag's workforce was little changed at 82,874 compared with 84,939 in the first six months of 1995. ($ = 1.489 German Marks)</",
+          "keyphrases": "business/finance, technology/computing, mergers/acquisitions, workforce/human resources"
+        },
+        {
+          "document_id": 1796,
+          "text": "deal is due to close by September 30, and is conditional upon signing a definitive agreement. Davis + Henderson is expected to generate revenues in excess of C$80 million in fiscal 1996, MDC said in a separate statement. The unit employs more than 750 people at seven plants in Canada",
+          "keyphrases": "business/finance, manufacturing/industry, mergers/acquisitions, human resources/employment"
+        },
+        {
+          "document_id": 1796,
+          "text": "Rogers Communications Inc said on Tuesday it inked a deal with with MDC Communications Corp under which MDC will buy Rogers' wholly held cheque printing unit Davis + Henderson.Davis + Henderson, the largest producer of cheques in Canada, was acquired as part of the 1994 takeover of Maclean Hunter. The",
+          "keyphrases": "business/finance, technology/communications, mergers/acquisitions, production/services"
+        }
+      ]
+    },
+    {
+      "cluster": 110,
+      "chunk_count": 8,
+      "examples": [
+        {
+          "document_id": 1878,
+          "text": "(in millions, except per share data) Second Quarter ended Six Months Ended July 31, July 31, 1996 1995 1996 1995 Net Sales $35.9 $29.9 $69.5 $57.8Operating Profit 4.7 3.7 9.4 7.3 Net Income 2.8 2.3 5.8 4.6 Shr .16 .13 .33 .26 Avg shrs 17,831,946 17,620,656 17,759,373 17,605,068</",
+          "keyphrases": "finance/economy, business/industry, company/organization, performance/results"
+        },
+        {
+          "document_id": 67,
+          "text": "Average discounts on UK investment trusts were stable at the end of July at 10.86 percent, slightly down from the June average of 10.94 percent, a statement from the Association of Investment Trust Companies (AITC) showed.There was also evidence discounts could be narrowing again. Figures from the Datastream Consortium List",
+          "keyphrases": "finance/investment, business/economy, markets/trading, companies/corporations"
+        },
+        {
+          "document_id": 1613,
+          "text": "basket of Indian global depositary receipts and measures the change from midday on the previous trading day to midday today.-- David Chance, London newsroom +44 171 542 5887</",
+          "keyphrases": "finance/economy, business/industry, markets/trading, companies/corporations"
+        }
+      ]
+    },
+    {
+      "cluster": 111,
+      "chunk_count": 178,
+      "examples": [
+        {
+          "document_id": 302,
+          "text": "made stars like Edgar Davids and Michael Reiziger give-away bargains for AC Milan, have also forced Van Gaal to chop, change and improvise his line-up.\"I have to protect the players from themselves. Many of them just aren't yet fit enough for big games. Only the Boer brothers (Frank and Ronald)",
+          "keyphrases": "sports, business/finance, soccer, player performance"
+        },
+        {
+          "document_id": 302,
+          "text": "team were under pressure.Mariano Juan, the young Argentine who cannot yet communicate with his team mates, is no replacement for Bogarde, another who emerged from Dutch disappointment at Euro 96 with his reputation enhanced, while Kluivert's slow recuperation may force Van Gaal to shop around for a stand-in goalscorer.Babangida, signed",
+          "keyphrases": "sports/soccer, business/finance, player/team performance, transfer/trade"
+        },
+        {
+          "document_id": 302,
+          "text": "limit the damage,\" Van Gaal said.Dutch media have also speculated that Ajax's move to a new home, the towering multi-billion dollar Arena, has eroded the club's previous air of invincibility at the cramped de Meer stadium.\"The recent defeats hurt, they have damaged our confidence and will have given other opponents",
+          "keyphrases": "sports/soccer, business/finance, team/player, venue/arena"
+        }
+      ]
+    },
+    {
+      "cluster": 112,
+      "chunk_count": 96,
+      "examples": [
+        {
+          "document_id": 698,
+          "text": "sulphur diesel into France and Germany. A Scandinavian refiner was rumoured to have picked up a 5,000 tonne parcel into Bremen, but this could not be confirmed.German DIN talked steady with offers at Sept IPE +$3/$2.50 cif Hamburg and bids at Sept IPE +$1.50/+$2.Sept IPE gas oil settled 25 cents",
+          "keyphrases": "economy/finance, industry/manufacturing, energy/natural resources, international trade/commerce"
+        },
+        {
+          "document_id": 1581,
+          "text": "LCM.Fixtures reported from London on Monday.Alkyonis - 55,000 tonnes coal Richards Bay/Rostock Aug/Sept $8.00 fio scale 20,000 shex Cobelfret. Rialto - 60,000 tonnes coal Norfolk/Lisbon 9-14/9 $5.25 fio 20,000/8,250 Van Ommeren (recent).Tristar TBN - 57,000 tonnes coal Tarahan/Taiwan 26/10-4/11 plus 16-25/11 each $4.16 fio 15,000 shinc/20,000 shinc Taipower.K Line TBN",
+          "keyphrases": "economy/finance, industry/manufacturing, commodities/coal, shipping/transportation"
+        },
+        {
+          "document_id": 1581,
+          "text": "- 57,000 tonnes coal Tanjung Bara/Taiwan 6-15/10 16-25/10 6-15/11 plus 11-20/11 $3.20/$3.35/$3.45/$3.45 fio resp 30,000 shinc/20,000 shinc Taipower.TBN 60,000 tonnes coal Newport News/Rotterdam 1-14/9 $5.70 fio HMM.</",
+          "keyphrases": "economy/finance, industry/manufacturing, commodities/energy, trade/imports"
+        }
+      ]
+    },
+    {
+      "cluster": 113,
+      "chunk_count": 10,
+      "examples": [
+        {
+          "document_id": 187,
+          "text": "a.m. EDT (1300 GMT). If past practice is followed, any decision by the FOMC should be announced around 2:15 p.m. EDT (1815 GMT).Martin's forecast was shared unanimously by the 30 economists polled last week by Reuters, although some of those experts did not rule out an interest-rate rise later this",
+          "keyphrases": "economics/finance, government/regulatory, monetary policy, interest rates"
+        },
+        {
+          "document_id": 1318,
+          "text": "U.S. municipal bond prices ended Tuesday's session mostly unchanged, but trading levels were slightly higher than in recent days, market participants said.As expected, the Federal Open Market Committee ended its meeting this afternoon leaving interest rates unchanged and market participants relieved.A few bid-wanted lists circulated throughout the day, \"but it",
+          "keyphrases": "economics/finance, government/regulatory, interest rates, monetary policy"
+        },
+        {
+          "document_id": 1561,
+          "text": "any deals at that rate because of (availability of) RBI (Reserve Bank of India) refinance at 11 percent,\" said a dealer.Dealers said the secondary market in securities had almost died out following the recent spurt in call rates to double-digits.-- Bombay newsroom +91-22-265 9000</",
+          "keyphrases": "economics/finance, government/regulatory, interest rates, monetary policy"
+        }
+      ]
+    },
+    {
+      "cluster": 114,
+      "chunk_count": 147,
+      "examples": [
+        {
+          "document_id": 195,
+          "text": "year-on-year compared with 34 firms over the first six months.\"July earnings were average, but better than the weak results recorded in May and June, so they're returning to normal rather than worsening,\" said Pawel Tarnowski, an analyst at Raiffeisen Capital and Investment.Analysts had attributed this year's long winter to lower",
+          "keyphrases": "business/finance, economics/markets, earnings/revenue, seasonal/weather"
+        },
+        {
+          "document_id": 1727,
+          "text": "These data, unlike the preceeding numbers, were not seasonally adjusted.--Joan Gralla, 212-859-1654</",
+          "keyphrases": "business/finance, economics/markets, stocks/bonds, seasonal adjustments/trends"
+        },
+        {
+          "document_id": 552,
+          "text": "U.S. seasonally adjusted retail sales rose 1.2 percent in the first two weeks of fiscal August versus July, according to the Lynch, Jones &amp; Ryan Inc Redbook Retail Sales Index.The index rose 7.1 percent when compared to the same month a year ago, the report said. Adjusted retail sales also",
+          "keyphrases": "economics/finance, business/industry, retail/sales, seasonal/trends"
+        }
+      ]
+    },
+    {
+      "cluster": 115,
+      "chunk_count": 15,
+      "examples": [
+        {
+          "document_id": 440,
+          "text": "Lagoven S.A.-- New York Newsdesk 212-859-1610</",
+          "keyphrases": "business, finance, markets/marketing, production/services"
+        },
+        {
+          "document_id": 234,
+          "text": "combined Ciprial/Margetts fruit ingredients businesses on a European-wide basis,\" Kerry said.Earlier, the group reported a 21 percent increase in pre-tax profits to 20.0 million Irish pounds, ahead of analysts expectations of 19.2 million.Kerry said that all divisions performed strongly in the first half with turnover increasing by nine percent to",
+          "keyphrases": "business, finance, markets/marketing, production/services"
+        },
+        {
+          "document_id": 1196,
+          "text": "head of sales at the local brokerage.Dealers said Sampoerna could be aiming to use Transmarco as a listing vehicle to spearhead his business in Asia.</",
+          "keyphrases": "business, finance, markets/marketing, production/services"
+        }
+      ]
+    },
+    {
+      "cluster": 116,
+      "chunk_count": 10,
+      "examples": [
+        {
+          "document_id": 355,
+          "text": "Failed Australian businessman Alan Bond was sentenced to three years in jail Tuesday for fraud involving the French impressionist painting, La Promenade.The Western Australia District Court sentenced Bond after a jury last Friday found him guilty of four fraud charges, brought by the corporate watchdog the Australian Securities Commission, which",
+          "keyphrases": "business/finance, crime/law enforcement, legal/judicial, arts/culture"
+        },
+        {
+          "document_id": 61,
+          "text": "Failed Australian businessman Alan Bond was sentenced to three years in jail on Tuesday for fraud involving the French impressionist painting, La Promenade.In sentencing Bond, Western Australia District Court Judge Antoinette Kennedy said that while the jail term was not the maximum 14 years she could impose, it would seem",
+          "keyphrases": "crime/law enforcement, business/finance, legal/judicial, arts/culture"
+        },
+        {
+          "document_id": 57,
+          "text": "the sale of Eduoard Manet's La Promenade.The jury found that Bond had improperly used his position as director of his former corporate flagship, Bond Corporation Holdings Ltd, to allow his private company to buy La Promenade for about A$10 million less than its market value in 1988.His private company, Dallhold",
+          "keyphrases": "arts/culture, business/finance, legal/judicial, crime, law enforcement"
+        }
+      ]
+    },
+    {
+      "cluster": 117,
+      "chunk_count": 56,
+      "examples": [
+        {
+          "document_id": 1493,
+          "text": "0.38 percent------Buying by domestic institutional funds helped Indian shares recover on Tuesday but the undercurrent was shaky after Monday's sharp fall, brokers said.The 30-share BSE index rose 34.57 points, or 1.05 percent, to 3,316.06 after plunging 101.26 points on Monday.The 50-stock NSE index gained 1.0 point at 977 with the",
+          "keyphrases": "business/finance, economy/market, stocks/bonds, investing/trading"
+        },
+        {
+          "document_id": 854,
+          "text": "not correspond to market reality.By the end of the session, their words had been borne out with SPT shares losing 102 crowns to 3,339.The fall more than offset broader issues gains, dragging the PX50 index down five points, 0.88 percent, to 564.9.Overall, 201 shares gained ground on the day, while",
+          "keyphrases": "business/finance, economy/market, stocks/bonds, investing/trading"
+        },
+        {
+          "document_id": 986,
+          "text": "rose 5.1 percent, or $388 million, to $7.563 billion in the same period.-- Saul Hudson, Lima newsroom 511 221-2134</",
+          "keyphrases": "business/finance, economy/trade, stocks/bonds, investing/markets"
+        }
+      ]
+    },
+    {
+      "cluster": 118,
+      "chunk_count": 202,
+      "examples": [
+        {
+          "document_id": 1978,
+          "text": "Rising domestic and foreign palm oil demand will mostly offset higher Malaysian output which seasonally peaks in August/September and will reduce stocks in the country, the independent newsletter Oil World said.It said end-Septmeber stocks should be considerably below Oil World's June 14 forecast of 900,000 tonnes, but did not give",
+          "keyphrases": "agriculture/farming, commerce/trade, commodities/raw materials, economics/finance"
+        },
+        {
+          "document_id": 1523,
+          "text": "(KCA) said exports had reached 1.82 million 375-lb bales by July 31 since the 1995/96 picking season began on September 1, 1995.Dealers had registered 2.33 million bales for export with the state-run Export Promotion Bureau, the KCA said.KCA's official spot rates in rupees per maund: Tuesday Previous NIAB-78 (1996/97 crop)",
+          "keyphrases": "business/economy, agriculture/farming, exports/import, commodities/crops"
+        },
+        {
+          "document_id": 1293,
+          "text": "- Syria's General Establishment for Cereal Processing and Trade said it was offering 50,000 tonnes of black feed barley for sale. It said August 20 had been set as a final date to receive price offers. Confirmation would be made on August 21. The quantity from the 1994 crop would",
+          "keyphrases": "business/economy, agriculture/farming, trade/imports, commodities/grains"
+        }
+      ]
+    },
+    {
+      "cluster": 119,
+      "chunk_count": 6,
+      "examples": [
+        {
+          "document_id": 799,
+          "text": "Former president F.W. de Klerk addresses South Africa's \"truth commission\" on Wednesday in a bid to explain why his National Party plunged the country into 46 years of apartheid misery.De Klerk, who acknowledged in 1990 that South Africa's race policies were untenable and began reforms that led to majority rule",
+          "keyphrases": "government/politics, history/events, apartheid, reform"
+        },
+        {
+          "document_id": 799,
+          "text": "embarrassment to their parties today.\"De Klerk, who jointly won the Nobel peace prize with Mandela in 1993, is now trying to position his party as a credible opposition to the ANC, repeatedly disowning its past as the whites-only architect of apartheid.Most of the leaders of the party today are relative",
+          "keyphrases": "government/politics, social/culture, apartheid, Nobel peace prize"
+        },
+        {
+          "document_id": 740,
+          "text": "accept overall responsibility for \"the many things that went wrong\" with the policy.But he is likely to shift most of the blame onto his predecessors and cite the fact that barely a year after he took office he began in 1990 to dismantle apartheid -- freeing African National Congress leader",
+          "keyphrases": "government/politics, social/economic, apartheid, predecessors"
+        }
+      ]
+    },
+    {
+      "cluster": 120,
+      "chunk_count": 13,
+      "examples": [
+        {
+          "document_id": 1359,
+          "text": "seeing a few more hogs show up has people worried about the supply side but more improtant than this, gives the packers a little more freedom to improve their margins,\" said Doug Harper, Brock Associates Inc senior livestock analyst.Harper noted that packer buying interest will decline despite the large kill",
+          "keyphrases": "agriculture/farming"
+        },
+        {
+          "document_id": 1360,
+          "text": "The Chicago Board of Trade reported the following stocks of wheat in Chicago, deliverable against CBOT futures. (in 000's bu). 8/16 WEEK YEAR AGO AGOSoft Red Winter 460 354 3,464Hard Red Winter 0 0 0Dark Northern Spring 0 0 0Northern Spring 0 0 0Total Deliverable Grades 460 354 3,464Non-Del Grades/Ungraded",
+          "keyphrases": "agriculture/farming"
+        },
+        {
+          "document_id": 673,
+          "text": "cif.Products were around $10 higher with no further business reported.Coconut oil closed unchanged to $20 after Jul/Aug traded at $777.50 and Aug/Sep at $735 a tonne cif while palmkernel oil was $5 higher and tradeless.Soft oils finished with soy oil 1.50 to 0.50 guilders up after Oct traded at 94.50",
+          "keyphrases": "agriculture/farming"
+        }
+      ]
+    },
+    {
+      "cluster": 121,
+      "chunk_count": 120,
+      "examples": [
+        {
+          "document_id": 627,
+          "text": "Level 3 recognition.The designation was offered after a six-member team, headed by the Software Productivity Consortium, reviewed Vitro's procedures and project documents, and interviewed employees.</",
+          "keyphrases": "technology/software, business/management, project management, quality control"
+        },
+        {
+          "document_id": 1442,
+          "text": "collaborative work management products to be introduced in 1997.--New York Newsdesk, 212/859-1610</",
+          "keyphrases": "computing/technology, business/finance, software/operating systems, productivity/project management"
+        },
+        {
+          "document_id": 446,
+          "text": "starts at $25,000, which includes 100 licenses and a one-year support and maintenance contract.--Chicago newsdesk, 312-408-8787</",
+          "keyphrases": "computer/technology, business/finance, software/programming, licensing/agreements"
+        }
+      ]
+    },
+    {
+      "cluster": 122,
+      "chunk_count": 11,
+      "examples": [
+        {
+          "document_id": 1876,
+          "text": "will take a restructuring charge of about $150,000 from recent staff reductions.Including those nonrecurring items, the company expects to report a net loss per share of between $0.20 and $0.22 for the quarter. Excluding those items, the company expects earnings per share to be between $0.10 and $0.12 for the",
+          "keyphrases": "corporate/industrial, finance/economy, earnings/losses, restructuring/downsizing"
+        },
+        {
+          "document_id": 518,
+          "text": "restructuring charge of $0.94/shr, the company would have reported a Q4 1996 net profit of $0.02/shr.</",
+          "keyphrases": "corporate/industrial, finance/economy, earnings/profit, restructuring/downsizing"
+        },
+        {
+          "document_id": 550,
+          "text": "Three Months Ended Six Months Ended 6-30-96 6-30-95 6-30-96 6-30-95Revenue $1,732,409 $3,531,899 $3,677,809 $6,671,742Net Income (Loss) ($82,963) $143,519 ($384,189) $147,612Avg Shrs Outstan 7,981,007 7,728,342 7,932,051 7,557,533Earnings (Loss) Per Share ($.010) $.O2 ($.048) $.02NOTE: The company said the loss was from substantially reduced revenues from restructuring activities and a recently completed",
+          "keyphrases": "finance/economy, business/industry, earnings/revenue, restructuring/downsizing"
+        }
+      ]
+    },
+    {
+      "cluster": 123,
+      "chunk_count": 126,
+      "examples": [
+        {
+          "document_id": 1830,
+          "text": "and expenses:Sales and marketing 9,888,558 38.5% 8,918,867 44.0%General and administrative 2,556,757 10.0% 2,456,990 12.1%Research and development 3,170,937 12.3% 2,151,069 10.6% 15,616,252 60.8% 13,526,926 66.6% Operating income 1,801,182 7.0% (370,360) (1.8%) Other expense, net (262,374) (1.0%) (53,925) (0.2%)Income (loss) before income taxes 1,538,808 6.0% (424,285) (2.0%) Income Tax Provision 585,236 2.3%",
+          "keyphrases": "finance/economy, business/industry, sales/marketing, expenses/taxation"
+        },
+        {
+          "document_id": 538,
+          "text": "Three months ending Jul 27, 1996 Jul 29, 1995 Net Sales $17,022 $12,446 Cost of goods sold 12,614 9,710 Gross profit 4,408 2,736Operating expenses: Selling 2,056 1,736 General and administrative 649 534 Product design and development 571 469 -- 3,276 2,739 Operating income (loss) 1,132 (3)Nonoperating income (expense): Interest expense",
+          "keyphrases": "finance/economy, business/industry, sales/revenue, expenses/costs"
+        },
+        {
+          "document_id": 496,
+          "text": "Third Quarter Nine Months 1996 1995 1996 1995 Net revenue $2,722 $3,189 $ 8,488 $8,131 Cost of revenue 1,105 998 2,700 2,567 Gross margin 1,617 2,191 5,788 5,564 SG&amp;A expense 1,678 1,289 5,307 3,491 R&amp;D expense 604 427 1,665 1,545 Operating expenses 2,282 1,716 6,972 5,036 Operating income (loss) (665)",
+          "keyphrases": "finance/economy, technology/computing, earnings/revenue, expenses/spending"
+        }
+      ]
+    }
+  ]
+}

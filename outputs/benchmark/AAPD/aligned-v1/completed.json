@@ -1,0 +1,10 @@
+{
+  "dataset": "AAPD",
+  "profile": "aligned",
+  "classifiers": [
+    "deberta",
+    "bart",
+    "xlm"
+  ],
+  "evaluated": true
+}

@@ -1,0 +1,2 @@
+﻿dataset,run,profile,train_documents,test_documents,initial_labels,final_labels,initial_coverage,final_coverage,author_matching_score@1,author_matching_score@3,elapsed_seconds
+Reuters-21578,integration-v2,smoke,76,3,8,10,0.03333333333333333,0.044444444444444446,0.0,0.0,90.17200000002049

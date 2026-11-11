@@ -1,0 +1,29 @@
+{
+  "dataset": "AAPD",
+  "train": {
+    "chunks": 277,
+    "documents": 80,
+    "id_limit": 80,
+    "missing_document_ids": []
+  },
+  "test": {
+    "chunks": 12,
+    "documents": 3,
+    "id_limit": 3,
+    "missing_document_ids": []
+  },
+  "truth_rows": 1000,
+  "train_truth_rows": 53840,
+  "fingerprints": {
+    "train": {
+      "text": "5be5ea9ab485ad269215d5b1a0c2196d0a2924e4bd7a0de9bb876d0b32da77e7",
+      "keywords": "8bb92574bbbb12d85d7a233a40c2257d39e9f8b4021ac3d3e1f3abe58a6530b6"
+    },
+    "test": {
+      "text": "ffa7c31b51dcc3c8dcae1c3628ddc6be41b29c9606d19ed2cf741611a8a71986",
+      "keywords": "79edd87b2fb63429029c67c8bd12b19dbdcae5efe3495bb2f3865b0b202da606"
+    },
+    "test_truth": "275ca749d205c91c5ad380c4358fae691bf2aace89616949fa60d12305e783ff",
+    "train_truth": "acf7c6338ca39a4131753d6f356a6129d63748535fc60392e87348d0031d7662"
+  }
+}

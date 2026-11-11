@@ -1,0 +1,195 @@
+{
+  "signature": "aabd4eeddc3c446b3808e96f98d3024f7353ecf513f2b64ebc831d1fe79b6c48",
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "named": [
+    {
+      "cluster": 0,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 1,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 2,
+      "label": "Business & Finance",
+      "raw": "{\"label\":\"Business & Finance\"}"
+    },
+    {
+      "cluster": 3,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 4,
+      "label": "Transportation",
+      "raw": "{\"label\":\"Transportation\"}"
+    },
+    {
+      "cluster": 5,
+      "label": "Banking",
+      "raw": "{\"label\":\"Banking\"}"
+    },
+    {
+      "cluster": 6,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 7,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 8,
+      "label": "Agriculture",
+      "raw": "{\"label\":\"Agriculture\"}"
+    },
+    {
+      "cluster": 9,
+      "label": "Business",
+      "raw": "{\"label\":\"Business\"}"
+    },
+    {
+      "cluster": 10,
+      "label": "ECONOMICS",
+      "raw": "{\"label\":\"ECONOMICS\"}"
+    },
+    {
+      "cluster": 11,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 12,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 13,
+      "label": "Economy",
+      "raw": "{\"label\":\"Economy\"}"
+    },
+    {
+      "cluster": 14,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    },
+    {
+      "cluster": 15,
+      "label": "Finance",
+      "raw": "{\"label\":\"Finance\"}"
+    }
+  ],
+  "decisions": [
+    {
+      "cluster": 0,
+      "label": "Finance",
+      "canonical_label": "Finance",
+      "raw": "first label"
+    },
+    {
+      "cluster": 1,
+      "label": "Finance",
+      "canonical_label": "Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 2,
+      "label": "Business & Finance",
+      "canonical_label": "Business & Finance",
+      "raw": "first label"
+    },
+    {
+      "cluster": 3,
+      "label": "Finance",
+      "canonical_label": "Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 4,
+      "label": "Transportation",
+      "canonical_label": "Transportation",
+      "raw": "first label"
+    },
+    {
+      "cluster": 5,
+      "label": "Banking",
+      "canonical_label": "Banking",
+      "raw": "first label"
+    },
+    {
+      "cluster": 6,
+      "label": "Finance",
+      "canonical_label": "Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 7,
+      "label": "Agriculture",
+      "canonical_label": "Agriculture",
+      "raw": "first label"
+    },
+    {
+      "cluster": 8,
+      "label": "Agriculture",
+      "canonical_label": "Agriculture",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 9,
+      "label": "Business",
+      "canonical_label": "Business",
+      "raw": "first label"
+    },
+    {
+      "cluster": 10,
+      "label": "ECONOMICS",
+      "canonical_label": "ECONOMICS",
+      "raw": "first label"
+    },
+    {
+      "cluster": 11,
+      "label": "Finance",
+      "canonical_label": "Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 12,
+      "label": "Finance",
+      "canonical_label": "Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 13,
+      "label": "Economy",
+      "canonical_label": "Economy",
+      "raw": "first label"
+    },
+    {
+      "cluster": 14,
+      "label": "Finance",
+      "canonical_label": "Finance",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 15,
+      "label": "Finance",
+      "canonical_label": "Finance",
+      "raw": "exact match"
+    }
+  ],
+  "kept": [
+    "Finance",
+    "Business & Finance",
+    "Transportation",
+    "Banking",
+    "Agriculture",
+    "Business",
+    "ECONOMICS",
+    "Economy"
+  ],
+  "dedup": "exact"
+}

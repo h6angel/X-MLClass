@@ -1,0 +1,6 @@
+# Add to the existing GPU-enabled xmlclass environment.
+# Windows cp39 wheel; author's source requirements used 0.8.33.
+hdbscan==0.8.40
+# Pin the nearest-neighbor implementation for UMAP 0.5.4 / Numba 0.58.1.
+# PyNNDescent 0.7.0 hybrid forest fails in Numba's parfor conversion.
+pynndescent==0.5.13

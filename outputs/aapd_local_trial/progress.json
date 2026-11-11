@@ -1,0 +1,47 @@
+{
+  "signature": "e51099ac6b5d36384cbcce5e01974fbc492e463d0d4ddaf7fd50806aa6d42b50",
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "named": [
+    {
+      "cluster": 0,
+      "label": "Graph Theory and Combinatorics in Theoretical Computer Science",
+      "raw": "{\"label\":\"Graph Theory and Combinatorics in Theoretical Computer Science\"}"
+    },
+    {
+      "cluster": 1,
+      "label": "Optimization in Computer Science",
+      "raw": "{\"label\":\"Optimization in Computer Science\"}"
+    },
+    {
+      "cluster": 2,
+      "label": "Coding Theory and Error Correction",
+      "raw": "{\"label\":\"Coding Theory and Error Correction\"}"
+    }
+  ],
+  "decisions": [
+    {
+      "cluster": 0,
+      "label": "Graph Theory and Combinatorics in Theoretical Computer Science",
+      "canonical_label": "Graph Theory and Combinatorics in Theoretical Computer Science",
+      "raw": "first label"
+    },
+    {
+      "cluster": 1,
+      "label": "Optimization in Computer Science",
+      "canonical_label": "Optimization in Computer Science",
+      "raw": "first label"
+    },
+    {
+      "cluster": 2,
+      "label": "Coding Theory and Error Correction",
+      "canonical_label": "Coding Theory and Error Correction",
+      "raw": "first label"
+    }
+  ],
+  "kept": [
+    "Graph Theory and Combinatorics in Theoretical Computer Science",
+    "Optimization in Computer Science",
+    "Coding Theory and Error Correction"
+  ],
+  "dedup": "exact"
+}

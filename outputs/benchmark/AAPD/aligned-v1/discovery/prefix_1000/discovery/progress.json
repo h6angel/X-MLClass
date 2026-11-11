@@ -1,0 +1,521 @@
+{
+  "signature": "f2181792f10111e01cad1298b6f16dd9d933e275f52ed8492a5161de74815a6e",
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "named": [
+    {
+      "cluster": 0,
+      "label": "distributed inference networks",
+      "raw": "{\"label\":\"distributed inference networks\"}"
+    },
+    {
+      "cluster": 1,
+      "label": "Bayesian Inference",
+      "raw": "{\"label\":\"Bayesian Inference\"}"
+    },
+    {
+      "cluster": 2,
+      "label": "Computer Science Research Topics",
+      "raw": "{\"label\":\"Computer Science Research Topics\"}"
+    },
+    {
+      "cluster": 3,
+      "label": "Natural Language Processing",
+      "raw": "{\"label\":\"Natural Language Processing\"}"
+    },
+    {
+      "cluster": 4,
+      "label": "Logic and Semantics",
+      "raw": "{\"label\":\"Logic and Semantics\"}"
+    },
+    {
+      "cluster": 5,
+      "label": "Networking and Communications",
+      "raw": "{\"label\":\"Networking and Communications\"}"
+    },
+    {
+      "cluster": 6,
+      "label": "Coding Theory",
+      "raw": "{\"label\":\"Coding Theory\"}"
+    },
+    {
+      "cluster": 7,
+      "label": "Number Theory",
+      "raw": "{\"label\":\"Number Theory\"}"
+    },
+    {
+      "cluster": 8,
+      "label": "Computer Vision and Image Processing",
+      "raw": "{\"label\":\"Computer Vision and Image Processing\"}"
+    },
+    {
+      "cluster": 9,
+      "label": "Graph Theory",
+      "raw": "{\"label\":\"Graph Theory\"}"
+    },
+    {
+      "cluster": 10,
+      "label": "Graph Algorithms and Complexity",
+      "raw": "{\"label\":\"Graph Algorithms and Complexity\"}"
+    },
+    {
+      "cluster": 11,
+      "label": "Robotics",
+      "raw": "{\"label\":\"Robotics\"}"
+    },
+    {
+      "cluster": 12,
+      "label": "coding theory",
+      "raw": "{\"label\":\"coding theory\"}"
+    },
+    {
+      "cluster": 13,
+      "label": "Software Engineering",
+      "raw": "{\"label\":\"Software Engineering\"}"
+    },
+    {
+      "cluster": 14,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 15,
+      "label": "Computer Science - Complexity Theory",
+      "raw": "{\"label\":\"Computer Science - Complexity Theory\"}"
+    },
+    {
+      "cluster": 16,
+      "label": "Signal Processing",
+      "raw": "{\"label\":\"Signal Processing\"}"
+    },
+    {
+      "cluster": 17,
+      "label": "Social Network Analysis",
+      "raw": "{\"label\":\"Social Network Analysis\"}"
+    },
+    {
+      "cluster": 18,
+      "label": "Software Engineering",
+      "raw": "{\"label\":\"Software Engineering\"}"
+    },
+    {
+      "cluster": 19,
+      "label": "signal processing",
+      "raw": "{\"label\":\"signal processing\"}"
+    },
+    {
+      "cluster": 20,
+      "label": "Numerical Analysis",
+      "raw": "{\"label\":\"Numerical Analysis\"}"
+    },
+    {
+      "cluster": 21,
+      "label": "Information Retrieval & Ranking Algorithms",
+      "raw": "{\"label\":\"Information Retrieval & Ranking Algorithms\"}"
+    },
+    {
+      "cluster": 22,
+      "label": "Machine Learning",
+      "raw": "{\"label\":\"Machine Learning\"}"
+    },
+    {
+      "cluster": 23,
+      "label": "coding theory",
+      "raw": "{\"label\":\"coding theory\"}"
+    },
+    {
+      "cluster": 24,
+      "label": "Natural Language Processing",
+      "raw": "{\"label\":\"Natural Language Processing\"}"
+    },
+    {
+      "cluster": 25,
+      "label": "Graph Theory",
+      "raw": "{\"label\":\"Graph Theory\"}"
+    },
+    {
+      "cluster": 26,
+      "label": "Algorithms & Complexity",
+      "raw": "{\"label\":\"Algorithms & Complexity\"}"
+    },
+    {
+      "cluster": 27,
+      "label": "Game Theory",
+      "raw": "{\"label\":\"Game Theory\"}"
+    },
+    {
+      "cluster": 28,
+      "label": "Coding Theory",
+      "raw": "{\"label\":\"Coding Theory\"}"
+    },
+    {
+      "cluster": 29,
+      "label": "Machine Learning",
+      "raw": "{\"label\":\"Machine Learning\"}"
+    },
+    {
+      "cluster": 30,
+      "label": "Quantum Computing",
+      "raw": "{\"label\":\"Quantum Computing\"}"
+    },
+    {
+      "cluster": 31,
+      "label": "Communication Systems",
+      "raw": "{\"label\":\"Communication Systems\"}"
+    },
+    {
+      "cluster": 32,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 33,
+      "label": "Wireless Communication",
+      "raw": "{\"label\":\"Wireless Communication\"}"
+    },
+    {
+      "cluster": 34,
+      "label": "Computer Vision & Image Analysis",
+      "raw": "{\"label\":\"Computer Vision & Image Analysis\"}"
+    },
+    {
+      "cluster": 35,
+      "label": "signal processing",
+      "raw": "{\"label\":\"signal processing\"}"
+    },
+    {
+      "cluster": 36,
+      "label": "Signal Processing",
+      "raw": "{\"label\":\"Signal Processing\"}"
+    },
+    {
+      "cluster": 37,
+      "label": "Computational Complexity",
+      "raw": "{\"label\":\"Computational Complexity\"}"
+    },
+    {
+      "cluster": 38,
+      "label": "Information Theory and Coding",
+      "raw": "{\"label\":\"Information Theory and Coding\"}"
+    },
+    {
+      "cluster": 39,
+      "label": "Database Systems",
+      "raw": "{\"label\":\"Database Systems\"}"
+    },
+    {
+      "cluster": 40,
+      "label": "Information Theory",
+      "raw": "{\"label\":\"Information Theory\"}"
+    },
+    {
+      "cluster": 41,
+      "label": "Networks & Communications",
+      "raw": "{\"label\":\"Networks & Communications\"}"
+    },
+    {
+      "cluster": 42,
+      "label": "Graph Theory",
+      "raw": "{\"label\":\"Graph Theory\"}"
+    },
+    {
+      "cluster": 43,
+      "label": "coding theory",
+      "raw": "{\"label\":\"coding theory\"}"
+    }
+  ],
+  "decisions": [
+    {
+      "cluster": 0,
+      "label": "distributed inference networks",
+      "canonical_label": "distributed inference networks",
+      "raw": "first label"
+    },
+    {
+      "cluster": 1,
+      "label": "Bayesian Inference",
+      "canonical_label": "Bayesian Inference",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 2,
+      "label": "Computer Science Research Topics",
+      "canonical_label": "Computer Science Research Topics",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 3,
+      "label": "Natural Language Processing",
+      "canonical_label": "Natural Language Processing",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 4,
+      "label": "Logic and Semantics",
+      "canonical_label": "Logic and Semantics",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 5,
+      "label": "Networking and Communications",
+      "canonical_label": "Networking and Communications",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 6,
+      "label": "Coding Theory",
+      "canonical_label": "Coding Theory",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 7,
+      "label": "Number Theory",
+      "canonical_label": "Number Theory",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 8,
+      "label": "Computer Vision and Image Processing",
+      "canonical_label": "Computer Vision and Image Processing",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 9,
+      "label": "Graph Theory",
+      "canonical_label": "Graph Theory",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 10,
+      "label": "Graph Algorithms and Complexity",
+      "canonical_label": "Graph Algorithms and Complexity",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 11,
+      "label": "Robotics",
+      "canonical_label": "Robotics",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 12,
+      "label": "coding theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 13,
+      "label": "Software Engineering",
+      "canonical_label": "Software Engineering",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 14,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 15,
+      "label": "Computer Science - Complexity Theory",
+      "canonical_label": "Computer Science - Complexity Theory",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 16,
+      "label": "Signal Processing",
+      "canonical_label": "Signal Processing",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 17,
+      "label": "Social Network Analysis",
+      "canonical_label": "Social Network Analysis",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 18,
+      "label": "Software Engineering",
+      "canonical_label": "Software Engineering",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 19,
+      "label": "signal processing",
+      "canonical_label": "Signal Processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 20,
+      "label": "Numerical Analysis",
+      "canonical_label": "Numerical Analysis",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 21,
+      "label": "Information Retrieval & Ranking Algorithms",
+      "canonical_label": "Information Retrieval & Ranking Algorithms",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 22,
+      "label": "Machine Learning",
+      "canonical_label": "Machine Learning",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 23,
+      "label": "coding theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 24,
+      "label": "Natural Language Processing",
+      "canonical_label": "Natural Language Processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 25,
+      "label": "Graph Theory",
+      "canonical_label": "Graph Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 26,
+      "label": "Algorithms & Complexity",
+      "canonical_label": "Algorithms & Complexity",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 27,
+      "label": "Game Theory",
+      "canonical_label": "Game Theory",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 28,
+      "label": "Coding Theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 29,
+      "label": "Machine Learning",
+      "canonical_label": "Machine Learning",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 30,
+      "label": "Quantum Computing",
+      "canonical_label": "Quantum Computing",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 31,
+      "label": "Communication Systems",
+      "canonical_label": "Communication Systems",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 32,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 33,
+      "label": "Wireless Communication",
+      "canonical_label": "Wireless Communication",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 34,
+      "label": "Computer Vision & Image Analysis",
+      "canonical_label": "Computer Vision and Image Processing",
+      "raw": "{\"duplicate_of\": 8}"
+    },
+    {
+      "cluster": 35,
+      "label": "signal processing",
+      "canonical_label": "Signal Processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 36,
+      "label": "Signal Processing",
+      "canonical_label": "Signal Processing",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 37,
+      "label": "Computational Complexity",
+      "canonical_label": "Computer Science - Complexity Theory",
+      "raw": "{\"duplicate_of\": 14}"
+    },
+    {
+      "cluster": 38,
+      "label": "Information Theory and Coding",
+      "canonical_label": "Information Theory",
+      "raw": "{\"duplicate_of\": 13}"
+    },
+    {
+      "cluster": 39,
+      "label": "Database Systems",
+      "canonical_label": "Database Systems",
+      "raw": "no semantic candidate above author .80 lower bound"
+    },
+    {
+      "cluster": 40,
+      "label": "Information Theory",
+      "canonical_label": "Information Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 41,
+      "label": "Networks & Communications",
+      "canonical_label": "Networking and Communications",
+      "raw": "{\"duplicate_of\": 5}"
+    },
+    {
+      "cluster": 42,
+      "label": "Graph Theory",
+      "canonical_label": "Graph Theory",
+      "raw": "exact match"
+    },
+    {
+      "cluster": 43,
+      "label": "coding theory",
+      "canonical_label": "Coding Theory",
+      "raw": "exact match"
+    }
+  ],
+  "kept": [
+    "distributed inference networks",
+    "Bayesian Inference",
+    "Computer Science Research Topics",
+    "Natural Language Processing",
+    "Logic and Semantics",
+    "Networking and Communications",
+    "Coding Theory",
+    "Number Theory",
+    "Computer Vision and Image Processing",
+    "Graph Theory",
+    "Graph Algorithms and Complexity",
+    "Robotics",
+    "Software Engineering",
+    "Information Theory",
+    "Computer Science - Complexity Theory",
+    "Signal Processing",
+    "Social Network Analysis",
+    "Numerical Analysis",
+    "Information Retrieval & Ranking Algorithms",
+    "Machine Learning",
+    "Algorithms & Complexity",
+    "Game Theory",
+    "Quantum Computing",
+    "Communication Systems",
+    "Wireless Communication",
+    "Database Systems"
+  ],
+  "dedup": "semantic"
+}

@@ -1,0 +1,234 @@
+{
+  "ground_truth_count": 90,
+  "vocabulary_source": "union of supplied train/test truth labels; evaluation only",
+  "results": [
+    {
+      "stage": "initial",
+      "label_count": 103,
+      "matched_count": 22,
+      "coverage": 0.24444444444444444,
+      "matching_pairs": [
+        {
+          "ground_truth": "cocoa",
+          "prediction": "Cocoa Industry"
+        },
+        {
+          "ground_truth": "coconut",
+          "prediction": "Palm_Oil"
+        },
+        {
+          "ground_truth": "coffee",
+          "prediction": "Coffee Industry"
+        },
+        {
+          "ground_truth": "corn",
+          "prediction": "Agriculture"
+        },
+        {
+          "ground_truth": "cotton",
+          "prediction": "Cotton Industry"
+        },
+        {
+          "ground_truth": "earn",
+          "prediction": "Finance"
+        },
+        {
+          "ground_truth": "fuel",
+          "prediction": "Oil and Gas"
+        },
+        {
+          "ground_truth": "gas",
+          "prediction": "Mining_and_Oil_Gas"
+        },
+        {
+          "ground_truth": "grain",
+          "prediction": "Grain Futures"
+        },
+        {
+          "ground_truth": "housing",
+          "prediction": "Real Estate"
+        },
+        {
+          "ground_truth": "income",
+          "prediction": "Finance - Earnings"
+        },
+        {
+          "ground_truth": "iron-steel",
+          "prediction": "Steel Industry"
+        },
+        {
+          "ground_truth": "meal-feed",
+          "prediction": "Food & Drink"
+        },
+        {
+          "ground_truth": "yen",
+          "prediction": "Currency"
+        },
+        {
+          "ground_truth": "money-supply",
+          "prediction": "Monetary Policy"
+        },
+        {
+          "ground_truth": "palm-oil",
+          "prediction": "Palm Oil Industry"
+        },
+        {
+          "ground_truth": "retail",
+          "prediction": "Retail"
+        },
+        {
+          "ground_truth": "ship",
+          "prediction": "Maritime"
+        },
+        {
+          "ground_truth": "strategic-metal",
+          "prediction": "Industry - Metals & Mining"
+        },
+        {
+          "ground_truth": "sugar",
+          "prediction": "Sugar Industry"
+        },
+        {
+          "ground_truth": "trade",
+          "prediction": "Trade"
+        },
+        {
+          "ground_truth": "money-fx",
+          "prediction": "International Finance"
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "label_count": 189,
+      "matched_count": 31,
+      "coverage": 0.34444444444444444,
+      "matching_pairs": [
+        {
+          "ground_truth": "bop",
+          "prediction": "bop"
+        },
+        {
+          "ground_truth": "carcass",
+          "prediction": "beef"
+        },
+        {
+          "ground_truth": "cocoa",
+          "prediction": "cocoa"
+        },
+        {
+          "ground_truth": "coffee",
+          "prediction": "Coffee Industry"
+        },
+        {
+          "ground_truth": "livestock",
+          "prediction": "Agriculture"
+        },
+        {
+          "ground_truth": "cotton",
+          "prediction": "cotton"
+        },
+        {
+          "ground_truth": "earn",
+          "prediction": "Finance"
+        },
+        {
+          "ground_truth": "fuel",
+          "prediction": "Oil and Gas"
+        },
+        {
+          "ground_truth": "gas",
+          "prediction": "Mining_and_Oil_Gas"
+        },
+        {
+          "ground_truth": "gnp",
+          "prediction": "gnp"
+        },
+        {
+          "ground_truth": "grain",
+          "prediction": "Grain Futures"
+        },
+        {
+          "ground_truth": "housing",
+          "prediction": "Real Estate"
+        },
+        {
+          "ground_truth": "income",
+          "prediction": "Finance - Earnings"
+        },
+        {
+          "ground_truth": "iron-steel",
+          "prediction": "Steel Industry"
+        },
+        {
+          "ground_truth": "corn",
+          "prediction": "corn"
+        },
+        {
+          "ground_truth": "meal-feed",
+          "prediction": "Food & Drink"
+        },
+        {
+          "ground_truth": "yen",
+          "prediction": "Currency"
+        },
+        {
+          "ground_truth": "money-supply",
+          "prediction": "Monetary Policy"
+        },
+        {
+          "ground_truth": "oat",
+          "prediction": "oat"
+        },
+        {
+          "ground_truth": "palm-oil",
+          "prediction": "Palm Oil Industry"
+        },
+        {
+          "ground_truth": "reserves",
+          "prediction": "reserve"
+        },
+        {
+          "ground_truth": "retail",
+          "prediction": "Retail"
+        },
+        {
+          "ground_truth": "rice",
+          "prediction": "rice"
+        },
+        {
+          "ground_truth": "rubber",
+          "prediction": "rubber"
+        },
+        {
+          "ground_truth": "ship",
+          "prediction": "Maritime"
+        },
+        {
+          "ground_truth": "silver",
+          "prediction": "silver"
+        },
+        {
+          "ground_truth": "soybean",
+          "prediction": "soybean"
+        },
+        {
+          "ground_truth": "strategic-metal",
+          "prediction": "Industry - Metals & Mining"
+        },
+        {
+          "ground_truth": "sugar",
+          "prediction": "Sugar Industry"
+        },
+        {
+          "ground_truth": "trade",
+          "prediction": "Trade"
+        },
+        {
+          "ground_truth": "money-fx",
+          "prediction": "International Finance"
+        }
+      ]
+    }
+  ]
+}

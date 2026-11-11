@@ -1,0 +1,35 @@
+{
+  "dataset": "Reuters-21578",
+  "train": {
+    "chunks": 186,
+    "documents": 76,
+    "id_limit": 80,
+    "missing_document_ids": [
+      61,
+      63,
+      64,
+      65
+    ]
+  },
+  "test": {
+    "chunks": 22,
+    "documents": 3,
+    "id_limit": 3,
+    "missing_document_ids": []
+  },
+  "truth_rows": 3019,
+  "train_truth_rows": 7769,
+  "evaluation_vocabulary_size": 90,
+  "fingerprints": {
+    "train": {
+      "text": "0e68617c3aad46aa19148e09b2601b367ee56c5e435159e9c6b582ff5a8b5d94",
+      "keywords": "0a48eef564006773d9b36ea27d13fbe7d935fbbeffaf827d28f744fc192bb0e0"
+    },
+    "test": {
+      "text": "faa9946081c94b26cc33ebfbb294132315dcf6e3e068e41d4de9f2437bf164d3",
+      "keywords": "8a9ea3f195ba75ccc086411e411e221fe2c5bd03df39015b63f288867cf16fdd"
+    },
+    "test_truth": "286a0e5dcbc0f11872c103a1321064f7fa06e5efd91f7c80e89eaffbb73623aa",
+    "train_truth": "f59565598698c528a733507c69793d2099a1ac4aa10010febf9e284feca57294"
+  }
+}

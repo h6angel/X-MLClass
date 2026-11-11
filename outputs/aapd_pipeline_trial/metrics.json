@@ -1,0 +1,7 @@
+{
+  "documents": 3,
+  "judge_model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "note": "Author semantic matching normalization hits/min(number of true labels,k); local judge replaces GPT. Not standard precision@k.",
+  "author_matching_score@1": 0.0,
+  "author_matching_score@3": 0.6666666666666666
+}

@@ -1,0 +1,86 @@
+{
+  "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+  "samples_per_channel": 28,
+  "runs": [
+    {
+      "batch_size": 1,
+      "seconds": {
+        "text": 9.384648799999997,
+        "keyword": 9.438282699999998
+      },
+      "chunks_per_second": {
+        "text": 2.9835959338190694,
+        "keyword": 2.9666413785211163
+      },
+      "peak_allocated_mib": 847.27099609375,
+      "peak_reserved_mib": 864.0,
+      "top1_changed": 0,
+      "ranking_changed": 0,
+      "max_score_delta": 0.0
+    },
+    {
+      "batch_size": 2,
+      "seconds": {
+        "text": 5.165881600000002,
+        "keyword": 4.701279300000003
+      },
+      "chunks_per_second": {
+        "text": 5.4201784260792945,
+        "keyword": 5.955825683447478
+      },
+      "peak_allocated_mib": 854.08447265625,
+      "peak_reserved_mib": 866.0,
+      "top1_changed": 0,
+      "ranking_changed": 0,
+      "max_score_delta": 0.00341796875
+    },
+    {
+      "batch_size": 4,
+      "seconds": {
+        "text": 2.454313499999998,
+        "keyword": 2.374461799999999
+      },
+      "chunks_per_second": {
+        "text": 11.408485509288045,
+        "keyword": 11.792145908601272
+      },
+      "peak_allocated_mib": 869.10205078125,
+      "peak_reserved_mib": 898.0,
+      "top1_changed": 0,
+      "ranking_changed": 0,
+      "max_score_delta": 0.004150390625
+    },
+    {
+      "batch_size": 8,
+      "seconds": {
+        "text": 1.1441159000000027,
+        "keyword": 1.2502387999999982
+      },
+      "chunks_per_second": {
+        "text": 24.473045082233305,
+        "keyword": 22.395721521360592
+      },
+      "peak_allocated_mib": 902.830078125,
+      "peak_reserved_mib": 948.0,
+      "top1_changed": 0,
+      "ranking_changed": 0,
+      "max_score_delta": 0.0029296875
+    },
+    {
+      "batch_size": 16,
+      "seconds": {
+        "text": 1.1869788999999997,
+        "keyword": 1.2543012000000004
+      },
+      "chunks_per_second": {
+        "text": 23.58929884937298,
+        "keyword": 22.32318680712415
+      },
+      "peak_allocated_mib": 902.830078125,
+      "peak_reserved_mib": 948.0,
+      "top1_changed": 0,
+      "ranking_changed": 0,
+      "max_score_delta": 0.0029296875
+    }
+  ]
+}

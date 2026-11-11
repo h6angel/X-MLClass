@@ -1,0 +1,343 @@
+{
+  "samples": 186,
+  "seed": 42,
+  "requested_clusters": 16,
+  "clusters": [
+    {
+      "cluster": 0,
+      "chunk_count": 17,
+      "examples": [
+        {
+          "document_id": 71,
+          "text": "contributing about 20 pct of earnings last year. \"I think it is highly unlikely that American Express is going to sell shearson,\" said Perrin Long of Lipper Analytical. He questioned what would be a better investment than \"a very profitable securities firm.\" Several analysts said American Express is not in",
+          "keyphrases": "finance, investment, securities"
+        },
+        {
+          "document_id": 58,
+          "text": "group, led by Mutual Shares Corp, said it sold 110,000 Cyclops common shares on Feb 17 and 19 for 10.0 mln dlrs.",
+          "keyphrases": "finance, stocks, investment"
+        },
+        {
+          "document_id": 71,
+          "text": "if American Express reduced its exposure to the brokerage business by selling part of shearson, its stock might better reflect other assets, such as the travel related services business. \"It could find its true water mark with a lesser exposure to brokerage. The value of the other components could command",
+          "keyphrases": "finance, brokerage, travel,"
+        }
+      ]
+    },
+    {
+      "cluster": 1,
+      "chunk_count": 6,
+      "examples": [
+        {
+          "document_id": 37,
+          "text": "vs 47.1 mln NOTE: latest 12 mths net includes gain 46 cts per share for sale of Virginia service territory to Dominion Resources Inc &lt;D>.",
+          "keyphrases": "earnings, sale, utilities,"
+        },
+        {
+          "document_id": 37,
+          "text": "POTOMAC ELECTRIC POWER CO &lt;POM> JAN NET Shr 27 cts vs 29 cts Net 13,555,000 vs 14,635,000 Revs 104,606,000 vs 110,311,000 Avg shrs 47.2 mln vs 47.1 mln 12 mths Shr 4.10 dlrs vs 3.66 dlrs Net 226,653,000 vs 186,790,000 Revs 1.4 billion vs 1.3 billion Avg shr 47.1 mln",
+          "keyphrases": "finance, earnings, utilities"
+        },
+        {
+          "document_id": 15,
+          "text": "mln unit sales rate set in November 1978, the group said. \"The drop in January is not surprising considering that a significant portion of December's near-record pace was made up of sellers seeking to get favorable capital gains treatment under the old tax laws,\" said the NAR's John Tuccillo.",
+          "keyphrases": "real estate, tax laws, sales rate,"
+        }
+      ]
+    },
+    {
+      "cluster": 2,
+      "chunk_count": 12,
+      "examples": [
+        {
+          "document_id": 67,
+          "text": "SUGAR QUOTA IMPORTS DETAILED -- USDA The U.S. Agriculture Department said cumulative sugar imports from individual countries during the 1987 quota year, which began January 1, 1987 and ends December 31, 1987 were as follows, with quota allocations for the quota year in short tons, raw value -- CUMULATIVE QUOTA",
+          "keyphrases": "agriculture, imports, sugar"
+        },
+        {
+          "document_id": 0,
+          "text": "hands of farmers, middlemen, exporters and processors. There are doubts as to how much of this cocoa would be fit for export as shippers are now experiencing dificulties in obtaining +Bahia superior+ certificates. In view of the lower quality over recent weeks farmers have sold a good part of their",
+          "keyphrases": "agriculture, export, cocoa"
+        },
+        {
+          "document_id": 70,
+          "text": "almost all of which were at the smallest banks.",
+          "keyphrases": "None"
+        }
+      ]
+    },
+    {
+      "cluster": 3,
+      "chunk_count": 7,
+      "examples": [
+        {
+          "document_id": 50,
+          "text": "COMBUSTION ENGINEERING INC &lt;CSP> REGULAR DIV Qtly div 25 cts vs 25 cts prior Pay April 30 Record April 16",
+          "keyphrases": "dividend, finance, record,"
+        },
+        {
+          "document_id": 69,
+          "text": "MERIDIAN BANCORP INC &lt;MRDN> SETS REGULAR PAYOUT Qtly div 25 cts vs 25 cts prior Pay April one Record March 15",
+          "keyphrases": "finance, dividend, record"
+        },
+        {
+          "document_id": 30,
+          "text": "EMHART CORP &lt;EMH> QTLY DIVIDEND Qtly div 35 cts vs 35 cts prior Payable March 31 Record March nine",
+          "keyphrases": "dividend, finance, record"
+        }
+      ]
+    },
+    {
+      "cluster": 4,
+      "chunk_count": 10,
+      "examples": [
+        {
+          "document_id": 28,
+          "text": "AGENCY REPORTS 39 SHIPS WAITING AT PANAMA CANAL The Panama Canal Commission, a U.S. government agency, said in its daily operations report that there was a backlog of 39 ships waiting to enter the canal early today. Over the next two days it expects -- 2/26 2/27 Due: 27 35",
+          "keyphrases": "trade, shipping, economy"
+        },
+        {
+          "document_id": 68,
+          "text": "GRAIN SHIPS LOADING AT PORTLAND There were seven grain ships loading and six ships were waiting to load at Portland, according to the Portland Merchants Exchange.",
+          "keyphrases": "grain, ship, port"
+        },
+        {
+          "document_id": 34,
+          "text": "Quotes included - - Delivery this week on the Illinois River (Joliet) 135 pct of tariff bid/140 offered, with next week same river (ex Chicago) quoted the same - both up 2-1/2 percentage points. - Next week Mississippi River (St Louis) 120 pct bid/127-1/2 offered - up five points. -",
+          "keyphrases": "commerce, trade, economy,"
+        }
+      ]
+    },
+    {
+      "cluster": 5,
+      "chunk_count": 13,
+      "examples": [
+        {
+          "document_id": 70,
+          "text": "the smallest banks, with 30 pct by the 14 large money center banks and 25 pct by large regional institutions. On Wednesday, 55 pct of the borrowing was accounted for by the money center banks, with 30 pct by the large regionals and 15 pct by the smallest banks. The",
+          "keyphrases": "banking, lending, finance,"
+        },
+        {
+          "document_id": 56,
+          "text": "U.S. BANK DISCOUNT BORROWINGS AVERAGE 310 MLN DLRS IN FEB 25 WEEK, FED SAYS U.S. BANK DISCOUNT BORROWINGS AVERAGE 310 MLN DLRS IN FEB 25 WEEK, FED SAYS",
+          "keyphrases": "finance, banking, economy,"
+        },
+        {
+          "document_id": 5,
+          "text": "COBANCO INC &lt;CBCO> YEAR NET Shr 34 cts vs 1.19 dlrs Net 807,000 vs 2,858,000 Assets 510.2 mln vs 479.7 mln Deposits 472.3 mln vs 440.3 mln Loans 299.2 mln vs 327.2 mln Note: 4th qtr not available. Year includes 1985 extraordinary gain from tax carry forward of 132,000 dlrs,",
+          "keyphrases": "finance, earnings, banking,"
+        }
+      ]
+    },
+    {
+      "cluster": 6,
+      "chunk_count": 15,
+      "examples": [
+        {
+          "document_id": 43,
+          "text": "U.S. COMMERCIAL PAPER FALLS 375 MLN DLRS IN FEB 18 WEEK, FED SAYS U.S. COMMERCIAL PAPER FALLS 375 MLN DLRS IN FEB 18 WEEK, FED SAYS",
+          "keyphrases": "economy, finance, commerce,"
+        },
+        {
+          "document_id": 59,
+          "text": "2.58 Mpls 1.34 1.75 1.50 1.85 4.68 -- Balt/Nor/ Phil 1.70 1.80 -- -- 4.98 3.12 KC 1.49 1.56 1.64 -- 4.76 2.58 St Lo 1.54 -- 1.66 -- 4.90 2.91 Amarlo/ Lubbck 1.84 1.40 -- -- 4.75 2.92 Lou Gulf 1.73 -- -- -- 5.05 3.12 Port/ Seattle 1.87",
+          "keyphrases": "economy, finance, business"
+        },
+        {
+          "document_id": 31,
+          "text": "the six months, orders rose 35 pct over the corresponding prior-year period, or on an annualized basis are running at about 630 mln dlrs. The backlog at Harris is up 30 pct from the beginning of the fiscal year, AM said. AM International said its old division are expected to",
+          "keyphrases": "business, finance, economy,"
+        }
+      ]
+    },
+    {
+      "cluster": 7,
+      "chunk_count": 20,
+      "examples": [
+        {
+          "document_id": 2,
+          "text": "2,692.4 (4,161.0). Maize Mar 48.0, total 48.0 (nil). Sorghum nil (nil) Oilseed export registrations were: Sunflowerseed total 15.0 (7.9) Soybean May 20.0, total 20.0 (nil) The board also detailed export registrations for subproducts, as follows, SUBPRODUCTS Wheat prev 39.9, Feb 48.7, March 13.2, Apr 10.0, total 111.8 (82.7) . Linseed",
+          "keyphrases": "agriculture, grains, exports"
+        },
+        {
+          "document_id": 32,
+          "text": "CCC CREDITS FOR HONDURAS SWITCHED TO WHITE CORN The Commodity Credit Corporation (CCC) announced 1.5 mln dlrs in credit guarantees previously earmarked to cover sales of dry edible beans to Honduras have been switched to cover sales of white corn, the U.S. Agriculture Department said. The department said the action",
+          "keyphrases": "agriculture, trade, grain"
+        },
+        {
+          "document_id": 76,
+          "text": "U.S. GRAIN CARLOADINGS FALL IN WEEK U.S. grain carloadings totaled 26,108 cars in the week ended February 21, down 2.2 pct from the previous week but 22.8 pct above the corresponding week a year ago, the Association of American Railroads reported. Grain mill product loadings in the week totalled 11,382",
+          "keyphrases": "grain, railroads, milling"
+        }
+      ]
+    },
+    {
+      "cluster": 8,
+      "chunk_count": 14,
+      "examples": [
+        {
+          "document_id": 0,
+          "text": "March/April selling at 2,325 and 2,380 dlrs, June/July at 2,375 dlrs and at 1.25 times New York July, Aug/Sept at 2,400 dlrs and at 1.25 times New York Sept and Oct/Dec at 1.25 times New York Dec, Comissaria Smith said. Total Bahia sales are currently estimated at 6.13 mln bags",
+          "keyphrases": "commodity, price, agriculture"
+        },
+        {
+          "document_id": 66,
+          "text": "at average U.S. producing locations (near Lubbock, Texas) and will be further adjusted for other qualities and locations. The price will be used in determining First Handler Cotton Certificate payment rates. Based on data for the week ended February 26, the adjusted world price for upland cotton is determined as",
+          "keyphrases": "agriculture, commodity, price"
+        },
+        {
+          "document_id": 1,
+          "text": "NATIONAL AVERAGE PRICES FOR FARMER-OWNED RESERVE The U.S. Agriculture Department reported the farmer-owned reserve national five-day average price through February 25 as follows (Dlrs/Bu-Sorghum Cwt) - Natl Loan Release Call Avge Rate-X Level Price Price Wheat 2.55 2.40 IV 4.65 -- V 4.65 -- VI 4.45 -- Corn 1.35 1.92",
+          "keyphrases": "agriculture, prices, reserve"
+        }
+      ]
+    },
+    {
+      "cluster": 9,
+      "chunk_count": 16,
+      "examples": [
+        {
+          "document_id": 24,
+          "text": "ChemLawn could try to find a white knight if does not want to be acquired by Waste Management. Analyst Rosemarie Morbelli of Ingalls and Snyder said ServiceMaster Companies L.P. &lt;SVM> or Rollins Inc &lt;ROL> were examples of companies that could be interested. ChemLawn, with about two mln customers, is the",
+          "keyphrases": "merger, acquisition, customer"
+        },
+        {
+          "document_id": 24,
+          "text": "between Waste Management and ChemLawn officials. \"I think they will resist it,\" said Elliott Schlang, analyst at Prescott, Ball and Turben Inc. \"Any company that doesn't like a surprise attack would.\" Arbitrageurs pointed out it is difficult to resist tender offers for any and all shares for cash. Schlang said",
+          "keyphrases": "merger, acquisition, finance,"
+        },
+        {
+          "document_id": 41,
+          "text": "Corp purusant to a merger of the companies.",
+          "keyphrases": "merger, corporate, finance"
+        }
+      ]
+    },
+    {
+      "cluster": 10,
+      "chunk_count": 8,
+      "examples": [
+        {
+          "document_id": 67,
+          "text": "1987 IMPORTS ALLOCATIONS ARGENTINA nil 39,130 AUSTRALIA nil 75,530 BARBADOS nil 7,500 BELIZE nil 10,010 BOLIVIA nil 7,500 BRAZIL nil 131,950 CANADA nil 18,876 QUOTA 1987 IMPORTS ALLOCATIONS COLOMBIA 103 21,840 CONGO nil 7,599 COSTA RICA nil 17,583 IVORY COAST nil 7,500 DOM REP 5,848 160,160 ECUADOR nil 10,010 EL",
+          "keyphrases": "international trade, import, allocation"
+        },
+        {
+          "document_id": 67,
+          "text": "PANAMA nil 26,390 PAPUA NEW GUINEA nil 7,500 PARAGUAY nil 7,500 PERU nil 37,310 PHILIPPINES nil 143,780 ST.CHRISTOPHER- NEVIS nil 7,500 QUOTA 1987 IMPORTS ALLOCATIONS SWAZILAND nil 14,560 TAIWAN nil 10,920 THAILAND nil 12,740 TRINIDAD-TOBAGO nil 7,500 URUGUAY nil 7,500 ZIMBABWE nil 10,920",
+          "keyphrases": "trade, import, allocation"
+        },
+        {
+          "document_id": 67,
+          "text": "SALVADOR nil 26,019.8 FIJI nil 25,190 GABON nil 7,500 QUOTA 1987 IMPORTS ALLOCATIONS GUATEMALA nil 43,680 GUYANA nil 10,920 HAITI nil 7,500 HONDURAS nil 15,917.2 INDIA nil 7,500 JAMAICA nil 10,010 MADAGASCAR nil 7,500 MALAWI nil 9,,100 QUOTA 1987 IMPORTS ALLOCATIONS MAURITIUS nil 10,920 MEXICO 37 7,500 MOZAMBIQUE nil 11,830",
+          "keyphrases": "international trade, import quotas, allocation"
+        }
+      ]
+    },
+    {
+      "cluster": 11,
+      "chunk_count": 11,
+      "examples": [
+        {
+          "document_id": 14,
+          "text": "UNITED PRESIDENTIAL CORP &lt;UPCO> 4TH QTR NET Shr 39 cts vs 50 cts Net 1,545,160 vs 2,188,933 Revs 25.2 mln vs 19.5 mln Year Shr 1.53 dlrs vs 1.21 dlrs Net 6,635,318 vs 5,050,044 Revs 92.2 mln vs 77.4 mln NOTE: Results include adjustment of 848,600 dlrs or 20 cts",
+          "keyphrases": "earnings, revenue, finance"
+        },
+        {
+          "document_id": 75,
+          "text": "but 1987 earnings will not reach 1986 levels as long as those conditions continue. Ivaco earlier reported 1986 profit rose to 44.1 mln dlrs, after a one mln dlr extraordinary gain, from 35.1 mln dlrs the previous year. It said demand for the company's products are continuing at high levels",
+          "keyphrases": "earnings, profit, demand"
+        },
+        {
+          "document_id": 60,
+          "text": "CORADIAN CORP &lt;CDIN> 4TH QTR NET Shr profit three cts vs loss three cts Net profit 363,000 vs loss 197,000 Revs 3,761,000 vs 2,666,000 Year Shr profit one cent vs loss 37 cts Net profit 129,000 vs loss 1,715,000 Revs 11.4 mln vs 10.9 mln Avg shrs 10,694,081 vs 4,673,253",
+          "keyphrases": "finance, earnings, revenue"
+        }
+      ]
+    },
+    {
+      "cluster": 12,
+      "chunk_count": 2,
+      "examples": [
+        {
+          "document_id": 59,
+          "text": "2.49 Ill. Track 1.49 2.04 -- -- 4.85 2.52 Toledo 1.41 2.04 1.50 -- 4.78 2.39 Memphis 1.59 1.95 1.71 -- 4.90 2.86 Peoria 1.51 --- -- -- 4.80 2.60 Denver 1.56 1.56 -- -- -- 2.54 Evnsvlle 1.54 2.04 1.50 2.17 4.90 2.61 Cinci 1.52 2.04 1.50 2.17 4.85",
+          "keyphrases": "weather, travel, transportation"
+        },
+        {
+          "document_id": 70,
+          "text": "this time of year, noting that there had been poor weather during the latest week. The spokesman said that natural float ranged from under 500 mln dlrs on Friday, for which he could give no reason, to nearly one billion dlrs on both Thursday and Wednesday. The Fed spokeman could",
+          "keyphrases": "economy, finance, weather,"
+        },
+        {
+          "document_id": 33,
+          "text": "212.5 mln dlrs to 62.94 billion dlrs and 92 broker-dealer funds rose 151.9 mln dlrs to 107.77 billion dlrs.",
+          "keyphrases": "finance, investment, economy"
+        }
+      ]
+    },
+    {
+      "cluster": 13,
+      "chunk_count": 9,
+      "examples": [
+        {
+          "document_id": 54,
+          "text": "U.S. M-1 MONEY SUPPLY RISES 2.1 BILLION DLRS IN FEB 16 WEEK, FED SAYS U.S. M-1 MONEY SUPPLY RISES 2.1 BILLION DLRS IN FEB 16 WEEK, FED SAYS",
+          "keyphrases": "money supply, fed, economy,"
+        },
+        {
+          "document_id": 26,
+          "text": "Cruzado currency and ended widespread indexation of the economy in a bid to halt the country's 250 pct inflation rate. But within a year the plan has all but collapsed. \"The situation now is worse than it was. Although there was inflation, at least the economy worked,\" a leading bank",
+          "keyphrases": "economy, inflation, currency,"
+        },
+        {
+          "document_id": 48,
+          "text": "Philippine Pesos. Dividend payable April 15 to holders or record March 13. Exchange rate on day of dividend declaration was 20.792 pesos per dollar.",
+          "keyphrases": "finance, currency, pesos"
+        }
+      ]
+    },
+    {
+      "cluster": 14,
+      "chunk_count": 14,
+      "examples": [
+        {
+          "document_id": 53,
+          "text": "SYSTEMATICS INC &lt;SYST> REGULAR PAYOUT Qtly div three cts vs three cts prior Pay March 13 Record February 27",
+          "keyphrases": "finance, stocks, dividend"
+        },
+        {
+          "document_id": 71,
+          "text": "American Express stock got a lift from the rumor, as the market calculated a partially public Shearson may command a good market value, thereby boosting the total value of American Express. The rumor also was accompanied by talk the financial services firm would split its stock and boost its dividend.",
+          "keyphrases": "stock, finance, dividend"
+        },
+        {
+          "document_id": 13,
+          "text": "55,000 Revs 16.1 mln vs 3,971,000 NOTE: annual dividend payable April 10, 1987, to stockholders of record on March 27, 1987.",
+          "keyphrases": "finance, dividend, stockholders"
+        }
+      ]
+    },
+    {
+      "cluster": 15,
+      "chunk_count": 12,
+      "examples": [
+        {
+          "document_id": 21,
+          "text": "Net loss for 4th qtr 1986 includes charge for restructuring of 2.6 mln dlrs after tax, or 19 cts a share. 1986 net loss includes after tax special charge of 2.7 mln dlrs, or 20 cts a share.",
+          "keyphrases": "earnings, restructuring, financial performance,"
+        },
+        {
+          "document_id": 7,
+          "text": "AM INTERNATIONAL INC &lt;AM> 2ND QTR JAN 31 Oper shr loss two cts vs profit seven cts Oper shr profit 442,000 vs profit 2,986,000 Revs 291.8 mln vs 151.1 mln Avg shrs 51.7 mln vs 43.4 mln Six mths Oper shr profit nil vs profit 12 cts Oper net profit",
+          "keyphrases": "earnings, revenue, financial performance"
+        },
+        {
+          "document_id": 9,
+          "text": "Douglas said it was too early to project whether the anticipated fourth quarter performance would be \"enough for us to exceed the prior year's overall earnings\" of 1.53 dlrs a share. In 1988, Douglas said Dean should experience \"a 20 pct improvement in our bottom line from effects of the",
+          "keyphrases": "earnings, performance, bottom line"
+        }
+      ]
+    }
+  ]
+}

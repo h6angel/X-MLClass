@@ -1,0 +1,1366 @@
+{
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Probability\", \"Probability Theory and Statistics\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Networking and Internet Architecture\", \"Networking and Communications\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computer Vision and Pattern Recognition\", \"Signal Processing and Image Analysis\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Machine Learning\", \"Statistics and Machine Learning\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic in Computer Science\", \"Logic and Semantics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Engineering\", \"Electrical Engineering\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Networking and Internet Architecture\", \"Computer Networks\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Complexity\", \"Computer Science - Theory of Computation\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Information Theory\", \"Coding Theory\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Information Retrieval\", \"Natural Language Processing\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Information Theory\", \"Computer Science - Theory of Computation\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Quantum Physics\", \"Quantum Computing\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic\", \"Logic Programming\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Machine Learning\", \"Clustering Algorithms\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computer Vision and Pattern Recognition\", \"Machine Learning and Artificial Intelligence\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Cryptography and Security\", \"Data Privacy\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Machine Learning\", \"neural networks\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic in Computer Science\", \"Programming Languages and Formal Methods\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Software Engineering\", \"Programming Languages\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computation and Language\", \"Algorithms and Data Structures\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Data Structures and Algorithms\", \"Algorithms & Complexity\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Human-Computer Interaction\", \"User Experience\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Systems and Control\", \"control theory\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Combinatorics\", \"Discrete Mathematics\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Robotics\", \"Computer Science - Artificial Intelligence & Robotics\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Artificial Intelligence\", \"Computer Science - Artificial Intelligence & Robotics\"]": {
+    "raw": "Yes",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Discrete Mathematics\", \"Mathematics\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Machine Learning\", \"Machine Learning and Security\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computer Vision and Pattern Recognition\", \"Vision and Perception\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Programming Languages\", \"Computer Science - Programming and Software Engineering\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Systems and Control\", \"Complex Systems\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Cryptography and Security\", \"Number Theory and Cryptography\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Statistical Mechanics\", \"Probability Theory and Stochastic Processes\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Engineering\", \"Computer Architecture\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Machine Learning\", \"Data Analysis\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Distributed\", \"distributed computing\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Social and Information Networks\", \"Online Communities\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Information Theory\", \"Probability Theory and Statistics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Machine Learning\", \"Probabilistic Modeling\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Engineering\", \"Computational Modeling\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Information Theory\", \"Optimization and Decision Theory\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Programming Languages\", \"Programming Languages and Formal Methods\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"and Cluster Computing\", \"Computer Networks\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"and Cluster Computing\", \"cloud computing\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Cryptography and Security\", \"Computer Security\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic in Computer Science\", \"Computer Science - Theory of Computation\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Information Theory\", \"Information Technology\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Information Theory\", \"Computer Science - Complexity Theory\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Number Theory\", \"Discrete Mathematics\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Systems and Control\", \"Multi-Agent Systems\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"and Science\", \"Biology\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Social and Information Networks\", \"Network Science\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Numerical Analysis\", \"Computational Modeling\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Systems and Control\", \"Power System Control\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computers and Society\", \"Information Technology\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Discrete Mathematics\", \"Number Theory\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Artificial Intelligence\", \"Artificial Life\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Numerical Analysis\", \"Numerical Linear Algebra\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Quantum Physics\", \"Quantum Information\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Databases\", \"Big Data\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Symbolic Computation\", \"Computer Science - Theory of Computation\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Social and Information Networks\", \"Recommendation Systems\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Neurons and Cognition\", \"Neuroscience\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic in Computer Science\", \"Logic and Formal Systems\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Engineering\", \"Computational Geometry\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Data Structures and Algorithms\", \"Data Analysis\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Machine Learning\", \"Deep Learning\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"and Cluster Computing\", \"Computer Architecture\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Parallel\", \"Parallel Computing\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Artificial Intelligence\", \"neural networks\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computer Vision and Pattern Recognition\", \"Object Detection\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Optimization and Control\", \"Machine Learning and Optimization\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Formal Languages and Automata Theory\", \"Formal Methods\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"and Cluster Computing\", \"Clustering Algorithms\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Performance\", \"Network Performance\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Data Structures and Algorithms\", \"Online Algorithms\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"and Cluster Computing\", \"High Performance Computing\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Artificial Intelligence\", \"Reinforcement Learning\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Optimization and Control\", \"control theory\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Combinatorics\", \"Combinatorial Optimization\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic in Computer Science\", \"Temporal Logic\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Social and Information Networks\", \"Information Diffusion\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Multimedia\", \"Computer Science - Computer Graphics & Multimedia Applications\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Machine Learning\", \"Information Retrieval\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Artificial Intelligence\", \"Machine Learning and Optimization\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Networking and Internet Architecture\", \"Computer Architecture\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Neural and Evolutionary Computing\", \"Evolutionary Algorithms\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computation and Language\", \"Computational Linguistics\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Networking and Internet Architecture\", \"Network Coding\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Machine Learning\", \"Reinforcement Learning\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Statistics Theory\", \"Statistics and Machine Learning\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Data Structures and Algorithms\", \"Graph Algorithms and Complexity\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic in Computer Science\", \"Logic and Proof Theory\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic in Computer Science\", \"Computer Science - Programming and Software Engineering\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Information Theory\", \"Information Theory and Network Security\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Optimization and Control\", \"Operations Research & Optimization\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Artificial Intelligence\", \"Statistics and Machine Learning\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Data Structures and Algorithms\", \"Algorithm Design and Analysis\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computer Vision and Pattern Recognition\", \"Signal Processing\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic in Computer Science\", \"Knowledge Representation and Reasoning\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Machine Learning\", \"Machine Learning & Data Mining\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Artificial Intelligence\", \"Machine Learning\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Artificial Intelligence\", \"Logic and Automated Reasoning\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Statistics Theory\", \"signal processing and information theory\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Geometry\", \"Computational Physics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Machine Learning\", \"Graph Learning\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Machine Learning\", \"Clustering and Optimization in Machine Learning\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Social and Information Networks\", \"Tagged Networks Research\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Formal Languages and Automata Theory\", \"Programming Languages and Formal Methods\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Engineering\", \"Computational Physics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computers and Society\", \"Human-Computer Interaction\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computation and Language\", \"Programming Languages\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computation and Language\", \"Algorithms & Complexity\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Artificial Intelligence\", \"Robotics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Complexity\", \"Statistical Physics and Complexity\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"and Cluster Computing\", \"Computer Science - Theory of Computation\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Statistical Mechanics\", \"Probability Theory and Statistics\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Cryptography and Security\", \"Security Protocols\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Engineering\", \"Computer Science - Programming and Software Engineering\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Networking and Internet Architecture\", \"Network Economics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Parallel\", \"Concurrency and Parallelism\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Optimization and Control\", \"Control Systems Engineering\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Statistics Theory\", \"Statistical Estimation\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Information Theory\", \"Quantum Information\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Cryptography and Security\", \"Information Theory and Network Security\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Social and Information Networks\", \"Social Network Analysis (SNA)\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computation and Language\", \"Computer Science - Theory of Computation\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Social and Information Networks\", \"Complex Networks\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Information Theory\", \"Statistical Learning Theory\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computers and Society\", \"Computer Networks\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Optimization and Control\", \"Network Design and Optimization\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"and Cluster Computing\", \"Network Science\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Discrete Mathematics\", \"Combinatorics\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computation and Language\", \"Morphology in Language Processing\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Statistics Theory\", \"Statistical Learning Theory\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computer Science and Game Theory\", \"Computer Science - Complexity Theory\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Discrete Mathematics\", \"Mathematical Proofs\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Neural and Evolutionary Computing\", \"neural networks\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Optimization and Control\", \"Optimization and Decision Theory\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Numerical Analysis\", \"Approximation Algorithms\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Social and Information Networks\", \"Computer Networks\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Machine Learning\", \"Artificial Intelligence\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Cryptography and Security\", \"Security and Privacy in Distributed Systems\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Systems and Control\", \"Control Systems Engineering\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Complexity\", \"Graph Algorithms and Complexity\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computer Science and Game Theory\", \"Decision Theory\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Geometry\", \"Discrete Geometry\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Information Theory\", \"Decision Theory\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Artificial Intelligence\", \"Deep Learning\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Symbolic Computation\", \"Algebraic Structures in Computer Science\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Networking and Internet Architecture\", \"Network Coding and Traffic Management\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Programming Languages\", \"Software Engineering\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Statistics Theory\", \"Statistical Physics and Complexity\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computer Science and Game Theory\", \"Game Theory and Equilibrium Computation\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Engineering\", \"Mathematical Programming\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Information Theory\", \"Theory and Models\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Combinatorics\", \"and Combinatorics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Artificial Intelligence\", \"Human-Computer Interaction\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Machine Learning\", \"Decision Theory\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Optimization and Control\", \"Mathematical Programming\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Complexity\", \"Computational Physics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Engineering\", \"Computer Science - Theory of Computation\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Cryptography and Security\", \"Biometrics and Security\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computation and Language\", \"Logic and Semantics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computer Science and Game Theory\", \"Computer Science - Theory of Computation\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic\", \"Logic and Formal Systems\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computation and Language\", \"Knowledge Representation and Reasoning\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic in Computer Science\", \"Computer Science - Artificial Intelligence & Robotics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Machine Learning\", \"Feature Selection\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Quantitative Methods\", \"Statistical Estimation\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Adaptation and Self-Organizing Systems\", \"domain adaptation\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Applications\", \"Computer Science - Computer Graphics & Multimedia Applications\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Artificial Intelligence\", \"AI Ethics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Artificial Intelligence\", \"Machine Learning and Pattern Recognition\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Combinatorics\", \"Combinatorics on Words\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computation and Language\", \"Logic and Formal Systems\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computation and Language\", \"Computational Modeling\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computation and Language\", \"Formal Languages and Automata Theory\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computation and Language\", \"Computational Physics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computation and Language\", \"Parallel Computing\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computation and Language\", \"Logic Programming\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computation and Language\", \"Syntax\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computation and Language\", \"Algebraic Structures in Computer Science\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computation and Language\", \"Programming Languages and Formal Methods\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computation and Language\", \"Logic and Automated Reasoning\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computation and Language\", \"Computability Logic\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Complexity\", \"Computational Modeling\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Complexity\", \"Algorithms and Data Structures\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Complexity\", \"Parameterized Complexity\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Complexity\", \"Parallel Computing\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Complexity\", \"Online Algorithms\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Complexity\", \"Quantum Communication and Complexity\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Complexity\", \"Computability Logic\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Engineering\", \"Computer Science Research Topics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Engineering\", \"Software Engineering\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Engineering\", \"Algorithms & Complexity\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Engineering\", \"Quantum Computing\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Engineering\", \"Programming Languages\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Engineering\", \"Parallel Computing\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Engineering\", \"Computer Science - Artificial Intelligence & Robotics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Engineering\", \"Algebraic Structures in Computer Science\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Geometry\", \"Algebraic Geometry\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Geometry\", \"Computational Modeling\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Geometry\", \"Algorithmic Pricing and Geometry\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computer Science and Game Theory\", \"Computer Science Research Topics\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computer Science and Game Theory\", \"Computer Science - Artificial Intelligence & Robotics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computer Science and Game Theory\", \"Network Design Games\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computer Vision and Pattern Recognition\", \"Image Segmentation\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computers and Society\", \"Computer Architecture\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computers and Society\", \"Computer Security\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Cryptography and Security\", \"Machine Learning and Security\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Cryptography and Security\", \"Boolean Functions in Cryptography\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Cryptography and Security\", \"Algebraic Cryptography\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Cryptography and Security\", \"Quantum Cryptography\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Cryptography and Security\", \"public-key cryptography\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Cryptography and Security\", \"secret-key-agreement-and-communication\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Data Structures and Algorithms\", \"Database Systems\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Data Structures and Algorithms\", \"Parsing Algorithms\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Data Structures and Algorithms\", \"Algebraic Structures in Computer Science\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Data Structures and Algorithms\", \"Clustering Algorithms\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Discrete Mathematics\", \"Discrete Geometry\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Discrete Mathematics\", \"Algebraic Combinatorics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Disordered Systems and Neural Networks\", \"neural networks\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Disordered Systems and Neural Networks\", \"Optimization Algorithms in Neural Networks\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Formal Languages and Automata Theory\", \"Logic and Formal Systems\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Formal Languages and Automata Theory\", \"Programming Languages\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Formal Languages and Automata Theory\", \"Parsing Formalisms\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Formal Languages and Automata Theory\", \"Type Theory and Formal Methods\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Human-Computer Interaction\", \"Computer Vision and Image Processing\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Human-Computer Interaction\", \"Human Dynamics in Online Systems\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Human-Computer Interaction\", \"Artificial Intelligence\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Human-Computer Interaction\", \"Computer Science - Computer Graphics & Multimedia Applications\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Human-Computer Interaction\", \"Electrophysiology and Brain-Computer Interfaces\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Information Retrieval\", \"Machine Learning\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Information Retrieval\", \"Search Engine Research\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic\", \"Logic and Proof Theory\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic\", \"Artificial Intelligence\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic\", \"Knowledge Representation and Reasoning\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic\", \"Fuzzy Logic and Knowledge Representation\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic\", \"Logic and Automated Reasoning\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic\", \"Computability Logic\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic in Computer Science\", \"Control Systems and Fuzzy Logic\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic in Computer Science\", \"Artificial Intelligence\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic in Computer Science\", \"Fuzzy Logic and Knowledge Representation\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic in Computer Science\", \"Logic Programming and Termination Analysis\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic in Computer Science\", \"Logic and Automated Reasoning\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic in Computer Science\", \"Computability Logic\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Machine Learning\", \"Statistical Learning Theory\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Machine Learning\", \"Machine Translation\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Machine Learning\", \"Statistical Estimation\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Machine Learning\", \"semi-supervised machine learning\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Machine Learning\", \"Probabilistic Reasoning and Optimization Techniques\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Mathematical Software\", \"Numerical Analysis\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Mathematical Software\", \"Computational Modeling\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Mathematical Software\", \"Computational Geometry\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Methodology\", \"Formal Methods\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Multiagent Systems\", \"Communication Systems\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Multiagent Systems\", \"Multi-Agent Systems and Coalition Formation\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Networking and Internet Architecture\", \"Network Design and Optimization\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Networking and Internet Architecture\", \"Network Science\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Neural and Evolutionary Computing\", \"Optimization Algorithms in Neural Networks\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Neurons and Cognition\", \"cognitive psychology\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Neurons and Cognition\", \"Vision and Perception\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Optimization and Control\", \"Reinforcement Learning\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Optimization and Control\", \"Metaheuristics and Optimization Techniques\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Optimization and Control\", \"Performance Optimization\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Optimization and Control\", \"Discrete Optimization\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Optimization and Control\", \"Combinatorial Optimization\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Optimization and Control\", \"Convex Optimization\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Optimization and Control\", \"Control Systems\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Optimization and Control\", \"Fuzzy Systems and Optimization\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Optimization and Control\", \"Optimization Algorithms in Neural Networks\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Optimization and Control\", \"Algebraic Optimization\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Performance\", \"High Performance Computing\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Performance\", \"Performance Optimization\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Physics and Society\", \"Computational Physics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Probability\", \"Combinatorics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Programming Languages\", \"Formal Languages and Automata Theory\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Programming Languages\", \"Syntax\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Programming Languages\", \"Algebraic Structures in Computer Science\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Quantitative Methods\", \"Formal Methods\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Quantum Physics\", \"Computational Physics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Quantum Physics\", \"Algebraic Structures in Quantum Computing\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Quantum Physics\", \"Quantum Cryptography\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Quantum Physics\", \"Quantum Communication and Complexity\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Robotics\", \"Artificial Intelligence\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Social and Information Networks\", \"location-based social networks (lbsns), spatial item recommendation, point of interest (poi) recommendation\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Social and Information Networks\", \"Network Economics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Social and Information Networks\", \"Social Media Influence and Ranking Algorithms\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Statistical Mechanics\", \"Statistical Learning Theory\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Statistical Mechanics\", \"Statistical Estimation\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Statistical Mechanics\", \"Statistical Physics and Complexity\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Statistical Mechanics\", \"Statistics and Machine Learning\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Statistics Theory\", \"Information Theory\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Statistics Theory\", \"Probability Theory and Stochastic Processes\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Statistics Theory\", \"Decision Theory\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Statistics Theory\", \"Statistical Mechanics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Statistics Theory\", \"Sampling Theory\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Statistics and Probability\", \"Bayesian Inference\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Statistics and Probability\", \"Probability Theory and Stochastic Processes\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Statistics and Probability\", \"Statistical Estimation\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Statistics and Probability\", \"Statistical Mechanics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Statistics and Probability\", \"Statistics and Machine Learning\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Symbolic Computation\", \"Logic Programming\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Symbolic Computation\", \"Computability Logic\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Systems and Control\", \"Communication Systems\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Systems and Control\", \"Control Systems and Fuzzy Logic\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Systems and Control\", \"System Identification\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"and Cluster Computing\", \"Computer Science Research Topics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"and Cluster Computing\", \"Clustering and Optimization in Machine Learning\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"and Cluster Computing\", \"distributed computing\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"and Cluster Computing\", \"Parallel Computing\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"and Cluster Computing\", \"Computer Science - Artificial Intelligence & Robotics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"and Cluster Computing\", \"Online Algorithms\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Applications\", \"Web Technologies\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Artificial Intelligence\", \"Information Technology\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computation and Language\", \"Mathematical Programming\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computation and Language\", \"Mathematics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Engineering\", \"Biomedical Engineering\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Computational Geometry\", \"Stochastic Geometry\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Discrete Mathematics\", \"Algebra\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Finance\", \"Marketing\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Formal Languages and Automata Theory\", \"Formal Verification\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Information Retrieval\", \"Semantic Web\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Information Theory\", \"Information Diffusion\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Logic\", \"Temporal Logic\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Machine Learning\", \"Big Data\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Machine Learning\", \"Object Detection\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Mathematical Software\", \"Mathematics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Mathematical Software\", \"Mathematical Analysis\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Networking and Internet Architecture\", \"Network Performance\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Numerical Analysis\", \"Mathematical Analysis\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Programming Languages\", \"Computational Linguistics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Programming Languages\", \"Query Languages\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Programming Languages\", \"Mathematical Programming\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Quantum Physics\", \"Entanglement\"]": {
+    "raw": "Yes.",
+    "match": true
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Statistics Theory\", \"Theory and Models\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Symbolic Computation\", \"Mathematical Programming\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"Systems and Control\", \"Real-Time Systems\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"and Cluster Computing\", \"and Combinatorics\"]": {
+    "raw": "No.",
+    "match": false
+  },
+  "[\"Qwen/Qwen2.5-1.5B-Instruct\", \"and Science\", \"and Combinatorics\"]": {
+    "raw": "No.",
+    "match": false
+  }
+}

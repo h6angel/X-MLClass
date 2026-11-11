@@ -1,0 +1,31 @@
+{
+  "dataset": "DBPedia-298",
+  "train": {
+    "chunks": 66516,
+    "documents": 20000,
+    "id_limit": 20000,
+    "missing_document_ids": []
+  },
+  "test": {
+    "chunks": 3311,
+    "documents": 1000,
+    "id_limit": 1000,
+    "missing_document_ids": []
+  },
+  "truth_rows": 49167,
+  "train_truth_rows": 196665,
+  "evaluation_vocabulary_size": 298,
+  "empty_training_keyword_chunks": 0,
+  "fingerprints": {
+    "train": {
+      "text": "fd6a7027e93b1371c975cdc32caba3bbfdbe751c07b3ec09a66f8d988778d89a",
+      "keywords": "d4e501124839baf53d8d0a2318dee90841156b3937cd78aa503addd3e3375abd"
+    },
+    "test": {
+      "text": "620a9f75664ccab2d9fb191bd2d199b449f946eb2086d0f8a3a4adb0765ae25f",
+      "keywords": "4a7b99ded15373f4e01d5475551ae75f485fc5b9ba8399b0337c4ff8078647d0"
+    },
+    "test_truth": "c2db3d274c95a04dec226a92c235b4aaaeeac54de83f92e079460511596632fb",
+    "train_truth": "43fe013ec245ca19033ffbe3ec3f4f42e3d64d5df809574d971d992306eff8a2"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "results": [
+    {
+      "iteration": 0,
+      "matched": 39,
+      "coverage": 0.7358490566037735,
+      "labels": 252
+    },
+    {
+      "iteration": 1,
+      "matched": 39,
+      "coverage": 0.7358490566037735,
+      "labels": 226
+    },
+    {
+      "iteration": 2,
+      "matched": 39,
+      "coverage": 0.7358490566037735,
+      "labels": 233
+    },
+    {
+      "iteration": 3,
+      "matched": 41,
+      "coverage": 0.7735849056603774,
+      "labels": 242
+    },
+    {
+      "iteration": 4,
+      "matched": 41,
+      "coverage": 0.7735849056603774,
+      "labels": 247
+    },
+    {
+      "iteration": 5,
+      "matched": 41,
+      "coverage": 0.7735849056603774,
+      "labels": 253
+    },
+    {
+      "iteration": 6,
+      "matched": 41,
+      "coverage": 0.7735849056603774,
+      "labels": 262
+    },
+    {
+      "iteration": 7,
+      "matched": 42,
+      "coverage": 0.7924528301886793,
+      "labels": 271
+    },
+    {
+      "iteration": 8,
+      "matched": 42,
+      "coverage": 0.7924528301886793,
+      "labels": 278
+    },
+    {
+      "iteration": 9,
+      "matched": 42,
+      "coverage": 0.7924528301886793,
+      "labels": 285
+    },
+    {
+      "iteration": 10,
+      "matched": 42,
+      "coverage": 0.7924528301886793,
+      "labels": 293
+    }
+  ],
+  "missing_judgments": [],
+  "note": "Original uncorrected truth parsing; intermediate cumulative label spaces; cached semantic decisions only."
+}

@@ -1,0 +1,50 @@
+{
+  "ground_truth_count": 566,
+  "vocabulary_source": "union of supplied train/test truth labels; evaluation only",
+  "results": [
+    {
+      "stage": "initial",
+      "label_count": 8,
+      "matched_count": 3,
+      "coverage": 0.00530035335689046,
+      "matching_pairs": [
+        {
+          "ground_truth": "cpi",
+          "prediction": "ECONOMICS"
+        },
+        {
+          "ground_truth": "earn",
+          "prediction": "Finance"
+        },
+        {
+          "ground_truth": "grain corn",
+          "prediction": "Agriculture"
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "label_count": 10,
+      "matched_count": 4,
+      "coverage": 0.007067137809187279,
+      "matching_pairs": [
+        {
+          "ground_truth": "acq trade",
+          "prediction": "trade"
+        },
+        {
+          "ground_truth": "cpi",
+          "prediction": "ECONOMICS"
+        },
+        {
+          "ground_truth": "earn",
+          "prediction": "Finance"
+        },
+        {
+          "ground_truth": "grain corn",
+          "prediction": "Agriculture"
+        }
+      ]
+    }
+  ]
+}

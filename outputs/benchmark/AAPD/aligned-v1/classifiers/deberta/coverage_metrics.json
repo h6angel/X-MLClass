@@ -1,0 +1,346 @@
+{
+  "ground_truth_count": 53,
+  "vocabulary_source": "union of supplied train/test truth labels; evaluation only",
+  "results": [
+    {
+      "stage": "initial",
+      "label_count": 252,
+      "matched_count": 39,
+      "coverage": 0.7358490566037735,
+      "matching_pairs": [
+        {
+          "ground_truth": "Artificial Intelligence",
+          "prediction": "Artificial Intelligence"
+        },
+        {
+          "ground_truth": "Discrete Mathematics",
+          "prediction": "Combinatorics"
+        },
+        {
+          "ground_truth": "Computation and Language",
+          "prediction": "Computer Science - Theory of Computation"
+        },
+        {
+          "ground_truth": "Computational Complexity",
+          "prediction": "Computer Science - Complexity Theory"
+        },
+        {
+          "ground_truth": "Computational Geometry",
+          "prediction": "Computational Geometry"
+        },
+        {
+          "ground_truth": "Computer Science and Game Theory",
+          "prediction": "Computer Science Research Topics"
+        },
+        {
+          "ground_truth": "Computer Vision and Pattern Recognition",
+          "prediction": "Computer Vision and Image Processing"
+        },
+        {
+          "ground_truth": "Cryptography and Security",
+          "prediction": "Cryptography"
+        },
+        {
+          "ground_truth": "Data Structures and Algorithms",
+          "prediction": "Algorithms & Complexity"
+        },
+        {
+          "ground_truth": "Databases",
+          "prediction": "Database Systems"
+        },
+        {
+          "ground_truth": "Combinatorics",
+          "prediction": "Combinatorics on Words"
+        },
+        {
+          "ground_truth": "Disordered Systems and Neural Networks",
+          "prediction": "neural networks"
+        },
+        {
+          "ground_truth": "Distributed",
+          "prediction": "distributed computing"
+        },
+        {
+          "ground_truth": "Finance",
+          "prediction": "Economics & Finance"
+        },
+        {
+          "ground_truth": "Formal Languages and Automata Theory",
+          "prediction": "Automata Theory"
+        },
+        {
+          "ground_truth": "Human-Computer Interaction",
+          "prediction": "Human-Computer Interaction"
+        },
+        {
+          "ground_truth": "Information Retrieval",
+          "prediction": "Information Retrieval & Ranking Algorithms"
+        },
+        {
+          "ground_truth": "Information Theory",
+          "prediction": "Information Theory"
+        },
+        {
+          "ground_truth": "Logic",
+          "prediction": "Logic and Semantics"
+        },
+        {
+          "ground_truth": "Logic in Computer Science",
+          "prediction": "Logic and Formal Systems"
+        },
+        {
+          "ground_truth": "Machine Learning",
+          "prediction": "Machine Learning"
+        },
+        {
+          "ground_truth": "Multiagent Systems",
+          "prediction": "Multi-Agent Systems"
+        },
+        {
+          "ground_truth": "Multimedia",
+          "prediction": "Multimedia Processing"
+        },
+        {
+          "ground_truth": "Networking and Internet Architecture",
+          "prediction": "Networking and Communications"
+        },
+        {
+          "ground_truth": "Number Theory",
+          "prediction": "Number Theory"
+        },
+        {
+          "ground_truth": "Numerical Analysis",
+          "prediction": "Numerical Analysis"
+        },
+        {
+          "ground_truth": "Optimization and Control",
+          "prediction": "optimization"
+        },
+        {
+          "ground_truth": "Parallel",
+          "prediction": "Concurrency and Parallelism"
+        },
+        {
+          "ground_truth": "Performance",
+          "prediction": "High Performance Computing"
+        },
+        {
+          "ground_truth": "Probability",
+          "prediction": "Probability Theory and Statistics"
+        },
+        {
+          "ground_truth": "Software Engineering",
+          "prediction": "Software Engineering"
+        },
+        {
+          "ground_truth": "Quantum Physics",
+          "prediction": "Quantum Computing"
+        },
+        {
+          "ground_truth": "Robotics",
+          "prediction": "Robotics"
+        },
+        {
+          "ground_truth": "Social and Information Networks",
+          "prediction": "Social Network Analysis"
+        },
+        {
+          "ground_truth": "Programming Languages",
+          "prediction": "Programming Languages"
+        },
+        {
+          "ground_truth": "Statistical Mechanics",
+          "prediction": "Statistical Mechanics"
+        },
+        {
+          "ground_truth": "Symbolic Computation",
+          "prediction": "Algebraic Structures in Computer Science"
+        },
+        {
+          "ground_truth": "Systems and Control",
+          "prediction": "Control Systems"
+        },
+        {
+          "ground_truth": "and Cluster Computing",
+          "prediction": "Clustering and Optimization in Machine Learning"
+        }
+      ]
+    },
+    {
+      "stage": "final",
+      "label_count": 293,
+      "matched_count": 42,
+      "coverage": 0.7924528301886793,
+      "matching_pairs": [
+        {
+          "ground_truth": "Artificial Intelligence",
+          "prediction": "Artificial Intelligence"
+        },
+        {
+          "ground_truth": "Discrete Mathematics",
+          "prediction": "Combinatorics"
+        },
+        {
+          "ground_truth": "Symbolic Computation",
+          "prediction": "Computer Science - Theory of Computation"
+        },
+        {
+          "ground_truth": "Computational Complexity",
+          "prediction": "Computer Science - Complexity Theory"
+        },
+        {
+          "ground_truth": "Computational Geometry",
+          "prediction": "Computational Geometry"
+        },
+        {
+          "ground_truth": "Computer Science and Game Theory",
+          "prediction": "Computer Science Research Topics"
+        },
+        {
+          "ground_truth": "Computer Vision and Pattern Recognition",
+          "prediction": "Computer Vision and Image Processing"
+        },
+        {
+          "ground_truth": "Computers and Society",
+          "prediction": "Information Technology"
+        },
+        {
+          "ground_truth": "Cryptography and Security",
+          "prediction": "Cryptography"
+        },
+        {
+          "ground_truth": "Data Structures and Algorithms",
+          "prediction": "Algorithms & Complexity"
+        },
+        {
+          "ground_truth": "Databases",
+          "prediction": "Database Systems"
+        },
+        {
+          "ground_truth": "Combinatorics",
+          "prediction": "Combinatorics on Words"
+        },
+        {
+          "ground_truth": "Disordered Systems and Neural Networks",
+          "prediction": "neural networks"
+        },
+        {
+          "ground_truth": "Distributed",
+          "prediction": "distributed computing"
+        },
+        {
+          "ground_truth": "Finance",
+          "prediction": "Economics & Finance"
+        },
+        {
+          "ground_truth": "Formal Languages and Automata Theory",
+          "prediction": "Automata Theory"
+        },
+        {
+          "ground_truth": "Human-Computer Interaction",
+          "prediction": "Human-Computer Interaction"
+        },
+        {
+          "ground_truth": "Information Retrieval",
+          "prediction": "Information Retrieval & Ranking Algorithms"
+        },
+        {
+          "ground_truth": "Information Theory",
+          "prediction": "Information Theory"
+        },
+        {
+          "ground_truth": "Logic",
+          "prediction": "Logic and Semantics"
+        },
+        {
+          "ground_truth": "Logic in Computer Science",
+          "prediction": "Logic and Formal Systems"
+        },
+        {
+          "ground_truth": "Machine Learning",
+          "prediction": "Machine Learning"
+        },
+        {
+          "ground_truth": "Mathematical Software",
+          "prediction": "Mathematical Programming"
+        },
+        {
+          "ground_truth": "Multiagent Systems",
+          "prediction": "Multi-Agent Systems"
+        },
+        {
+          "ground_truth": "Multimedia",
+          "prediction": "Multimedia Processing"
+        },
+        {
+          "ground_truth": "Networking and Internet Architecture",
+          "prediction": "Networking and Communications"
+        },
+        {
+          "ground_truth": "Neurons and Cognition",
+          "prediction": "Neuroscience"
+        },
+        {
+          "ground_truth": "Number Theory",
+          "prediction": "Number Theory"
+        },
+        {
+          "ground_truth": "Numerical Analysis",
+          "prediction": "Numerical Analysis"
+        },
+        {
+          "ground_truth": "Optimization and Control",
+          "prediction": "optimization"
+        },
+        {
+          "ground_truth": "Parallel",
+          "prediction": "Concurrency and Parallelism"
+        },
+        {
+          "ground_truth": "Performance",
+          "prediction": "High Performance Computing"
+        },
+        {
+          "ground_truth": "Probability",
+          "prediction": "Probability Theory and Statistics"
+        },
+        {
+          "ground_truth": "Software Engineering",
+          "prediction": "Software Engineering"
+        },
+        {
+          "ground_truth": "Quantum Physics",
+          "prediction": "Quantum Computing"
+        },
+        {
+          "ground_truth": "Robotics",
+          "prediction": "Robotics"
+        },
+        {
+          "ground_truth": "Social and Information Networks",
+          "prediction": "Social Network Analysis"
+        },
+        {
+          "ground_truth": "Programming Languages",
+          "prediction": "Programming Languages"
+        },
+        {
+          "ground_truth": "Statistical Mechanics",
+          "prediction": "Statistical Mechanics"
+        },
+        {
+          "ground_truth": "Computation and Language",
+          "prediction": "Computational Linguistics"
+        },
+        {
+          "ground_truth": "Systems and Control",
+          "prediction": "Control Systems"
+        },
+        {
+          "ground_truth": "and Cluster Computing",
+          "prediction": "Clustering and Optimization in Machine Learning"
+        }
+      ]
+    }
+  ]
+}
